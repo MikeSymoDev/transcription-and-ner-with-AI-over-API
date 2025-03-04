@@ -1,5 +1,4 @@
 # Crash Course: Practical Basics of AI over API      
-[![Pylint](https://github.com/RISE-UNIBAS/crash-course-practical-basics-of-AI-over-API/actions/workflows/pylint.yml/badge.svg)](https://github.com/RISE-UNIBAS/crash-course-practical-basics-of-AI-over-API/actions/workflows/pylint.yml)
 [![python](https://img.shields.io/badge/Python-3.10-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![python](https://img.shields.io/badge/Python-3.11-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![DOI](https://zenodo.org/badge/868417297.svg)](https://doi.org/10.5281/zenodo.13900246)
