@@ -1,0 +1,60 @@
+Als erfahrener Historiker mit Spezialisierung auf die Vorarlberger Frage im Jahr 1918 habe ich das Dokument sorgfältig analysiert und transkribiert.
+
+**1. Analyse der Sprachen des Dokuments:**
+Das Dokument ist durchgehend in deutscher Sprache verfasst.
+
+**2. Analyse der Schriftarten des Dokuments:**
+Das Dokument ist maschinengeschrieben und verwendet eine standardmäßige Schreibmaschinenschrift, die als Blockschrift zu kategorisieren ist. Es handelt sich weder um Fraktur noch um Handschrift.
+
+**3. Analyse der Beschädigungen des Dokuments:**
+Es gibt folgende geringfügige Merkmale, die den Text jedoch nicht unleserlich machen:
+*   Ein dünner roter vertikaler Strich befindet sich am rechten Rand des ersten Absatzes. Er berührt den Text nicht.
+*   Es gibt einen sehr kleinen, dunklen Fleck (vermutlich Tinte) über dem Wort "Andrassy" in der Zeile "Ob die Reise des Grafen Julius Andrassy "als". Dieser Fleck beeinträchtigt die Lesbarkeit des Wortes nicht.
+*   Ein sehr feiner, heller diagonaler Bleistiftstrich verläuft im unteren Bereich des Dokuments durch die Wörter "diplomatische Visum". Dieser Strich ist so schwach, dass er die Lesbarkeit nicht beeinträchtigt.
+Alle Textstellen sind einwandfrei entzifferbar.
+
+**4. Transkription des Dokuments:**
+
+um` ihr Hab und Gut und es ist anzunehmen, dass sie nunmehr gegen eine
+völlige Trennung von der Monarchie eintreten werden. Diese Herren
+verfügen bekanntlich über eine zahlreiche Clientel durch welche sie,
+so lange sie sie noch in der Hand haben und eine eigentliche Revolu-
+tion noch nicht ausgebrochen ist, einen ziemlich starken Einfluss
+ausüben können.
+Was Polen anbetrifft, so glaubt mein Gewährsmann,
+ein Verbleiben Galiziens bei Oesterreich(mit einer gewissen Autonomie)
+wäre vielleicht nicht ausgeschlossen, wenn dem Königreih Polen an
+dessen Stelle Lithauen zugeteilt würde. Die Polen hiengen mehr an
+Wilna als an Krakau und Lemberg, die Galizier seien ihnen nicht be-
+sonders sympathisch. Ich muss gestehen, dass ich, nach allem was ich
+von polnischer und galizischer Seite gehört habe, den Hoffnungen
+meines Freundes etwas skeptisch gegenüberstehe. Auch hier wird wieder
+einmal der Wunsch der Vater des Gedankens gewesen sein. Wenn man mir
+sagen würde, dass die Polen ausser Galizien auch noch Lithauen haben
+möchten, dann freilich wäre ich viel gläubiger.
+Die Stimmung ist hier bei den ernsten, patrioti-
+schen Leuten eine begreiflicherweise ziemlich gedrückte, man fürchtet
+namentlich, dass Präsident Wilson über die Verhältnisse in der Monar-
+chie ungenügend unterrichtet sei und auf undurchführbare oder wenigstem
+unhaltbare Lösungen dränge; man sinnt daher auf Mittel und Wege ihn
+aufzuklären so lange es noch Zeit ist.
+Ob die Reise des Grafen Julius Andrassy "als
+diplomatischer Kurier" in die Schweiz, die ich Ihnen telegraphisch
+ansagte, etwas zu bedeuten hat, konnte ich noch nicht in Erfahrung
+bringen. Wie Sie wissen ist Andrassy einer der politischen Führer
+Ungarns, der Sohn des gleichnamigen Ministers des Aeusserm und Begrün-
+ders des Zweibundes. Er galt stets als ein Freund Deutschlands und
+posierte gerne als dessen Kandidat für das Ministerium des Aeusserm.
+Vor allem ist aber Andrassy Ungar und es erschiene mir nicht als aus-
+geschlossen, dass er in einer speziell ungarischen Mission, z.B. um
+eine sichere Grenze gegen Rumänien zu retten in die Schweiz reiste
+um irgend welche Verhandlungen anzuknüpfen. Adererseits reist er mit
+Wissen des Ministeriums des Aeusserm, denn ich wurde vom Kabinettschef
+Burians um das diplomatische Visum dringendst angesucht; und er hat
+
+**5. Überprüfungen bezüglich Sprachen, Schriftarten und Beschädigungen:**
+*   **Sprachen:** Da das Dokument rein deutschsprachig ist, ist keine Übersetzung ins Deutsche erforderlich.
+*   **Schriftarten:** Da die verwendete Schriftart keine Fraktur ist, ist keine spezielle Überprüfung auf Fraktur-spezifische Transkriptionsfehler notwendig.
+*   **Beschädigungen:** Alle in der Analyse festgestellten "Beschädigungen" (roter Strich, Fleck, Bleistiftstrich) waren entzifferbar und wurden berücksichtigt, indem der Text vollständig transkribiert wurde. Es waren keine Auslassungen aufgrund von Unleserlichkeit notwendig.
+
+Alle Schritte wurden in der vorgegebenen Reihenfolge eingehalten und ausgeführt.
