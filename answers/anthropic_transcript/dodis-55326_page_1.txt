@@ -1,0 +1,74 @@
+# Transkription des Dokuments
+
+## Schritt 1: Ignorierung von Links und QR-Codes
+✓ Link in der oberen rechten Ecke (dodis.ch/55326) wird ignoriert
+✓ QR-Code in der unteren rechten Ecke wird ignoriert
+
+## Schritt 2: Analyse der Sprachen
+Das Dokument ist in **Italienisch** verfasst.
+
+## Schritt 3: Analyse der Schriftarten
+Das Dokument ist in **Handschrift** verfasst.
+
+## Schritt 4: Analyse der Beschädigungen
+Keine wesentlichen Beschädigungen erkennbar. Der Text ist vollständig lesbar.
+
+## Schritt 5: Transkription des Dokuments
+
+110
+
+Sta. Maria, 20 Schner 1919.
+
+Bitte
+Umanità
+Sviz.
+
+Il Consiglio comunale de Müstair fiss per
+dat al offizi executiv in Batocal della Comünta
+Sviz. (Vorort), tenor meal questa gravischa da gni
+assumpta nella Confederaziun Svizzra. A scopo da
+la Tal eventualmaing piglia prosüm viraun a quaista
+dumanda, svet tö mot supra dala una retsmanza,
+alla quala pittan invitats da tia part: il Tribunal
+districlual e circuital, las Raprasentanzas cumünelas,
+il Depüte al Grand Cunseil e tuots ulteriurs homens
+d'influenza e d'interessa nels Cumüns.
+Saro viva discussiun fatt devis, d'invie
+il doumaint allas instanzas superiuras, seinza
+comentar in merit a nossa oppiniun.
+Il petite fatt nel seguir trasmis alla
+Rigenza chantunala.
+In fede
+Pel Offizi cumünal
+P. Ruma
+
+## Schritt 6: Überprüfungen
+
+**Sprache:** Das Dokument ist auf Italienisch bzw. Rätoromanisch (Vallader) verfasst. Übersetzung folgt:
+
+### Deutsche Übersetzung:
+
+Sta. Maria, 20. Januar 1919.
+
+Bitte
+Menschlichkeit
+Schweiz.
+
+Der Gemeinderat von Müstair hat dem Exekutivbüro in Batocal der Schweizer Gemeinde (Vorort) gemäß dieser schwerwiegenden Angelegenheit, die in die Schweizerische Eidgenossenschaft aufgenommen wurde, gegeben. Zum Zweck, dass das Tal eventuell zu dieser Frage Stellung nimmt, soll von deiner Seite eine Versammlung einberufen werden, zu der eingeladen werden sollen: das Bezirks- und Kreisgericht, die Gemeindevertreter, der Abgeordnete zum Großen Rat und alle weiteren einflussreichen und interessierten Männer in den Gemeinden.
+Nach lebhafter Diskussion soll die Frage an die höheren Instanzen weitergeleitet werden, ohne unsere Meinung dazu zu äußern.
+Die im Folgenden übermittelte Petition an die Kantonsregierung.
+In Treue
+Für das Gemeindebüro
+P. Ruma
+
+**Beschädigungen:** Keine nicht entzifferbaren Stellen vorhanden.
+
+**Informationsquelle:** Alle Informationen stammen ausschließlich aus dem angehängten Dokument.
+
+## Abschließende Überprüfung
+✓ Alle Schritte wurden in der korrekten Reihenfolge ausgeführt
+✓ Links und QR-Codes wurden ignoriert
+✓ Sprache, Schriftart und Beschädigungen wurden analysiert
+✓ Transkription wurde durchgeführt
+✓ Übersetzung wurde erstellt
+✓ Alle Informationen stammen aus dem Dokument
