@@ -1,0 +1,118 @@
+Als erfahrener Historiker mit Spezialisierung auf die Vorarlberger Frage im Jahr 1918 habe ich das Dokument analysiert und transkribiert, unter strikter Einhaltung aller Vorgaben.
+
+**Schritt 1: Ignorieren aller Links und QR-Codes**
+Der QR-Code in der unteren rechten Ecke der ersten Seite war im bereitgestellten Bildmaterial nicht sichtbar. Die Links in der oberen rechten Ecke ("dodis.ch/55538") wurden vollständig ignoriert. Der Name des Dokuments wurde ebenfalls ignoriert.
+
+**Schritt 2: Analyse der Sprachen des Dokuments**
+Das Dokument ist durchgängig in deutscher Sprache verfasst. Es wurden keine anderen Sprachen wie Englisch oder Französisch festgestellt.
+
+**Schritt 3: Analyse der Schriftarten des Dokuments**
+Das Dokument ist hauptsächlich in Fraktur-Schrift gesetzt. Die Seitenzahlen "26" und "27" sind in einer Antiqua-Schriftart gehalten. Die Sprechernamen und Überschriften (z.B. "Landeshauptmannstellvertreter Natter:", "Preiß:") sind ebenfalls in Fraktur, aber in einer leicht abweichenden Formatierung (fetter oder größer).
+
+**Schritt 4: Analyse der Beschädigungen des Dokuments**
+Das Dokument weist keine schwerwiegenden Beschädigungen auf. Es sind keine durchgestrichenen Wörter oder übermalten Textstellen vorhanden, die die Lesbarkeit beeinträchtigen würden. Es gibt minimale Verfärbungen oder leichte Druckfehler, die jedoch den Text nicht unleserlich machen. Alle Textstellen sind entzifferbar.
+
+**Schritt 5: Transkription des Dokuments**
+
+---
+**Seite 26:**
+
+      — 26 —
+
+Aber was vorläufig zu geschehen hat, ist ziemlich
+einfach durchzuführen, damit die Bevölkerung eine
+Orientierung bekommt.
+
+Landeshauptmannstellvertreter Natter:
+Ich eröffne über den Bericht und die Anträge die
+Besprechung.
+   Herr Landeshauptmannstellvertreter Preiß hat
+das Wort.
+
+Preiß: Sehr geehrte Landesversammlung!
+Im Namen und im Auftrage meiner Partei habe
+ich zu erklären, hier genau, wie in der Landesrats-
+sitzung, daß wir uns den Anträgen vollinhaltlich
+anschließen. Ich meine, insolange man die
+Bedingungen des Anschlusses nicht kennt, sei jede
+weitere Diskussion überflüssig.
+
+Landeshauptmannstellvertreter Natter:
+Herr Dr. Karrer.
+
+Dr. Karrer: Im Auftrage meiner Partei
+erkläre auch ich, daß die Anträge angenommen
+werden. Und ich muß betonen, daß es mich speziell
+wohltätig berührt hat, wie der Herr Berichterstatter
+eingehend alles Für und Wider erörtert hat. Bisher
+hat die Agitation in der Anschlußfrage viel zu
+wünschen übrig gelassen und besonders waren
+würdelose Anbiederungen unangenehm zu verzeichnen.
+Man ist soweit gegangen, daß man direkt das Bild
+des Hilfesuchenden vor der Türe bot, was für
+Vorarlberg nicht schmeichelhaft war.
+   Der Herr Berichterstatter hat seine Ausführungen
+so gehalten, daß ein „Nein“ gewiß nicht an die
+Adresse der Landesvertretung gerichtet wäre. Der
+Herr Landeshauptmann hat auch erwähnt, daß aus
+den Kreisen der Großindustrie schwere Bedenken
+gegen die von einem Werbeausschuß propagierte
+Anschlußbewegung an die Schweiz erhoben wurden.
+
+**Seite 27:**
+
+      — 27 —
+
+Es ist in einer der letzten Nummern des „St. Gallener
+Tagblattes“ eine scharfe Zurechtweisung gegen den
+Bund der Industriellen, der sich das Recht heraus-
+genommen hat, sachlich den Bundesrat zu informieren.
+Auch sonst ist der gute Ratschlag darin enthalten,
+dem Beispiele der Schweizer Industrie zu folgen
+und Qualitätsindustrie zu werden. Ich möchte es
+nicht vorbeigehen lassen an dieser Stelle, diese
+Ratschläge des „St. Gallener Tagblattes“, das bei
+uns sehr verbreitet ist, zurückzuweisen, damit nicht
+etwa doch die Meinung aufkommt, daß unsere
+Industrie in Vorarlberg weniger Qualitätsindustrie
+wäre als wie die Schweizer Industrie. Ich glaube
+das sind wir unserem Ansehen schuldig. Ich muß
+darauf hinweisen, daß die Industrie auch in
+Deutschösterreich sich troz ungünstiger Frachtlage
+zu einer Großindustrie und Qualitätsindustrie und
+zwar zu einer nicht quantitativ, aber qualitativ
+ebenbürtigen Industrie in einer großen Anzahl von
+Betrieben entwickelt hat, daß aber insbesondere
+unsere Textilindustrie, die weit entfernt von den
+Absatzzentren gelegen war, sich troz hoher Fracht,
+unter ungünstigsten Verhältnissen hoch entwickelt hat.
+Diese Textilindustrie ist ja das Hauptsorgenkind
+der Schweizer Anschlußbewegung. Besonders die
+Buntweberei muß als ganz hervorragend bezeichnet
+werden. Der Uebergang zur Qualitätsindustrie
+hat es nicht verhindert, daß im Glarner Land eine
+Reihe von industriellen Unternehmen stillgelegt
+werden mußte. Ich glaube infolgedessen darauf
+hinweisen zu können, daß nicht etwa technische
+Rückständigkeit schuld ist, wenn die Textilindustrie
+gegen die Anschlußbewegung auftritt. Wir werden
+mit ernsten Besorgnissen erfüllt, wenn wir die
+Ziffern derer hören, die im Lande für den Anschluß
+an die Schweiz sind.
+   Ich glaube der Weg, der der Antrag des
+Landesrates empfiehlt, ist der richtige. Ich möchte
+aber darauf verweisen, daß nicht darauf verzichtet
+
+---
+
+**Schritt 6: Überprüfungen bezüglich Sprachen, Schriftarten und Beschädigungen**
+
+*   **Sprachen:** Da das Dokument rein deutschsprachig ist, entfällt eine Übersetzung.
+*   **Schriftart (Fraktur):** Die Transkription wurde sorgfältig auf Fehler überprüft, die bei der Lesung von Fraktur auftreten könnten. Insbesondere Buchstabenkombinationen wie 'ſ' und 's', 'f', 'sz' oder 'ß' wurden genau geprüft. Die Schreibweise "troz" (statt "trotz") auf Seite 27 wurde beibehalten, da es sich um eine originalgetreue Wiedergabe des Dokuments handelt und keine Korrektur vorgenommen werden darf.
+*   **Beschädigungen:** Da alle beschädigten bzw. leicht verblassten Stellen entzifferbar waren, wurde das gesamte Dokument transkribiert. Es gab keine Textstellen, die ausgelassen werden mussten.
+
+**Schritt 7: Überprüfung der Herkunft der Informationen**
+Alle Informationen für die Transkription stammen ausschließlich aus dem angehängten Dokument. Die im Kontextabsatz bereitgestellten Hintergrundinformationen wurden in keiner Weise für die Transkription herangezogen.
+
+**Abschließende Überprüfung:**
+Alle Schritte wurden in der vorgegebenen Reihenfolge eingehalten und ausgeführt. Die Anweisungen wurden strengstens befolgt.

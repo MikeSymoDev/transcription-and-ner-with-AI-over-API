@@ -1,0 +1,118 @@
+Als erfahrener Historiker mit Spezialisierung auf die Vorarlberger Frage im Jahr 1918 habe ich das angehängte Dokument streng nach den vorgegebenen Anweisungen analysiert und transkribiert.
+
+**1. Ignorieren aller Links und QR-Codes:**
+Der Link "dodis.ch/55538" in der oberen rechten Ecke der rechten Seite und der im Text erwähnte QR-Code in der unteren rechten Ecke der ersten Seite wurden ignoriert und nicht in die Transkription aufgenommen oder zur Informationsgewinnung genutzt.
+
+**2. Analyse der Sprachen des Dokuments:**
+Das Dokument ist ausschließlich in deutscher Sprache verfasst.
+
+**3. Analyse der Schriftarten des Dokuments:**
+Das Dokument ist vollständig in **Fraktur**-Schriftart geschrieben. Es sind keine anderen Schriftarten wie Blockschrift oder Handschrift vorhanden.
+
+**4. Analyse der Beschädigungen des Dokuments:**
+Bei der Analyse des Dokuments wurden keine nennenswerten Beschädigungen festgestellt, die die Lesbarkeit des Textes beeinträchtigen würden. Alle Wörter und Buchstaben sind entzifferbar. Es gibt keine durchgestrichenen oder übermalten Textstellen, die nicht lesbar wären.
+
+**5. Transkription des Dokuments:**
+
+**Seite 1 (links):**
+```
+— 6 —
+Landes selbst scheint man die ganze Sache nicht
+für recht ernst anzusehen, sondern mehr für irgend
+eine private Liebhaberei zu halten, wie etwa einen
+Esperantokurs. Solchen Leuten können wir verraten,
+daß die Angelegenheit bereits in Paris anhängig ist.“
+Ist der Landesregierung über diesen Artikel
+etwas Näheres bekannt? Ist sie zutreffenden=
+falls bereit, darüber Auskunft zu geben und welche
+Stellung nimmt sie ein gegenüber der Art und
+Weise, wie der Anschluß über die Köpfe der Landes=
+regierung und der Landesversammlung hinweg be=
+trieben wird.“
+
+Zu dieser Interpellation habe ich zunächst zu
+bemerken, daß es nicht richtig ist, daß die An=
+gelegenheit in Paris anhängig gemacht wurde,
+wenigstens soweit es der Vorarlberger Landes=
+regierung bekannt ist. Ich kann auch mitteilen,
+daß die Vorarlberger Landesregierung bisher, das
+heißt bis vor ganz kurzer Zeit, keine offizielle
+Stellung in der Anschlußfrage eingenommen hat
+und zwar aus dem einfachen Grunde, weil von
+keiner einzigen Partei in der Landesregierung, von
+keiner einzigen Partei im Landesrate und von
+keiner einzigen Partei in der Landesversammlung
+irgend eine Anregung in dieser Richtung gemacht
+wurde und der Landeshauptmann kein persönliches
+Bedürfnis hatte, vorzeitig in dieser Sache
+einzugreifen.
+
+Zur Sache selbst ist folgendes zu sagen: Es
+ist jetzt der Zeitpunkt gekommen, wo sich die
+Landesversammlung mit der Angelegenheit befassen
+muß, weil sie dafür reif geworden ist. Mit dem
+Zusammenbruch der österreichisch = ungarischen
+Monarchie ist die pragmatische Sanktion dahin=
+gefallen. Die 1867 iger Verfassung ist ebenfalls
+dahingegangen und die Länder haben ihre Selbst=
+ständigkeit erlangt. Was beim Zusammenbruch
+als wirklich feste Bestandteile übrig geblieben sind,
+das sind die Länder des einstmaligen Oesterreichs.
+```
+
+**Seite 2 (rechts):**
+```
+— 7 —
+Diese Länder haben sich im November des ver=
+gangenen Jahres sofort provisorisch zu Deutsch=
+österreich zusammengefunden. Man kennt die
+Abgrenzung unseres Staates Deutschösterreich
+noch nicht genau. Es ist ein merkwürdiges Gebilde,
+wenn man das deutsch-böhmische Gebiet dazurechnet:
+ein dicker Strich und dann ein großes Fragezeichen
+hinauf. Wenn wir es auf einer Karte anschauen,
+so ist es wirklich ein sonderbares Bild. Aber man
+kennt die Umgrenzung noch nicht so genau.
+
+Auch wir haben damals am 3. November
+Vorarlberg als selbständiges Land erklärt. Wir
+haben erklärt, es sei ein selbständiges Land im
+Rahmen von Deutschösterreich. Wir teilen aber
+alle die Auffassung, daß jene Erklärung provi=
+sorischen Charakter getragen hat, wie überhaupt die
+Landesversammlung selbst provisorischen Charakter
+trägt. Noch vor wenigen Tagen haben unsere
+Nationalräte im Nationalrat in Wien anläßlich
+der Beratung über die Verfassung des Reiches
+dieselbe Erklärung abgegeben, daß sie wohl teil=
+nehmen an den Arbeiten der Nationalversammlung,
+aber nur in dem Sinne, daß dem Vorarlberger
+Volk eine definitive Entscheidung über seinen
+Anschluß noch vorbehalten bleiben muß.
+
+Der Vorarlberger Landesrat steht auf dem
+Standpunkte, wenn das Land sich für das Bleiben
+bei Deutschösterreich entscheide, so könne das vom
+neu gewählten Landtag geschehen. Ob der neu=
+gewählte Landtag es allerdings auf seine Verant=
+wortung nehmen wird, wird von den dann herr=
+schenden Verhältnissen abhängig sein. Es sind auch
+noch Verhältnisse denkbar, wo der Landtag selbst
+wenn er sagen will, man wolle bei Deutschösterreich
+bleiben, es doch vorzieht, eine Volksabstimmung
+über diesen wichtigen Gegenstand einzuleiten.
+
+Der Vorarlberger Landesrat steht ferner auf
+dem Standpunkte, wenn schon zur Zeit der provi=
+sorischen Landesversammlung, bevor der aus den
+```
+
+**6. Überprüfungen bezüglich Sprachen, Schriftarten und Beschädigungen:**
+*   **Sprache:** Da das Dokument rein deutschsprachig ist, ist keine Übersetzung ins Deutsche notwendig.
+*   **Schriftart (Fraktur):** Die Transkription wurde sorgfältig auf mögliche Fehler überprüft, die bei der Übertragung von Fraktur in moderne Schrift auftreten könnten. Besonderes Augenmerk lag auf Buchstaben wie „ſ“ (langes s), „s“, „f“, „k“, „u“ und „n“, sowie auf altdeutsche Schreibweisen (z.B. Oesterreichs). Zwei kleine Korrekturen wurden vorgenommen: "Welse" wurde zu "Weise" und "anschaun" wurde zu "anschauen".
+*   **Beschädigungen:** Alle Textstellen waren entzifferbar. Die vollständige Transkription des Dokuments wurde vorgenommen, da keine unleserlichen Wörter oder Buchstaben vorhanden waren.
+
+**7. Überprüfung der Herkunft der Informationen:**
+Alle Informationen für diese Transkription stammen ausschließlich aus dem angehängten Dokument. Die im Vorkontext bereitgestellten historischen Informationen wurden ausdrücklich nicht für die Transkription oder Analyse der Inhalte verwendet.
+
+Alle Schritte wurden in der vorgeschriebenen Reihenfolge und Genauigkeit ausgeführt.

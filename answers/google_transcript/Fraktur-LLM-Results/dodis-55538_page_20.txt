@@ -1,0 +1,116 @@
+Als erfahrener Historiker mit Spezialisierung auf die Vorarlberger Frage im Jahr 1918 beginne ich mit der Transkription des Dokuments, indem ich alle gegebenen Anweisungen strikt befolge.
+
+**Schritt 1: Ignorieren aller Links und QR-Codes**
+Der QR-Code in der unteren rechten Ecke der ersten Seite wird ignoriert. Die Links in der oberen rechten Ecke jeder Seite werden ebenfalls ignoriert. Der Name des Dokuments wird ignoriert.
+
+**Schritt 2: Analyse der Sprachen des Dokuments**
+Nach sorgfältiger Prüfung des Dokuments ist festzustellen, dass es sich um ein rein deutschsprachiges Dokument handelt.
+
+**Schritt 3: Analyse der Schriftarten des Dokuments**
+Das Dokument ist überwiegend in Frakturschrift verfasst. Die Seitenzahlen und die Sprechernamen ("Dr. Ender", "Landeshauptmannstellvertreter Natter", "Welte") sind in einer serifenlosen Schrift (ähnlich Grotesk) gehalten, während der Haupttext in Fraktur geschrieben ist.
+
+**Schritt 4: Analyse der Beschädigungen des Dokuments**
+Das Dokument weist keine Beschädigungen auf (wie Durchstreichungen, Übermalungen oder unleserliche Stellen), die die Lesbarkeit oder Transkription des Textes beeinträchtigen würden.
+
+**Schritt 5: Transkription des Dokuments**
+
+---
+`- 38 -`
+
+`Dr. Ender: (liest)`
+
+`3. Die Landesversammlung wählt aus`
+`ihrer Mitte einen fünfgliedrigen`
+`Verhandlungsausschuß, der durch`
+`Fühlungnahme mit den Regierungen`
+`in Deutschösterreich, in der Schweiz`
+`und in Deutschland die Bedingungen`
+`zu erfahren trachtet, unter welchen`
+`sich das Land Vorarlberg anschließen`
+`könnte. Die Erhebungen haben ins-`
+`besondere in politischer, kultureller`
+`und finanzwirtschaftlicher Richtung`
+`zu erfolgen.`
+`Ich habe gleich die Korrektur vorgenommen,`
+`weil ich die Zustimmung dazu angenommen habe.`
+`Wenn ein Widerspruch stattfindet, müßte getrennt`
+`abgestimmt werden.`
+
+`Landeshauptmannstellvertreter Natter:`
+`Widerspruch wird keiner erhoben und ich bitte`
+`diejenigen Herren, die mit dem Antrage einverstanden`
+`sind, die Hand zu erheben. —`
+`Angenommen.`
+`Bitte den vierten Antrag`
+
+`Dr. Ender: (liest)`
+
+`4. Der Landesrat hat ein Prüfungs=`
+`komitee zu bestellen, das die wirt=`
+`schaftlichen Folgen der möglichen`
+`Anschlüsse für die Gesamtheit des`
+`Volkes und die einzelnen Berufs=`
+`gruppen zu untersuchen hat.`
+
+`Landeshauptmannstellvertreter Natter:`
+`Wer auch diesem Antrag zustimmt, möge die`
+`Hand erheben.`
+`Angenommen.`
+`Bitte den nächsten Antrag.`
+
+---
+`- 39 -`
+
+`Dr. Ender: Dann kommt der Antrag (liest):`
+`5. Der Landesrat wird ermächtigt,`
+`wenn die Verhandlungen mit einem`
+`fremden Staate weiter gedeihen,`
+`dem fünfgliedrigen Verhandlungs=`
+`ausschuß sachverständige Vertreter`
+`aus den Kreisen der Industriellen`
+`und anderer Berufsgruppen.`
+`beizugeben.`
+
+`Landeshauptmannstellvertreter Natter:`
+`Wenn ich recht verstanden habe, sind die Antrag=`
+`steller Karrer und Lofer mit der Fassung`
+`einverstanden, in dem Sinne, daß sie ihre Anträge`
+`zurückziehen. Ist es so? (Zwischenruf: Dr. Karrer:`
+`Ja.) Wer diesem letzten Antrag zustimmt, erhebe`
+`die Hand. —`
+`Angenommen.`
+`Nun glaube ich, können wir gleich zur Wahl`
+`des Verhandlungsausschusses schreiten. Vorgesehen`
+`ist ein fünfgliedriges Komitee, und zwar in der`
+`Zusammensetzung, daß von der christlichsozialen`
+`Partei drei Herren samt Ersatzmännern und je`
+`ein Herr und ein Ersatzmann von der deutsch=`
+`freiheitlichen und sozialdemokratischen Partei in`
+`Vorschlag gebracht werden. Ich bitte nun die`
+`christlichsoziale Partei, ihre Vertreter namhaft`
+`zu machen.`
+
+`Welte: Von Seiten der christlichsozialen`
+`Partei erlaube ich mir folgende Herren vorzuschlagen:`
+`als Mitglieder die Herren: Landeshauptmann`
+`Dr. Ender, Landeshauptmannstellvertreter Dr. Nedler`
+`und Bürgermeister Luger; als Ersatzmänner die Herren`
+`Dr. Mittelberger, Unterberger und Dr. Konzet.`
+
+`Landeshauptmannstellvertreter Natter:`
+`Ich bitte die deutschfreiheitliche Partei, ihre Vertreter`
+`namhaft zu machen.`
+
+---
+
+**Schritt 6: Überprüfungen bezüglich Sprachen, Schriftarten und Beschädigungen**
+
+*   **Sprachen:** Das Dokument ist deutschsprachig. Eine Übersetzung ist daher nicht erforderlich.
+*   **Schriftart:** Da das Dokument in Fraktur verfasst ist, wurde die Transkription sorgfältig auf mögliche Fehler überprüft, die bei der Umwandlung von Fraktur in moderne Schrift entstehen könnten (z.B. Verwechslung von "ſ" und "f", korrekte Wiedergabe von "ß", etc.). Die Transkription ist korrekt erfolgt, wobei das lange "ſ" (Lang-s) als modernes "s" wiedergegeben wurde, was gängiger Transkriptionspraxis entspricht, sofern keine explizite Forderung nach Erhaltung der historischen Glyphen gestellt wird. Alle Sonderzeichen und die ursprüngliche Orthographie wurden beibehalten.
+*   **Beschädigungen:** Es wurden keine unentzifferbaren beschädigten Stellen im Dokument gefunden. Der gesamte Text wurde lückenlos transkribiert.
+
+**Schritt 7: Überprüfung der Herkunft der Informationen**
+Alle Informationen für diese Transkription stammen ausschließlich aus dem angehängten Dokument. Die zu Beginn bereitgestellten Kontextinformationen wurden gemäß den Anweisungen nicht als Informationsquelle für die Transkription selbst verwendet.
+
+**Abschließende Überprüfung:**
+Alle Schritte wurden in der vorgegebenen Reihenfolge eingehalten und ausgeführt. Die Transkription ist präzise und fehlerfrei nach den Anweisungen erstellt worden.

@@ -1,0 +1,68 @@
+Als erfahrener Historiker mit der Spezialisierung auf die Vorarlberger Frage im Jahr 1918 habe ich das Dokument sorgfältig analysiert und transkribiert.
+
+**1. Ignorieren von Links und QR-Codes:**
+Der Link "dodis.ch/55329" in der oberen rechten Ecke sowie ein potenzieller QR-Code in der unteren rechten Ecke und der Name des Dokuments wurden strikt ignoriert und nicht zur Informationsgewinnung herangezogen.
+
+**2. Analyse der verwendeten Sprachen:**
+Das Dokument ist rein deutschsprachig.
+
+**3. Analyse der verwendeten Schriftarten:**
+Das Dokument ist überwiegend in Fraktur-Schriftart verfasst. Die Seitenzahl "9" und die römische Ziffer "IV" sind ebenfalls in dieser Schriftart. Arabische Ziffern für die Paragraphen und Listenpunkte sind in einer Standardschriftart gehalten.
+
+**4. Analyse der Beschädigungen:**
+Es wurden keine Beschädigungen wie Durchstreichungen, Übermalungen oder unleserliche Textstellen festgestellt. Der Text ist klar und vollständig entzifferbar.
+
+**5. Transkription des Dokuments:**
+
+```
+— 9 —
+
+IV. Wahlwerbung.
+§ 20.
+Wählergruppen, die sich an der Wahlbewerbung
+beteiligen (Parteien), haben ihre Wahlvorschläge
+spätestens drei Wochen vor dem Wahltage der Landes-
+wahlbehörde vorzulegen.
+Der Wahlvorschlag muß von wenigstens hundert
+Wählern des Wahlbezirkes unterschrieben sein; er
+muß enthalten:
+1. die unterscheidende Parteibezeichnung;
+2. die Parteiliste, das ist ein Verzeichnis von
+höchstens doppelt so vielen Bewerbern, als im
+Wahlbezirke Abgeordnete zu wählen sind, in der
+beantragten, mit arabischen Ziffern bezeichneten
+Reihenfolge;
+3. die Bezeichnung des zustellungsbevollmächtigten
+Vertreters der Partei.
+
+§ 21.
+Die Wahlvorschläge der Parteien werden nach dem
+Zeitpunkte ihrer Einbringung gereiht.
+Wenn mehrere Wahlvorschläge dieselben oder schwer
+unterscheidbare Parteibezeichnungen tragen, so hat der
+Landeswahlleiter die Vertreter dieser Wahlvorschläge
+zu einer gemeinsamen Besprechung zu laden und ein
+Einvernehmen über die Unterscheidung der Partei-
+bezeichnungen anzubahnen. Gelingt ein Einvernehmen
+nicht, so kann die Landeswahlbehörde nach ihrer Kenntnis
+der Parteiverhältnisse einen, mehrere oder sämtliche
+dieser Wahlvorschläge so behandeln, als ob sie ohne
+ausdrückliche Parteibezeichnung (§ 22) eingereicht wären.
+
+§ 22.
+Wahlvorschläge ohne ausdrückliche Parteibezeichnung
+werden nach dem erstvorgeschlagenen Bewerber benannt.
+Wenn ein Wahlvorschlag keinen zustellungsbevoll-
+mächtigten Vertreter anführt, so gilt der Erstunter-
+zeichnete als Vertreter der Partei.
+```
+
+**6. Überprüfungen bezüglich Sprachen, Schriftarten und Beschädigungen:**
+*   Da das Dokument rein deutschsprachig ist, ist keine Übersetzung erforderlich.
+*   Die Transkription wurde aufgrund der Fraktur-Schriftart sorgfältig auf mögliche Fehler überprüft. Es wurden keine Fehler in der Entzifferung festgestellt.
+*   Da keine Beschädigungen entdeckt wurden, die die Lesbarkeit beeinträchtigen, war kein Auslassen von Wörtern oder Buchstaben notwendig.
+
+**7. Überprüfung der Herkunft der Informationen:**
+Alle Informationen für die Transkription stammen ausschließlich aus dem angehängten Dokument. Es wurden keine externen Informationsquellen genutzt.
+
+Alle Schritte wurden in der vorgegebenen Reihenfolge eingehalten und ausgeführt.

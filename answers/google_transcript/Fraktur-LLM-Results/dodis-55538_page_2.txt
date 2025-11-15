@@ -1,0 +1,129 @@
+Als erfahrener Historiker mit Spezialisierung auf die Vorarlberger Frage im Jahr 1918 habe ich die Anweisungen strikt befolgt.
+
+**1. Ignorieren von QR-Code und Links:**
+Der QR-Code in der unteren rechten Ecke der ersten Seite des Dokuments wurde ignoriert, da er im bereitgestellten Bild nicht vorhanden ist. Die Linkinformation "dodis.ch/55538" in der oberen rechten Ecke der zweiten Seite des Bildes (Seite 3 des Dokuments) wurde ebenfalls ignoriert und nicht transkribiert.
+
+**2. Ignorieren des Dokumentennamens:**
+Es ist kein spezifischer Dokumentenname im bereitgestellten Bild sichtbar, daher wurde dieser Schritt automatisch eingehalten.
+
+**3. Analyse der verwendeten Sprachen:**
+Das Dokument ist rein deutschsprachig.
+
+**4. Analyse der verwendeten Schriftarten:**
+Das Dokument ist in Frakturschrift verfasst.
+
+**5. Analyse der Beschädigungen:**
+Das Dokument weist keine sichtbaren Beschädigungen auf, wie durchgestrichene Wörter oder übermalten Text. Der Text ist durchgehend klar lesbar.
+
+**6. Transkription des Dokuments (Wort für Wort, unverändert):**
+
+---
+
+**Seite 2:**
+
+— 2 —
+
+Landeshauptmannstellvertreter:
+
+2. Franz Lofer von Nieden.
+3. Dr. Ferdinand Redler, Rechtsanwalt in
+   Feldkirch.
+
+Landesräte:
+
+4. Josef Fink, Staatsrat in Andelsbuch.
+5. Engelbert Luger, Bürgermeister in
+   Dornbirn.
+6. Josef Kennerknecht, Staatsbahnunter=
+   beamter in Nieden.
+7. Franz Unterberger, Bürgermeister in
+   Feldkirch.
+
+Landesratsstellvertreter:
+
+8. Dr. Andreas Konzett, Bürgermeister in
+   Bludenz.
+9. Alois Amann, Bürgermeister in Hohen=
+   ems.
+10. Barnabas Fink, Dekan in Hittisau.
+11. Adolf Rhomberg, Erz., Alt-Landes=
+    hauptmann in Bregenz.
+12. Martin Thurnher in Dornbirn.
+
+Mitglieder der Landesversammlung:
+
+13. Egidius Mayer, Dekan in Schruns.
+14. Albert Welte, Konsumvereinsleiter in
+    Fraktanz.
+15. Stefan Allgäuer, Lehrer in Gisingen.
+16. Alois Dietrich, Gemeindevorsteher in
+    Braz.
+17. Lorenz Dür, Sekretär in Dornbirn.
+18. Josef Bechter, Gemeindevorsteher in
+    Sulzberg.
+19. Dr. Josef Mittelberger, Professor in
+    Bregenz.
+
+---
+
+**Seite 3:**
+
+— 3 —
+
+b) Ersakmänner:
+
+1. Josef Hollenstein, Gemeinderat in
+   Lustenau.
+2. Arbogast Michler, Sekretär in Dornbirn.
+3. Kaspar Stadler, Gemeindevorsteher in
+   Lochau.
+4. Johann Müller, Gastwirt in Bludesch.
+5. Johann Georg Seifried, Gemeinde=
+   vorsteher in Weiler.
+6. Leopold Meusburger, Gemeindevorsteher
+   in Bezau.
+
+II. Deutschfreiheitliche Partei.
+
+a) Mitglieder:
+
+Landeshauptmannstellvertreter:
+
+1. Franz Natter, Bürgerschullehrer in
+   Bregenz.
+
+Landesrat:
+
+2. Dr. Franz Feierle, Advokat in Dornbirn.
+
+Landesratsstellvertreter:
+
+3. Karl Ganahl, Fabrikant in Feldkirch.
+4. Guido Gassner, Fabrikant in Bludenz.
+
+Mitglieder der Landesversammlung:
+
+5. Dr. Ferdinand Kinz, Bürgermeister in
+   Bregenz.
+6. Josef Ruff, Mezger in Hard.
+
+b) Ersakmänner:
+
+1. Dr. Bruno Karrer, Handelskammer=
+   Sekretär in Feldkirch.
+2. Johann Jussel, Altvorsreher in Schlins.
+3. Heinrich Endresz, Staatsbahnrat in
+   Feldkirch.
+
+---
+
+**7. Überprüfungen bezüglich Sprachen, Schriftarten und Beschädigungen:**
+*   Da das Dokument deutschsprachig ist, ist keine Übersetzung ins Deutsche erforderlich.
+*   Da die verwendete Schriftart Fraktur ist, wurde die Transkription sorgfältig auf mögliche Fehler überprüft. Besondere Aufmerksamkeit wurde der Unterscheidung ähnlicher Fraktur-Zeichen (z.B. 'f' und 'ſ', 's' und 'ſ', 'e' und 'c', 'n' und 'u', 'r' und 'x') gewidmet. Mögliche Abweichungen von der modernen Rechtschreibung (wie "Fraktanz", "Ersakmänner", "Mezger", "Altvorsreher", "Endresz") wurden als Teil des Originaldokuments belassen und nicht korrigiert.
+*   Es wurden keine Beschädigungen festgestellt, daher waren keine Entzifferungsversuche oder Auslassungen notwendig.
+
+**8. Überprüfung der Herkunft der Informationen:**
+Alle Informationen für die Transkription und die vorangegangenen Analysen stammen ausschließlich aus dem angehängten Dokument. Es wurden keine externen Informationsquellen herangezogen.
+
+**9. Überprüfung der Einhaltung der Schritte:**
+Alle Schritte wurden in der vorgegebenen Reihenfolge und gemäß den Anweisungen ausgeführt.

@@ -1,0 +1,69 @@
+Als erfahrener Historiker mit Spezialisierung auf die Vorarlberger Frage im Jahr 1918 habe ich die Anweisungen sorgfältig befolgt.
+
+1.  **Ignorieren von Links und QR-Codes:** Der Link in der oberen rechten Ecke (`dodis.ch/55226`) wurde ignoriert. Ein QR-Code war auf dem angehängten Dokument nicht sichtbar. Der Name des Dokuments wurde nicht als externe Informationsquelle genutzt.
+
+2.  **Analyse der Sprachen des Dokuments:** Das gesamte Dokument ist in deutscher Sprache verfasst. Es sind keine weiteren Sprachen (Englisch oder Französisch) vorhanden.
+
+3.  **Analyse der Schriftarten des Dokuments:** Der überwiegende Teil des Textes, einschließlich Titel, Untertitel, Überschriften, Ortsnamen und Organisationen, ist in Frakturschrift gesetzt. Die Zahlen in den Tabellen sind in einer Standardschriftart (Antiqua) dargestellt. Es ist keine Handschrift im Dokument vorhanden.
+
+4.  **Analyse der Beschädigungen des Dokuments:** Das Dokument weist leichte Altersspuren und eine leichte Verfärbung des Papiers auf. Es gibt keine durchgestrichenen oder übermalten Wörter. Ein sehr schwacher, horizontaler Strich ist in der Zeile von "Herisau" bei der Zahl "1078" zu sehen, beeinträchtigt die Lesbarkeit jedoch nicht. Der Text "Widmung für Ferienkinder" in der Spalte "Anmerkung" ist leicht blasser gedruckt, aber vollständig entzifferbar. Alle Textstellen sind klar lesbar.
+
+5.  **Transkription des Dokuments:**
+
+```
+Schweizer=Hilfswerk für Vorarlberg.
+═════════════════════════════════════════════
+
+Verzeichnis
+
+über die Eingänge an Natural=Liebesgaben beim Verteilungs=Ausschuß
+in Bregenz.
+
+(Geldspenden siehe Kassa-Ausweis.)
+═════════════════════════════════════════════
+
+Herkunft                   Station       Kleider und     Diverse       Kartoffel       Anmerkung
+                                         Wäsche        Lebensmittel
+                                         in Kilo        in Kilo       in Kilo
+───────────────────────────────────────────────────────────────────────────────────────────────────
+Vaterländische Vereini-    Aarau           2450            450
+gung
+Hilfskomitee               St. Gallen      5302          18286         139180
+Vereinigung weiblicher     Bern             119
+Geschäftsangestellten
+Rotes Kreuz Appenzell      Teufen          4531
+Hilfskomitee               Waldstatt         55
+    „                      Herisau         1078
+───────────────────────────────────────────────────────────────────────────────────────────────────
+Fricktalisches Hilfs-      Laufenburg      8290          18480          29940
+komitee
+Komitee pro Vorarlberg     Zürich          7852          69095
+Hilfskomitee               Münster                        1045           Widmung für Ferien-
+    „                      Meilen          1080            350               kinder
+    „                      Luzern          5520          33782
+Erziehungsdirektion        Zug              305           3443
+Komitee pro Vorarlberg     Bern            1053           3347
+Hilfskomitee               Rotenschwyl                    3500          10000
+    „                      Arbon            500            900
+    „                      Solothurn                                    21000
+    „                      Subingen                                     12180       Bestimmte Widmung
+    „                      Gerolfingen                                  10780       Bestimmte Widmung
+    „                      Chur            1041           2768
+    „                      Basel                          5000
+    „                      Freiburg                       6153          12500
+───────────────────────────────────────────────────────────────────────────────────────────────────
+Einkäufe aus Barspenden oder dem Erlös der gegen Entgelt                                 407449
+verkauften Lebensmittel
+═════════════════════════════════════════════
+                                         39176         166599          643029
+═════════════════════════════════════════════
+```
+
+6.  **Überprüfungen bezüglich Sprachen, Schriftarten und Beschädigungen:**
+    *   **Sprachen:** Da das Dokument rein deutschsprachig ist, ist keine Übersetzung erforderlich.
+    *   **Schriftarten (Fraktur):** Die Transkription wurde sorgfältig auf Fehler, die durch die Frakturschrift entstehen könnten, überprüft. Alle Zeichen wurden korrekt erkannt und transkribiert (z.B. langes s, ß, Umlaute, spezifische Fraktur-Großbuchstaben).
+    *   **Beschädigungen:** Da bei der Analyse keine unentzifferbaren beschädigten Stellen gefunden wurden, konnte das gesamte Dokument transkribiert werden, ohne Wörter oder Buchstaben auszulassen. Die kleinen visuellen Artefakte wurden als lesbar bestätigt.
+
+7.  **Überprüfung der Herkunft der Informationen:** Alle Informationen für diese Transkription stammen ausschließlich aus dem angehängten Dokument. Es wurden keine anderen Informationsquellen genutzt, einschließlich des bereitgestellten historischen Kontextes.
+
+Alle Schritte wurden in der vorgegebenen Reihenfolge eingehalten und ausgeführt. Die Transkription ist eine exakte Wiedergabe des vorliegenden Dokuments.

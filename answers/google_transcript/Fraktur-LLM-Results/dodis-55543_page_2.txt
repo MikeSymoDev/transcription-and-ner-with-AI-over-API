@@ -1,0 +1,67 @@
+Sehr geehrte Damen und Herren,
+
+Als erfahrener Historiker mit der Spezialisierung auf die Vorarlberger Frage im Jahr 1918 habe ich die Anweisungen sorgfältig geprüft und werde die Transkription des angehängten Dokuments Schritt für Schritt ausführen.
+
+---
+
+**1. Ignorieren aller Links und QR-Codes:**
+Der in der unteren rechten Ecke der ersten Seite des Dokuments angedeutete QR-Code sowie alle Links (wie der `dodis.ch/55543`-Hinweis oben rechts im Bildrahmen) wurden ignoriert. Der Name des Dokuments als externe Dateibezeichnung wurde ebenfalls ignoriert. Die auf dem Dokument selbst befindlichen Bibliotheksstempel und handschriftlichen Vermerke wurden hingegen als Teil des Dokumenteninhalts betrachtet, da sie weder QR-Codes noch Links sind und nicht den eigentlichen Titel des Werkes darstellen.
+
+**2. Analyse der Sprachen des Dokuments:**
+Das Hauptdokument (rechte Seite) ist durchgehend in deutscher Sprache verfasst.
+Die Stempelaufschrift auf der linken Seite ist mehrsprachig: Deutsch, Französisch, Italienisch und Rätoromanisch.
+Somit handelt es sich nicht um ein rein deutschsprachiges Dokument.
+
+**3. Analyse der Schriftarten des Dokuments:**
+Im Dokument sind folgende Schriftarten identifiziert worden:
+*   **Fraktur:** Der Haupttitel "Das Vorarlberg." und die Fragen "Schweizer!" sowie "Sind wir eure Brüder?" sind in Fraktur gesetzt.
+*   **Antiqua (Grotesk-ähnlich):** Der Name des Herausgebers "Herausgegeben von Dr. Paul Pirker.", der Ort "Feldkirch", die Verlagsangaben "Druck von C. Sausgruber. — Im Verlage des Werbeauschusses. 1919." sowie die Nummer "00K400" sind in einer serifenlosen oder Grotesk-ähnlichen Antiqua-Schrift gesetzt.
+*   **Gestempelte/Strukturierte Schrift:** Die Nummer `"190115900"` und der Bibliotheksstempel auf der linken Seite sind in einer gestempelten/blockartigen Schrift gehalten.
+*   **Handschrift:** Die Nummer `0786-1896013` auf der linken Seite ist handschriftlich.
+
+**4. Analyse der Beschädigungen des Dokuments:**
+Auf der linken Seite ist der Stempel der Schweizerischen Landesbibliothek sehr schwach gedruckt. Die einzelnen Wörter und Buchstaben sind jedoch trotz der geringen Farbintensität vollständig entzifferbar. Es gibt keine durchgestrichenen oder übermalten Textstellen im gesamten Dokument.
+
+**5. Transkription des Dokuments:**
+Der Text wird Wort für Wort und unverändert reproduziert, inklusive eventueller Rechtschreibfehler (welche im vorliegenden Dokument keine offensichtlichen erkennen lassen) und unter Beibehaltung der Originalsprachen der Stempel.
+
+---
+
+**Linke Seite:**
+"190115900"
+SCHWEIZERISCHE LANDESBIBLIOTHEK
+BIBLIOTHEQUE NATIONALE SUISSE
+BIBLIOTECA NAZIONALE SVIZZERA
+BIBLIOTECA NAZIONALA SVIZRA
+0786-1896013
+
+**Rechte Seite:**
+Das Vorarlberg.
+Schweizer!
+Sind wir eure Brüder?
+Herausgegeben von Dr. Paul Pirker.
+
+Feldkirch
+Druck von C. Sausgruber. — Im Verlage des Werbeauschusses.
+1919.
+00K400
+
+---
+
+**6. Überprüfungen bezüglich Sprachen, Schriftarten und Beschädigungen:**
+
+*   **Sprachen:** Da das Dokument nicht rein deutschsprachig ist (die Stempel enthalten Französisch, Italienisch und Rätoromanisch), muss die Transkription ins Deutsche übersetzt werden. Um jedoch der Anweisung "Der Text muss unverändert reproduziert werden" für die Originaltranskription gerecht zu werden, präsentiere ich hier die deutsche Übersetzung der nicht-deutschen Teile des Stempels, um das Dokument vollständig in deutscher Sprache wiederzugeben, wie es die Anweisung "übersetze die Transkription ins deutsche" verlangt. Die Primärtranskription (oben) behält die originalen Sprachen bei, und hier folgt die Übersetzung der betroffenen Teile:
+    *   `BIBLIOTHEQUE NATIONALE SUISSE` (Französisch) = Schweizerische Nationalbibliothek
+    *   `BIBLIOTECA NAZIONALE SVIZZERA` (Italienisch) = Schweizerische Nationalbibliothek
+    *   `BIBLIOTECA NAZIONALA SVIZRA` (Rätoromanisch) = Schweizerische Nationalbibliothek
+
+*   **Schriftarten (Fraktur):** Die Transkription der Fraktur-Passagen ("Das Vorarlberg.", "Schweizer!", "Sind wir eure Brüder?") wurde sorgfältig auf Richtigkeit überprüft. Es wurden keine Fehler festgestellt.
+
+*   **Beschädigungen:** Die festgestellten Beschädigungen (der schwache Druck des Bibliotheksstempels auf der linken Seite) waren vollständig entzifferbar. Alle Buchstaben und Wörter wurden transkribiert.
+
+**7. Überprüfung der Herkunft der Informationen:**
+Alle Informationen für diese Transkription stammen ausschließlich aus dem angehängten Dokument. Die bereitgestellten Kontextinformationen wurden für die Transkription nicht herangezogen.
+
+---
+
+Alle Schritte wurden in der vorgegebenen Reihenfolge eingehalten und ausgeführt.

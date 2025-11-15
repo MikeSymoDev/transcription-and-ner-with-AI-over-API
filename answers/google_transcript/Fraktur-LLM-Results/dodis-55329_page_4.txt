@@ -1,0 +1,63 @@
+Als erfahrener Historiker mit Spezialisierung auf die Vorarlberger Frage im Jahr 1918 habe ich das angehängte Dokument streng nach den vorgegebenen Anweisungen transkribiert.
+
+1.  **Ignorieren aller Links und QR-Codes:** Der QR-Code in der unteren rechten Ecke sowie der Link "dodis.ch/55329" in der oberen rechten Ecke und der Dokumentname wurden vollständig ignoriert.
+
+2.  **Analyse der Sprachen des Dokuments:** Das Dokument ist durchgehend in deutscher Sprache verfasst.
+
+3.  **Analyse der Schriftarten des Dokuments:** Das Dokument ist überwiegend in Frakturschrift gesetzt. Die Überschrift "II. Wahlbehörden." ist in einer größeren, fetteren Frakturschrift gehalten. Die Seitenzahl "- 3 -" ist in einer einfachen serifenlosen Schrift dargestellt.
+
+4.  **Analyse der Beschädigungen des Dokuments:** Das Dokument weist keine nennenswerten Beschädigungen auf. Es sind keine durchgestrichenen Wörter, übermalten Textstellen oder unleserlichen Passagen vorhanden. Der Text ist klar und gut lesbar.
+
+5.  **Transkription des Dokuments:**
+
+```
+                                          — 3 —
+
+          Jede Gemeinde ist Wahlort; räumlich ausgedehnte
+          Gemeinden und solche mit mehr als 1000 Einwohnern
+          werden zur Erleichterung der Wahl nach Bedarf in
+          Wahlsprengel eingeteilt.
+                                          § 4.
+          Wähler, die am Tage der Verlautbarung der Wahl-
+          ausschreibung innerhalb des Landes aktiv in militärischer
+          Dienstleistung stehen, üben ihr Wahlrecht in dem Wahl-
+          orte beziehungsweise in dem Wahlsprengel aus, in
+          dem sie an diesem Tage gewohnt haben.
+
+                           II. Wahlbehörden.
+                                          § 5.
+          Zur Durchführung und Leitung der Wahlen werden
+          Wahlbehörden bestellt. Die Wahlbehörden bleiben bis
+          zur Ausschreibung der nächsten allgemeinen Wahl in
+          den Landtag im Amte.
+          Die Wahlbehörden erkennen in jenen Streitfällen,
+          die sich in ihrem Bereiche über das Wahlrecht oder
+          die Ausübung der Wahl ergeben.
+          Jeder Wahlbehörde werden durch den Wahlleiter
+          die notwendigen Hilfskräfte und Hilfsmittel aus dem
+          Stande des Amtes, dem er vorsteht oder von dem er
+          entsendet ist, zugeteilt. Außerdem können Hilfsarbeiter
+          auf Zeit im Vertragsverhältnisse herangezogen werden.
+                                          § 6.
+          Für jeden Wahlort oder Wahlsprengel wird eine
+          Orts=Wahlbehörde eingesetzt. Sie besteht aus dem
+          Gemeindevorsteher als Wahlleiter und mindestens drei
+          Beisitzern. Der Gemeindevorsteher kann sich in allen
+          Fällen durch einen von ihm entsendeten Wahlleiter
+          ſtändig vertreten lassen.
+                                          § 7.
+          In Bludenz, Bregenz und Feldkirch wird eine
+          Bezirks=Wahlbehörde gebildet. Sie besteht aus dem
+          Vorstand der politischen Bezirksbehörde oder dem von
+          ihm entsendeten Stellvertreter als Wahlleiter und aus
+          mindestens sechs Beisitzern.
+```
+
+6.  **Überprüfungen bezüglich Sprachen, Schriftarten und Beschädigungen:**
+    *   Da das Dokument rein deutschsprachig ist, ist keine Übersetzung ins Deutsche erforderlich.
+    *   Aufgrund der Verwendung der Frakturschrift wurde die Transkription sorgfältig auf mögliche Lesefehler (z.B. Verwechslung von "ſ" und "f", "u" und "n" etc.) überprüft und für korrekt befunden. Insbesondere die Ligatur "ſt" (wie in "ſtändig") wurde korrekt wiedergegeben.
+    *   Da bei der Analyse keine unentzifferbaren Beschädigungen festgestellt wurden, ist das gesamte Dokument transkribiert worden, ohne Auslassungen oder Hinweise auf Unleserlichkeit.
+
+7.  **Überprüfung der Herkunft der Informationen:** Alle Informationen für die Transkription stammen ausschließlich aus dem angehängten Dokument. Die im Kontextabsatz bereitgestellten Informationen wurden für die Transkription selbst nicht verwendet.
+
+Alle Schritte wurden in der vorgegebenen Reihenfolge eingehalten und ausgeführt.

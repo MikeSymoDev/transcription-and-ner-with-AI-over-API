@@ -1,0 +1,74 @@
+Als erfahrener Historiker, der die Anweisungen strikt befolgt, gehe ich wie folgt vor:
+
+**1. Ignorieren von Links und QR-Codes:**
+Der in der oberen rechten Ecke des Dokuments sichtbare Link "dodis.ch/55329" wird vollständig ignoriert und nicht transkribiert. Ebenso wird ein eventueller QR-Code in der unteren rechten Ecke (auf dieser spezifischen Seite nicht vorhanden) oder der Name des Dokuments ignoriert. Ich verwende diese Elemente nicht, um Informationen über das Dokument zu gewinnen.
+
+**2. Analyse der Sprachen des Dokuments:**
+Das Dokument ist durchgehend in deutscher Sprache verfasst.
+
+**3. Analyse der Schriftarten des Dokuments:**
+Der Hauptteil des Textes ist in Fraktur gesetzt. Die Seitenzahl "4" und die trennenden Striche sind in einer einfacheren, serifenlosen Schriftart gehalten. Es ist keine Handschrift erkennbar.
+
+**4. Analyse der Beschädigungen des Dokuments:**
+Das Dokument weist keine sichtbaren Beschädigungen auf. Es sind keine durchgestrichenen Wörter, Übermalungen oder undurchsichtige Stellen vorhanden. Der Text ist klar und vollständig lesbar.
+
+**5. Transkription des Dokuments:**
+
+```
+– 4 –
+
+Ihr obliegt die Festsetzung und Abgrenzung der
+Wahlorte und Wahlsprengel im Wahlbezirke.
+Die Wahlleiter und Beisitzer der Bezirks-
+wahlbehörden dürfen nicht gleichzeitig einer Ortswahlbehörde
+angehören.
+
+§ 8.
+
+Für das ganze Land wird in Bregenz die Landes-
+wahlbehörde eingesetzt; sie besteht aus dem Landes-
+hauptmann oder einem von ihm entsendeten Stellvertreter
+als Vorsitzenden, und acht Beisitzern. Die Landes-
+wahlbehörde führt die Oberaufsicht über die Bezirks-
+und Ortswahlbehörde. Sie entscheidet endgültig in allen
+Streitfällen, die sich in ihrem Bereiche über das Wahlrecht
+und die Ausübung der Wahl ergeben.
+Die Mitglieder der Landeswahlbehörde dürfen nicht
+gleichzeitig einer Bezirks- oder Ortswahlbehörde angehören.
+
+§ 9.
+
+Die Beisitzer der Wahlbehörden werden auf Grund
+von Vorschlägen der Parteien verhältnismäßig nach
+der bei der letzten Wahl in den Landtag festgestellten
+Stärke der Parteien berufen. (Für die Wahlen im
+Jahre 1919 wird der Schlüssel nach dem Verhältnis
+der Parteien genommen, das sich bei den Wahlen in
+die konstituierende Nationalversammlung ergab.)
+Die Beisitzer der Landeswahlbehörde beruft die
+Landesregierung, die Beisitzer der Bezirkswahlbehörden
+die Landeswahlbehörde, die Beisitzer der Ortswahl-
+behörden die Bezirkswahlbehörde. Für jeden Beisitzer
+ist in gleicher Weise ein Ersatzmann zu berufen.
+Das Amt eines Mitgliedes der Wahlbehörden ist ein
+öffentliches Ehrenamt, zu dessen Annahme jeder Wahl-
+berechtigte verpflichtet ist, der am Size der betreffenden
+Wahlbehörde seinen ordentlichen Wohnsiz hat.
+Inwieweit und in welcher Höhe Mitglieder der
+Wahlbehörde während der Dauer und nach Maßgabe
+ihrer tatsächlichen Inanspruchnahme für Verdienst-
+entgang eine Entschädigung in Geld aus Landes-
+mitteln erhalten, wird durch die Landesregierung im
+Verordnungswege geregelt.
+```
+
+**6. Überprüfungen bezüglich Sprachen, Schriftarten und Beschädigungen:**
+*   **Sprachen:** Da das Dokument rein deutschsprachig ist, ist keine Übersetzung ins Deutsche erforderlich.
+*   **Schriftart (Fraktur):** Die Transkription wurde sorgfältig auf mögliche Fehler bei der Wiedergabe der Frakturschrift überprüft. Besondere Aufmerksamkeit wurde den "langen s" (ſ) und den Groß- und Kleinbuchstaben gewidmet. Alle Wörter, einschließlich des historischen Schreibweise "Size" (für Sitz) und "Wohnsiz", wurden exakt wie im Original wiedergegeben.
+*   **Beschädigungen:** Da keine Beschädigungen festgestellt wurden, war es nicht notwendig, undezentrifzierbare Stellen zu kennzeichnen oder auszulassen. Der gesamte Text ist klar lesbar.
+
+**7. Überprüfung der Herkunft der Informationen:**
+Alle Informationen für die Transkription, einschließlich der Analyse der Sprache, Schriftart und etwaiger Beschädigungen, stammen ausschließlich aus dem angehängten Dokument. Es wurden keine externen Informationsquellen genutzt, insbesondere nicht der eingangs bereitgestellte historische Kontext.
+
+**Abschließende Überprüfung:**
+Alle Schritte wurden in der vorgeschriebenen Reihenfolge und Genauigkeit ausgeführt. Die Anweisungen wurden strikt befolgt.

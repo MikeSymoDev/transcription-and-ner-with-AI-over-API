@@ -1,0 +1,61 @@
+Als erfahrener Historiker mit der Spezialisierung auf die Vorarlberger Frage im Jahr 1918 werde ich die Transkription des Dokuments sorgfältig nach den vorgegebenen Schritten durchführen.
+
+---
+
+**1. Ignorieren aller Links und QR-Codes:**
+*   Der Link "dodis.ch/55538" in der oberen rechten Ecke des Dokuments wurde ignoriert und nicht transkribiert.
+*   Es befindet sich kein QR-Code auf dem vorliegenden angehängten Bild. Die Anweisung, einen QR-Code auf der ersten Seite des Dokuments zu ignorieren, wurde zur Kenntnis genommen und wäre befolgt worden, wenn der Code sichtbar gewesen wäre.
+
+**2. Analyse der Sprachen des Dokuments:**
+*   Das Dokument ist **rein deutschsprachig**.
+
+**3. Analyse der Schriftarten des Dokuments:**
+*   Die Seitenzahl "40" am oberen Rand ist in einer serifenlosen Blockschrift gehalten.
+*   Die Namen der Sprecher ("Ganahl:", "Landeshauptmannstellvertreter Natter:", "Lorenz:") sind in **fetter Frakturschrift** verfasst.
+*   Der übrige Text des Dokuments ist in **normaler Frakturschrift** geschrieben.
+*   Es gibt keine handschriftlichen Elemente.
+
+**4. Analyse der Beschädigungen des Dokuments:**
+*   Es wurden **keine Beschädigungen** am Text des Dokuments festgestellt. Alle Wörter und Buchstaben sind klar lesbar. Es gibt keine Durchstreichungen, Übermalungen oder unentzifferbaren Stellen.
+
+**5. Transkription des Dokuments:**
+
+```
+                                          – 40 –
+
+Ganahl: Von Seiten der deutschfreiheitlichen
+Partei werden vorgeschlagen: Herr Landeshaupt-
+mannstellvertreter Natter als Mitglied und Herr
+Dr. Kinz als Stellvertreter.
+
+Landeshauptmannstellvertreter Natter:
+Ich bitte die sozialdemokratische Partei, ihre Vertreter
+namhaft zu machen.
+
+Lorenz: Die sozialdemokratische Partei schlägt
+vor:als Mitglied Herrn Landeshauptmannstellvertreter
+Preiß und als Ersatzmann Herrn Landesrat Rauscher.
+
+Landeshauptmannstellvertreter Natter:
+Die Herren haben die Vorschläge gehört und ich
+bitte die Herren, welche diesen Vorschlägen zustimmen,
+die Hand zu erheben.
+Angenommen. —
+
+Damit ist die Tagesordnung der öffentlichen
+Sitzung erschöpft und es schließt sich an eine ver-
+trauliche Sitzung der Landesversammlung.
+```
+
+**6. Überprüfungen bezüglich Sprachen, Schriftarten und Beschädigungen:**
+*   **Sprache:** Da das Dokument deutschsprachig ist, ist keine Übersetzung ins Deutsche erforderlich.
+*   **Schriftart (Fraktur):** Die Transkription wurde sorgfältig auf Fehler überprüft, die bei der Entzifferung der Frakturschrift auftreten könnten. Besondere Aufmerksamkeit wurde der korrekten Unterscheidung von Buchstaben wie „ſ“ (langes s) und „s“ (rundes s), „u“ und „n“, sowie „a“ und „e“ geschenkt. Die Transkription wurde als korrekt befunden.
+*   **Beschädigungen:** Da bei der Analyse keine Beschädigungen entdeckt wurden, gab es keine unentzifferbaren Stellen. Die Transkription ist vollständig.
+
+**7. Überprüfung der Herkunft der Informationen:**
+*   Alle Informationen für die Transkription stammen ausschließlich aus dem angehängten Dokument. Es wurden keinerlei externe Informationsquellen, einschließlich des einführenden Kontextabsatzes, zur Erstellung der Transkription herangezogen.
+
+**8. Überprüfung der Einhaltung der Reihenfolge der Schritte:**
+Alle oben aufgeführten Schritte wurden genau in der vorgegebenen Reihenfolge eingehalten und ausgeführt.
+
+---
