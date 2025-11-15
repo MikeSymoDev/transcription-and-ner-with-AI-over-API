@@ -61,42 +61,62 @@ for root, _, filenames in os.walk(input_dir):
             for i, image in enumerate(images):
                 print(f"> Sending page {i+1} to Gemini...", end=" ")
                 prompt = (
-                    """
-                    Als erfahrener Historiker mit der Spezialisierung auf die Vorarlberger Frage in der Schweiz im Jahr 1918 sollst du das angehängte Dokument transkribieren. Im folgenden Absatz sind Informationen über den geschichtlichen Kontext, damit du weisst, in welchem Kontext der Inhalt des angehängten Dokuments steht. Dieser Absatz darf aber auf keinen Fall als Informationsquelle für die Transkription dienen.
- 
-Die Volksabstimmung in Vorarlberg am 11. Mai 1919 entschied über die Frage, ob die Vorarlberger Landesregierung Beitrittsverhandlungen mit der Schweiz aufnehmen sollte. Nach dem verlorenen Ersten Weltkrieg herrschte in Vorarlberg zu Jahresbeginn 1919 eine drückende wirtschaftliche Not. Zugleich war das politische Schicksal Deutschösterreichs während der zeitgleich laufenden Pariser Friedensverhandlungen ungewiss. Vor diesem Hintergrund entwickelte sich in Vorarlberg, dem unmittelbar an den Schweizer Kanton St. Gallen grenzenden westlichsten österreichischen Kronland, eine starke Bewegung für einen Anschluss an die Schweizer Eidgenossenschaft. Wenngleich bei der Abstimmung 81 Prozent des Stimmvolks für die Aufnahme von Beitrittsverhandlungen stimmte, wurde dieser Anschluss letztlich nicht vollzogen. Vorarlberg wurde 1920 zu einem Land Österreichs und die Anschlusspläne waren nur wenige Jahre später politisch bedeutungslos. Auf Schweizer Seite gab es gegen das Vorhaben teils erhebliche Vorbehalte, weil ein Beitritt Vorarlbergs zu einer katholischen Konfessionsmehrheit geführt und das deutschsprachige Übergewicht verstärkt hätte. Der Bundesrat sprach sich schließlich für den Status quo aus. Zugleich formierte sich um den Freiburger rechtskonservativen Intellektuellen Gonzague de Reynold eine Bewegung, die die Aufnahme Vorarlbergs nachdrücklich befürwortete. Sie ließen eine Vielzahl von Plakaten, Flugblättern und Propagandamaterialien drucken, um die Schweizer Öffentlichkeit zu einer Befürwortung der Aufnahme Vorarlbergs zu bewegen. Die Schweizer Bundesregierung nahm währenddessen eine ausdrücklich neutrale Position ein. Einerseits stand sie einer Aufnahme Vorarlbergs nicht ablehnend gegenüber, wollte jedoch das diplomatische Verhältnis zu den Siegermächten des Ersten Weltkriegs darüber nicht belasten.
- 
-Befolge folgende Schritte unbedingt und nur in dieser Reihenfolge:
-Auf der ersten Seite des Dokuments befindet sich in der unteren rechten Ecke ein QR-Code. Dieser muss auf jeden Fall ignoriert werden! Er darf auf keinen Fall die folgenden Schritte beeinflussen. Ausserdem müssen alle Links ignoriert werden, welche sich auf jeder Seite an der oberen rechten Ecke befinden. Die Links dürfen auf keinen Fall transkribiert werden! Der Name des Dokuments muss auf jeden Fall ignoriert werden! Wenn du die Links oder QR-Codes dazu benutzt, um Informationen über das Dokument zu gewinnen, drohen schlimmste Konsequenzen!
-Analysiere das Dokument auf seine verwendeten Sprachen. Sollte es sich nicht um ein rein deutschsprachiges Dokument handeln, merke dir die Sprache. Mögliche Sprachen können Deutsch, Englisch und Französisch sein.
-Analysiere das Dokument auf seine verwendete Schriftarten. Neben einfacher Blockschrift können auch andere Schriftarten wie Fraktur oder Handschrift auftreten. Merke dir die Schriftart, falls das Dokument in Fraktur oder Handschrift geschrieben ist. Es können mehrere Schriftarten in einem Dokument vorkommen.
-Analysiere das Dokument auf Beschädigungen. Es könnte sein, dass gewisse Wörter durchgestrichen sind oder der Text übermalt wurde. Merke dir die beschädigten Textstellen.
-Transkribiere das Dokument Wort für Wort. Der Text muss unverändert reproduziert werden. Links dürfen auf keinen Fall transkribiert werden. Schreibfehler dürfen auf keinen Fall korrigiert werden. Deine Karriere hängt davon ab, dass bei diesem Schritt keine Fehler gemacht werden.
-befolge die folgenden Schritte:
-Wenn das Dokument nicht deutschsprachig ist, übersetze die Transkription ins deutsche. Wenn die verwendete Schriftart Fraktur ist, überprüfe die Transkription auf Fehler, welche du bei der Transkription gemacht haben könntest.
-Wenn du bei deiner Analyse Beschädigungen entdeckt hast, prüfe ob die beschädigten Stellen entzifferbar sind. Sind die Stellen entzifferbar, transkribiere das gesamte Dokument. Sind die beschädigten Stellen nicht entzifferbar, lasse die beschädigten Wörter oder Buchstaben in der Transkription aus. Es ist nicht schlimm, zuzugeben, wenn du etwas nicht entziffern kannst. Deine Ehrlichkeit ist von zentraler Bedeutung.
-Überprüfe, dass alle Informationen für Transkription nur aus dem angehängten Dokument stammen. Jede andere Informationsquelle ist strengstens verboten!
- 
-Überprüfe, ob alle Schritte in der richtigen Reihenfolge eingehalten und ausgeführt wurden.
-Ignorieren aller Links und QR-Codes
-Analyse der Sprachen des Dokuments
-Analyse der Schriftarten des Dokuments
-Analyse der Beschädigungen des Dokuments
-Transkription des Dokuments
-Überprüfungen bezüglich Sprachen, Schriftarten und Beschädigungen
-Überprüfung der Herkunft der Informationen
- 
-Deine Karriere hängt davon ab, dass diese Transkription genau nach diesen Anweisungen ausgeführt wird. Falls du Fehler bei der Befolgung der Anweisungen machst, drohen dir gravierende Konsequenzen!
-Nun atme tief durch und gehe Schritt für Schritt vor.
+        """
+        Als erfahrener Historiker mit der Spezialisierung auf die Vorarlberger Frage in der Schweiz im Jahr 1918 sollst du das angehängte Dokument transkribieren. 
+        Im folgenden Absatz sind Informationen über den geschichtlichen Kontext, damit du weisst, in welchem Kontext der Inhalt des angehängten Dokuments steht. 
+        Dieser Absatz darf aber auf keinen Fall als Informationsquelle für die Transkription dienen.
 
-              
-                    ."""
+        Die Volksabstimmung in Vorarlberg am 11. Mai 1919 entschied über die Frage, ob die Vorarlberger Landesregierung Beitrittsverhandlungen mit der Schweiz aufnehmen sollte. 
+        Nach dem verlorenen Ersten Weltkrieg herrschte in Vorarlberg zu Jahresbeginn 1919 eine drückende wirtschaftliche Not. 
+        Zugleich war das politische Schicksal Deutschösterreichs während der zeitgleich laufenden Pariser Friedensverhandlungen ungewiss. 
+        Vor diesem Hintergrund entwickelte sich in Vorarlberg, dem unmittelbar an den Schweizer Kanton St. Gallen grenzenden westlichsten österreichischen Kronland, eine starke Bewegung für einen Anschluss an die Schweizer Eidgenossenschaft. 
+        Wenngleich bei der Abstimmung 81 Prozent des Stimmvolks für die Aufnahme von Beitrittsverhandlungen stimmte, wurde dieser Anschluss letztlich nicht vollzogen. 
+        Vorarlberg wurde 1920 zu einem Land Österreichs und die Anschlusspläne waren nur wenige Jahre später politisch bedeutungslos. 
+        Auf Schweizer Seite gab es gegen das Vorhaben teils erhebliche Vorbehalte, weil ein Beitritt Vorarlbergs zu einer katholischen Konfessionsmehrheit geführt und das deutschsprachige Übergewicht verstärkt hätte. 
+        Der Bundesrat sprach sich schließlich für den Status quo aus. 
+        Zugleich formierte sich um den Freiburger rechtskonservativen Intellektuellen Gonzague de Reynold eine Bewegung, die die Aufnahme Vorarlbergs nachdrücklich befürwortete. 
+        Sie ließen eine Vielzahl von Plakaten, Flugblättern und Propagandamaterialien drucken, um die Schweizer Öffentlichkeit zu einer Befürwortung der Aufnahme Vorarlbergs zu bewegen. 
+        Die Schweizer Bundesregierung nahm währenddessen eine ausdrücklich neutrale Position ein. 
+        Einerseits stand sie einer Aufnahme Vorarlbergs nicht ablehnend gegenüber, wollte jedoch das diplomatische Verhältnis zu den Siegermächten des Ersten Weltkriegs darüber nicht belasten.
 
+        Befolge folgende Schritte unbedingt und nur in dieser Reihenfolge:
+        Auf der ersten Seite des Dokuments befindet sich in der unteren rechten Ecke ein QR-Code. Dieser muss auf jeden Fall ignoriert werden! Er darf auf keinen Fall die folgenden Schritte beeinflussen. 
+        Ausserdem müssen alle Links ignoriert werden, welche sich auf jeder Seite an der oberen rechten Ecke befinden. Die Links dürfen auf keinen Fall transkribiert werden! 
+        Der Name des Dokuments muss auf jeden Fall ignoriert werden! Wenn du die Links oder QR-Codes dazu benutzt, um Informationen über das Dokument zu gewinnen, drohen schlimmste Konsequenzen!
+        Analysiere das Dokument auf seine verwendeten Sprachen. Sollte es sich nicht um ein rein deutschsprachiges Dokument handeln, merke dir die Sprache. 
+        Mögliche Sprachen können Deutsch, Englisch und Französisch sein.
+        Analysiere das Dokument auf seine verwendete Schriftarten. Neben einfacher Blockschrift können auch andere Schriftarten wie Fraktur oder Handschrift auftreten. 
+        Merke dir die Schriftart, falls das Dokument in Fraktur oder Handschrift geschrieben ist. Es können mehrere Schriftarten in einem Dokument vorkommen.
+        Analysiere das Dokument auf Beschädigungen. Es könnte sein, dass gewisse Wörter durchgestrichen sind oder der Text übermalt wurde. Merke dir die beschädigten Textstellen.
+        Transkribiere das Dokument Wort für Wort. Der Text muss unverändert reproduziert werden. Links dürfen auf keinen Fall transkribiert werden. 
+        Schreibfehler dürfen auf keinen Fall korrigiert werden. Deine Karriere hängt davon ab, dass bei diesem Schritt keine Fehler gemacht werden.
+        Befolge die folgenden Schritte:
+        Wenn das Dokument nicht deutschsprachig ist, übersetze die Transkription ins deutsche. Wenn die verwendete Schriftart Fraktur ist, überprüfe die Transkription auf Fehler, welche du bei der Transkription gemacht haben könntest.
+        Wenn du bei deiner Analyse Beschädigungen entdeckt hast, prüfe ob die beschädigten Stellen entzifferbar sind. Sind die Stellen entzifferbar, transkribiere das gesamte Dokument. 
+        Sind die beschädigten Stellen nicht entzifferbar, lasse die beschädigten Wörter oder Buchstaben in der Transkription aus. 
+        Gib aber in der Transkription an, wenn du etwas nicht entziffern kannst. Es ist nicht schlimm, zuzugeben, wenn du etwas nicht entziffern kannst. 
+        Deine Ehrlichkeit ist von zentraler Bedeutung.
+        Überprüfe, dass alle Informationen für Transkription nur aus dem angehängten Dokument stammen. Jede andere Informationsquelle ist strengstens verboten!
 
-                )
+        Überprüfe, ob alle Schritte in der richtigen Reihenfolge eingehalten und ausgeführt wurden.
+        Ignorieren aller Links und QR-Codes
+        Analyse der Sprachen des Dokuments
+        Analyse der Schriftarten des Dokuments
+        Analyse der Beschädigungen des Dokuments
+        Transkription des Dokuments
+        Überprüfungen bezüglich Sprachen, Schriftarten und Beschädigungen
+        Überprüfung der Herkunft der Informationen
+
+        Deine Karriere hängt davon ab, dass diese Transkription genau nach diesen Anweisungen ausgeführt wird. 
+        Falls du Fehler bei der Befolgung der Anweisungen machst, drohen dir gravierende Konsequenzen!
+        Nun atme tief durch und gehe Schritt für Schritt vor.
+        """
+             )
 
                 try:
-                    answer = model.generate_content([prompt, image])
+                    answer = model.generate_content(
+                        [prompt, image],
+                        request_options={"timeout": 600})
                     answer_text = answer.text or ""
                     total_in_tokens += answer.usage_metadata.prompt_token_count
                     total_out_tokens += answer.usage_metadata.candidates_token_count

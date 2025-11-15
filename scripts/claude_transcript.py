@@ -22,7 +22,7 @@ from anthropic import Anthropic
 load_dotenv()
 
 # Verzeichnisse
-input_dir = "../pdf_data_transcript"
+input_dir = "../pdf_data_transcript/fraktur"
 output_dir = "../answers/anthropic_transcript"
 os.makedirs(output_dir, exist_ok=True)
 
