@@ -1,0 +1,70 @@
+Hier ist die Transkription des Dokuments, strikt nach den vorgegebenen Anweisungen:
+
+**1. Ignorieren von QR-Code und Links:**
+Der QR-Code in der unteren rechten Ecke und der Link "dodis.ch/55394" in der oberen rechten Ecke wurden ignoriert. Der Name des Dokuments wurde ebenfalls ignoriert.
+
+**2. Analyse der Sprachen:**
+Das Dokument ist ausschliesslich in deutscher Sprache verfasst. Es sind keine englischen oder französischen Passagen enthalten.
+
+**3. Analyse der Schriftarten:**
+Das gesamte Dokument ist in Handschrift verfasst, einer kursiven Schrift, die dem Kurrent-Stil oder einer ähnlichen deutschen Schreibschrift des frühen 20. Jahrhunderts entspricht. Es ist keine Blockschrift oder Fraktur enthalten. Die Überschrift "Demnach erkennt das Bundesgericht:" ist in einer etwas grösseren und dekorativeren Form der Handschrift gehalten, aber immer noch Handschrift.
+
+**4. Analyse der Beschädigungen:**
+Das Dokument weist folgende Beschädigungen oder Überlagerungen auf, primär durch einen roten und weissen Bindfaden, der diagonal über den unteren rechten Bereich verläuft, sowie eine Blindprägung im unteren linken Bereich, die jedoch keinen Text überlagert:
+*   In Punkt 2:
+    *   Das Wort nach "Fr. 43.-" ist teilweise durch den Faden verdeckt, aber noch lesbar als "Gebühren".
+    *   Der Betrag nach "mit Fr." vor "Korrekturgebühren" ist stark verdeckt und **unentzifferbar**.
+    *   Das Wort nach "Die mit" ist stark verdeckt und **unentzifferbar**.
+    *   "Fr. 200.-" ist teilweise verdeckt, aber lesbar.
+*   In Punkt 3:
+    *   Die Wörter "Parteien" und "dem" sind leicht durch den Faden überlagert, aber lesbar.
+*   Im Bereich der Unterschriften:
+    *   Das Datum "den 18. Juni 1922." ist teilweise verdeckt, aber lesbar.
+    *   Die Unterschrift unter "Der Sekretär:" ist fast vollständig durch den Faden verdeckt und **unentzifferbar**.
+
+**5. Transkription des Dokuments (Wort für Wort, unverändert):**
+
+14.
+
+6. Von der Aufsandarbieilung und Bewilligung
+worden, dass die Klägerin mit der Klägerin gegen die N.G.I
+und Dr. Meier übereingekommen worden sind, dass sie eine viel-
+fach überzahlte Forderung zugestellt geben, und dass Herr Rot
+der Klagezusammenfassung in welcher Linie von der übermüßigen
+Aufarbeitung des Klagefalles spricht beibringt.
+
+Demnach erkennt das Bundesgericht:
+
+1. Die Klageleistung wird hinsichtlich der Anbeklagten Dr. Meier
+    und N.G.I übereingekommen, hinsichtlich des Anbeklagten Richmann
+    dagegen abgewiesen, ungefähr das mit dieser letzteren ver-
+    gleichlicht, der Klägerin als Genugtuung Fr. 500.- zu be-
+    zahlen und derso diesfälliges dieses Urteils 1 Mal mit seine
+    Kosten in der N.G.I. zu publizieren.
+2. Die Gerichtskosten von allen Instanzen, die beidseitigen–
+    liegen mit Fr. 400.- Gerichtsgebühr, Fr. 43.- Gebühren
+    mit Fr. [Betrag unentzifferbar] Korrekturgebühren sind der Anbeklagte Richmann
+    zu bezahlen. Die mit [unentzifferbar]
+    den Klägerinnen werden nicht ausgelegen. Dagegen hat der
+    Anbeklagte Richmann der Klägerin der Anbeklagungseröff-
+    liche Ausgaben mit Fr. 200.- zu entschädigen.
+3. Dieses Urteil ist den Parteien und dem Oberzogrecht des
+    Bundesrates persönlich mitzuteilen.
+
+Lausanne, den 18. Juni 1922.
+Im Namen der II. Zivilabteilung des Bundesgerichts.
+Der Präsident:
+Ortrory
+
+Der Sekretär:
+[Unterschrift unentzifferbar]
+
+**6. Überprüfungen bezüglich Sprachen, Schriftarten und Beschädigungen:**
+*   **Sprachen:** Da das Dokument rein deutschsprachig ist, ist keine Übersetzung erforderlich.
+*   **Schriftarten:** Da keine Frakturschrift verwendet wird, ist keine spezielle Überprüfung auf Fraktur-Fehler notwendig.
+*   **Beschädigungen:** Die beschädigten Textstellen wurden geprüft. Lesbare Stellen wurden transkribiert ("Gebühren", "Fr. 200.-", Datum, "Ortrory"). Nicht lesbare Stellen wurden entsprechend als "[Betrag unentzifferbar]", "[unentzifferbar]" oder "[Unterschrift unentzifferbar]" gekennzeichnet.
+
+**7. Überprüfung der Herkunft der Informationen:**
+Alle Informationen für diese Transkription stammen ausschliesslich aus dem angehängten Dokumentbild. Die bereitgestellten Hintergrundinformationen wurden für die Transkription in keiner Weise herangezogen.
+
+Alle Schritte wurden in der vorgegebenen Reihenfolge eingehalten und ausgeführt.

@@ -1,0 +1,100 @@
+Als erfahrener Historiker mit Spezialisierung auf die Vorarlberger Frage im Jahr 1918 habe ich das angehängte Dokument gemäss den strengen Anweisungen transkribiert.
+
+**1. Ignorieren aller Links und QR-Codes:**
+Der QR-Code in der unteren rechten Ecke und der Link "dodis.ch/44041" in der oberen rechten Ecke wurden vollständig ignoriert und nicht als Informationsquelle herangezogen. Der Name des Dokuments wurde ebenfalls ignoriert.
+
+**2. Analyse der Sprachen des Dokuments:**
+Das Dokument ist ausschliesslich in **Französisch** verfasst.
+
+**3. Analyse der Schriftarten des Dokuments:**
+Das gesamte Dokument ist in **Handschrift** verfasst. Es kommen keine anderen Schriftarten wie Blockschrift oder Fraktur vor.
+
+**4. Analyse der Beschädigungen des Dokuments:**
+*   Am Anfang des Dokuments ist das Wort "Ques" (offenbar eine Abkürzung für "Question" oder ein abgebrochener Versuch) durchgestrichen, bevor "Secret" und "Question du Vorarlberg" darunter geschrieben wurden.
+*   Das Wort "probablement" im letzten Absatz scheint eine leichte Überarbeitung oder Korrektur erfahren zu haben, ist aber vollständig entzifferbar.
+Abgesehen davon weist das Dokument keine weiteren Beschädigungen wie Übermalungen oder unentzifferbare Textstellen auf.
+
+**5. Transkription des Dokuments:**
+
+Mercredi 2 avril 1919.
+
+~~Ques~~
+Secret.
+Question du Vorarlberg.
+
+Département politique. Propositions du 7 mars
+et du 2 avril 1919.
+
+M. le président Ador, en l'absence de M. le conseiller
+fédéral Calonder, soumet au Conseil fédéral.
+1. Le rapport du Département Politique du 7 mars 1919;
+2. Une proposition de M. Calonder du 2 avril;
+3. Un rapport du département politique du 28 mars,
+avec complément du 1er avril.
+4. Lettre du Directoire commercial de St. Gall du 26 mars
+5. Les actes du département politique relatifs à la question de
+l'incorporation du Vorarlberg à la Suisse.
+La proposition de M. Calonder, du 2 avril, est
+ainsi conçue:
+" Le Conseil fédéral examinerait avec bienveillance
+une démarche du gouvernement du Vorarlberg, tendant
+à son admission dans la Confédération, si cette demande
+se basait sur la grande majorité du peuple du Vorarl-
+berg, et il transmettrait, le cas échéant, ce vœu à la
+Conférence de Paris."
+Il est procédé à un échange de vues sur la
+question.
+M. le président communique encore:
+Une délégation du gouvernement du Vorarlberg se
+trouve actuellement à Berne, pour prendre contact avec
+le Conseil fédéral au sujet du ravitaillement et proba-
+blement aussi pour la question du rattachement à la Suisse.
+
+---
+
+**6. Überprüfungen bezüglich Sprachen, Schriftarten und Beschädigungen:**
+
+*   **Sprache (Französisch -> Deutsch-Übersetzung):**
+    Da das Dokument nicht deutschsprachig ist, folgt hier die Übersetzung der Transkription ins Deutsche:
+
+    Mittwoch, 2. April 1919.
+
+    ~~Frage~~
+    Geheim.
+    Frage Vorarlbergs.
+
+    Politisches Departement. Anträge vom 7. März
+    und vom 2. April 1919.
+
+    Herr Bundespräsident Ador unterbreitet in Abwesenheit von Herrn Bundesrat Calonder dem Bundesrat:
+    1. Den Bericht des Politischen Departements vom 7. März 1919;
+    2. Einen Antrag von Herrn Calonder vom 2. April;
+    3. Einen Bericht des Departements für auswärtige Angelegenheiten vom 28. März,
+    mit Ergänzung vom 1. April.
+    4. Brief des Handelsdirektorats von St. Gallen vom 26. März
+    5. Die Akten des Politischen Departements betreffend die Frage der
+    Eingliederung Vorarlbergs in die Schweiz.
+    Der Antrag von Herrn Calonder vom 2. April lautet
+    wie folgt:
+    „Der Bundesrat würde ein Gesuch der Vorarlberger Regierung
+    betreffend ihren Beitritt zur Eidgenossenschaft wohlwollend prüfen,
+    wenn dieses Gesuch auf der grossen Mehrheit der Vorarlberger Bevölkerung basierte,
+    und er würde diesen Wunsch gegebenenfalls der Pariser Konferenz übermitteln.“
+    Es wird ein Meinungsaustausch über die
+    Frage durchgeführt.
+    Herr Bundespräsident teilt noch mit:
+    Eine Delegation der Vorarlberger Regierung befindet sich
+    derzeit in Bern, um Kontakt mit dem Bundesrat bezüglich der Versorgung
+    und wahrscheinlich auch bezüglich der Frage des Anschlusses an die Schweiz aufzunehmen.
+
+*   **Schriftart (Handschrift):**
+    Die Transkription der Handschrift wurde sorgfältig auf mögliche Fehler überprüft. Alle Wörter sind klar lesbar und wurden korrekt wiedergegeben. Die leichte Überarbeitung bei "probablement" beeinträchtigt die Lesbarkeit nicht.
+
+*   **Beschädigungen:**
+    Das durchgestrichene Wort "Ques" ist entzifferbar und wurde in der Transkription entsprechend als ~~Ques~~ markiert. Es gab keine unentzifferbaren Stellen.
+
+**7. Überprüfung der Herkunft der Informationen:**
+Alle Informationen für die Analyse und Transkription stammen ausschliesslich aus dem angehängten Dokument. Die als Kontext bereitgestellten Informationen wurden strikt ignoriert und nicht für die Transkription oder deren Analyse verwendet.
+
+**8. Überprüfung der Einhaltung aller Schritte:**
+Alle oben genannten Schritte wurden in der vorgeschriebenen Reihenfolge und gemäss den Anweisungen ausgeführt.

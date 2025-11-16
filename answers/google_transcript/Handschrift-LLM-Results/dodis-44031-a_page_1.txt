@@ -1,0 +1,73 @@
+Sehr geehrter Historiker,
+
+Als Ihr Kollege und Spezialist für die Vorarlberger Frage im Jahr 1918 habe ich das angehängte Dokument streng nach Ihren Anweisungen analysiert und transkribiert. Die im Kontextabsatz bereitgestellten Informationen wurden für die Transkription in keiner Weise herangezogen.
+
+Hier ist die Ausführung der Schritte:
+
+1.  **Ignorieren aller Links und QR-Codes:** Der QR-Code unten rechts und der Link oben rechts (dodis.ch/44031) sowie jegliche Erwähnung eines Dokumentnamens wurden vollständig ignoriert und nicht zur Informationsgewinnung herangezogen.
+
+2.  **Analyse der Sprachen des Dokuments:** Das Dokument ist durchgehend in **Französisch** verfasst.
+
+3.  **Analyse der Schriftarten des Dokuments:** Das gesamte Dokument ist in **Handschrift** geschrieben. Es treten keine anderen Schriftarten wie Fraktur oder Blockschrift auf.
+
+4.  **Analyse der Beschädigungen des Dokuments:** Es gibt durchgestrichene Textstellen im unteren Teil des Dokuments. Diese Stellen sind jedoch vollständig entzifferbar.
+
+5.  **Transkription des Dokuments:**
+    Der Text wurde Wort für Wort transkribiert, genau wie er im Dokument erscheint, ohne Korrektur von Rechtschreibfehlern oder Hinzufügung von Informationen von ausserhalb des Dokuments. Links wurden nicht transkribiert. Die durchgestrichenen Stellen sind als solche gekennzeichnet.
+
+    ```
+    Mercredi 26 mars 1919.
+
+    Secret.
+    Bolchevisme
+    dans l'Europe centrale.
+
+    Département Politique.                  Verbal.
+
+    M. le conseiller fédéral Motta, comme chef
+    intérimaire du département politique, expose que d'après les dé-
+    pêches de nos ministres à Berlin et à Vienne, l'intervention
+    du bolchevisme en Autriche et en Allemagne est de nature
+    à inspirer des inquiétudes. Ce
+    mouvement est en partie artificiel, avec le caractère d'une
+    manoeuvre pour intimider l'Entente et éluder les conséquences
+    de la guerre, mais il doit néanmoins être suivi avec attention.
+         Sur la proposition de M. Motta, le département
+    politique est autorisé à faire communiquer la teneur des dé-
+    pêches de nos ministres à Berlin et Vienne, par nos ministres
+    à Paris, Rome et Londres, aux gouvernements auprès desquels
+    ils sont accrédités.
+
+    [durchgestrichen: Ce document communiqué à]
+    [durchgestrichen: MM. les conseillers fédéraux]
+    [durchgestrichen: Motta et Calonder.]                       Le secrétaire:
+                                            Contat
+    ```
+
+6.  **Überprüfungen bezüglich Sprachen, Schriftarten und Beschädigungen:**
+    *   **Sprache:** Da das Dokument nicht deutschsprachig ist, folgt hier die deutsche Übersetzung der Transkription:
+
+        **Deutsche Übersetzung der Transkription:**
+
+        Mittwoch, 26. März 1919.
+
+        Geheim.
+        Bolschewismus
+        in Mitteleuropa.
+
+        Politisches Departement.                 Protokoll.
+
+        Herr Bundesrat Motta legt als interimistischer Chef des politischen Departements dar, dass nach den Depeschen unserer Minister in Berlin und Wien die Intervention des Bolschewismus in Österreich und Deutschland geeignet ist, Besorgnisse zu wecken. Diese Bewegung ist teilweise künstlich, mit dem Charakter eines Manövers, um die Entente einzuschüchtern und die Kriegsfolgen zu vermeiden, muss aber dennoch aufmerksam verfolgt werden.
+             Auf Vorschlag von Herrn Motta ist das politische Departement ermächtigt, den Inhalt der Depeschen unserer Minister in Berlin und Wien, durch unsere Minister in Paris, Rom und London, den Regierungen mitzuteilen, bei denen sie akkreditiert sind.
+
+        [durchgestrichen: Dieses Dokument wurde mitgeteilt an]
+        [durchgestrichen: die Herren Bundesräte]
+        [durchgestrichen: Motta und Calonder.]                    Der Sekretär:
+                                            Contat
+
+    *   **Schriftart:** Da es sich um Handschrift und nicht um Fraktur handelt, war keine spezifische Überprüfung auf Fraktur-Fehler erforderlich. Die Transkription wurde jedoch sorgfältig auf allgemeine Lesefehler überprüft.
+    *   **Beschädigungen:** Die durchgestrichenen Stellen sind vollständig entzifferbar und wurden daher in der Transkription angegeben und entsprechend markiert.
+
+7.  **Überprüfung der Herkunft der Informationen:** Alle Informationen für die Transkription, einschliesslich der Sprach-, Schriftart- und Beschädigungsanalyse, stammen ausschliesslich aus dem angehängten Dokument. Es wurden keine anderen Informationsquellen verwendet.
+
+Ich habe alle Schritte in der vorgegebenen Reihenfolge eingehalten und ausgeführt.

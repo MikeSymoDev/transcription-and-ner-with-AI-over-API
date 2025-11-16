@@ -1,0 +1,66 @@
+Als erfahrener Historiker mit der Spezialisierung auf die Vorarlberger Frage in der Schweiz im Jahr 1918, befolge ich die Anweisungen genau.
+
+**1. Ignorieren von QR-Code und Links:**
+Der QR-Code in der unteren rechten Ecke sowie der Link "dodis.ch/44181" in der oberen rechten Ecke wurden ignoriert. Der Name des Dokuments wurde ebenfalls ignoriert.
+
+**2. Analyse der Sprachen des Dokuments:**
+Das Dokument ist ausschliesslich in französischer Sprache verfasst.
+
+**3. Analyse der Schriftarten des Dokuments:**
+Das gesamte Dokument ist in Handschrift verfasst. Es handelt sich weder um Blockschrift noch um Fraktur.
+
+**4. Analyse der Beschädigungen des Dokuments:**
+*   Es gibt einige rote Annotationen (kleine "a", "9" am oberen linken Rand, ein roter Kreis um "Vorarlberg", ein roter Kreis um "occidentale" und "jusqu'ici"), die jedoch nicht den ursprünglichen Text beschädigen, sondern Ergänzungen sind.
+*   Das Wort "m'etpose" (nach "Laroche") könnte auf den ersten Blick als "m'expose" gelesen werden, die handschriftliche Form des 't' ist jedoch deutlich.
+*   Bei dem Wort "traité" (nach "projet") gibt es eine leichte Übermalung/Tintenfleck, der Buchstabe ist jedoch noch klar entzifferbar.
+*   Bei dem Wort "pendant" (nach "parlera") gibt es eine leichte Tintenverschmierung über dem 'p' und 'e', die das Wort aber nicht unleserlich macht.
+*   Bei dem Wort "soumis" (nach "traité") gibt es eine leichte Tintenverschmierung, die jedoch die Lesbarkeit nicht beeinträchtigt.
+Alle festgestellten Beschädigungen sind entzifferbar.
+
+**5. Transkription des Dokuments:**
+
+A.E.
+Berne
+concernant Vorarlberg Laroche m'etpose que
+Conférence paix ne fut saisie d'aucune demande
+changement frontière Autrichienne stop Ender
+formelle parait n'avoir faire aucune demande à cet
+égard en sorte que le projet traité soumis
+hier pouvait que rester muet sur ce sujet stop reste à
+voir si Ender parlera pendant délai avant
+signature ou si affaire sera portée devant Société des
+nations
+
+Numéro_ 93 note
+
+3 Juin 1919
+
+**6. Überprüfungen bezüglich Sprachen, Schriftarten und Beschädigungen:**
+
+*   **Sprachen:** Da das Dokument nicht deutschsprachig ist (es ist Französisch), erfolgt nun die deutsche Übersetzung der Transkription.
+*   **Schriftarten:** Da die verwendete Schriftart Handschrift ist, wurde die Transkription auf mögliche Fehler überprüft, die bei der Entzifferung der Handschrift entstanden sein könnten. Hierbei wurde die erste Lesung von "m'expose" zu "m'etpose" korrigiert, was der Handschrift genauer entspricht.
+*   **Beschädigungen:** Die festgestellten beschädigten Stellen waren alle entzifferbar und wurden daher vollständig transkribiert. Es war nicht notwendig, Wörter oder Buchstaben auszulassen.
+
+**Deutsche Übersetzung der Transkription:**
+
+A.E.
+Bern
+betreffend Vorarlberg legt Laroche mir dar, dass die
+Friedenskonferenz keine Anfrage bezüglich einer
+Grenzänderung Österreichs erhalten hat, Stop Ender
+scheint formell keine Anfrage diesbezüglich gestellt zu haben,
+so dass der gestern unterbreitete Vertragsentwurf
+in dieser Angelegenheit stumm bleiben konnte, Stop es bleibt abzu-
+warten, ob Ender innerhalb der Frist vor
+der Unterzeichnung sprechen wird oder ob die Angelegenheit vor den
+Völkerbund gebracht wird.
+
+Nummer_ 93 Notiz
+
+3 Juni 1919
+
+**7. Überprüfung der Herkunft der Informationen:**
+Alle Informationen für die Transkription und die anschliessenden Überprüfungen stammen ausschliesslich aus dem angehängten Dokument. Es wurden keine anderen Informationsquellen verwendet.
+
+**Abschliessende Überprüfung:**
+Alle Schritte wurden in der vorgegebenen Reihenfolge eingehalten und ausgeführt.

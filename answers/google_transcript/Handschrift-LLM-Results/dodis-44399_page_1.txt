@@ -1,0 +1,71 @@
+Die Analyse des Dokuments hat folgende Erkenntnisse erbracht:
+
+1.  **Ignorieren aller Links und QR-Codes:** Alle in der oberen rechten Ecke sichtbaren Links ("dodis.ch/44399") und der QR-Code in der unteren rechten Ecke sowie die annotierten Ziffern "C. 10. 19.95 / 45", der eingekreiste "1" und "Hall 250." in der unteren linken Ecke wurden gemäß den Anweisungen ignoriert und sind nicht Teil der Transkription.
+
+2.  **Analyse der Sprachen des Dokuments:** Das Dokument ist vollständig in französischer Sprache verfasst.
+
+3.  **Analyse der Schriftarten des Dokuments:** Das gesamte Dokument ist in handgeschriebener Kursivschrift verfasst. Es werden keine Blockschrift oder Fraktur verwendet.
+
+4.  **Analyse der Beschädigungen des Dokuments:**
+    *   Einige Textteile sind über die Linie geschrieben, was auf Einfügungen hindeutet. Dazu gehören "(en ce sens que)" und "(de duplicité)".
+    *   Bei dem Wort "Des" vor "nations" ist ein kleines Zeichen (ähnlich einem 'x') über dem 's' sichtbar, das aber die Lesbarkeit nicht wesentlich beeinträchtigt und "Des" als korrekt erscheinen lässt.
+    *   Das Wort "revendications" weist einen sehr feinen, kaum sichtbaren Durchstrich auf, ist aber vollständig lesbar.
+    *   Der letzte Teil des Textes endet mit "à" gefolgt von unleserlichen Kritzeleien. Dieser Teil ist nicht entzifferbar.
+
+5.  **Transkription des Dokuments (Wort für Wort):**
+
+    Vienne le 9 Décembre 1919
+
+    Quasi-tiges — Bern.
+
+    Votre 34. Point. Communiqué
+    du Conseil fédéral du 6 Décembre
+    a été victuperé pas assez vivement
+    critiqué par presse (en ce sens que) comme contenant
+    contradictions, la non-intervention
+    assurée dans première partie ne
+    concorderait pas avec promesse
+    d'appui éventuel auprès du
+    Conseil supérieur ou de Ligue
+    Des nations. Point. Dans certains
+    journaux, par (de duplicité) exemple, le Freie
+    Presse, ont parlé d'abandon
+    par la Suisse de sa politique
+    de neutralité. Point. Journaux
+    agitent aussi le spectre Des revendications
+    italiennes et françaises. Stop.
+    Mauvaise humeur évidente à [unleserlich]
+
+6.  **Überprüfungen bezüglich Sprachen, Schriftarten und Beschädigungen:**
+    *   **Sprache:** Da das Dokument nicht deutschsprachig ist (sondern französisch), folgt hier die deutsche Übersetzung der Transkription.
+    *   **Schriftart:** Da das Dokument in Handschrift verfasst ist, wurde die Transkription sorgfältig auf mögliche Fehler überprüft und entsprechend präzisiert, insbesondere bei Buchstaben, die in Kursivschrift leicht zu verwechseln sind (z.B. 'l' und 'y'). Die Schreibweise "victuperé" wurde beibehalten, da Schreibfehler nicht korrigiert werden dürfen.
+    *   **Beschädigungen:** Die entzifferbaren Einfügungen "(en ce sens que)" und "(de duplicité)" wurden in Klammern in die Transkription aufgenommen, um ihre Position als über der Zeile eingefügter Text zu kennzeichnen. Die unleserliche Stelle am Ende wurde mit "[unleserlich]" markiert.
+
+    **Deutsche Übersetzung der Transkription:**
+
+    Wien, 9. Dezember 1919
+
+    Quasi-Kabel — Bern.
+
+    Ihre 34. Punkt. Mitteilung
+    des Bundesrates vom 6. Dezember
+    wurde nicht energisch genug als
+    von der Presse (in dem Sinne, dass) als enthaltend
+    Widersprüche kritisiert, die Nichteinmischung,
+    die im ersten Teil zugesichert wurde,
+    würde nicht mit dem Versprechen
+    einer eventuellen Unterstützung beim
+    Obersten Rat oder dem Völkerbund
+    übereinstimmen. Punkt. In einigen
+    Zeitungen, zum (der Doppelzüngigkeit) Beispiel, die Freie
+    Presse, sprachen vom Aufgeben
+    der Schweiz ihrer Politik
+    der Neutralität. Punkt. Zeitungen
+    schüren auch das Schreckgespenst der
+    italienischen und französischen
+    Forderungen. Stopp.
+    Schlechte Laune offensichtlich in [unleserlich]
+
+7.  **Überprüfung der Herkunft der Informationen:** Alle Informationen für die Transkription stammen ausschließlich aus dem angehängten Dokument. Der bereitgestellte Kontextabsatz wurde für die Transkription nicht als Informationsquelle genutzt.
+
+Alle Schritte wurden in der vorgegebenen Reihenfolge eingehalten und ausgeführt.
