@@ -1,0 +1,138 @@
+Als erfahrener Historiker mit der Spezialisierung auf die Vorarlberger Frage in der Schweiz im Jahr 1918 habe ich das angehängte Dokument streng nach den vorgegebenen Schritten transkribiert.
+
+**1. Ignorieren von Links und QR-Codes:**
+Der QR-Code in der unteren rechten Ecke und der Link "dodis.ch/55496" in der oberen rechten Ecke wurden vollständig ignoriert. Der Name des Dokuments wurde ebenfalls ignoriert.
+
+**2. Analyse der Sprachen des Dokuments:**
+Das Dokument ist ausschliesslich in **Englisch** verfasst.
+
+**3. Analyse der Schriftarten des Dokuments:**
+Das Dokument verwendet hauptsächlich eine **maschinengeschriebene Blockschrift**. Daneben finden sich mehrere **handschriftliche Elemente** (z.B. der Haken neben "No. 32", "Enta 7.8.19 20/8", "Archives. 2.3", "459L", "hfr" und die Unterschrift "Horace Rumbold"). Ein Stempel ist ebenfalls vorhanden.
+
+**4. Analyse der Beschädigungen des Dokuments:**
+Ein roter Stempel mit dem Text "RECEIVED 18 AUG 1918 20 Pundey FROM HEADQUARTERS" überlagert teilweise das maschinengeschriebene Datum "August 8, 1918". Die überlagerten Textstellen (sowohl das Datum als auch der Stempeltext) sind jedoch vollständig entzifferbar. Es gibt keine unleserlichen Stellen, durchgestrichenen Wörter oder übermalten Text.
+
+**5. Transkription des Dokuments (Wort für Wort):**
+
+```
+No. 32 ✓
+(6662)
+Enta 7.8.19
+20/8
+
+                                          Archives. 2.3
+                                          Berne,
+                                          August 8, 1918
+                                          RECEIVED 18 AUG 1918 20 Pundey
+                                          FROM HEADQUARTERS
+                                          hfr
+
+Sir,
+
+In continuation of Lord Acton's despatch
+to Earl Curzon, No. 383 of July 3, I have the 459L
+honour to report that the Minister for Foreign
+Affairs informed me yesterday that a representa-
+tive of the Vorarlberg had been to see him
+about a month ago to ask whether the Swiss
+Government could not take steps to bring about
+the union of the Vorarlberg with the Swiss
+Confederation.
+
+Monsieur Calonder had referred the delegate
+to the Peace Conference and had added that, in
+any event, it would be necessary for the Vorarlberg
+to obtain the right of disposing of its own
+destinies before the Federal Council could even
+consider the matter.
+
+Monsieur Calonder added that he understood
+that German-Austria was most reluctant to let the
+Vorarlberg secede from her territory.
+
+I have forwarded a copy of this despatch to
+the Foreign Office.
+
+I have the honour to be with the highest
+respect,
+
+                                          Sir,
+                                          Your most obedient,
+                                          humble Servant.
+
+                                          Horace Rumbold
+
+The Right Honourable,
+A.J. Balfour O.M., M.P.,
+etc., etc., etc.,
+Dodis
+```
+
+**6. Überprüfungen bezüglich Sprachen, Schriftarten und Beschädigungen:**
+
+*   **Sprachen:** Da das Dokument nicht deutschsprachig ist (es ist Englisch), wurde die Transkription ins Deutsche übersetzt. Schreibfehler im Original wurden nicht korrigiert. Der nicht-standardisierte Begriff "Pundey" im Stempel wurde beibehalten.
+
+    **Deutsche Übersetzung der Transkription:**
+
+    ```
+    Nr. 32 ✓
+    (6662)
+    Enta 7.8.19
+    20/8
+
+                                          Archive. 2.3
+                                          Bern,
+                                          8. August 1918
+                                          EMPFANGEN 18 AUG 1918 20 Pundey
+                                          VON DER ZENTRALE
+                                          hfr
+
+    Sehr geehrter Herr,
+
+    In Fortsetzung der Depesche von Lord Acton
+    an Earl Curzon, Nr. 383 vom 3. Juli, habe ich die 459L
+    Ehre zu berichten, dass der Minister für auswärtige
+    Angelegenheiten mich gestern informierte, dass ein Vertreter
+    des Vorarlbergs ihn vor etwa einem Monat aufgesucht hatte,
+    um zu fragen, ob die Schweizer
+    Regierung keine Schritte unternehmen könnte, um die
+    Vereinigung des Vorarlbergs mit der Schweizer
+    Eidgenossenschaft herbeizuführen.
+
+    Monsieur Calonder hatte den Delegierten
+    an die Friedenskonferenz verwiesen und hinzugefügt, dass,
+    auf jeden Fall, es für das Vorarlberg notwendig wäre,
+    das Recht zu erhalten, über seine eigenen
+    Geschicke zu verfügen, bevor der Bundesrat die Angelegenheit
+    überhaupt in Betracht ziehen könnte.
+
+    Monsieur Calonder fügte hinzu, dass er verstanden habe,
+    dass Deutsch-Österreich am widerwilligsten war, das
+    Vorarlberg von ihrem Territorium abtreten zu lassen.
+
+    Ich habe eine Kopie dieser Depesche an das
+    Aussenministerium weitergeleitet.
+
+    Ich habe die Ehre, mit der grössten
+    Achtung zu verbleiben,
+
+                                          Herr,
+                                          Ihr gehorsamster,
+                                          ergebener Diener.
+
+                                          Horace Rumbold
+
+    Der hochwürdige,
+    A.J. Balfour O.M., M.P.,
+    usw., usw., usw.,
+    Dodis
+    ```
+
+*   **Schriftarten:** Das Dokument ist nicht in Fraktur geschrieben. Daher war keine spezielle Überprüfung auf Transkriptionsfehler aufgrund dieser Schriftart erforderlich.
+
+*   **Beschädigungen:** Die beschädigten bzw. überlagerten Stellen (Datum und Stempel) waren vollständig entzifferbar. Beide Textelemente wurden in der Transkription vollständig wiedergegeben. Es musste nicht angegeben werden, dass etwas nicht entziffert werden konnte, da alles lesbar war.
+
+**7. Überprüfung der Herkunft der Informationen:**
+Alle Informationen für die Transkription stammen ausschliesslich aus dem angehängten Dokument. Es wurden keinerlei andere Informationsquellen verwendet.
+
+Alle Schritte wurden in der vorgegebenen Reihenfolge eingehalten und ausgeführt.

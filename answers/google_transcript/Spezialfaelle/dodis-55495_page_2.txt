@@ -1,0 +1,114 @@
+Sehr geehrter Kollege,
+
+Als erfahrener Historiker, spezialisiert auf die Vorarlberger Frage im Jahr 1918, habe ich die Analyse und Transkription des angehängten Dokuments strikt nach Ihren Anweisungen durchgeführt. Ich habe die bereitgestellten Kontextinformationen bezüglich der Vorarlberger Frage bei der Transkription vollständig ignoriert und mich ausschließlich auf den Inhalt des Dokuments konzentriert.
+
+**Schritt 1: Ignorieren aller Links und QR-Codes**
+Der in der oberen rechten Ecke sichtbare Link "dodis.ch/55495" wurde vollständig ignoriert und nicht in die Transkription aufgenommen. Ein QR-Code war im angehängten Dokument nicht sichtbar. Der Name des Dokuments wurde ebenfalls ignoriert.
+
+**Schritt 2: Analyse der Sprachen des Dokuments**
+Das Dokument ist vollständig in englischer Sprache verfasst.
+
+**Schritt 3: Analyse der Schriftarten des Dokuments**
+Das Dokument ist überwiegend in einer maschinengeschriebenen Blockschrift verfasst, die einer Schreibmaschinenschrift ähnelt. Es gibt eine kleine handschriftliche Anmerkung.
+
+**Schritt 4: Analyse der Beschädigungen des Dokuments**
+Es gibt eine handschriftliche Anmerkung: Über dem Wort "carried" im letzten Absatz ist das Suffix "ied" handschriftlich eingefügt worden, sodass es wie "carr^ied^" aussieht. Die gedruckte Version des Wortes "carried" ist jedoch vollständig lesbar. Dies wurde als Annotation und nicht als Beschädigung des ursprünglichen gedruckten Textes interpretiert.
+
+**Schritt 5: Transkription des Dokuments**
+
+```
+       -2-
+
+in Liechtenstein to promise obedience and fidelity to His
+Supreme Highness the Prince of Liechtenstein. In the Treaties
+of Brest Litovsk, so far as they deal with matters of customs,
+Liechtenstein is specially mentioned and not included in
+Austria-Hungary.
+
+         Apparently such correspondence as has been necessary
+between Liechtenstein and other countries was before 1914 in
+fact conducted through the Minister of Foreign Affairs at
+Vienna, but the evidence on this point is not accessible here.
+         It is also to be noted that the reigning Prince of
+Liechtenstein has held service under the Austro-Hungarian
+Monarchy in the diplomatic service. None the less, close as
+the relationship has been, there is no doubt that Liechtenstein
+was in fact up to 1914 a sovereign and independent State.
+
+        3. The Government of the Principality maintains, and I
+think maintains successfully, the position that Liechtenstein
+has observed neutrality. There is no military service in the
+Principality and no army, and there is no evidence that the
+inhabitants of the Principality have fought in the Austrian
+Army. They appeal to the statement made by Sir Edward Grey
+in the House of Commons on November 17th, 1914:
+             "I am informed by the United States Ambassador that
+         the Sovereign Principality of Liechtenstein considers
+         itself neutral in the present hostilities. No prohibi-
+         tion of commercial or other dealings with the subjects
+         of the Prince has been published."
+                                  Hansard, 1914, Vol.LXVIII, Page 310.
+         There has been on several occasions correspondence
+between the Government of Liechtenstein and the Entente Powers,
+but the difficulties which arose seem to have been concerned
+not with the neutrality of the State, but with questions as to
+enforcement of the blockade and the action of individual citi-
+zens of Liechtenstein. Correspondence was carried on by the
+Government of Liechtenstein through the channel of the Swiss
+and, before the entrance of America into the war, the American
+```
+
+**Schritt 6: Überprüfungen bezüglich Sprachen, Schriftarten und Beschädigungen**
+
+*   **Sprache:** Da das Dokument nicht deutschsprachig ist (sondern englisch), folgt hier die Übersetzung der Transkription ins Deutsche:
+
+    ```
+           -2-
+
+    in Liechtenstein, Gehorsam und Treue zu Seiner
+    Durchlaucht dem Fürsten von Liechtenstein zu geloben. In den Verträgen
+    von Brest-Litowsk, soweit sie Zollangelegenheiten betreffen,
+    wird Liechtenstein speziell erwähnt und ist nicht enthalten in
+    Österreich-Ungarn.
+
+             Anscheinend erfolgte ein solcher Schriftwechsel, soweit notwendig,
+    zwischen Liechtenstein und anderen Ländern vor 1914 tatsächlich
+    durch den Minister für auswärtige Angelegenheiten in
+    Wien, aber die Beweise hierfür sind an dieser Stelle nicht zugänglich.
+             Es ist auch zu beachten, dass der regierende Fürst von
+    Liechtenstein im diplomatischen Dienst unter der österreichisch-ungarischen
+    Monarchie gedient hat. Nichtsdestotrotz, so eng
+    die Beziehung auch war, besteht kein Zweifel, dass Liechtenstein
+    bis 1914 tatsächlich ein souveräner und unabhängiger Staat war.
+
+           3. Die Regierung des Fürstentums vertritt, und ich
+    glaube erfolgreich vertritt, die Position, dass Liechtenstein
+    Neutralität bewahrt hat. Es gibt keinen Militärdienst im
+    Fürstentum und keine Armee, und es gibt keine Beweise dafür, dass die
+    Einwohner des Fürstentums in der österreichischen
+    Armee gekämpft haben. Sie berufen sich auf die Erklärung von Sir Edward Grey
+    im Unterhaus vom 17. November 1914:
+                 „Mir wurde vom Botschafter der Vereinigten Staaten mitgeteilt, dass
+            das Souveräne Fürstentum Liechtenstein sich selbst
+            in den gegenwärtigen Feindseligkeiten als neutral betrachtet. Kein Verbot
+            von kommerziellen oder anderen Geschäften mit den Untertanen
+            des Fürsten wurde veröffentlicht.“
+                                      Hansard, 1914, Band LXVIII, Seite 310.
+             Es gab bei mehreren Gelegenheiten Schriftwechsel
+    zwischen der Regierung von Liechtenstein und den Entente-Mächten,
+    aber die Schwierigkeiten, die entstanden, scheinen sich
+    nicht auf die Neutralität des Staates bezogen zu haben, sondern auf Fragen der
+    Durchsetzung der Blockade und der Handlungen einzelner Bürger
+    Liechtensteins. Die Korrespondenz wurde durch den
+    Kanal der Schweizer Regierung von Liechtenstein
+    und, vor dem Eintritt Amerikas in den Krieg, der amerikanischen
+    ```
+
+*   **Schriftart:** Die verwendete Schriftart ist keine Fraktur. Daher war keine spezielle Überprüfung auf Fraktur-Fehler erforderlich.
+*   **Beschädigungen:** Die handschriftliche Anmerkung "ied" über dem Wort "carried" im letzten Absatz ist eindeutig entzifferbar. Sie wurde als Ergänzung zum gedruckten Text identifiziert. In der Transkription wurde das gedruckte Wort "carried" unverändert übernommen, da die Anweisung verlangt, den Text unverändert zu reproduzieren und die Annotation nicht den ursprünglichen Text unleserlich macht.
+
+**Schritt 7: Überprüfung der Herkunft der Informationen**
+Alle Informationen, die für die Analyse und Transkription verwendet wurden, stammen ausschließlich aus dem angehängten Dokument. Es wurden keine anderen Informationsquellen genutzt.
+
+**Abschließende Überprüfung:**
+Ich habe sorgfältig überprüft, dass alle Schritte in der vorgegebenen Reihenfolge eingehalten und ausgeführt wurden, um die Präzision und Integrität der Transkription zu gewährleisten.

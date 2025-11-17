@@ -1,0 +1,105 @@
+Als erfahrener Historiker, der sich auf die Vorarlberger Frage in der Schweiz im Jahr 1918 spezialisiert hat, und unter strikter Befolgung aller Anweisungen, führe ich die Transkription des angehängten Dokuments durch:
+
+---
+
+**Schritt 1: Ignorieren aller Links und QR-Codes**
+Der QR-Code in der unteren rechten Ecke und der Link "dodis.ch/55495" sowie die Nummern "351" und "8" in der oberen rechten Ecke wurden vollständig ignoriert.
+
+**Schritt 2: Analyse der Sprachen des Dokuments**
+Das Dokument ist durchgängig in **Englisch** verfasst.
+
+**Schritt 3: Analyse der Schriftarten des Dokuments**
+Das Dokument ist in einer standardmäßigen, maschinengeschriebenen Serifenschrift (vergleichbar mit einer Schreibmaschinenschrift) verfasst. Es ist keine Fraktur-Schriftart oder Handschrift. Der Titel "LIECHTENSTEIN." ist in Großbuchstaben gesetzt.
+
+**Schritt 4: Analyse der Beschädigungen des Dokuments**
+Das Dokument ist eine gescannte Kopie. Es weist leichte altersbedingte Verfärbungen und Verblassungen auf. In der oberen rechten Hälfte befindet sich ein roter Stempel mit der Aufschrift "15858" und darunter "22 JUL 19 AM", der den Text "LIECHTENSTEIN." leicht überlappt, aber die Lesbarkeit nicht beeinträchtigt. Eine sehr schwache vertikale rote Linie ist am rechten Rand des zweiten Absatzes sichtbar, beeinträchtigt aber den Text nicht. Es gibt keine durchgestrichenen, übermalten oder unentzifferbaren Textstellen.
+
+**Schritt 5: Transkription des Dokuments**
+
+```
+LIECHTENSTEIN.
+
+1. Liechtenstein is a Principality with a population
+of about 10,000. In the West and on the South it borders
+with Switzerland; on all other sides with Vorarlberg, being
+completely surrounded by the two, so that it has no access to
+the outer world except through Switzerland or Vorarlberg.
+It is of no importance in any way except for the fact that
+the main line of railway from Zurich to Vienna passes through
+its territory.
+
+2. There seems no doubt that Liechtenstein is at this
+moment a sovereign and independent State. Not to go into
+earlier history, it was included in 1815 in the Germanic
+Confederation in the same position as the other smallest
+German States; on the dissolution of the Confederation in
+1866 any restriction on its sovereignty which arose from its
+membership of the Confederation disappeared. It is one of
+the curiosities of history that though with the other South
+German States and Austria it was involved in the war of 1866
+with Prussia, apparently through inadvertance, it was excluded
+from the Treaty of Peace. From 1866 to 1914 it has techni-
+cally maintained its position as an independent State. In
+1876 it entered into a Treaty with Austria-Hungary by which
+commercial union which had existed since 1852 was renewed and
+modified. This Treaty established very close relations between
+Liechtenstein and Vorarlberg and in practice assimilates the
+administration of Liechtenstein to that of Vorarlberg in
+regard to such matters as international customs excise. The
+Treaty however throughout scrupulously maintains in all
+matters of form the sovereign rights of the Principality of
+Liechtenstein, for instance Austrian officers and servants
+stationed in Liechtenstein have for the time of their service
+```
+
+**Schritt 6: Überprüfungen bezüglich Sprachen, Schriftarten und Beschädigungen**
+
+*   **Sprache:** Da das Dokument nicht deutschsprachig ist (sondern Englisch), wird die Transkription ins Deutsche übersetzt.
+*   **Schriftart:** Die verwendete Schriftart ist keine Fraktur, daher sind keine speziellen Überprüfungen bezüglich Fraktur-Fehlern erforderlich.
+*   **Beschädigungen:** Alle festgestellten Textstellen sind entzifferbar. Die Transkription enthält das gesamte Dokument, und es wurden keine Wörter oder Buchstaben ausgelassen.
+
+**Deutsche Übersetzung der Transkription:**
+
+```
+LIECHTENSTEIN.
+
+1. Liechtenstein ist ein Fürstentum mit einer Bevölkerung
+von etwa 10.000. Im Westen und im Süden grenzt es
+an die Schweiz; an allen anderen Seiten an Vorarlberg, da es
+von den beiden vollständig umschlossen ist, so dass es keinen Zugang zur
+Außenwelt hat, außer durch die Schweiz oder Vorarlberg.
+Es ist in keiner Weise von Bedeutung, außer durch die Tatsache, dass
+die Hauptbahnlinie von Zürich nach Wien durch
+sein Gebiet führt.
+
+2. Es besteht kein Zweifel, dass Liechtenstein in diesem
+Moment ein souveräner und unabhängiger Staat ist. Ohne auf die
+frühere Geschichte einzugehen, wurde es 1815 in den Deutschen
+Bund aufgenommen, in der gleichen Position wie die anderen kleinsten
+deutschen Staaten; mit der Auflösung des Bundes in
+1866 verschwand jede Beschränkung seiner Souveränität, die sich aus seiner
+Mitgliedschaft im Bund ergab. Es ist eine der
+Kuriositäten der Geschichte, dass es zwar mit den anderen süddeutschen
+Staaten und Österreich in den Krieg von 1866
+mit Preußen verwickelt war, anscheinend durch Versehen, es aber
+vom Friedensvertrag ausgeschlossen wurde. Von 1866 bis 1914 hat es seine
+Position als unabhängiger Staat technisch
+beibehalten. 1876 schloss es einen Vertrag mit Österreich-Ungarn, durch den
+die seit 1852 bestehende Handelsunion erneuert und
+geändert wurde. Dieser Vertrag stellte sehr enge Beziehungen zwischen
+Liechtenstein und Vorarlberg her und gleicht in der Praxis die
+Verwaltung Liechtensteins der von Vorarlberg an,
+was Angelegenheiten wie internationale Zollabgaben betrifft. Der
+Vertrag wahrt jedoch durchweg gewissenhaft in allen
+Formfragen die Hoheitsrechte des Fürstentums
+Liechtenstein, zum Beispiel haben österreichische Beamte und Bedienstete,
+die in Liechtenstein stationiert sind, für die Dauer ihres Dienstes
+```
+
+**Schritt 7: Überprüfung der Herkunft der Informationen**
+Alle Informationen für die Transkription und die anschließende Übersetzung stammen ausschließlich aus dem angehängten Dokument. Es wurden keine anderen Informationsquellen verwendet. Der im Kontextabsatz bereitgestellte geschichtliche Hintergrund wurde für die Transkription und Analyse des Dokuments nicht herangezogen.
+
+**Schritt 8: Überprüfung der Reihenfolge der Schritte**
+Alle Schritte wurden in der vorgegebenen Reihenfolge eingehalten und ausgeführt.
+
+---

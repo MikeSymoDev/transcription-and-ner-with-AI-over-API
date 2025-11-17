@@ -1,0 +1,112 @@
+Als erfahrener Historiker mit Spezialisierung auf die Vorarlberger Frage im Jahr 1918 habe ich das angehängte Dokument streng nach den vorgegebenen Anweisungen transkribiert. Die zusätzlichen historischen Kontextinformationen wurden dabei vollständig ignoriert und nicht als Informationsquelle für die Transkription oder Analyse herangezogen.
+
+**Schritt 1: Ignorieren aller Links und QR-Codes**
+Der QR-Code in der unteren rechten Ecke des Dokuments wurde ignoriert. Die Links in der oberen rechten Ecke (z.B. "dodis.ch/55496") wurden ebenfalls ignoriert. Der Name des Dokuments wurde nicht verwendet.
+
+**Schritt 2: Analyse der Sprachen des Dokuments**
+Das Dokument ist durchgängig in **Englisch** verfasst.
+
+**Schritt 3: Analyse der Schriftarten des Dokuments**
+Das Dokument verwendet zwei Hauptschriftarten:
+*   **Blockschrift (maschinengeschrieben):** Für den Großteil des Haupttextes, Überschriften und Formularbezeichnungen.
+*   **Handschrift:** Für Zahlen, Datumseinträge, Namen ("Sir H. Rumbold", "O.T. Russell"), Korrekturen ("1919"), Anmerkungen ("(Berne)", "further enclosures. (inserted later)"), Initialen/Unterschriften ("7 U H M") und die Einträge in den Feldern am unteren linken Rand. Es wurde keine Frakturschrift verwendet.
+
+**Schritt 4: Analyse der Beschädigungen des Dokuments**
+Es gibt keine schwerwiegenden Beschädigungen wie Durchstreichungen oder Übermalungen, die den Text unleserlich machen würden. Einige handschriftliche Einträge sind leichter oder in schnellerer Schrift ausgeführt, aber alle wesentlichen Informationen sind entzifferbar.
+*   Die handschriftliche Anmerkung "1919" neben der gedruckten "191" ist klar.
+*   Die handschriftlichen Zahlen und Notizen sind klar, obwohl die Nummer "7346" etwas schwächer gedruckt ist.
+*   Die handschriftliche Anmerkung "Above docket does not include further enclosures. (inserted later)" ist vollständig lesbar.
+*   Die handschriftlichen Zeichen unter "(Minutes.)", die als "7 U H M" interpretiert werden, sind etwas verblasst, aber erkennbar.
+*   Der Eintrag unter "(Index.)" ist handschriftlich und leicht gekritzelt, wird aber als "Mest" interpretiert.
+
+**Schritt 5: Transkription des Dokuments**
+
+PEACE CONGRESS.
+POLITICAL AUSTRIA-HUNGARY.
+191 1919 2-9
+
+Registry No. 18148. (Docket)
+Received. Aug. 20. Union of Vorarlberg with Swiss Confederation.
+Refers to Berne desp. to F.O. No. 383 of July 3.
+Writer. Has been informed by M.F.A. that a representative
+Sir H. Rumbold. of the Vorarlberg asked whether the Swiss Govt.
+Berne. 7. O.T. Russell (Berne) could not bring about above. M. Calonder referred
+No. 32. 634 the delegate to the Peace Congress. He understands
+5523 056 German Austria is unwilling to let the Vorarlberg
+7346 7920 secede from her territory.
+642 6-4-601
+Date. Aug 8, 1919. 401/17 Dec 9 Repeated to F.O.
+12
+Pol. Austria-Hungary. 4
+
+(Print.) Above docket does not include further
+enclosures.
+(inserted later)
+
+(Minutes.)
+7 U H M
+
+(How disposed of.)
+
+(P/R Nd)
+76/1/1.
+(Last Paper.)
+16020.
+(Action completed.)
+IF.
+(Index.)
+Mest
+(Next Paper.)
+18258.
+
+**Schritt 6: Überprüfungen bezüglich Sprachen, Schriftarten und Beschädigungen**
+
+*   **Sprachen:** Da das Dokument nicht rein deutschsprachig ist (sondern Englisch), wird die Transkription ins Deutsche übersetzt.
+*   **Schriftarten:** Da keine Frakturschrift vorhanden ist, war keine spezifische Überprüfung auf Transkriptionsfehler aufgrund dieser Schriftart nötig. Die Handschrift wurde sorgfältig transkribiert.
+*   **Beschädigungen:** Alle oben unter Schritt 4 identifizierten beschädigten oder schwer lesbaren Stellen konnten entziffert und vollständig transkribiert werden.
+
+**Deutsche Übersetzung der Transkription:**
+
+FRIEDENSKONGRESS.
+POLITISCH ÖSTERREICH-UNGARN.
+191 1919 2-9
+
+Registriernummer. 18148. (Aktenvermerk)
+Eingegangen. 20. Aug. Vereinigung von Vorarlberg mit der Schweizerischen Eidgenossenschaft.
+Bezieht sich auf die Berner Depesche an das Außenministerium Nr. 383 vom 3. Juli.
+Verfasser. Es wurde vom Außenministerium mitgeteilt, dass ein Vertreter
+Sir H. Rumbold. Vorarlbergs fragte, ob die Schweizer Regierung
+Bern. 7. O.T. Russell (Bern) das Obige nicht herbeiführen könnte. Herr Calonder verwies
+Nr. 32. 634 den Delegierten an den Friedenskongress. Er versteht, dass
+5523 056 Deutschösterreich nicht bereit ist, Vorarlberg
+7346 7920 von seinem Territorium abspalten zu lassen.
+642 6-4-601
+Datum. 8. Aug. 1919. 401/17 9. Dez. An das Außenministerium wiederholt.
+12
+Pol. Österreich-Ungarn. 4
+
+(Druck.) Der obige Aktenvermerk enthält keine weiteren
+Beilagen.
+(später eingefügt)
+
+(Minuten.)
+7 U H M
+
+(Wie erledigt.)
+
+(P/R Nd)
+76/1/1.
+(Letztes Papier.)
+16020.
+(Aktion abgeschlossen.)
+IF.
+(Index.)
+Mest
+(Nächstes Papier.)
+18258.
+
+**Schritt 7: Überprüfung der Herkunft der Informationen**
+Alle Informationen für die Transkription und die nachfolgenden Analysen stammen ausschließlich aus dem angehängten Dokument. Es wurden keine anderen Informationsquellen verwendet.
+
+**Schritt 8: Überprüfung der Einhaltung der Reihenfolge der Schritte**
+Alle oben aufgeführten Schritte wurden exakt in der vorgegebenen Reihenfolge ausgeführt.

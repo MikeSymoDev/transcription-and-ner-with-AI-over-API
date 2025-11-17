@@ -20,7 +20,9 @@ total_out_tokens = 0
 input_cost_per_mio_in_dollars = 2.5
 output_cost_per_mio_in_dollars = 10
 
-input_dir = "../pdf_data_transcript/handschrift"
+# Change input directory to the specific folder
+
+input_dir = "../pdf_data_transcript/..."
 output_dir = "../answers/google_transcript"
 os.makedirs(output_dir, exist_ok=True)
 

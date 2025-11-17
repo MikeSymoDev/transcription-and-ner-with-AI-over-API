@@ -1,0 +1,69 @@
+Als erfahrener Historiker, spezialisiert auf die Vorarlberger Frage im Jahr 1918, habe ich die folgenden Schritte zur Transkription des angehängten Dokuments strikt befolgt:
+
+**1. Ignorieren aller Links und QR-Codes:**
+Der QR-Code in der unteren rechten Ecke und der Link "dodis.ch/55215" in der oberen rechten Ecke wurden vollständig ignoriert und nicht zur Informationsgewinnung herangezogen oder transkribiert. Der Name des Dokuments wurde ebenfalls ignoriert.
+
+**2. Analyse der Sprachen des Dokuments:**
+Das gesamte Dokument ist in deutscher Sprache verfasst.
+
+**3. Analyse der Schriftarten des Dokuments:**
+Das Dokument verwendet zwei Hauptschriftarten:
+*   Die Überschrift ("Die wahlberechtigten Bürger:") und die Spaltenüberschriften ("Name", "Vorname", "Beruf", "Wohnort") sind in Frakturschrift.
+*   Alle Einträge (Namen, Vornamen, Berufe, Wohnorte) sind in deutscher Kurrentschrift (Handschrift) verfasst.
+
+**4. Analyse der Beschädigungen des Dokuments:**
+Es wurden folgende Beschädigungen festgestellt:
+*   In der zweiten Zeile der Spalte "Vorname" ist der Buchstabe "Fr" des Namens "Franz Josef" mit einer blauen Linie durchgestrichen.
+*   In der dritten Zeile der Spalte "Vorname" ist der Buchstabe "S." des Namens "S. Andwÿ" mit einer blauen Linie durchgestrichen.
+*   Ansonsten sind keine weiteren offensichtlichen Durchstreichungen oder Übermalungen vorhanden. Einige Stellen der Handschrift sind leicht verblasst, aber dennoch vollständig entzifferbar. Es gibt keine unentzifferbaren Wörter oder Buchstaben.
+
+**5. Transkription des Dokuments:**
+Der Text wurde Wort für Wort reproduziert, ohne Korrektur von Rechtschreibfehlern oder Änderungen.
+
+**Die wahlberechtigten Bürger:**
+
+| Name         | Vorname     | Beruf                     | Wohnort        |
+| :----------- | :---------- | :------------------------ | :------------- |
+| Lutz         | Josef Anton | Landwirt u. Vorsteher     | Gaissau        |
+| Nagel        | Franz Josef | Landwirt & Gemeindevert.  | Gaissorn       |
+| Schmidzinger | S. Andwÿ    | Zimmermaiß Gemeindevert.  | Gaissorn       |
+| Felt Gus     | Gotfried    | Landwirt                  | Gaissau        |
+| Gottlib Heier | Gottlib     | Landwirt Zimmermeister   | Gaissorn       |
+| Niederer     | Franz       | Landwirt                  | Gaissau        |
+| Nünnan       | Johann      | Gemeindevertr.            | Gaissarn       |
+| Näherer      | Albert      | Kutscher                  | Gaissarn       |
+| Lutz         | Gebhard     | Landwirt                  | Gaissorn       |
+| Lutz         | Anton       | Zimmermeister             | Gaissau        |
+| Nagel        | Fridolin    | Oberknecht                | Gaissern       |
+| Lutz         | Peter       | Maler                     | Gaissorn       |
+| Ploner       | Alois       | Landwirt                  | Gaissau        |
+| Pluner       | Paul        | Wagner                    | Gaissorn       |
+| Giltenbrand  | Johann      | Gemeindevorsteher         | Gaissorn       |
+| Lutz         | Johann      | Sticker                   | Gaissorn       |
+| Prinzing     | J. Ludwig   | Landwirt                  | Gaissau        |
+| Vogel        | Paul        | Landwirt                  | Gaissorn       |
+| Vogel        | Johann      | Maler                     | Gaissorn       |
+| Vogel        | Roger       | Landwirt                  | Gaissorn       |
+| Vogel        | Josef Anton | Landwirt                  | Gaissorn       |
+| Näher        | Franz       | Landwirt                  | Gaissorn       |
+| Lutz         | Wilhelm     | Gärtner                   | Gaissorn       |
+| Fischer      | Jakob       | Maurer                    | Gaissorn       |
+| Lutz         | Johann      | Landwirt                  | Gaissorn       |
+| Lutz         | Hermann     | Landwirt                  | Gaissorn       |
+| Nägele       | Ferdinand   | Landwirt                  | Gaissorn       |
+| Niederer     | Ferdinand   | Landwirt                  | Gaissorn       |
+| Nägele       | Paul        | Mechaniker                | Gaissorn       |
+| Vogele       | Josef       | Landwirt                  | Gaissorn       |
+| Nägele       | Wilhelm     | Landwirt                  | Gaissorn       |
+| Schmidlinger | Heinrich    | Landwirt                  | Gaissorn       |
+| Grüßner      | Paul        | Taglöhner                 | Gaissorn       |
+
+**6. Überprüfungen bezüglich Sprachen, Schriftarten und Beschädigungen:**
+*   **Sprache:** Das Dokument ist deutschsprachig. Eine Übersetzung ins Deutsche ist daher nicht erforderlich.
+*   **Schriftart (Fraktur):** Die Transkription der in Fraktur verfassten Überschriften wurde auf Richtigkeit überprüft.
+*   **Beschädigungen:** Die festgestellten blauen Linien durch "Fr" und "S." sind beide entzifferbar. Der vollständige Text an diesen Stellen wurde transkribiert. Es gab keine unentzifferbaren Stellen.
+
+**7. Überprüfung der Herkunft der Informationen:**
+Alle Informationen für diese Transkription stammen ausschließlich aus dem angehängten Dokument. Es wurden keinerlei externe Quellen oder der eingangs bereitgestellte Kontext zur Durchführung der Transkription herangezogen.
+
+Alle Schritte wurden in der vorgeschriebenen Reihenfolge eingehalten und ausgeführt.

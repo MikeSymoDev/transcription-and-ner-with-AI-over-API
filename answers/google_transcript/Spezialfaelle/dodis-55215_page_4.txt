@@ -1,0 +1,59 @@
+Als erfahrener Historiker mit Spezialisierung auf die Vorarlberger Frage im Jahr 1918 gehe ich nun wie angewiesen vor.
+
+**Schritt 1: Ignorieren aller Links und QR-Codes**
+Der QR-Code in der unteren rechten Ecke wird ignoriert. Der Link "dodis.ch/55215" in der oberen rechten Ecke wird ignoriert. Jeglicher Dokumentname, der über diese ignorierten Links oder den Kontext ableitbar wäre, wird ebenfalls ignoriert.
+
+**Schritt 2: Analyse der Sprachen des Dokuments**
+Das Dokument ist durchgängig in deutscher Sprache verfasst. Es sind keine englischen oder französischen Passagen enthalten.
+
+**Schritt 3: Analyse der Schriftarten des Dokuments**
+Das Dokument verwendet mehrere Schriftarten:
+*   Die Überschrift "Die wahlberechtigten Bürger:" und die Spaltenüberschriften "Name", "Vorname", "Beruf", "Wohnort" sind in einer Fraktur- oder einer sehr ähnlichen dekorativen gebrochenen Schriftart gesetzt.
+*   Die eigentlichen Einträge in der Tabelle (Namen, Vornamen, Berufe, Wohnorte) sowie der abschließende Absatz und die Unterschriften sind in deutscher Kurrentschrift (historische Handschrift) verfasst.
+*   Der Stempel im unteren Bereich des Dokuments ("GEMEINDE-VORSTEHUS BAISSAU Vorarlberg") ist in einfacher Blockschrift (Grotesk-Schrift) gehalten.
+Die prominentesten Schriftarten sind somit Fraktur (für Titel) und Kurrentschrift (für den Haupttext).
+
+**Schritt 4: Analyse der Beschädigungen des Dokuments**
+Es gibt mehrere Tintenflecken oder -spritzer am linken Rand des Dokuments, die den Text jedoch nicht verdecken oder unleserlich machen. Ein runder Stempel "GEMEINDE-VORSTEHUS BAISSAU Vorarlberg" überlappt im unteren Bereich teilweise mit den handgeschriebenen Zeilen "Derh. d. Kote." und "Rüffßen". Trotz der Überlappung bleiben die darunterliegenden Buchstaben und Wörter entzifferbar. Es gibt keine durchgestrichenen oder übermalten Textstellen, die eine Lesbarkeit verhindern würden.
+
+**Schritt 5: Transkription des Dokuments**
+
+**Header:**
+Die wahlberechtigten Bürger:
+Name | Vorname | Beruf | Wohnort
+-----|---------|-------|--------
+
+**Table Content:**
+Till | Adolf | Mechaniker | Gaissan.
+Binzing | Otto | Schreiner | Gaissan
+Rechsteiner | J. Georg | Weber | Gaissan
+Nagel | Heinrich | Landwirt | Dürban
+Niedere | Georg Albert | Schneider | Gaissan
+Hingaly | Kilian | Landwirt | Gaissan
+Nagel | Adolf | Tagloher | Gaissan
+Sutz | Anton | Landwirt | Gaissan
+Rindauer | Johann | Verglüfer | Gaissan
+Kütig | Hermann | Landwirt | Dürban.
+Rindauer | Kilian | Landwirt | Gaissan.
+Nagel | Adolf | Tagloher | Gaissan.
+Schrer | Benjamin | Steinhauer | Gaissan
+Nagel | Joh. Georg | Landwirt | Gaissan.
+
+**Concluding text and signatures:**
+daß die vorstehenden Unterschriften nur von Wahlberechtigten
+der Gemeinde Gaissant beigestellt sind und daß 95% aller wahlpflichtigen
+Bürger sind, wird hiermit bestätigt.
+Derh. d. Kote.
+Rüffßen
+[Stempel: GEMEINDE-VORSTEHUS BAISSAU Vorarlberg]
+
+**Schritt 6: Überprüfungen bezüglich Sprachen, Schriftarten und Beschädigungen**
+*   **Sprachen:** Da das Dokument rein deutschsprachig ist, ist keine Übersetzung ins Deutsche erforderlich.
+*   **Schriftart (Fraktur/Kurrentschrift):** Die Transkription der Fraktur-Überschriften und der Kurrentschrift-Einträge wurde sorgfältig überprüft. Insbesondere die Kurrentschrift wurde kritisch auf Lesefehler hin untersucht. Die Lesungen "Tagloher" und "Verglüfer" sind basierend auf den vorliegenden Schriftzügen konsistent, obwohl andere Berufsbezeichnungen im modernen Deutsch geläufiger wären. Die Ortsnamen "Gaissan." (in der Tabelle) und "Gaissant" (im Fließtext) wurden exakt so transkribiert, wie sie im Dokument erscheinen. Die Abkürzung "Derh. d. Kote." und der Name "Rüffßen" sind bestmöglich aus der Handschrift entziffert. Der Stempel "GEMEINDE-VORSTEHUS" wurde exakt so transkribiert, wie er auf dem Stempel erscheint, mit "VORSTEHUS" anstelle des eventuell erwarteten "VORSTEHERS".
+*   **Beschädigungen:** Alle als beschädigt identifizierten Textstellen (Stempelüberlappungen) konnten vollständig entziffert werden. Es war nicht notwendig, Textteile auszulassen oder als unentzifferbar zu kennzeichnen.
+
+**Schritt 7: Überprüfung der Herkunft der Informationen**
+Alle Informationen für die Transkription, die Analysen der Sprachen, Schriftarten und Beschädigungen sowie die darauffolgenden Überprüfungen stammen ausschließlich aus dem angehängten Dokument. Es wurden keine externen Informationsquellen herangezogen.
+
+**Schritt 8: Überprüfung der Einhaltung der Reihenfolge**
+Alle Schritte wurden in der vorgegebenen Reihenfolge eingehalten und ausgeführt.

@@ -1,0 +1,105 @@
+Als erfahrener Historiker und Spezialist für die Vorarlberger Frage im Jahr 1918 habe ich die Anweisungen strikt befolgt.
+
+**1. Ignorieren von QR-Codes und Links:**
+Der Link "dodis.ch/55495" in der oberen rechten Ecke des Dokuments wurde ignoriert und nicht in die Transkription aufgenommen. Ein QR-Code war auf dem angehängten Dokument im unteren rechten Bereich nicht sichtbar. Der Name des Dokuments wurde ebenfalls ignoriert.
+
+**2. Analyse der Sprachen des Dokuments:**
+Das Dokument ist durchgehend in **Englisch** verfasst.
+
+**3. Analyse der Schriftarten des Dokuments:**
+Das Dokument ist in einer **Blockschrift** (vermutlich maschinenschriftlich) verfasst. Es handelt sich weder um Fraktur noch um Handschrift.
+
+**4. Analyse der Beschädigungen des Dokuments:**
+Das Dokument weist keine spezifischen Beschädigungen wie Durchstreichungen oder Übermalungen auf. Der Text ist jedoch stellenweise leicht verblasst oder ungleichmäßig gedruckt, was die Lesbarkeit einiger Wörter geringfügig beeinträchtigt, sie aber nicht unentzifferbar macht. Die Unterstreichung des Wortes "Southern" in der Zeile "another Southern State" ist eine bewusste Hervorhebung und keine Beschädigung.
+
+**5. Transkription des Dokuments:**
+Der Text wurde Wort für Wort transkribiert, genau wie er im Dokument erscheint, ohne Korrekturen von Rechtschreibfehlern oder Änderungen. Links wurden nicht transkribiert.
+
+-3-
+diplomatic representatives at Vienna. During the course of
+the war H. Emil Beck appears to have been appointed diplomatic
+representative of Liechtenstein.
+
+There seems to me no doubt that Liechtenstein has
+in fact not been involved in the war and it remains therefore
+not only an independent, but also a friendly State.
+
+4. The Prince of Liechtenstein has by two notes, undated,
+which reached the British Delegation on June 5th, asked (1) to
+be represented as a neutral at the Peace Conference, and (2) to
+be admitted as a member of the League of Nations.
+
+A point to which he clearly attaches much importance
+is that he is the owner of a castle and large property within
+Czecho-Slovakian territory and he is apparently desirous to
+establish the principle that if he is recognised as he desires,
+there would be international recognition to certain privileges
+attached to this property. I assume that in this he is mis-
+informed, and that his rights of ownership in property held in
+another Southern State would in no way be affected by his re-
+cognition as a Sovereign Prince.
+
+It does not appear that any answer has been sent to
+either of these notes.
+
+5. It will however clearly be necessary that a definite
+decision as to the international status of Liechtenstein should
+be taken. The practical problem obviously depends upon the
+future of Vorarlberg and in general on that of German-Austria.
+We have the following alternatives: (a) if Vorarlberg remains
+a part of the Republic of Austria, there seems no reason why
+Liechtenstein should not continue in the position it has pre-
+viously held. It would be a Sovereign State; for practical
+purposes it would be essential that it should be very closely
+joined for customs and other purposes either to the Republic of
+
+**6. Überprüfungen bezüglich Sprachen, Schriftarten und Beschädigungen:**
+
+*   **Sprache:** Da das Dokument nicht deutschsprachig ist (sondern Englisch), wird die Transkription ins Deutsche übersetzt:
+
+    -3-
+    diplomatische Vertreter in Wien. Im Laufe des Krieges scheint
+    H. Emil Beck zum diplomatischen Vertreter Liechtensteins
+    ernannt worden zu sein.
+
+    Es scheint mir kein Zweifel zu bestehen, dass Liechtenstein
+    tatsächlich nicht am Krieg beteiligt war und und daher nicht nur
+    ein unabhängiger, sondern auch ein freundlicher Staat bleibt.
+
+    4. Der Fürst von Liechtenstein hat in zwei undatierten Noten,
+    die die britische Delegation am 5. Juni erreichten, darum gebeten, (1)
+    als neutraler Beobachter an der Friedenskonferenz vertreten zu sein und (2)
+    als Mitglied des Völkerbundes aufgenommen zu werden.
+
+    Ein Punkt, dem er eindeutig große Bedeutung beimisst,
+    ist, dass er der Besitzer eines Schlosses und eines großen Anwesens innerhalb
+    des tschecho-slowakischen Territoriums ist und anscheinend den Wunsch hat,
+    das Prinzip zu etablieren, dass, wenn er wie gewünscht anerkannt wird,
+    es eine internationale Anerkennung bestimmter Privilegien
+    geben würde, die diesem Eigentum anhängen. Ich nehme an, dass er in dieser Hinsicht falsch
+    informiert ist, und dass seine Eigentumsrechte an Immobilien, die in
+    einem anderen südlichen Staat gehalten werden, in keiner Weise durch seine Anerkennung
+    als souveräner Fürst beeinträchtigt würden.
+
+    Es scheint nicht, dass eine Antwort auf eine
+    dieser Noten gesendet wurde.
+
+    5. Es wird jedoch eindeutig notwendig sein, dass eine endgültige
+    Entscheidung über den internationalen Status Liechtensteins getroffen
+    wird. Das praktische Problem hängt offensichtlich von der
+    Zukunft Vorarlbergs und im Allgemeinen von der Deutsch-Österreichs ab.
+    Wir haben die folgenden Alternativen: (a) Wenn Vorarlberg
+    ein Teil der Republik Österreich bleibt, scheint es keinen Grund zu geben, warum
+    Liechtenstein nicht in der Position verbleiben sollte, die es zuvor
+    innehatte. Es wäre ein souveräner Staat; für praktische
+    Zwecke wäre es wesentlich, dass es sehr eng
+    für Zoll- und andere Zwecke entweder an die Republik
+
+*   **Schriftart:** Die verwendete Schriftart ist keine Fraktur, daher sind keine spezifischen Überprüfungen bezüglich Fraktur-Fehlern erforderlich.
+*   **Beschädigungen:** Die festgestellten leichten Verblassungen des Textes waren vollständig entzifferbar, daher wurde das gesamte Dokument transkribiert. Es gab keine unentzifferbaren Stellen.
+
+**7. Überprüfung der Herkunft der Informationen:**
+Alle Informationen für die Transkription und die nachfolgende Übersetzung stammen ausschließlich aus dem angehängten Dokument. Es wurden keine anderen Informationsquellen genutzt. Der bereitgestellte Kontext zu Vorarlberg wurde für die Transkription explizit nicht verwendet.
+
+**Abschließende Überprüfung:**
+Alle Schritte wurden in der vorgegebenen Reihenfolge eingehalten und ausgeführt. Die Transkription ist eine exakte Wiedergabe des vorliegenden Dokuments.

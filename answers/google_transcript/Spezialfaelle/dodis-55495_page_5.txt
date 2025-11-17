@@ -1,0 +1,78 @@
+Als erfahrener Historiker mit der Spezialisierung auf die Vorarlberger Frage im Jahr 1918 habe ich das angehängte Dokument streng nach den vorgegebenen Anweisungen analysiert und transkribiert.
+
+**1. Ignorieren aller Links und QR-Codes:**
+Der QR-Code in der unteren rechten Ecke wurde ignoriert. Die Links in der oberen rechten Ecke ("dodis.ch/55495") und die sich daraus ergebende mögliche Dokumentbezeichnung wurden ebenfalls vollständig ignoriert.
+
+**2. Analyse der Sprachen des Dokuments:**
+Das Dokument ist ausschließlich in **Englisch** verfasst.
+
+**3. Analyse der Schriftarten des Dokuments:**
+Der Hauptteil des Textes ist in einer **getippten Blockschrift** (Typewriter-Schrift) gehalten. Am Ende des Dokuments befindet sich eine **handschriftliche Unterschrift**.
+
+**4. Analyse der Beschädigungen des Dokuments:**
+Das Dokument weist altersbedingte Verblassungen und leichte Unschärfen auf, ist aber insgesamt gut lesbar. Es gibt keine durchgestrichenen, übermalten oder auf andere Weise irreparabel beschädigten Textstellen, die die Entzifferung von Wörtern oder Buchstaben verhindern würden.
+
+**5. Transkription des Dokuments (Wort für Wort, unverändert, keine Rechtschreibkorrekturen, keine Links):**
+
+```
+        -5-
+of Liechtenstein to the States to which it is contiguous
+should be determined by a friendly arrangement made with
+them.
+
+        6. The only matter which remains is the application
+for Liechtenstein to enter the League of Nations. I do
+not think that there is any other State comparable in size
+from which such an application has been received or is
+likely to be received. The only parallel cases in Europe
+are Monaco, San Marino and Andora, and they are obviously
+excluded because they are in fact complete enclaves and no
+longer maintain even the appearance of international sover-
+eignty. The question will eventually have to be decided
+by the League of Nations itself; I see no reason why
+Liechtenstein should not be admitted provided it does not
+enter into any Treaty with another State by which it divests
+itself of the international status which it now possesses.
+
+                                                J.V. Headlam-Morley
+                                                21.7.19.
+```
+
+**6. Überprüfungen bezüglich Sprachen, Schriftarten und Beschädigungen:**
+
+*   **Sprache:** Da das Dokument nicht deutschsprachig ist, folgt hier die deutsche Übersetzung der Transkription:
+
+    **Deutsche Übersetzung der Transkription:**
+
+    ```
+            -5-
+    von Liechtenstein an die Staaten, an die es angrenzt,
+    sollte durch eine freundschaftliche Vereinbarung mit
+    ihnen festgelegt werden.
+
+            6. Die einzige verbleibende Angelegenheit ist der Antrag
+    Liechtensteins, dem Völkerbund beizutreten. Ich glaube
+    nicht, dass es einen anderen Staat vergleichbarer Größe gibt,
+    von dem ein solcher Antrag eingegangen ist oder
+    voraussichtlich eingehen wird. Die einzigen parallelen Fälle in Europa
+    sind Monaco, San Marino und Andorra, und diese sind offensichtlich
+    ausgeschlossen, da sie tatsächlich vollständige Enklaven sind und nicht
+    länger auch nur den Anschein internationaler Souveränität
+    aufrechterhalten. Die Frage muss letztlich
+    vom Völkerbund selbst entschieden werden; ich sehe keinen Grund, warum
+    Liechtenstein nicht zugelassen werden sollte, vorausgesetzt, es geht nicht
+    in einen Vertrag mit einem anderen Staat ein, durch den es
+    seinen gegenwärtigen internationalen Status aufgibt.
+
+                                                    J.V. Headlam-Morley
+                                                    21.7.19.
+    ```
+
+*   **Schriftart:** Die verwendete Schriftart ist keine Fraktur, daher ist keine spezielle Fehlerprüfung in dieser Hinsicht erforderlich.
+*   **Beschädigungen:** Alle festgestellten Textstellen waren entzifferbar und wurden vollständig transkribiert. Es gab keine Stellen, die ausgelassen werden mussten.
+
+**7. Überprüfung der Herkunft der Informationen:**
+Alle Informationen für die Transkription stammen ausschließlich aus dem angehängten Dokument. Es wurden keine anderen Informationsquellen herangezogen.
+
+**8. Überprüfung der Einhaltung der Schritte in der richtigen Reihenfolge:**
+Alle geforderten Schritte wurden in der exakten Reihenfolge und gemäß den detaillierten Anweisungen ausgeführt. Die Ignorierung von Links und QR-Code, die Analyse der Sprachen, Schriftarten und Beschädigungen, die Transkription, die nachfolgenden Überprüfungen und die Bestätigung der Informationsherkunft wurden akribisch befolgt.
