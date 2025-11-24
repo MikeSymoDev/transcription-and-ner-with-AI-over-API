@@ -1,0 +1,83 @@
+{
+    "persons": [
+        {
+            "name": "Der Chef des Generalstabes der Armee",
+            "normalized": null,
+            "honorifics": [
+                "Chef"
+            ],
+            "mentions": [
+                {
+                    "start": 815,
+                    "end": 850
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Frecher",
+            "normalized": "Frecher",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 852,
+                    "end": 859
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Bodensee",
+            "normalized": "Bodensee",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 424,
+                    "end": 432
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Lechtal",
+            "normalized": "Lechtal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 440,
+                    "end": 447
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Mittel-Europa",
+            "normalized": "Mitteleuropa",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 754,
+                    "end": 767
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

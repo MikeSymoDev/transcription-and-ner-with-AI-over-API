@@ -1,0 +1,268 @@
+{
+    "persons": [
+        {
+            "name": "Motta",
+            "normalized": "Motta",
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 257,
+                    "end": 262
+                },
+                {
+                    "start": 467,
+                    "end": 472
+                },
+                {
+                    "start": 704,
+                    "end": 709
+                },
+                {
+                    "start": 1139,
+                    "end": 1144
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Contat",
+            "normalized": "Contat",
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 310,
+                    "end": 316
+                },
+                {
+                    "start": 581,
+                    "end": 587
+                },
+                {
+                    "start": 1279,
+                    "end": 1285
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Decoppet",
+            "normalized": "Decoppet",
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 474,
+                    "end": 481
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schulthess",
+            "normalized": "Schulthess",
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 483,
+                    "end": 492
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Calonder",
+            "normalized": "Calonder",
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 494,
+                    "end": 501
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Haab",
+            "normalized": "Haab",
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 503,
+                    "end": 507
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "M\u00fcller",
+            "normalized": "M\u00fcller",
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 520,
+                    "end": 526
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ador",
+            "normalized": "Ador",
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 540,
+                    "end": 544
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Steiger",
+            "normalized": "Steiger",
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 569,
+                    "end": 575
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Paris",
+            "normalized": "Paris",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 23,
+                    "end": 28
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Allemagne",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 49,
+                    "end": 59
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Odense",
+            "normalized": "Odense",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 93,
+                    "end": 99
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 628,
+                    "end": 638
+                },
+                {
+                    "start": 789,
+                    "end": 799
+                },
+                {
+                    "start": 891,
+                    "end": 901
+                },
+                {
+                    "start": 949,
+                    "end": 959
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Wurttemberg",
+            "normalized": "W\u00fcrttemberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 830,
+                    "end": 841
+                },
+                {
+                    "start": 963,
+                    "end": 974
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Suisse",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 849,
+                    "end": 855
+                },
+                {
+                    "start": 918,
+                    "end": 924
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

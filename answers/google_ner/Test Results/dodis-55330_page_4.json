@@ -1,0 +1,106 @@
+{
+    "persons": [],
+    "places": [
+        {
+            "name": "VORARLBERG",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": 47.25,
+                "lon": 9.75
+            },
+            "mentions": [
+                {
+                    "start": 30,
+                    "end": 40
+                },
+                {
+                    "start": 437,
+                    "end": 448
+                },
+                {
+                    "start": 626,
+                    "end": 636
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "FELDKIRCH",
+            "normalized": "Feldkirch",
+            "geo": {
+                "lat": 47.23722,
+                "lon": 9.59694
+            },
+            "mentions": [
+                {
+                    "start": 91,
+                    "end": 100
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "DORN BIRN",
+            "normalized": "Dornbirn",
+            "geo": {
+                "lat": 47.38333,
+                "lon": 9.75
+            },
+            "mentions": [
+                {
+                    "start": 116,
+                    "end": 125
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "St. Gallen",
+            "normalized": "St. Gallen",
+            "geo": {
+                "lat": 47.4244,
+                "lon": 9.3789
+            },
+            "mentions": [
+                {
+                    "start": 210,
+                    "end": 220
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": 46.8182,
+                "lon": 8.2275
+            },
+            "mentions": [
+                {
+                    "start": 474,
+                    "end": 480
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "INDUSTRIELLEN"
+        },
+        {
+            "denomination": null,
+            "eco": "INDUSTRIE"
+        },
+        {
+            "denomination": null,
+            "eco": "Verbandsleitung"
+        },
+        {
+            "denomination": null,
+            "eco": "Industriellen"
+        }
+    ]
+}

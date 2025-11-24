@@ -22,7 +22,7 @@ output_cost_per_mio_in_dollars = 10
 
 # Change input directory to the specific folder
 
-input_dir = "../pdf_data_transcript/..."
+input_dir = "../pdf_data_transcript/spezial"
 output_dir = "../answers/google_transcript"
 os.makedirs(output_dir, exist_ok=True)
 
@@ -132,6 +132,8 @@ for root, _, filenames in os.walk(input_dir):
 
                 except Exception as e:
                     print(f"\n❌ Fehler bei Seite {i+1} von {filename}: {e}")
+
+                    
 
 #  Summary 
 end_time = time.time()
