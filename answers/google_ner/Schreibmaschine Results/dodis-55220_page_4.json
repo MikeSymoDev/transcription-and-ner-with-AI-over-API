@@ -1,0 +1,221 @@
+{
+    "persons": [
+        {
+            "name": "Scharfl",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 164,
+                    "end": 171
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Dr. Ender",
+            "normalized": null,
+            "honorifics": [
+                "Dr.",
+                "Landeshauptmann",
+                "Herr"
+            ],
+            "mentions": [
+                {
+                    "start": 509,
+                    "end": 518
+                },
+                {
+                    "start": 918,
+                    "end": 927
+                },
+                {
+                    "start": 1215,
+                    "end": 1224
+                },
+                {
+                    "start": 1335,
+                    "end": 1344
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Major Stingelin",
+            "normalized": null,
+            "honorifics": [
+                "Major",
+                "Herr"
+            ],
+            "mentions": [
+                {
+                    "start": 591,
+                    "end": 606
+                },
+                {
+                    "start": 940,
+                    "end": 951
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Monsieur Calonder",
+            "normalized": null,
+            "honorifics": [
+                "Herr"
+            ],
+            "mentions": [
+                {
+                    "start": 846,
+                    "end": 863
+                },
+                {
+                    "start": 1157,
+                    "end": 1168
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "M. Vetsch",
+            "normalized": null,
+            "honorifics": [
+                "Herr"
+            ],
+            "mentions": [
+                {
+                    "start": 930,
+                    "end": 939
+                },
+                {
+                    "start": 1303,
+                    "end": 1312
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Tyrol",
+            "normalized": "Tirol",
+            "geo": {
+                "lat": 47.25,
+                "lon": 11.38
+            },
+            "mentions": [
+                {
+                    "start": 78,
+                    "end": 83
+                },
+                {
+                    "start": 133,
+                    "end": 138
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Carinthie",
+            "normalized": "Kärnten",
+            "geo": {
+                "lat": 46.75,
+                "lon": 13.9
+            },
+            "mentions": [
+                {
+                    "start": 85,
+                    "end": 94
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Salzbourg",
+            "normalized": "Salzburg",
+            "geo": {
+                "lat": 47.8095,
+                "lon": 13.055
+            },
+            "mentions": [
+                {
+                    "start": 96,
+                    "end": 105
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vienne",
+            "normalized": "Wien",
+            "geo": {
+                "lat": 48.2082,
+                "lon": 16.3738
+            },
+            "mentions": [
+                {
+                    "start": 218,
+                    "end": 224
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": 47.25,
+                "lon": 9.9
+            },
+            "mentions": [
+                {
+                    "start": 366,
+                    "end": 378
+                },
+                {
+                    "start": 530,
+                    "end": 540
+                },
+                {
+                    "start": 637,
+                    "end": 647
+                },
+                {
+                    "start": 1007,
+                    "end": 1017
+                },
+                {
+                    "start": 1261,
+                    "end": 1271
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Feldkirch",
+            "normalized": "Feldkirch",
+            "geo": {
+                "lat": 47.2372,
+                "lon": 9.5959
+            },
+            "mentions": [
+                {
+                    "start": 574,
+                    "end": 583
+                },
+                {
+                    "start": 729,
+                    "end": 738
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

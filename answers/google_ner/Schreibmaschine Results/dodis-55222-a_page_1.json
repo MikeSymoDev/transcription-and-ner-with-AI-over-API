@@ -1,0 +1,232 @@
+{
+    "persons": [],
+    "places": [
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10
+                },
+                {
+                    "start": 270,
+                    "end": 280
+                },
+                {
+                    "start": 686,
+                    "end": 696
+                },
+                {
+                    "start": 835,
+                    "end": 845
+                },
+                {
+                    "start": 978,
+                    "end": 988
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Tyrol",
+            "normalized": "Tirol",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 104,
+                    "end": 109
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Switzerland",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 147,
+                    "end": 158
+                },
+                {
+                    "start": 285,
+                    "end": 296
+                },
+                {
+                    "start": 489,
+                    "end": 500
+                },
+                {
+                    "start": 737,
+                    "end": 748
+                },
+                {
+                    "start": 1217,
+                    "end": 1228
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bavaria",
+            "normalized": "Bayern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 191,
+                    "end": 198
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Liechtenstein",
+            "normalized": "Liechtenstein",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 221,
+                    "end": 234
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rhine",
+            "normalized": "Rhein",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 457,
+                    "end": 462
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Constance",
+            "normalized": "Bodensee",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 556,
+                    "end": 565
+                },
+                {
+                    "start": 792,
+                    "end": 801
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "South-Germany",
+            "normalized": "Süddeutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 820,
+                    "end": 833
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Dornbirn",
+            "normalized": "Dornbirn",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1011,
+                    "end": 1018
+                },
+                {
+                    "start": 1056,
+                    "end": 1063
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Feldkirch",
+            "normalized": "Feldkirch",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1118,
+                    "end": 1127
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Austria",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1205,
+                    "end": 1212
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": "römisch-katholisch",
+            "eco": null
+        },
+        {
+            "denomination": "katholisch",
+            "eco": null
+        },
+        {
+            "denomination": "christlich-sozialistisch",
+            "eco": null
+        },
+        {
+            "denomination": "Jesuit",
+            "eco": null
+        },
+        {
+            "denomination": null,
+            "eco": "Industrie"
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "persons": [
+        {
+            "name": "Calonder",
+            "normalized": "Calonder",
+            "honorifics": [
+                "Conseiller fédéral"
+            ],
+            "mentions": [
+                {
+                    "start": 256,
+                    "end": 264
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Seippel",
+            "normalized": "Seippel",
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 738,
+                    "end": 745
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Martin",
+            "normalized": "Martin",
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 784,
+                    "end": 790
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Suisse",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 19,
+                    "end": 25
+                },
+                {
+                    "start": 489,
+                    "end": 495
+                },
+                {
+                    "start": 1049,
+                    "end": 1055
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Berne",
+            "normalized": "Bern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 57,
+                    "end": 62
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 149,
+                    "end": 168
+                },
+                {
+                    "start": 341,
+                    "end": 351
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Suisse allemande",
+            "normalized": "Deutschschweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 538,
+                    "end": 554
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Suisse romande",
+            "normalized": "Romandie",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 579,
+                    "end": 593
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Genève",
+            "normalized": "Genf",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 729,
+                    "end": 735
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Jura Bernois",
+            "normalized": "Berner Jura",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 813,
+                    "end": 825
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

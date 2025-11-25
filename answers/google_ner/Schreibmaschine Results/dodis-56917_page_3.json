@@ -1,0 +1,341 @@
+{
+    "persons": [
+        {
+            "name": "Verwaltungsrat",
+            "normalized": null,
+            "honorifics": [
+                "Verwaltungsrat"
+            ],
+            "mentions": [
+                {
+                    "start": 35,
+                    "end": 49
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Aktionären",
+            "normalized": null,
+            "honorifics": [
+                "Aktionären"
+            ],
+            "mentions": [
+                {
+                    "start": 62,
+                    "end": 72
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bediensteten",
+            "normalized": null,
+            "honorifics": [
+                "Bediensteten"
+            ],
+            "mentions": [
+                {
+                    "start": 1923,
+                    "end": 1935
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rudolf Herburger",
+            "normalized": "Rudolf Herburger",
+            "honorifics": [
+                "Wagenführer"
+            ],
+            "mentions": [
+                {
+                    "start": 2003,
+                    "end": 2018
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Johann Schwendinger",
+            "normalized": "Johann Schwendinger",
+            "honorifics": [
+                "Oberbauarbeiter"
+            ],
+            "mentions": [
+                {
+                    "start": 2056,
+                    "end": 2074
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Johann Zoppel",
+            "normalized": "Johann Zoppel",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 2115,
+                    "end": 2128
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Leo Zoppel",
+            "normalized": "Leo Zoppel",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 2147,
+                    "end": 2157
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Daniel Albrich",
+            "normalized": "Daniel Albrich",
+            "honorifics": [
+                "Elektromonteur"
+            ],
+            "mentions": [
+                {
+                    "start": 2176,
+                    "end": 2190
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Peter v. d. Thannen",
+            "normalized": "Peter von der Thannen",
+            "honorifics": [
+                "Werkmann"
+            ],
+            "mentions": [
+                {
+                    "start": 2223,
+                    "end": 2243
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Johann Paterno",
+            "normalized": "Johann Paterno",
+            "honorifics": [
+                "Bahnmeister"
+            ],
+            "mentions": [
+                {
+                    "start": 2272,
+                    "end": 2287
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bedienstete",
+            "normalized": null,
+            "honorifics": [
+                "Bedienstete"
+            ],
+            "mentions": [
+                {
+                    "start": 2341,
+                    "end": 2352
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Siegmund Rauch",
+            "normalized": "Siegmund Rauch",
+            "honorifics": [
+                "Bediensteter",
+                "Kondukteur"
+            ],
+            "mentions": [
+                {
+                    "start": 2405,
+                    "end": 2419
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Dornbirner",
+            "normalized": "Dornbirn",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1424,
+                    "end": 1433
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Galizien",
+            "normalized": "Galizien",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 2028,
+                    "end": 2036
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Südtirol",
+            "normalized": "Südtirol",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 2200,
+                    "end": 2208
+                },
+                {
+                    "start": 2297,
+                    "end": 2305
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Turkestan",
+            "normalized": "Turkestan",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 2253,
+                    "end": 2262
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Geschäftsbericht"
+        },
+        {
+            "denomination": null,
+            "eco": "Geschäftsjahr"
+        },
+        {
+            "denomination": null,
+            "eco": "Tariferhöhung"
+        },
+        {
+            "denomination": null,
+            "eco": "Aktientilgung"
+        },
+        {
+            "denomination": null,
+            "eco": "Zinsendienstes"
+        },
+        {
+            "denomination": null,
+            "eco": "Stammaktien"
+        },
+        {
+            "denomination": null,
+            "eco": "Zinsen"
+        },
+        {
+            "denomination": null,
+            "eco": "Personenverkehr"
+        },
+        {
+            "denomination": null,
+            "eco": "Güterverkehr"
+        },
+        {
+            "denomination": null,
+            "eco": "Tonnenzahl"
+        },
+        {
+            "denomination": null,
+            "eco": "Einnahmen"
+        },
+        {
+            "denomination": null,
+            "eco": "Tariferhöhung"
+        },
+        {
+            "denomination": null,
+            "eco": "Betriebsrechnung"
+        },
+        {
+            "denomination": null,
+            "eco": "Betriebsausgaben"
+        },
+        {
+            "denomination": null,
+            "eco": "Materialpreise"
+        },
+        {
+            "denomination": null,
+            "eco": "Betriebsmaterial"
+        },
+        {
+            "denomination": null,
+            "eco": "Betriebserfordernisse"
+        },
+        {
+            "denomination": null,
+            "eco": "Verkehrseinschränkung"
+        },
+        {
+            "denomination": null,
+            "eco": "Verkehrsanforderungen"
+        },
+        {
+            "denomination": null,
+            "eco": "kreditierte Transporte"
+        },
+        {
+            "denomination": null,
+            "eco": "Tariferhöhung"
+        },
+        {
+            "denomination": null,
+            "eco": "Verteuerung"
+        },
+        {
+            "denomination": null,
+            "eco": "Betriebserfordernisse"
+        },
+        {
+            "denomination": null,
+            "eco": "Frequenz"
+        },
+        {
+            "denomination": null,
+            "eco": "Geschäftsjahr"
+        },
+        {
+            "denomination": null,
+            "eco": "Abschluß"
+        }
+    ]
+}

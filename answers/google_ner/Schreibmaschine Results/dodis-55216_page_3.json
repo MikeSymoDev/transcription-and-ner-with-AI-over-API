@@ -1,0 +1,220 @@
+{
+    "persons": [
+        {
+            "name": "Petenten",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 322,
+                    "end": 330
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Kanton St.Gallen",
+            "normalized": "Kanton St. Gallen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 444,
+                    "end": 460
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "st.gallischen Bezirk Unterrheintal",
+            "normalized": "Sankt Gallischer Bezirk Unterrheintal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 473,
+                    "end": 506
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Eidgenossenschaft",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 526,
+                    "end": 543
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Landes",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 622,
+                    "end": 628
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "Fussacher",
+            "normalized": "Fussach",
+            "geo": {
+                "lat": 47.472778,
+                "lon": 9.689722
+            },
+            "mentions": [
+                {
+                    "start": 745,
+                    "end": 754
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "st.gallischer",
+            "normalized": "Sankt Gallen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 986,
+                    "end": 998
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "verarlbergischen",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1052,
+                    "end": 1067
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "ost-schweizerischen",
+            "normalized": "Ostschweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1222,
+                    "end": 1241
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Höchst",
+            "normalized": "Höchst",
+            "geo": {
+                "lat": 47.476111,
+                "lon": 9.658611
+            },
+            "mentions": [
+                {
+                    "start": 1307,
+                    "end": 1313
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Gaissau",
+            "normalized": "Gaißau",
+            "geo": {
+                "lat": 47.470556,
+                "lon": 9.605
+            },
+            "mentions": [
+                {
+                    "start": 1318,
+                    "end": 1325
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "vorarlbergischen",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1391,
+                    "end": 1407
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "„Rheindeltas\"",
+            "normalized": "Rheindelta",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1500,
+                    "end": 1512
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "wirtschaftlichen"
+        },
+        {
+            "denomination": null,
+            "eco": "landwirtschaftliches"
+        },
+        {
+            "denomination": null,
+            "eco": "Bewirtschaftung"
+        },
+        {
+            "denomination": null,
+            "eco": "Landesindustrie"
+        },
+        {
+            "denomination": null,
+            "eco": "Stickerei"
+        }
+    ]
+}

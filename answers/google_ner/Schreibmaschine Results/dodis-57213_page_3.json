@@ -1,0 +1,292 @@
+{
+    "persons": [
+        {
+            "name": "Oberbauinspektorat",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1285,
+                    "end": 1303
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Dornbirn",
+            "normalized": "Dornbirn",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 137,
+                    "end": 145
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Deltagemeinden",
+            "normalized": "Deltagemeinden",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 169,
+                    "end": 183
+                },
+                {
+                    "start": 579,
+                    "end": 593
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rheindelta",
+            "normalized": "Rheindelta",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 331,
+                    "end": 341
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rheinholz",
+            "normalized": "Rheinholz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 343,
+                    "end": 352
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rheinbett",
+            "normalized": "Rheinbett",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 405,
+                    "end": 414
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Höchst",
+            "normalized": "Höchst",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 447,
+                    "end": 453
+                },
+                {
+                    "start": 506,
+                    "end": 512
+                },
+                {
+                    "start": 743,
+                    "end": 749
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Fussach",
+            "normalized": "Fussach",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 459,
+                    "end": 466
+                },
+                {
+                    "start": 513,
+                    "end": 520
+                },
+                {
+                    "start": 734,
+                    "end": 741
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Gaissau",
+            "normalized": "Gaissau",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 472,
+                    "end": 479
+                },
+                {
+                    "start": 521,
+                    "end": 528
+                },
+                {
+                    "start": 725,
+                    "end": 732
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rheingemeinden",
+            "normalized": "Rheingemeinden",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 655,
+                    "end": 669
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 674,
+                    "end": 686
+                },
+                {
+                    "start": 787,
+                    "end": 797
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rhein",
+            "normalized": "Rhein",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 371,
+                    "end": 377
+                },
+                {
+                    "start": 988,
+                    "end": 999
+                },
+                {
+                    "start": 1546,
+                    "end": 1551
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bodensee",
+            "normalized": "Bodensee",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1552,
+                    "end": 1560
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Korporationen"
+        },
+        {
+            "denomination": null,
+            "eco": "Private)"
+        },
+        {
+            "denomination": null,
+            "eco": "Kriegsanleihe"
+        },
+        {
+            "denomination": null,
+            "eco": "Hypothekarwesen"
+        },
+        {
+            "denomination": null,
+            "eco": "Kapital"
+        },
+        {
+            "denomination": null,
+            "eco": "Banken"
+        },
+        {
+            "denomination": null,
+            "eco": "Privaten"
+        },
+        {
+            "denomination": null,
+            "eco": "Anlagen"
+        },
+        {
+            "denomination": null,
+            "eco": "Vermögen"
+        },
+        {
+            "denomination": null,
+            "eco": "finanziellen Lasten"
+        },
+        {
+            "denomination": null,
+            "eco": "finanziellen Verpflichtungen"
+        },
+        {
+            "denomination": null,
+            "eco": "fiskalische Momente"
+        },
+        {
+            "denomination": null,
+            "eco": "Schifffahrtsverkehrs"
+        }
+    ]
+}

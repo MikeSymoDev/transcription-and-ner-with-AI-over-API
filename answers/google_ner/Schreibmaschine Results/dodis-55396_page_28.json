@@ -1,0 +1,244 @@
+{
+    "persons": [
+        {
+            "name": "Dr.Carl Zumstein",
+            "normalized": "Carl Zumstein",
+            "honorifics": [
+                "Dr."
+            ],
+            "mentions": [
+                {
+                    "start": 31,
+                    "end": 46
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Minister Dr.Riedel",
+            "normalized": "Riedel",
+            "honorifics": [
+                "Minister",
+                "Dr."
+            ],
+            "mentions": [
+                {
+                    "start": 85,
+                    "end": 102
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Sonderbotschafter Lohr",
+            "normalized": "Lohr",
+            "honorifics": [
+                "Sonderbotschafter"
+            ],
+            "mentions": [
+                {
+                    "start": 187,
+                    "end": 209
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Staatssekretär Prof.Hallstein",
+            "normalized": "Hallstein",
+            "honorifics": [
+                "Staatssekretär",
+                "Prof."
+            ],
+            "mentions": [
+                {
+                    "start": 214,
+                    "end": 243
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bürgermeister Josef Ritsch",
+            "normalized": "Josef Ritsch",
+            "honorifics": [
+                "Bürgermeister"
+            ],
+            "mentions": [
+                {
+                    "start": 1109,
+                    "end": 1134
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Buchdrucker Josef Müller",
+            "normalized": "Josef Müller",
+            "honorifics": [
+                "Buchdrucker"
+            ],
+            "mentions": [
+                {
+                    "start": 1269,
+                    "end": 1293
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Reiseleiter Ludwig Ottmann",
+            "normalized": "Ludwig Ottmann",
+            "honorifics": [
+                "Reiseleiter"
+            ],
+            "mentions": [
+                {
+                    "start": 1300,
+                    "end": 1326
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Bregenz",
+            "normalized": "Bregenz",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 51,
+                    "end": 58
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Wien",
+            "normalized": "Wien",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 108,
+                    "end": 112
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Walsertal",
+            "normalized": "Walsertal",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 117,
+                    "end": 126
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schreckenmähdern",
+            "normalized": "Schreckenmäder",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 301,
+                    "end": 317
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Walmending",
+            "normalized": "Walmending",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 322,
+                    "end": 332
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Mittelberg",
+            "normalized": "Mittelberg",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 347,
+                    "end": 357
+                },
+                {
+                    "start": 433,
+                    "end": 443
+                },
+                {
+                    "start": 494,
+                    "end": 504
+                },
+                {
+                    "start": 1530,
+                    "end": 1540
+                },
+                {
+                    "start": 1756,
+                    "end": 1766
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Riezlern",
+            "normalized": "Riezlern",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 1243,
+                    "end": 1251
+                },
+                {
+                    "start": 1797,
+                    "end": 1805
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Alpenwald",
+            "normalized": "Alpenwald",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 1735,
+                    "end": 1744
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Baad",
+            "normalized": "Baad",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 1746,
+                    "end": 1750
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Bautätigkeit"
+        },
+        {
+            "denomination": null,
+            "eco": "Fremdenverkehr"
+        }
+    ]
+}

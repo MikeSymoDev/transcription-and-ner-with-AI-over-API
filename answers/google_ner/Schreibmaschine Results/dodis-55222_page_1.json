@@ -1,0 +1,202 @@
+{
+    "persons": [],
+    "places": [
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": 47.25,
+                "lon": 9.75
+            },
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10
+                },
+                {
+                    "start": 15,
+                    "end": 25
+                },
+                {
+                    "start": 27,
+                    "end": 37
+                },
+                {
+                    "start": 234,
+                    "end": 244
+                },
+                {
+                    "start": 436,
+                    "end": 446
+                },
+                {
+                    "start": 545,
+                    "end": 555
+                },
+                {
+                    "start": 658,
+                    "end": 668
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Switzerland",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": 46.8182,
+                "lon": 8.2275
+            },
+            "mentions": [
+                {
+                    "start": 129,
+                    "end": 141
+                },
+                {
+                    "start": 249,
+                    "end": 260
+                },
+                {
+                    "start": 358,
+                    "end": 369
+                },
+                {
+                    "start": 468,
+                    "end": 479
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Tyrol",
+            "normalized": "Tirol",
+            "geo": {
+                "lat": 47.25,
+                "lon": 11.25
+            },
+            "mentions": [
+                {
+                    "start": 157,
+                    "end": 162
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bavaria",
+            "normalized": "Bayern",
+            "geo": {
+                "lat": 48.79,
+                "lon": 11.49
+            },
+            "mentions": [
+                {
+                    "start": 187,
+                    "end": 194
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Liechtenstein",
+            "normalized": "Liechtenstein",
+            "geo": {
+                "lat": 47.166,
+                "lon": 9.55
+            },
+            "mentions": [
+                {
+                    "start": 215,
+                    "end": 228
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rhine",
+            "normalized": "Rhein",
+            "geo": {
+                "lat": 47.55,
+                "lon": 9.58
+            },
+            "mentions": [
+                {
+                    "start": 350,
+                    "end": 355
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Constance",
+            "normalized": "Bodensee",
+            "geo": {
+                "lat": 47.5833,
+                "lon": 9.3333
+            },
+            "mentions": [
+                {
+                    "start": 399,
+                    "end": 408
+                },
+                {
+                    "start": 502,
+                    "end": 511
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "South-Germany",
+            "normalized": "Süddeutschland",
+            "geo": {
+                "lat": 48.5,
+                "lon": 10.5
+            },
+            "mentions": [
+                {
+                    "start": 528,
+                    "end": 541
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Dornbirn",
+            "normalized": "Dornbirn",
+            "geo": {
+                "lat": 47.4125,
+                "lon": 9.74
+            },
+            "mentions": [
+                {
+                    "start": 687,
+                    "end": 694
+                },
+                {
+                    "start": 746,
+                    "end": 753
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": "katholisch",
+            "eco": null
+        },
+        {
+            "denomination": "christlich",
+            "eco": null
+        },
+        {
+            "denomination": null,
+            "eco": "industry"
+        },
+        {
+            "denomination": null,
+            "eco": "weaving and spinning industry"
+        }
+    ]
+}

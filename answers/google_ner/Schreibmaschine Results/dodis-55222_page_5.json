@@ -1,0 +1,170 @@
+{
+    "persons": [
+        {
+            "name": "Dr. Ritter",
+            "normalized": "Ritter",
+            "honorifics": [
+                "Dr."
+            ],
+            "mentions": [
+                {
+                    "start": 57,
+                    "end": 67
+                },
+                {
+                    "start": 765,
+                    "end": 775
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Dr. Ender",
+            "normalized": "Ender",
+            "honorifics": [
+                "Dr."
+            ],
+            "mentions": [
+                {
+                    "start": 410,
+                    "end": 419
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "manufacturers",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 247,
+                    "end": 261
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": 47.23,
+                "lon": 9.71
+            },
+            "mentions": [
+                {
+                    "start": 93,
+                    "end": 103
+                },
+                {
+                    "start": 315,
+                    "end": 325
+                },
+                {
+                    "start": 570,
+                    "end": 580
+                },
+                {
+                    "start": 855,
+                    "end": 865
+                },
+                {
+                    "start": 998,
+                    "end": 1008
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Switzerland",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": 46.8182,
+                "lon": 8.2275
+            },
+            "mentions": [
+                {
+                    "start": 143,
+                    "end": 154
+                },
+                {
+                    "start": 942,
+                    "end": 953
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Germany",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": 51.1657,
+                "lon": 10.4515
+            },
+            "mentions": [
+                {
+                    "start": 160,
+                    "end": 167
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "St. Gall",
+            "normalized": "St. Gallen",
+            "geo": {
+                "lat": 47.4245,
+                "lon": 9.3768
+            },
+            "mentions": [
+                {
+                    "start": 282,
+                    "end": 290
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bavaria",
+            "normalized": "Bayern",
+            "geo": {
+                "lat": 48.7904,
+                "lon": 11.4979
+            },
+            "mentions": [
+                {
+                    "start": 695,
+                    "end": 702
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Wurttemberg",
+            "normalized": "Württemberg",
+            "geo": {
+                "lat": 48.6653,
+                "lon": 9.6975
+            },
+            "mentions": [
+                {
+                    "start": 753,
+                    "end": 763
+                },
+                {
+                    "start": 928,
+                    "end": 938
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "industry"
+        }
+    ]
+}

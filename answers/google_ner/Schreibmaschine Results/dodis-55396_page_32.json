@@ -1,0 +1,310 @@
+{
+    "persons": [
+        {
+            "name": "Udo Schack",
+            "normalized": "Udo Schack",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1221,
+                    "end": 1230
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Gendarm Koweindl",
+            "normalized": "Koweindl",
+            "honorifics": [
+                "Gendarm"
+            ],
+            "mentions": [
+                {
+                    "start": 1475,
+                    "end": 1490
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Wolfgang",
+            "normalized": "Wolfgang",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1517,
+                    "end": 1525
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "Herbert Köberle",
+            "normalized": "Herbert Köberle",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1530,
+                    "end": 1545
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Riezlern",
+            "normalized": "Riezlern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 297,
+                    "end": 305
+                },
+                {
+                    "start": 1146,
+                    "end": 1154
+                },
+                {
+                    "start": 1541,
+                    "end": 1549
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Hirschegg",
+            "normalized": "Hirschegg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 310,
+                    "end": 319
+                },
+                {
+                    "start": 395,
+                    "end": 403
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Mittelberg",
+            "normalized": "Mittelberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 408,
+                    "end": 418
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bregenz",
+            "normalized": "Bregenz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 462,
+                    "end": 469
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bludenz",
+            "normalized": "Bludenz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 509,
+                    "end": 516
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Kempten",
+            "normalized": "Kempten",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 517,
+                    "end": 524
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Riezl",
+            "normalized": "Riezlern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 785,
+                    "end": 789
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Walmendingerhorn",
+            "normalized": "Walmendingerhorn",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 863,
+                    "end": 879
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Sonthofen",
+            "normalized": "Sonthofen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1195,
+                    "end": 1204
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Zweibrücken",
+            "normalized": "Zweibrücken",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1243,
+                    "end": 1253
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Lauterach",
+            "normalized": "Lauterach",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1495,
+                    "end": 1504
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Feldkirch",
+            "normalized": "Feldkirch",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1804,
+                    "end": 1813
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Mark"
+        },
+        {
+            "denomination": null,
+            "eco": "Bautätigkeit"
+        },
+        {
+            "denomination": null,
+            "eco": "Fremdenverkehr"
+        },
+        {
+            "denomination": null,
+            "eco": "Geschäftshäuser"
+        },
+        {
+            "denomination": null,
+            "eco": "Fremdendienst"
+        },
+        {
+            "denomination": null,
+            "eco": "Wasserversorgung"
+        },
+        {
+            "denomination": null,
+            "eco": "Seilbahn"
+        },
+        {
+            "denomination": null,
+            "eco": "Winzersaison"
+        },
+        {
+            "denomination": null,
+            "eco": "Gäste"
+        },
+        {
+            "denomination": null,
+            "eco": "Nächtigung"
+        },
+        {
+            "denomination": null,
+            "eco": "Sommersaison"
+        },
+        {
+            "denomination": null,
+            "eco": "Bankraub"
+        },
+        {
+            "denomination": null,
+            "eco": "Kreissparkasse"
+        },
+        {
+            "denomination": null,
+            "eco": "Banküberfall"
+        },
+        {
+            "denomination": null,
+            "eco": "Geld"
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "persons": [],
+    "places": [
+        {
+            "name": "Switzerland",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 33,
+                    "end": 44
+                },
+                {
+                    "start": 774,
+                    "end": 785
+                },
+                {
+                    "start": 1083,
+                    "end": 1094
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "St. Gall",
+            "normalized": "St. Gallen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 61,
+                    "end": 69
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Germany",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 298,
+                    "end": 305
+                },
+                {
+                    "start": 468,
+                    "end": 475
+                },
+                {
+                    "start": 826,
+                    "end": 833
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rhine valley",
+            "normalized": "Rheintal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 424,
+                    "end": 436
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 490,
+                    "end": 500
+                },
+                {
+                    "start": 812,
+                    "end": 822
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

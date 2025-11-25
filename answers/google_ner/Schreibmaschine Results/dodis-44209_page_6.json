@@ -1,0 +1,106 @@
+{
+    "persons": [
+        {
+            "name": "Volk",
+            "normalized": "Volk",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 148,
+                    "end": 152
+                },
+                {
+                    "start": 396,
+                    "end": 400
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Stände",
+            "normalized": "Stände",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 163,
+                    "end": 170
+                },
+                {
+                    "start": 405,
+                    "end": 411
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Behörden",
+            "normalized": "Behörden",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 259,
+                    "end": 267
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Führung",
+            "normalized": "Führung",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 686,
+                    "end": 693
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Schweizervolkes",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 200,
+                    "end": 216
+                },
+                {
+                    "start": 709,
+                    "end": 740
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberger-volk",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 553,
+                    "end": 571
+                },
+                {
+                    "start": 818,
+                    "end": 834
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

@@ -1,0 +1,256 @@
+{
+    "persons": [
+        {
+            "name": "Kunzaus",
+            "normalized": "Kunzaus",
+            "honorifics": [
+                "Gendarmeriezentralkommandant",
+                "General"
+            ],
+            "mentions": [
+                {
+                    "start": 652,
+                    "end": 659
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Holaubek",
+            "normalized": "Holaubek",
+            "honorifics": [
+                "Polizeipräsident"
+            ],
+            "mentions": [
+                {
+                    "start": 686,
+                    "end": 694
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Hans Duffner",
+            "normalized": "Hans Duffner",
+            "honorifics": [
+                "Besitzer"
+            ],
+            "mentions": [
+                {
+                    "start": 1494,
+                    "end": 1506
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Riezlern",
+            "normalized": "Riezlern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 55,
+                    "end": 63
+                },
+                {
+                    "start": 205,
+                    "end": 213
+                },
+                {
+                    "start": 348,
+                    "end": 356
+                },
+                {
+                    "start": 929,
+                    "end": 937
+                },
+                {
+                    "start": 1042,
+                    "end": 1050
+                },
+                {
+                    "start": 1162,
+                    "end": 1170
+                },
+                {
+                    "start": 1476,
+                    "end": 1484
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Mittelberg",
+            "normalized": "Mittelberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 218,
+                    "end": 228
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Kleinwalsertaler",
+            "normalized": "Kleinwalsertal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 313,
+                    "end": 329
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Wien",
+            "normalized": "Wien",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 669,
+                    "end": 673
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Dürenboden",
+            "normalized": "Dürenboden",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 858,
+                    "end": 868
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Loch",
+            "normalized": "Loch",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1154,
+                    "end": 1158
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Hirschegg",
+            "normalized": "Hirschegg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1201,
+                    "end": 1210
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Tal",
+            "normalized": "Kleinwalsertal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1246,
+                    "end": 1249
+                }
+            ],
+            "confidence": 0.7
+        },
+        {
+            "name": "Gehrenspitze",
+            "normalized": "Gehrenspitze",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1319,
+                    "end": 1331
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Kanzelwand",
+            "normalized": "Kanzelwand",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1362,
+                    "end": 1372
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Riezlern-Loch",
+            "normalized": "Riezlern-Loch",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1713,
+                    "end": 1726
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Fremdenverkehrsstatistik"
+        },
+        {
+            "denomination": null,
+            "eco": "Steigerung"
+        },
+        {
+            "denomination": null,
+            "eco": "Gesamtschaden"
+        },
+        {
+            "denomination": null,
+            "eco": "Million Mark"
+        }
+    ]
+}

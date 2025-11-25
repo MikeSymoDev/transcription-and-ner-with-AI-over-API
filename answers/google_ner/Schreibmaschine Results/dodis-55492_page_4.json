@@ -1,0 +1,161 @@
+{
+    "persons": [
+        {
+            "name": "A.W.G.R.",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 604,
+                    "end": 610
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "George Saunders",
+            "normalized": "George Saunders",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1017,
+                    "end": 1032
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "J.W. Headlam-Morley Esq.",
+            "normalized": "J.W. Headlam-Morley",
+            "honorifics": [
+                "Esq."
+            ],
+            "mentions": [
+                {
+                    "start": 1056,
+                    "end": 1079
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "American officer",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 813,
+                    "end": 829
+                }
+            ],
+            "confidence": 0.9
+        }
+    ],
+    "places": [
+        {
+            "name": "St. Gall",
+            "normalized": "St. Gallen",
+            "geo": {
+                "lat": 47.4245,
+                "lon": 9.3767
+            },
+            "mentions": [
+                {
+                    "start": 70,
+                    "end": 78
+                },
+                {
+                    "start": 211,
+                    "end": 219
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": 47.2458,
+                "lon": 9.9406
+            },
+            "mentions": [
+                {
+                    "start": 132,
+                    "end": 142
+                },
+                {
+                    "start": 238,
+                    "end": 248
+                },
+                {
+                    "start": 555,
+                    "end": 565
+                },
+                {
+                    "start": 702,
+                    "end": 712
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Tyrol",
+            "normalized": "Tirol",
+            "geo": {
+                "lat": 47.2667,
+                "lon": 11.396
+            },
+            "mentions": [
+                {
+                    "start": 567,
+                    "end": 572
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Liechtenstein",
+            "normalized": "Liechtenstein",
+            "geo": {
+                "lat": 47.166,
+                "lon": 9.555
+            },
+            "mentions": [
+                {
+                    "start": 577,
+                    "end": 590
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "PARIS.",
+            "normalized": "Paris",
+            "geo": {
+                "lat": 48.8566,
+                "lon": 2.3522
+            },
+            "mentions": [
+                {
+                    "start": 1104,
+                    "end": 1110
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": "katholisch",
+            "eco": null
+        },
+        {
+            "denomination": null,
+            "eco": "Industrialisten"
+        },
+        {
+            "denomination": null,
+            "eco": "Industrie"
+        }
+    ]
+}

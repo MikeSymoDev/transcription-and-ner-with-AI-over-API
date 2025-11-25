@@ -1,0 +1,271 @@
+{
+    "persons": [
+        {
+            "name": "Grünenfelder",
+            "normalized": "Grünenfelder",
+            "honorifics": [
+                "Herr",
+                "Nationalrat"
+            ],
+            "mentions": [
+                {
+                    "start": 22,
+                    "end": 44
+                },
+                {
+                    "start": 351,
+                    "end": 373
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Beck",
+            "normalized": "Beck",
+            "honorifics": [
+                "Dr."
+            ],
+            "mentions": [
+                {
+                    "start": 74,
+                    "end": 82
+                },
+                {
+                    "start": 935,
+                    "end": 943
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ernährungsdirektor",
+            "normalized": "Ernährungsdirektor",
+            "honorifics": [
+                "Herr"
+            ],
+            "mentions": [
+                {
+                    "start": 508,
+                    "end": 529
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Lardi",
+            "normalized": "Lardi",
+            "honorifics": [
+                "Herr",
+                "Minister"
+            ],
+            "mentions": [
+                {
+                    "start": 975,
+                    "end": 995
+                },
+                {
+                    "start": 1022,
+                    "end": 1035
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bundespräsidenten",
+            "normalized": "Bundespräsident",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1004,
+                    "end": 1019
+                },
+                {
+                    "start": 1159,
+                    "end": 1174
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Direktor des Ernährungsamtes",
+            "normalized": "Direktor des Ernährungsamtes",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1045,
+                    "end": 1072
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Jenny",
+            "normalized": "Jenny",
+            "honorifics": [
+                "Herr",
+                "Fabrikant"
+            ],
+            "mentions": [
+                {
+                    "start": 1195,
+                    "end": 1215
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Arbenz",
+            "normalized": "Arbenz",
+            "honorifics": [
+                "Direktor"
+            ],
+            "mentions": [
+                {
+                    "start": 1243,
+                    "end": 1258
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Flums",
+            "normalized": "Flums",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 48,
+                    "end": 53
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 436,
+                    "end": 446
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Deutschland",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 490,
+                    "end": 501
+                },
+                {
+                    "start": 574,
+                    "end": 585
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Liechtensteins",
+            "normalized": "Liechtenstein",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 597,
+                    "end": 611
+                },
+                {
+                    "start": 1089,
+                    "end": 1102
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 618,
+                    "end": 624
+                },
+                {
+                    "start": 673,
+                    "end": 679
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rumänien",
+            "normalized": "Rumänien",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 704,
+                    "end": 712
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ziegelbrücke",
+            "normalized": "Ziegelbrücke",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1219,
+                    "end": 1230
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Triesen",
+            "normalized": "Triesen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1262,
+                    "end": 1268
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

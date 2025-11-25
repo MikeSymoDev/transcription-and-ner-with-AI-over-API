@@ -1,0 +1,247 @@
+{
+    "persons": [
+        {
+            "name": "Landesregierung",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 15
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bankleute",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 105,
+                    "end": 114
+                },
+                {
+                    "start": 533,
+                    "end": 542
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Verfasser",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1445,
+                    "end": 1454
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Staatsbeamten",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1032,
+                    "end": 1045
+                },
+                {
+                    "start": 1481,
+                    "end": 1494
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Beamtenkaste",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1150,
+                    "end": 1162
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Beamter",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1421,
+                    "end": 1428
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Vorarlberger",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 134,
+                    "end": 146
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "österreichischen",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 170,
+                    "end": 185
+                },
+                {
+                    "start": 1068,
+                    "end": 1083
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "österreichische",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 769,
+                    "end": 784
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 784,
+                    "end": 794
+                },
+                {
+                    "start": 998,
+                    "end": 1008
+                },
+                {
+                    "start": 1572,
+                    "end": 1582
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 851,
+                    "end": 857
+                },
+                {
+                    "start": 907,
+                    "end": 913
+                },
+                {
+                    "start": 1500,
+                    "end": 1506
+                },
+                {
+                    "start": 1599,
+                    "end": 1605
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Vermögensabgabe"
+        },
+        {
+            "denomination": null,
+            "eco": "Kapitalien"
+        },
+        {
+            "denomination": null,
+            "eco": "Werttiteln"
+        },
+        {
+            "denomination": null,
+            "eco": "Pfandbriefen"
+        },
+        {
+            "denomination": null,
+            "eco": "Kommunalobligationen"
+        },
+        {
+            "denomination": null,
+            "eco": "Kriegsanleihe"
+        },
+        {
+            "denomination": null,
+            "eco": "Kronen"
+        },
+        {
+            "denomination": null,
+            "eco": "Notenumlauf"
+        },
+        {
+            "denomination": null,
+            "eco": "wirtschaftliche Struktur"
+        },
+        {
+            "denomination": null,
+            "eco": "Pensionen"
+        },
+        {
+            "denomination": null,
+            "eco": "Invalidenversorgung"
+        },
+        {
+            "denomination": null,
+            "eco": "Beamtenwirtschaft"
+        },
+        {
+            "denomination": null,
+            "eco": "Gehaltes"
+        },
+        {
+            "denomination": null,
+            "eco": "Prämienreserve"
+        },
+        {
+            "denomination": null,
+            "eco": "Witwen- und Waisenversorgung"
+        }
+    ]
+}

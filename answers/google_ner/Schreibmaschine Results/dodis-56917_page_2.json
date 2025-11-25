@@ -1,0 +1,286 @@
+{
+    "persons": [
+        {
+            "name": "Johann Cornet",
+            "normalized": null,
+            "honorifics": [
+                "Herr",
+                "Statthaltereirat"
+            ],
+            "mentions": [
+                {
+                    "start": 57,
+                    "end": 70
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Otto Zumtobel",
+            "normalized": null,
+            "honorifics": [
+                "Herr"
+            ],
+            "mentions": [
+                {
+                    "start": 99,
+                    "end": 112
+                },
+                {
+                    "start": 623,
+                    "end": 636
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Engelbert Luger",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 156,
+                    "end": 171
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Adolf Rhomberg",
+            "normalized": null,
+            "honorifics": [
+                "Exz."
+            ],
+            "mentions": [
+                {
+                    "start": 230,
+                    "end": 244
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Albert Hämmerle",
+            "normalized": null,
+            "honorifics": [
+                "Herr"
+            ],
+            "mentions": [
+                {
+                    "start": 307,
+                    "end": 322
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Eduard Alge",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 388,
+                    "end": 399
+                },
+                {
+                    "start": 650,
+                    "end": 661
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Albert Winsauer",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 459,
+                    "end": 474
+                },
+                {
+                    "start": 675,
+                    "end": 690
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Victor Hämmerle",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 534,
+                    "end": 549
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Julius Diem",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 606,
+                    "end": 617
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Gottfried Hofer",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 708,
+                    "end": 723
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ludwig Wratzfeld",
+            "normalized": null,
+            "honorifics": [
+                "Herr"
+            ],
+            "mentions": [
+                {
+                    "start": 787,
+                    "end": 803
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Hermann Bösch",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 872,
+                    "end": 885
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rudolf Künz",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 932,
+                    "end": 944
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Josef Fessler",
+            "normalized": null,
+            "honorifics": [
+                "Herr"
+            ],
+            "mentions": [
+                {
+                    "start": 1001,
+                    "end": 1014
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Dornbirn",
+            "normalized": null,
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 129,
+                    "end": 137
+                },
+                {
+                    "start": 194,
+                    "end": 202
+                },
+                {
+                    "start": 490,
+                    "end": 498
+                },
+                {
+                    "start": 565,
+                    "end": 573
+                },
+                {
+                    "start": 833,
+                    "end": 841
+                },
+                {
+                    "start": 960,
+                    "end": 968
+                },
+                {
+                    "start": 1028,
+                    "end": 1036
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": null,
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 279,
+                    "end": 289
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Lustenau",
+            "normalized": null,
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 361,
+                    "end": 369
+                },
+                {
+                    "start": 430,
+                    "end": 438
+                },
+                {
+                    "start": 739,
+                    "end": 747
+                },
+                {
+                    "start": 902,
+                    "end": 910
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

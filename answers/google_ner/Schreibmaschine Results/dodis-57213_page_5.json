@@ -1,0 +1,202 @@
+{
+    "persons": [],
+    "places": [
+        {
+            "name": "Rheindelta",
+            "normalized": "Rheindelta",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 42,
+                    "end": 52
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "St. Gallens",
+            "normalized": "St. Gallen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 102,
+                    "end": 113
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Höchst.",
+            "normalized": "Höchst",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 206,
+                    "end": 212
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Fussach.",
+            "normalized": "Fussach",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 214,
+                    "end": 221
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Gaissau.",
+            "normalized": "Gaissau",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 223,
+                    "end": 230
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Abgaben"
+        },
+        {
+            "denomination": null,
+            "eco": "Abschreibungen"
+        },
+        {
+            "denomination": null,
+            "eco": "Aktivrest"
+        },
+        {
+            "denomination": null,
+            "eco": "Approvisionierungs-Ausgaben"
+        },
+        {
+            "denomination": null,
+            "eco": "Armenversorgung"
+        },
+        {
+            "denomination": null,
+            "eco": "Ausgaben"
+        },
+        {
+            "denomination": null,
+            "eco": "Besoldungen"
+        },
+        {
+            "denomination": null,
+            "eco": "Empfang"
+        },
+        {
+            "denomination": null,
+            "eco": "Eingangsbilanz"
+        },
+        {
+            "denomination": null,
+            "eco": "Einnahmen"
+        },
+        {
+            "denomination": null,
+            "eco": "Fonds"
+        },
+        {
+            "denomination": null,
+            "eco": "Gesamt - Empfang"
+        },
+        {
+            "denomination": null,
+            "eco": "Hauptempfang"
+        },
+        {
+            "denomination": null,
+            "eco": "Kapitalien"
+        },
+        {
+            "denomination": null,
+            "eco": "Löhnungen"
+        },
+        {
+            "denomination": null,
+            "eco": "Mobilien"
+        },
+        {
+            "denomination": null,
+            "eco": "Passivkapitalien"
+        },
+        {
+            "denomination": null,
+            "eco": "Passivstand"
+        },
+        {
+            "denomination": null,
+            "eco": "Realitäten"
+        },
+        {
+            "denomination": null,
+            "eco": "Rechten"
+        },
+        {
+            "denomination": null,
+            "eco": "Rechnungen"
+        },
+        {
+            "denomination": null,
+            "eco": "Rechnungswesen"
+        },
+        {
+            "denomination": null,
+            "eco": "Rückständen"
+        },
+        {
+            "denomination": null,
+            "eco": "Spareinlagen"
+        },
+        {
+            "denomination": null,
+            "eco": "Steuern"
+        },
+        {
+            "denomination": null,
+            "eco": "Total"
+        },
+        {
+            "denomination": null,
+            "eco": "Vermögensbestand"
+        },
+        {
+            "denomination": null,
+            "eco": "Vermögensausweis"
+        },
+        {
+            "denomination": null,
+            "eco": "Widerstellung"
+        },
+        {
+            "denomination": null,
+            "eco": "Zinsen"
+        }
+    ]
+}

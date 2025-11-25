@@ -1,0 +1,268 @@
+{
+    "persons": [
+        {
+            "name": "Ador",
+            "normalized": null,
+            "honorifics": [
+                "M.",
+                "président"
+            ],
+            "mentions": [
+                {
+                    "start": 158,
+                    "end": 162
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Calonder",
+            "normalized": null,
+            "honorifics": [
+                "M.",
+                "conseiller fédéral"
+            ],
+            "mentions": [
+                {
+                    "start": 82,
+                    "end": 90
+                },
+                {
+                    "start": 298,
+                    "end": 306
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Contat",
+            "normalized": null,
+            "honorifics": [
+                "M.",
+                "vice-chancelier"
+            ],
+            "mentions": [
+                {
+                    "start": 218,
+                    "end": 224
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Decoppet",
+            "normalized": null,
+            "honorifics": [
+                "M.",
+                "conseiller fédéral"
+            ],
+            "mentions": [
+                {
+                    "start": 72,
+                    "end": 80
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Haab",
+            "normalized": null,
+            "honorifics": [
+                "M.",
+                "conseiller fédéral"
+            ],
+            "mentions": [
+                {
+                    "start": 92,
+                    "end": 96
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Käppeli",
+            "normalized": null,
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 229,
+                    "end": 236
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Max Huber",
+            "normalized": "Max Huber",
+            "honorifics": [
+                "M.",
+                "prof."
+            ],
+            "mentions": [
+                {
+                    "start": 1026,
+                    "end": 1035
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Miller",
+            "normalized": null,
+            "honorifics": [
+                "M.",
+                "conseiller fédéral"
+            ],
+            "mentions": [
+                {
+                    "start": 64,
+                    "end": 70
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Motta",
+            "normalized": null,
+            "honorifics": [
+                "M.",
+                "conseiller fédéral"
+            ],
+            "mentions": [
+                {
+                    "start": 57,
+                    "end": 62
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rappard",
+            "normalized": null,
+            "honorifics": [
+                "M.",
+                "professeur"
+            ],
+            "mentions": [
+                {
+                    "start": 353,
+                    "end": 360
+                },
+                {
+                    "start": 913,
+                    "end": 920
+                },
+                {
+                    "start": 1007,
+                    "end": 1014
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schulthess",
+            "normalized": null,
+            "honorifics": [
+                "M.",
+                "conseiller fédéral"
+            ],
+            "mentions": [
+                {
+                    "start": 127,
+                    "end": 137
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Steiger",
+            "normalized": null,
+            "honorifics": [
+                "M.",
+                "chancelier"
+            ],
+            "mentions": [
+                {
+                    "start": 189,
+                    "end": 196
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Genève",
+            "normalized": "Genf",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 449,
+                    "end": 455
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Paris",
+            "normalized": "Paris",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 405,
+                    "end": 410
+                },
+                {
+                    "start": 1056,
+                    "end": 1061
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Suisse",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 369,
+                    "end": 375
+                },
+                {
+                    "start": 512,
+                    "end": 518
+                },
+                {
+                    "start": 591,
+                    "end": 597
+                },
+                {
+                    "start": 709,
+                    "end": 715
+                },
+                {
+                    "start": 981,
+                    "end": 987
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

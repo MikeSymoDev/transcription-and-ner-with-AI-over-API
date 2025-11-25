@@ -1,0 +1,84 @@
+{
+    "persons": [],
+    "places": [
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 50,
+                    "end": 60
+                },
+                {
+                    "start": 257,
+                    "end": 267
+                },
+                {
+                    "start": 558,
+                    "end": 568
+                },
+                {
+                    "start": 725,
+                    "end": 735
+                },
+                {
+                    "start": 1081,
+                    "end": 1091
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 277,
+                    "end": 284
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Deutschösterreich",
+            "normalized": "Deutschösterreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 298,
+                    "end": 315
+                },
+                {
+                    "start": 582,
+                    "end": 599
+                },
+                {
+                    "start": 749,
+                    "end": 766
+                },
+                {
+                    "start": 985,
+                    "end": 1002
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

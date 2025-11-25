@@ -1,0 +1,127 @@
+{
+    "persons": [
+        {
+            "name": "Maschinenwärter",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 41,
+                    "end": 57
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Uebertrag"
+        },
+        {
+            "denomination": null,
+            "eco": "Umformerstation"
+        },
+        {
+            "denomination": null,
+            "eco": "Gehälter"
+        },
+        {
+            "denomination": null,
+            "eco": "Materialien"
+        },
+        {
+            "denomination": null,
+            "eco": "Stromverbrauch"
+        },
+        {
+            "denomination": null,
+            "eco": "Bahnbetriebsstrom"
+        },
+        {
+            "denomination": null,
+            "eco": "Beleuchtung"
+        },
+        {
+            "denomination": null,
+            "eco": "Werkstätte"
+        },
+        {
+            "denomination": null,
+            "eco": "Motor"
+        },
+        {
+            "denomination": null,
+            "eco": "Licht"
+        },
+        {
+            "denomination": null,
+            "eco": "Verwaltungsgebäude"
+        },
+        {
+            "denomination": null,
+            "eco": "Kanzleien"
+        },
+        {
+            "denomination": null,
+            "eco": "Diensträume"
+        },
+        {
+            "denomination": null,
+            "eco": "Dienstwohnung"
+        },
+        {
+            "denomination": null,
+            "eco": "Personalausrüstung"
+        },
+        {
+            "denomination": null,
+            "eco": "Monturen"
+        },
+        {
+            "denomination": null,
+            "eco": "Reparaturen"
+        },
+        {
+            "denomination": null,
+            "eco": "Werkzeuge"
+        },
+        {
+            "denomination": null,
+            "eco": "Utensilien"
+        },
+        {
+            "denomination": null,
+            "eco": "Geräte"
+        },
+        {
+            "denomination": null,
+            "eco": "Neuanschaffungen"
+        },
+        {
+            "denomination": null,
+            "eco": "Konto"
+        },
+        {
+            "denomination": null,
+            "eco": "Ausgaben"
+        },
+        {
+            "denomination": null,
+            "eco": "Wertabschreibungen"
+        },
+        {
+            "denomination": null,
+            "eco": "Summe"
+        },
+        {
+            "denomination": null,
+            "eco": "Einnahmen"
+        },
+        {
+            "denomination": null,
+            "eco": "Ueberschuß"
+        }
+    ]
+}

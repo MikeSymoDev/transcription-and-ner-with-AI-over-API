@@ -1,0 +1,256 @@
+{
+    "persons": [
+        {
+            "name": "Fachleute",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1060,
+                    "end": 1068
+                }
+            ],
+            "confidence": 0.9
+        }
+    ],
+    "places": [
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 56,
+                    "end": 62
+                },
+                {
+                    "start": 609,
+                    "end": 619
+                },
+                {
+                    "start": 1072,
+                    "end": 1078
+                },
+                {
+                    "start": 1098,
+                    "end": 1108
+                },
+                {
+                    "start": 1196,
+                    "end": 1202
+                },
+                {
+                    "start": 1326,
+                    "end": 1330
+                },
+                {
+                    "start": 1494,
+                    "end": 1505
+                },
+                {
+                    "start": 1630,
+                    "end": 1642
+                },
+                {
+                    "start": 1897,
+                    "end": 1908
+                },
+                {
+                    "start": 1963,
+                    "end": 1973
+                },
+                {
+                    "start": 2280,
+                    "end": 2292
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Oesterreich",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 944,
+                    "end": 954
+                },
+                {
+                    "start": 1238,
+                    "end": 1251
+                },
+                {
+                    "start": 1679,
+                    "end": 1693
+                },
+                {
+                    "start": 1920,
+                    "end": 1930
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1512,
+                    "end": 1519
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Republik Deutsch-Oesterreich",
+            "normalized": "Republik Deutschösterreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1817,
+                    "end": 1845
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Landessteuerzuschläge"
+        },
+        {
+            "denomination": null,
+            "eco": "Einnahmen"
+        },
+        {
+            "denomination": null,
+            "eco": "Landessteuern"
+        },
+        {
+            "denomination": null,
+            "eco": "Zuschläge"
+        },
+        {
+            "denomination": null,
+            "eco": "Biertsteuer"
+        },
+        {
+            "denomination": null,
+            "eco": "Staatssteuern"
+        },
+        {
+            "denomination": null,
+            "eco": "Gemeindezuschläge"
+        },
+        {
+            "denomination": null,
+            "eco": "Landesbureau"
+        },
+        {
+            "denomination": null,
+            "eco": "Landesregierung"
+        },
+        {
+            "denomination": null,
+            "eco": "staatlichen"
+        },
+        {
+            "denomination": null,
+            "eco": "Steuerämtern"
+        },
+        {
+            "denomination": null,
+            "eco": "Steuern"
+        },
+        {
+            "denomination": null,
+            "eco": "Gebühren"
+        },
+        {
+            "denomination": null,
+            "eco": "Verkehrssteuern"
+        },
+        {
+            "denomination": null,
+            "eco": "Bewirtschaftung"
+        },
+        {
+            "denomination": null,
+            "eco": "Kriegszentralen"
+        },
+        {
+            "denomination": null,
+            "eco": "Handel"
+        },
+        {
+            "denomination": null,
+            "eco": "Schulden"
+        },
+        {
+            "denomination": null,
+            "eco": "Staate"
+        },
+        {
+            "denomination": null,
+            "eco": "Anleihen"
+        },
+        {
+            "denomination": null,
+            "eco": "Schuld"
+        },
+        {
+            "denomination": null,
+            "eco": "Verschuldungsstatistik"
+        },
+        {
+            "denomination": null,
+            "eco": "Forderungen"
+        },
+        {
+            "denomination": null,
+            "eco": "Budget"
+        },
+        {
+            "denomination": null,
+            "eco": "Staatsschulden"
+        },
+        {
+            "denomination": null,
+            "eco": "Defizit"
+        },
+        {
+            "denomination": null,
+            "eco": "Kriegsschuld"
+        },
+        {
+            "denomination": null,
+            "eco": "Steuerleistung"
+        },
+        {
+            "denomination": null,
+            "eco": "Erbaufteilung"
+        },
+        {
+            "denomination": null,
+            "eco": "Kriegsentschädigung"
+        },
+        {
+            "denomination": null,
+            "eco": "Vermögensabgabe"
+        }
+    ]
+}

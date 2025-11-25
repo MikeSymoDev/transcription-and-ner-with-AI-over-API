@@ -1,0 +1,138 @@
+{
+    "persons": [
+        {
+            "name": "Ministre",
+            "normalized": "Minister",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 173,
+                    "end": 181
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Conseil fédé-\nral",
+            "normalized": "Bundesrat",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 720,
+                    "end": 737
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Monsieur Bourcart",
+            "normalized": "Bourcart",
+            "honorifics": [
+                "Monsieur",
+                "Ministre"
+            ],
+            "mentions": [
+                {
+                    "start": 978,
+                    "end": 994
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Suisse",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 21,
+                    "end": 27
+                },
+                {
+                    "start": 1007,
+                    "end": 1013
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 133,
+                    "end": 142
+                },
+                {
+                    "start": 366,
+                    "end": 375
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Berne",
+            "normalized": "Bern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 147,
+                    "end": 152
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Autriche",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1017,
+                    "end": 1025
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "VIENNE",
+            "normalized": "Wien",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1029,
+                    "end": 1035
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Finances"
+        },
+        {
+            "denomination": null,
+            "eco": "financiaire"
+        }
+    ]
+}

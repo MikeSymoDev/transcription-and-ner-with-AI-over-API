@@ -1,0 +1,154 @@
+{
+    "persons": [
+        {
+            "name": "Herr Professor",
+            "normalized": null,
+            "honorifics": [
+                "Herr",
+                "Professor"
+            ],
+            "mentions": [
+                {
+                    "start": 692,
+                    "end": 706
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Herrn Lardy",
+            "normalized": "Lardy",
+            "honorifics": [
+                "Herrn"
+            ],
+            "mentions": [
+                {
+                    "start": 744,
+                    "end": 755
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Herrn Dunant",
+            "normalized": "Dunant",
+            "honorifics": [
+                "Herrn"
+            ],
+            "mentions": [
+                {
+                    "start": 986,
+                    "end": 998
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 57,
+                    "end": 69
+                },
+                {
+                    "start": 287,
+                    "end": 298
+                },
+                {
+                    "start": 444,
+                    "end": 454
+                },
+                {
+                    "start": 894,
+                    "end": 904
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 172,
+                    "end": 186
+                },
+                {
+                    "start": 305,
+                    "end": 311
+                },
+                {
+                    "start": 605,
+                    "end": 611
+                },
+                {
+                    "start": 925,
+                    "end": 931
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Pariser",
+            "normalized": "Paris",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 361,
+                    "end": 368
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Heutsch-Oesterreich",
+            "normalized": "Deutsch-Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1079,
+                    "end": 1098
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Deutschland",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1137,
+                    "end": 1148
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

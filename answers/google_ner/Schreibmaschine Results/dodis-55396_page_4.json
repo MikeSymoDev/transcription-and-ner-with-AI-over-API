@@ -1,0 +1,432 @@
+{
+    "persons": [
+        {
+            "name": "Köberle Wolfgang Schreinermeister",
+            "normalized": "Wolfgang Köberle",
+            "honorifics": [
+                "Schreinermeister"
+            ],
+            "mentions": [
+                {
+                    "start": 27,
+                    "end": 60
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Jägern",
+            "normalized": "Jäger",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 105,
+                    "end": 111
+                },
+                {
+                    "start": 1083,
+                    "end": 1089
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bauern",
+            "normalized": "Bauern",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 202,
+                    "end": 208
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Einwohner",
+            "normalized": "Einwohner",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 330,
+                    "end": 339
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Gendarmeriebeamten",
+            "normalized": "Gendarmeriebeamte",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 475,
+                    "end": 493
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Peter Paul Berchtold",
+            "normalized": "Peter Paul Berchtold",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 788,
+                    "end": 808
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bauer Valentin Schuster",
+            "normalized": "Valentin Schuster",
+            "honorifics": [
+                "Bauer"
+            ],
+            "mentions": [
+                {
+                    "start": 835,
+                    "end": 857
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Kinder",
+            "normalized": "Kinder",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1373,
+                    "end": 1379
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Riezlern",
+            "normalized": "Riezlern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 51,
+                    "end": 59
+                },
+                {
+                    "start": 2379,
+                    "end": 2387
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Gottesackerplateau",
+            "normalized": "Gottesackerplateau",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 78,
+                    "end": 96
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rohrmoos",
+            "normalized": "Rohrmoos",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 117,
+                    "end": 125
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bayern",
+            "normalized": "Bayern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 180,
+                    "end": 186
+                },
+                {
+                    "start": 363,
+                    "end": 369
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Walsertal",
+            "normalized": "Walsertal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 225,
+                    "end": 234
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Österreich",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 283,
+                    "end": 293
+                },
+                {
+                    "start": 600,
+                    "end": 610
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Österr\n         reich",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 350,
+                    "end": 365
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 382,
+                    "end": 392
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Mittel=alpe",
+            "normalized": "Mittelalpe",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 757,
+                    "end": 767
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Nebenwasser",
+            "normalized": "Nebenwasser",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 861,
+                    "end": 872
+                },
+                {
+                    "start": 1205,
+                    "end": 1216
+                },
+                {
+                    "start": 1241,
+                    "end": 1252
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Mittelberg",
+            "normalized": "Mittelberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1056,
+                    "end": 1066
+                },
+                {
+                    "start": 2392,
+                    "end": 2402
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Hochifen",
+            "normalized": "Hochifen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1475,
+                    "end": 1483
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schwarzwassertal",
+            "normalized": "Schwarzwassertal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1484,
+                    "end": 1500
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Alpen Melköde",
+            "normalized": "Melköde",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 2307,
+                    "end": 2320
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Walmendingen",
+            "normalized": "Walmendingen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 2325,
+                    "end": 2337
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Leidtobel",
+            "normalized": "Leidtobel",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 2415,
+                    "end": 2423
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Lebensmittelzufuhr"
+        },
+        {
+            "denomination": null,
+            "eco": "Vieh"
+        },
+        {
+            "denomination": null,
+            "eco": "ase"
+        },
+        {
+            "denomination": null,
+            "eco": "Butter"
+        },
+        {
+            "denomination": null,
+            "eco": "Talprodukte"
+        },
+        {
+            "denomination": null,
+            "eco": "Kronen"
+        },
+        {
+            "denomination": null,
+            "eco": "Reichsmark"
+        },
+        {
+            "denomination": null,
+            "eco": "ahlungsmittel"
+        },
+        {
+            "denomination": null,
+            "eco": "Notlage"
+        },
+        {
+            "denomination": null,
+            "eco": "Goldmark"
+        },
+        {
+            "denomination": null,
+            "eco": "Pension"
+        },
+        {
+            "denomination": null,
+            "eco": "Mark"
+        },
+        {
+            "denomination": null,
+            "eco": "Rindfleisch"
+        },
+        {
+            "denomination": null,
+            "eco": "Schadensumme"
+        }
+    ]
+}

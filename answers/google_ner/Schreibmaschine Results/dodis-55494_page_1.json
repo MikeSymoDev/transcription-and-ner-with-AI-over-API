@@ -1,0 +1,105 @@
+{
+    "persons": [
+        {
+            "name": "Landesrat",
+            "normalized": "Landesrat",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 110,
+                    "end": 119
+                },
+                {
+                    "start": 465,
+                    "end": 474
+                },
+                {
+                    "start": 1251,
+                    "end": 1261
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Staatsregierung",
+            "normalized": "Staatsregierung",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 297,
+                    "end": 311
+                },
+                {
+                    "start": 818,
+                    "end": 832
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Wien",
+            "normalized": "Wien",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 81,
+                    "end": 85
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 351,
+                    "end": 361
+                },
+                {
+                    "start": 441,
+                    "end": 451
+                },
+                {
+                    "start": 890,
+                    "end": 901
+                },
+                {
+                    "start": 1267,
+                    "end": 1277
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "St. Germain",
+            "normalized": "Saint-Germain-en-Laye",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1026,
+                    "end": 1037
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "wirtschaftlicher"
+        }
+    ]
+}

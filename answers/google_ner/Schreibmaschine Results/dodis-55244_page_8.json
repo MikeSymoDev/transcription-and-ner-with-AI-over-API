@@ -1,0 +1,377 @@
+{
+    "persons": [
+        {
+            "name": "Herr Forstmeister Heinrich von Bludenz",
+            "normalized": "Heinrich von Bludenz",
+            "honorifics": [
+                "Herr",
+                "Forstmeister"
+            ],
+            "mentions": [
+                {
+                    "start": 78,
+                    "end": 117
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Verfasser",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1083,
+                    "end": 1092
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Arbeitern",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1221,
+                    "end": 1230
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Fabrikinhaber",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1391,
+                    "end": 1404
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Arbeiter",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1466,
+                    "end": 1473
+                },
+                {
+                    "start": 1477,
+                    "end": 1485
+                }
+            ],
+            "confidence": 0.9
+        }
+    ],
+    "places": [
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": 47.25,
+                "lon": 9.833333
+            },
+            "mentions": [
+                {
+                    "start": 17,
+                    "end": 26
+                },
+                {
+                    "start": 328,
+                    "end": 337
+                },
+                {
+                    "start": 402,
+                    "end": 411
+                },
+                {
+                    "start": 501,
+                    "end": 512
+                },
+                {
+                    "start": 680,
+                    "end": 689
+                },
+                {
+                    "start": 878,
+                    "end": 889
+                },
+                {
+                    "start": 986,
+                    "end": 997
+                },
+                {
+                    "start": 1544,
+                    "end": 1553
+                },
+                {
+                    "start": 1656,
+                    "end": 1667
+                },
+                {
+                    "start": 1746,
+                    "end": 1755
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": 46.818188,
+                "lon": 8.227512
+            },
+            "mentions": [
+                {
+                    "start": 37,
+                    "end": 51
+                },
+                {
+                    "start": 546,
+                    "end": 551
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bludenz",
+            "normalized": "Bludenz",
+            "geo": {
+                "lat": 47.15342,
+                "lon": 9.82422
+            },
+            "mentions": [
+                {
+                    "start": 109,
+                    "end": 116
+                },
+                {
+                    "start": 1797,
+                    "end": 1805
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "st. gallischen",
+            "normalized": "Sankt Gallen",
+            "geo": {
+                "lat": 47.42435,
+                "lon": 9.37685
+            },
+            "mentions": [
+                {
+                    "start": 1152,
+                    "end": 1163
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Feldkirch",
+            "normalized": "Feldkirch",
+            "geo": {
+                "lat": 47.23847,
+                "lon": 9.59608
+            },
+            "mentions": [
+                {
+                    "start": 2049,
+                    "end": 2058
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bregenz",
+            "normalized": "Bregenz",
+            "geo": {
+                "lat": 47.50209,
+                "lon": 9.74719
+            },
+            "mentions": [
+                {
+                    "start": 2063,
+                    "end": 2070
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Jagdpachteneinnahme"
+        },
+        {
+            "denomination": null,
+            "eco": "Kronen"
+        },
+        {
+            "denomination": null,
+            "eco": "Ausgaben"
+        },
+        {
+            "denomination": null,
+            "eco": "Million"
+        },
+        {
+            "denomination": null,
+            "eco": "Reichtum"
+        },
+        {
+            "denomination": null,
+            "eco": "Fabrikation"
+        },
+        {
+            "denomination": null,
+            "eco": "Torfmull"
+        },
+        {
+            "denomination": null,
+            "eco": "Viehstreue"
+        },
+        {
+            "denomination": null,
+            "eco": "Industrie"
+        },
+        {
+            "denomination": null,
+            "eco": "Holzverarbeitungsindustrie"
+        },
+        {
+            "denomination": null,
+            "eco": "Handel"
+        },
+        {
+            "denomination": null,
+            "eco": "Gewerbe"
+        },
+        {
+            "denomination": null,
+            "eco": "statistische Angaben"
+        },
+        {
+            "denomination": null,
+            "eco": "Anschlusse"
+        },
+        {
+            "denomination": null,
+            "eco": "Zahlen"
+        },
+        {
+            "denomination": null,
+            "eco": "Spindeln"
+        },
+        {
+            "denomination": null,
+            "eco": "Kraftbetrieb"
+        },
+        {
+            "denomination": null,
+            "eco": "Stickereien"
+        },
+        {
+            "denomination": null,
+            "eco": "Betrieb"
+        },
+        {
+            "denomination": null,
+            "eco": "Yardmaschinen"
+        },
+        {
+            "denomination": null,
+            "eco": "Webstühlen"
+        },
+        {
+            "denomination": null,
+            "eco": "Baumwollspindeln"
+        },
+        {
+            "denomination": null,
+            "eco": "Schafwollspindeln"
+        },
+        {
+            "denomination": null,
+            "eco": "Handelskammer"
+        },
+        {
+            "denomination": null,
+            "eco": "Handstickmaschinen"
+        },
+        {
+            "denomination": null,
+            "eco": "Stickmaschinen"
+        },
+        {
+            "denomination": null,
+            "eco": "Produktionswert"
+        },
+        {
+            "denomination": null,
+            "eco": "Franken"
+        },
+        {
+            "denomination": null,
+            "eco": "Ausfuhrwert"
+        },
+        {
+            "denomination": null,
+            "eco": "industriellen Etablissements"
+        },
+        {
+            "denomination": null,
+            "eco": "Betriebe"
+        },
+        {
+            "denomination": null,
+            "eco": "Arbeiterschaft"
+        },
+        {
+            "denomination": null,
+            "eco": "Freie Berufe"
+        },
+        {
+            "denomination": null,
+            "eco": "Kreditwesen"
+        },
+        {
+            "denomination": null,
+            "eco": "wirtschaftlichen"
+        },
+        {
+            "denomination": null,
+            "eco": "Banken"
+        },
+        {
+            "denomination": null,
+            "eco": "Hypothekenbank"
+        },
+        {
+            "denomination": null,
+            "eco": "Regulativsparkassen"
+        },
+        {
+            "denomination": null,
+            "eco": "Sparkasse"
+        },
+        {
+            "denomination": null,
+            "eco": "Raiffeisenkassen"
+        },
+        {
+            "denomination": null,
+            "eco": "Notenbank"
+        },
+        {
+            "denomination": null,
+            "eco": "Kreditanstalt"
+        }
+    ]
+}

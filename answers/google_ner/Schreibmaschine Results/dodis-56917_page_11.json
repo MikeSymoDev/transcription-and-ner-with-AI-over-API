@@ -1,0 +1,110 @@
+{
+    "persons": [
+        {
+            "name": "Hermann Bösch",
+            "normalized": "Hermann Bösch",
+            "honorifics": [
+                "m. p."
+            ],
+            "mentions": [
+                {
+                    "start": 1391,
+                    "end": 1404
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ludwig Wratzfeld",
+            "normalized": "Ludwig Wratzfeld",
+            "honorifics": [
+                "m. p."
+            ],
+            "mentions": [
+                {
+                    "start": 1411,
+                    "end": 1426
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Prüfungsausschuß",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1056,
+                    "end": 1072
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Generalversammlung der Aktionäre",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1184,
+                    "end": 1215
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Verwaltungsrat",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1302,
+                    "end": 1316
+                }
+            ],
+            "confidence": 0.9
+        }
+    ],
+    "places": [
+        {
+            "name": "Dornbirn",
+            "normalized": "Dornbirn",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1229,
+                    "end": 1237
+                },
+                {
+                    "start": 1381,
+                    "end": 1389
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Lustenau",
+            "normalized": "Lustenau",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1238,
+                    "end": 1246
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Betriebsausgaben, Betriebsüberschuß, Bilanz, Dividende, Elektr. Bahn Dornbirn-Lustenau, Entlastung, Generalversammlung der Aktionäre, Geschäftsjahr, Gewinn- und Verlust-Konto, Gewinnverteilung, Gewinnvortrag, Personal-Ausrüstungsgegenstände, Prioritätsaktien, Prüfung, Rechnungsabschlüsse, Reingewinn, Reservefond, Stammaktien, Verwaltungsrat, Wertabschreibungen"
+        }
+    ]
+}

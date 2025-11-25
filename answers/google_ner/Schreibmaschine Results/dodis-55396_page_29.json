@@ -1,0 +1,254 @@
+{
+    "persons": [
+        {
+            "name": "Oswald Köll",
+            "normalized": "Oswald Köll",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 307,
+                    "end": 318
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Besitzer",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 625,
+                    "end": 633
+                },
+                {
+                    "start": 1759,
+                    "end": 1767
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "Edwin Zweng",
+            "normalized": "Edwin Zweng",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 634,
+                    "end": 645
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bundespräsident",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 686,
+                    "end": 701
+                },
+                {
+                    "start": 724,
+                    "end": 739
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Adolf Schärf",
+            "normalized": "Adolf Schärf",
+            "honorifics": [
+                "Bundespräsident"
+            ],
+            "mentions": [
+                {
+                    "start": 702,
+                    "end": 714
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ferdinand Keck",
+            "normalized": "Ferdinand Keck",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1056,
+                    "end": 1070
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ilma Keck geb.Keßler",
+            "normalized": "Ilma Keck, geb. Keßler",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1075,
+                    "end": 1096
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Walter Rohn",
+            "normalized": "Walter Rohn",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1690,
+                    "end": 1701
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Elfer-und Zwölferkopf",
+            "normalized": "Elfer- und Zwölferkopf",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 331,
+                    "end": 352
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Mittelberg-Innerschwendle",
+            "normalized": "Mittelberg-Innerschwendle",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 509,
+                    "end": 534
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Walserschanz",
+            "normalized": "Walserschanz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 789,
+                    "end": 801
+                },
+                {
+                    "start": 878,
+                    "end": 886
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Alps Außerwald",
+            "normalized": "Alpen Außerwald",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1146,
+                    "end": 1160
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Riezlern",
+            "normalized": "Riezlern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1282,
+                    "end": 1290
+                },
+                {
+                    "start": 1749,
+                    "end": 1757
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Kleines Walsertal",
+            "normalized": "Kleines Walsertal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1417,
+                    "end": 1435
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Österreich",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1445,
+                    "end": 1455
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Deutschlands",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1475,
+                    "end": 1487
+                }
+            ],
+            "confidence": 0.9
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "bewirtschaftete"
+        },
+        {
+            "denomination": null,
+            "eco": "Fremdenverkehrszahlen"
+        },
+        {
+            "denomination": null,
+            "eco": "Bundesfinanzverwaltung"
+        }
+    ]
+}

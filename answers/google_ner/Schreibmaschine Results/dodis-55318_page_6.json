@@ -1,0 +1,72 @@
+{
+    "persons": [
+        {
+            "name": "Der Bundespräsident",
+            "normalized": null,
+            "honorifics": [
+                "Bundespräsident"
+            ],
+            "mentions": [
+                {
+                    "start": 37,
+                    "end": 56
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Große",
+            "normalized": "Grosse",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 292,
+                    "end": 297
+                }
+            ],
+            "confidence": 0.8
+        }
+    ],
+    "places": [
+        {
+            "name": "Liechtenstein",
+            "normalized": "Liechtenstein",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 213,
+                    "end": 226
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vaduz",
+            "normalized": "Vaduz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 262,
+                    "end": 267
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Sold"
+        },
+        {
+            "denomination": null,
+            "eco": "bezahlen"
+        }
+    ]
+}

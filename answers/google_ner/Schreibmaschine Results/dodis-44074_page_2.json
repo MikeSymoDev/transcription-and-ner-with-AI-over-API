@@ -1,0 +1,145 @@
+{
+    "persons": [],
+    "places": [
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 168,
+                    "end": 178
+                },
+                {
+                    "start": 300,
+                    "end": 310
+                },
+                {
+                    "start": 367,
+                    "end": 377
+                },
+                {
+                    "start": 428,
+                    "end": 438
+                },
+                {
+                    "start": 672,
+                    "end": 682
+                },
+                {
+                    "start": 741,
+                    "end": 751
+                },
+                {
+                    "start": 798,
+                    "end": 808
+                },
+                {
+                    "start": 880,
+                    "end": 890
+                },
+                {
+                    "start": 1009,
+                    "end": 1019
+                },
+                {
+                    "start": 1248,
+                    "end": 1258
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 407,
+                    "end": 413
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": "kirchenpolitischen",
+            "eco": null
+        },
+        {
+            "denomination": "Kirchenrecht",
+            "eco": null
+        },
+        {
+            "denomination": null,
+            "eco": "Staatsschuld"
+        },
+        {
+            "denomination": null,
+            "eco": "Abfindungssumme"
+        },
+        {
+            "denomination": null,
+            "eco": "Eisenbahnnetz"
+        },
+        {
+            "denomination": null,
+            "eco": "Anlagewert"
+        },
+        {
+            "denomination": null,
+            "eco": "Ertrag"
+        },
+        {
+            "denomination": null,
+            "eco": "verkehrs-politischen"
+        },
+        {
+            "denomination": null,
+            "eco": "Loskauf"
+        },
+        {
+            "denomination": null,
+            "eco": "Staatsbahnen"
+        },
+        {
+            "denomination": null,
+            "eco": "Hülfsquellen"
+        },
+        {
+            "denomination": null,
+            "eco": "Wasserkräfte"
+        },
+        {
+            "denomination": null,
+            "eco": "Industrie"
+        },
+        {
+            "denomination": null,
+            "eco": "industriellen"
+        },
+        {
+            "denomination": null,
+            "eco": "handels-politischen"
+        },
+        {
+            "denomination": null,
+            "eco": "landwirtschaftlichen"
+        },
+        {
+            "denomination": null,
+            "eco": "Produktion"
+        },
+        {
+            "denomination": null,
+            "eco": "wirtschaftlichen"
+        }
+    ]
+}

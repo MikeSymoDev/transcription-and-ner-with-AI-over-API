@@ -1,0 +1,323 @@
+{
+    "persons": [
+        {
+            "name": "CHEF DES GENERALSTABES",
+            "normalized": null,
+            "honorifics": [
+                "Chef des Generalstabes"
+            ],
+            "mentions": [
+                {
+                    "start": 46,
+                    "end": 69
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Herrn Minister",
+            "normalized": null,
+            "honorifics": [
+                "Herrn Minister"
+            ],
+            "mentions": [
+                {
+                    "start": 90,
+                    "end": 104
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Minister Ch. E. Lardy",
+            "normalized": "Ch. E. Lardy",
+            "honorifics": [
+                "Minister"
+            ],
+            "mentions": [
+                {
+                    "start": 95,
+                    "end": 117
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Herr Minister",
+            "normalized": null,
+            "honorifics": [
+                "Herr Minister"
+            ],
+            "mentions": [
+                {
+                    "start": 191,
+                    "end": 204
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Chefs des Politischen Departements",
+            "normalized": null,
+            "honorifics": [
+                "Chef des Politischen Departements"
+            ],
+            "mentions": [
+                {
+                    "start": 247,
+                    "end": 280
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Bern",
+            "normalized": "Bern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 139,
+                    "end": 143
+                },
+                {
+                    "start": 185,
+                    "end": 189
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberges",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 323,
+                    "end": 335
+                },
+                {
+                    "start": 1073,
+                    "end": 1083
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 342,
+                    "end": 349
+                },
+                {
+                    "start": 1087,
+                    "end": 1094
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rheingrenze",
+            "normalized": "Rheingrenze",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 434,
+                    "end": 445
+                },
+                {
+                    "start": 705,
+                    "end": 716
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Graubünden",
+            "normalized": "Graubünden",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 482,
+                    "end": 492
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Luziensteig",
+            "normalized": "Luziensteig",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 494,
+                    "end": 505
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Silvretta",
+            "normalized": "Silvretta",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 598,
+                    "end": 607
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Arlberg",
+            "normalized": "Arlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 621,
+                    "end": 628
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Lechtal",
+            "normalized": "Lechtal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 647,
+                    "end": 654
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bregenzerwaldes",
+            "normalized": "Bregenzerwald",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 678,
+                    "end": 693
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Leiblach",
+            "normalized": "Leiblach",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 702,
+                    "end": 710
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bodensee",
+            "normalized": "Bodensee",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 720,
+                    "end": 728
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Lindau",
+            "normalized": "Lindau",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 737,
+                    "end": 743
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Fussach",
+            "normalized": "Fußach",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 848,
+                    "end": 855
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Diepoldsau",
+            "normalized": "Diepoldsau",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 962,
+                    "end": 972
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

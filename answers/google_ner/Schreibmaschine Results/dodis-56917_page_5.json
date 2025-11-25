@@ -1,0 +1,162 @@
+{
+    "persons": [],
+    "places": [
+        {
+            "name": "Dornbirn",
+            "normalized": "Dornbirn",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 186,
+                    "end": 194
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Betriebsrechnung"
+        },
+        {
+            "denomination": null,
+            "eco": "Bilanz"
+        },
+        {
+            "denomination": null,
+            "eco": "Konto-Auflösung"
+        },
+        {
+            "denomination": null,
+            "eco": "Betriebsbuchhaltung"
+        },
+        {
+            "denomination": null,
+            "eco": "Konto"
+        },
+        {
+            "denomination": null,
+            "eco": "Kreditoren"
+        },
+        {
+            "denomination": null,
+            "eco": "Saldi"
+        },
+        {
+            "denomination": null,
+            "eco": "Sparkassa"
+        },
+        {
+            "denomination": null,
+            "eco": "Betriebseinlagen"
+        },
+        {
+            "denomination": null,
+            "eco": "Strafgelder-Einl."
+        },
+        {
+            "denomination": null,
+            "eco": "Sparfond"
+        },
+        {
+            "denomination": null,
+            "eco": "Bediensteten-Einlagen"
+        },
+        {
+            "denomination": null,
+            "eco": "Erneuerungsfond-Einlagen"
+        },
+        {
+            "denomination": null,
+            "eco": "Warenlager"
+        },
+        {
+            "denomination": null,
+            "eco": "Utensilien- und Werkzeuge"
+        },
+        {
+            "denomination": null,
+            "eco": "Personalausrüstung"
+        },
+        {
+            "denomination": null,
+            "eco": "Effekten"
+        },
+        {
+            "denomination": null,
+            "eco": "Kautionsdepot"
+        },
+        {
+            "denomination": null,
+            "eco": "Debitoren"
+        },
+        {
+            "denomination": null,
+            "eco": "Güterdepot"
+        },
+        {
+            "denomination": null,
+            "eco": "Diverse"
+        },
+        {
+            "denomination": null,
+            "eco": "Frachten-Kriegszuschlag"
+        },
+        {
+            "denomination": null,
+            "eco": "Bau"
+        },
+        {
+            "denomination": null,
+            "eco": "Gewinn- und Verlust"
+        },
+        {
+            "denomination": null,
+            "eco": "Einnahmen"
+        },
+        {
+            "denomination": null,
+            "eco": "Personenverkehr"
+        },
+        {
+            "denomination": null,
+            "eco": "Karten"
+        },
+        {
+            "denomination": null,
+            "eco": "Zuschlag"
+        },
+        {
+            "denomination": null,
+            "eco": "Güterverkehr"
+        },
+        {
+            "denomination": null,
+            "eco": "Güter"
+        },
+        {
+            "denomination": null,
+            "eco": "Passagiergüter"
+        },
+        {
+            "denomination": null,
+            "eco": "Zinsen"
+        },
+        {
+            "denomination": null,
+            "eco": "Forderungen"
+        },
+        {
+            "denomination": null,
+            "eco": "Reklameplakate"
+        },
+        {
+            "denomination": null,
+            "eco": "Kursdifferenz"
+        }
+    ]
+}

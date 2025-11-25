@@ -1,0 +1,420 @@
+{
+    "persons": [
+        {
+            "name": "Dd.Redler",
+            "normalized": "D. Redler",
+            "honorifics": [
+                "Fähnrich"
+            ],
+            "mentions": [
+                {
+                    "start": 301,
+                    "end": 310
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Anbauoffizier",
+            "normalized": "Anbauoffizier",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 399,
+                    "end": 413
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Adalbert Frith",
+            "normalized": "Adalbert Frith",
+            "honorifics": [
+                "Gemeindevorsteher"
+            ],
+            "mentions": [
+                {
+                    "start": 994,
+                    "end": 1009
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Adolf Trumpf",
+            "normalized": "Adolf Trumpf",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1089,
+                    "end": 1092
+                },
+                {
+                    "start": 1109,
+                    "end": 1121
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vermittler",
+            "normalized": "Vermittler",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1165,
+                    "end": 1175
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "ulian LANGL8",
+            "normalized": "Julian Langl",
+            "honorifics": [
+                "Pfarrer"
+            ],
+            "mentions": [
+                {
+                    "start": 1341,
+                    "end": 1354
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "Rudolf Fritz",
+            "normalized": "Rudolf Fritz",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1478,
+                    "end": 1490
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Sonthofen",
+            "normalized": "Sonthofen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 93,
+                    "end": 102
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Riezlern",
+            "normalized": "Riezlern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 184,
+                    "end": 192
+                },
+                {
+                    "start": 809,
+                    "end": 817
+                },
+                {
+                    "start": 1358,
+                    "end": 1366
+                },
+                {
+                    "start": 1386,
+                    "end": 1394
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Riezörnbei Engel",
+            "normalized": "Riezlern bei Engel",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 247,
+                    "end": 263
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bregenz",
+            "normalized": "Bregenz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 419,
+                    "end": 426
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Hochgerach",
+            "normalized": "Hochgerach",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 504,
+                    "end": 514
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bezau",
+            "normalized": "Bezau",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 520,
+                    "end": 525
+                },
+                {
+                    "start": 593,
+                    "end": 598
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "München",
+            "normalized": "München",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 636,
+                    "end": 643
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Italien",
+            "normalized": "Italien",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 671,
+                    "end": 678
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Südwestfront",
+            "normalized": "Südwestfront",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 695,
+                    "end": 708
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Oberauenalpe",
+            "normalized": "Oberauenalpe",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 745,
+                    "end": 757
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ifenhütte",
+            "normalized": "Ifenhütte",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 759,
+                    "end": 768
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Mittelalpe",
+            "normalized": "Mittelalpe",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 846,
+                    "end": 856
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Frankreich",
+            "normalized": "Frankreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 955,
+                    "end": 966
+                },
+                {
+                    "start": 1054,
+                    "end": 1064
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "England",
+            "normalized": "England",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1042,
+                    "end": 1049
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Deutschland",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1149,
+                    "end": 1160
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Alpele",
+            "normalized": "Alpele",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1297,
+                    "end": 1303
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Amannsalp",
+            "normalized": "Amannsalp",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1304,
+                    "end": 1313
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Riezleralp",
+            "normalized": "Riezleralp",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1317,
+                    "end": 1326
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Kommunalverband"
+        },
+        {
+            "denomination": null,
+            "eco": "Versorgung"
+        },
+        {
+            "denomination": null,
+            "eco": "Versorgungsstelle"
+        },
+        {
+            "denomination": null,
+            "eco": "Ernte"
+        },
+        {
+            "denomination": null,
+            "eco": "Heeresverwaltung"
+        },
+        {
+            "denomination": null,
+            "eco": "Erntearbeit"
+        },
+        {
+            "denomination": null,
+            "eco": "Selbständigkeitsbewegung"
+        }
+    ]
+}

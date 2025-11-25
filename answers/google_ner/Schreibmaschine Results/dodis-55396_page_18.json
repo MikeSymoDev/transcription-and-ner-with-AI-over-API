@@ -1,0 +1,412 @@
+{
+    "persons": [
+        {
+            "name": "Walter Fritz",
+            "normalized": "Walter Fritz",
+            "honorifics": [
+                "Gemeindesekretär"
+            ],
+            "mentions": [
+                {
+                    "start": 386,
+                    "end": 398
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ulrich Ilg",
+            "normalized": "Ulrich Ilg",
+            "honorifics": [
+                "Landeshauptmann"
+            ],
+            "mentions": [
+                {
+                    "start": 441,
+                    "end": 451
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Eugen Leißing",
+            "normalized": "Eugen Leißing",
+            "honorifics": [
+                "Bundesrat"
+            ],
+            "mentions": [
+                {
+                    "start": 1027,
+                    "end": 1040
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Franzosen",
+            "normalized": "Franzosen",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1194,
+                    "end": 1203
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "Amerikaner",
+            "normalized": "Amerikaner",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1205,
+                    "end": 1215
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "Engländer",
+            "normalized": "Engländer",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1257,
+                    "end": 1266
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "Russen",
+            "normalized": "Russen",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1271,
+                    "end": 1277
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "Gendarmen",
+            "normalized": "Gendarmen",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1619,
+                    "end": 1628
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "Max Matt",
+            "normalized": "Max Matt",
+            "honorifics": [
+                "Mietautounternehmer"
+            ],
+            "mentions": [
+                {
+                    "start": 1926,
+                    "end": 1934
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Gedeon Fritz",
+            "normalized": "Gedeon Fritz",
+            "honorifics": [
+                "Bürgermeister"
+            ],
+            "mentions": [
+                {
+                    "start": 2448,
+                    "end": 2460
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Mittelberg",
+            "normalized": "Mittelberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 36,
+                    "end": 46
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schoppernau",
+            "normalized": "Schoppernau",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 48,
+                    "end": 59
+                },
+                {
+                    "start": 627,
+                    "end": 638
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Starzeljoch",
+            "normalized": "Starzeljoch",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 89,
+                    "end": 100
+                },
+                {
+                    "start": 610,
+                    "end": 621
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bregenz",
+            "normalized": "Bregenz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 174,
+                    "end": 181
+                },
+                {
+                    "start": 455,
+                    "end": 462
+                },
+                {
+                    "start": 1047,
+                    "end": 1054
+                },
+                {
+                    "start": 1639,
+                    "end": 1646
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Brederis",
+            "normalized": "Brederis",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 242,
+                    "end": 250
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Riezlern",
+            "normalized": "Riezlern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 517,
+                    "end": 525
+                },
+                {
+                    "start": 935,
+                    "end": 943
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 983,
+                    "end": 993
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Norwegen",
+            "normalized": "Norwegen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1220,
+                    "end": 1228
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Walserschanz",
+            "normalized": "Walserschanz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1351,
+                    "end": 1363
+                },
+                {
+                    "start": 1417,
+                    "end": 1429
+                },
+                {
+                    "start": 2165,
+                    "end": 2177
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Hirschegg",
+            "normalized": "Hirschegg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1844,
+                    "end": 1853
+                },
+                {
+                    "start": 1938,
+                    "end": 1947
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Österreich",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 2250,
+                    "end": 2260
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Walsertal",
+            "normalized": "Walsertal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 2271,
+                    "end": 2280
+                },
+                {
+                    "start": 2347,
+                    "end": 2356
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Deutschland",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 2286,
+                    "end": 2297
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "München",
+            "normalized": "München",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 2518,
+                    "end": 2525
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Fremdenverkehr"
+        },
+        {
+            "denomination": null,
+            "eco": "Saison"
+        },
+        {
+            "denomination": null,
+            "eco": "Lebensmittelknappheit"
+        },
+        {
+            "denomination": null,
+            "eco": "Schaden"
+        },
+        {
+            "denomination": null,
+            "eco": "Güterverkehr"
+        },
+        {
+            "denomination": null,
+            "eco": "Schmuggel"
+        }
+    ]
+}

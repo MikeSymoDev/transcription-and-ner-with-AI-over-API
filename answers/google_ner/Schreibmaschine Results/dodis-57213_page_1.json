@@ -1,0 +1,263 @@
+{
+    "persons": [
+        {
+            "name": "Landammann",
+            "normalized": "Landammann",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 28,
+                    "end": 38
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Regierungsrat",
+            "normalized": "Regierungsrat",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 43,
+                    "end": 56
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Herr Bundesrat",
+            "normalized": "Bundesrat",
+            "honorifics": [
+                "Herr"
+            ],
+            "mentions": [
+                {
+                    "start": 354,
+                    "end": 368
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "St. Gallen",
+            "normalized": "St. Gallen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "KANTONS ST. GALLEN",
+            "normalized": "Kanton St. Gallen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 98,
+                    "end": 115
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bezirk Unterrheintal",
+            "normalized": "Bezirk Unterrheintal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 210,
+                    "end": 230
+                },
+                {
+                    "start": 570,
+                    "end": 590
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "B E R N",
+            "normalized": "Bern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 281,
+                    "end": 288
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Thal",
+            "normalized": "Thal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 339,
+                    "end": 343
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rheineck",
+            "normalized": "Rheineck",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 345,
+                    "end": 353
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rheindeltas",
+            "normalized": "Rheindelta",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 444,
+                    "end": 455
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Gaissau",
+            "normalized": "Gaißau",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 479,
+                    "end": 486
+                },
+                {
+                    "start": 1156,
+                    "end": 1163
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Fussach",
+            "normalized": "Fußach",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 488,
+                    "end": 495
+                },
+                {
+                    "start": 1146,
+                    "end": 1153
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Höchst",
+            "normalized": "Höchst",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 500,
+                    "end": 506
+                },
+                {
+                    "start": 1130,
+                    "end": 1136
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 609,
+                    "end": 616
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "wirtschaftlicher"
+        },
+        {
+            "denomination": null,
+            "eco": "Erwerbsverhältnisse"
+        },
+        {
+            "denomination": null,
+            "eco": "Gesammtbodenfläche"
+        },
+        {
+            "denomination": null,
+            "eco": "Hektaren"
+        },
+        {
+            "denomination": null,
+            "eco": "Acker"
+        },
+        {
+            "denomination": null,
+            "eco": "Wiesboden"
+        },
+        {
+            "denomination": null,
+            "eco": "Streueland"
+        },
+        {
+            "denomination": null,
+            "eco": "Wald"
+        },
+        {
+            "denomination": null,
+            "eco": "Besitz"
+        }
+    ]
+}

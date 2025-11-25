@@ -1,0 +1,187 @@
+{
+    "persons": [
+        {
+            "name": "Calonder",
+            "normalized": "Calonder",
+            "honorifics": [
+                "M.",
+                "conseiller fédéral",
+                "Herr",
+                "Bundesrat"
+            ],
+            "mentions": [
+                {
+                    "start": 313,
+                    "end": 321
+                },
+                {
+                    "start": 867,
+                    "end": 875
+                },
+                {
+                    "start": 1790,
+                    "end": 1798
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Contat",
+            "normalized": "Contat",
+            "honorifics": [
+                "secrétaire"
+            ],
+            "mentions": [
+                {
+                    "start": 399,
+                    "end": 405
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Huber",
+            "normalized": "Huber",
+            "honorifics": [
+                "Herr",
+                "Professor",
+                "Unterhändler"
+            ],
+            "mentions": [
+                {
+                    "start": 1056,
+                    "end": 1061
+                },
+                {
+                    "start": 1333,
+                    "end": 1338
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rappard",
+            "normalized": "Rappard",
+            "honorifics": [
+                "Herr",
+                "Professor",
+                "Unterhändler"
+            ],
+            "mentions": [
+                {
+                    "start": 1068,
+                    "end": 1075
+                },
+                {
+                    "start": 1343,
+                    "end": 1350
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ador",
+            "normalized": "Ador",
+            "honorifics": [
+                "Herr",
+                "Bundespräsident"
+            ],
+            "mentions": [
+                {
+                    "start": 1121,
+                    "end": 1125
+                },
+                {
+                    "start": 1380,
+                    "end": 1403
+                },
+                {
+                    "start": 1705,
+                    "end": 1723
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Clémenceau",
+            "normalized": "Clémenceau",
+            "honorifics": [
+                "Herr"
+            ],
+            "mentions": [
+                {
+                    "start": 1215,
+                    "end": 1225
+                },
+                {
+                    "start": 1729,
+                    "end": 1739
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "die Delegierten",
+            "normalized": "Delegierte",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1588,
+                    "end": 1602
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Persönlichkeiten",
+            "normalized": "Persönlichkeiten",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1747,
+                    "end": 1758
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Paris",
+            "normalized": "Paris",
+            "geo": {
+                "lat": 48.8566,
+                "lon": 2.3522
+            },
+            "mentions": [
+                {
+                    "start": 647,
+                    "end": 652
+                },
+                {
+                    "start": 914,
+                    "end": 919
+                },
+                {
+                    "start": 974,
+                    "end": 979
+                },
+                {
+                    "start": 1153,
+                    "end": 1158
+                },
+                {
+                    "start": 1417,
+                    "end": 1422
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

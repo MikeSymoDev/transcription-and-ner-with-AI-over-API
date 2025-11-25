@@ -1,0 +1,182 @@
+{
+    "persons": [
+        {
+            "name": "Director of Political\nDepartment",
+            "normalized": "Direktor des Politischen Departements",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 473,
+                    "end": 504
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "D. M. I.",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 904,
+                    "end": 912
+                }
+            ],
+            "confidence": 0.7
+        },
+        {
+            "name": "Mr. Headlam",
+            "normalized": "Headlam",
+            "honorifics": [
+                "Mr."
+            ],
+            "mentions": [
+                {
+                    "start": 914,
+                    "end": 925
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "mariner",
+            "normalized": "Mariner",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 928,
+                    "end": 935
+                }
+            ],
+            "confidence": 0.6
+        },
+        {
+            "name": "mr ahnd",
+            "normalized": "Hand",
+            "honorifics": [
+                "mr"
+            ],
+            "mentions": [
+                {
+                    "start": 949,
+                    "end": 956
+                }
+            ],
+            "confidence": 0.4
+        },
+        {
+            "name": "Ha-a-d-L-u-w-e-ln",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 964,
+                    "end": 981
+                }
+            ],
+            "confidence": 0.1
+        }
+    ],
+    "places": [
+        {
+            "name": "AUSTRIA-HUNGARY",
+            "normalized": "Österreich-Ungarn",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 296,
+                    "end": 311
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": 47.25,
+                "lon": 9.8
+            },
+            "mentions": [
+                {
+                    "start": 363,
+                    "end": 373
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Berne",
+            "normalized": "Bern",
+            "geo": {
+                "lat": 46.948,
+                "lon": 7.447
+            },
+            "mentions": [
+                {
+                    "start": 385,
+                    "end": 390
+                },
+                {
+                    "start": 417,
+                    "end": 422
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Switzerland",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": 46.8182,
+                "lon": 8.2275
+            },
+            "mentions": [
+                {
+                    "start": 589,
+                    "end": 600
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "East",
+            "normalized": "Osten",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 645,
+                    "end": 649
+                }
+            ],
+            "confidence": 0.5
+        },
+        {
+            "name": "Italy",
+            "normalized": "Italien",
+            "geo": {
+                "lat": 41.8719,
+                "lon": 12.5674
+            },
+            "mentions": [
+                {
+                    "start": 715,
+                    "end": 720
+                }
+            ],
+            "confidence": 0.9
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

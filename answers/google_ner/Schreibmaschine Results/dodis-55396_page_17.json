@@ -1,0 +1,319 @@
+{
+    "persons": [
+        {
+            "name": "Amerikanern",
+            "normalized": "Amerikaner",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 167,
+                    "end": 177
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "reichsdeutschen Gendarmen",
+            "normalized": "Reichsdeutsche Gendarmen",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 405,
+                    "end": 430
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "junge Probegendarmen",
+            "normalized": "Junge Probegendarmen",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 462,
+                    "end": 482
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Franzosen",
+            "normalized": "Franzosen",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 963,
+                    "end": 972
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Reichsdeutschen",
+            "normalized": "Reichsdeutsche",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1700,
+                    "end": 1715
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Mittelberg",
+            "normalized": "Mittelberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 86,
+                    "end": 96
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bayern",
+            "normalized": "Bayern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 147,
+                    "end": 153
+                },
+                {
+                    "start": 1290,
+                    "end": 1296
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Walserschanz",
+            "normalized": "Walserschanz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 157,
+                    "end": 169
+                },
+                {
+                    "start": 201,
+                    "end": 213
+                },
+                {
+                    "start": 1060,
+                    "end": 1072
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Walsertales",
+            "normalized": "Walsertal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 288,
+                    "end": 299
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Österreich",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 304,
+                    "end": 314
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 366,
+                    "end": 376
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Riezlern",
+            "normalized": "Riezlern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 494,
+                    "end": 502
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Tales",
+            "normalized": "Walsertal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 651,
+                    "end": 656
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "Deutschlands",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 940,
+                    "end": 952
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Walsertal",
+            "normalized": "Walsertal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 987,
+                    "end": 996
+                },
+                {
+                    "start": 1259,
+                    "end": 1268
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schlappold",
+            "normalized": "Schlappold",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1324,
+                    "end": 1333
+                },
+                {
+                    "start": 1373,
+                    "end": 1382
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schmidttobel",
+            "normalized": "Schmidttobel",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1340,
+                    "end": 1352
+                },
+                {
+                    "start": 1409,
+                    "end": 1421
+                },
+                {
+                    "start": 1492,
+                    "end": 1504
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Oberstdorf",
+            "normalized": "Oberstdorf",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1450,
+                    "end": 1460
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Wiederaufbau"
+        },
+        {
+            "denomination": null,
+            "eco": "Bereichern"
+        },
+        {
+            "denomination": null,
+            "eco": "Fremdenbetrieb"
+        },
+        {
+            "denomination": null,
+            "eco": "Saisonbetrieb"
+        },
+        {
+            "denomination": null,
+            "eco": "Beherbergungsbetriebe"
+        },
+        {
+            "denomination": null,
+            "eco": "Ernährungslage"
+        },
+        {
+            "denomination": null,
+            "eco": "Wirtschaft"
+        }
+    ]
+}

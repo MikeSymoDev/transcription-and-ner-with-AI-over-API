@@ -1,0 +1,145 @@
+{
+    "persons": [
+        {
+            "name": "Lord Acton",
+            "normalized": "Acton, Lord",
+            "honorifics": [
+                "Lord"
+            ],
+            "mentions": [
+                {
+                    "start": 42,
+                    "end": 52
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Director of Political Department",
+            "normalized": null,
+            "honorifics": [
+                "Director"
+            ],
+            "mentions": [
+                {
+                    "start": 183,
+                    "end": 215
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Political director",
+            "normalized": null,
+            "honorifics": [
+                "director"
+            ],
+            "mentions": [
+                {
+                    "start": 684,
+                    "end": 702
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Switzerland",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": 46.8182,
+                "lon": 8.2275
+            },
+            "mentions": [
+                {
+                    "start": 14,
+                    "end": 25
+                },
+                {
+                    "start": 420,
+                    "end": 431
+                },
+                {
+                    "start": 634,
+                    "end": 645
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Berne",
+            "normalized": "Bern",
+            "geo": {
+                "lat": 46.94809,
+                "lon": 7.44744
+            },
+            "mentions": [
+                {
+                    "start": 54,
+                    "end": 59
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": 47.23439,
+                "lon": 9.71261
+            },
+            "mentions": [
+                {
+                    "start": 294,
+                    "end": 304
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Germany",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": 51.1657,
+                "lon": 10.4515
+            },
+            "mentions": [
+                {
+                    "start": 498,
+                    "end": 505
+                },
+                {
+                    "start": 675,
+                    "end": 682
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Italy",
+            "normalized": "Italien",
+            "geo": {
+                "lat": 41.8719,
+                "lon": 12.5674
+            },
+            "mentions": [
+                {
+                    "start": 510,
+                    "end": 515
+                },
+                {
+                    "start": 580,
+                    "end": 585
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "compensation"
+        }
+    ]
+}

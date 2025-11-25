@@ -1,0 +1,84 @@
+{
+    "persons": [
+        {
+            "name": "Vorsitzenden",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 62,
+                    "end": 74
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 588,
+                    "end": 594
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweizerlandes",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 744,
+                    "end": 759
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "St.Gallen",
+            "normalized": "Sankt Gallen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1260,
+                    "end": 1269
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Unterrheintal",
+            "normalized": "Unterrheintal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1297,
+                    "end": 1310
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "wirtschaftlichen"
+        }
+    ]
+}

@@ -1,0 +1,387 @@
+{
+    "persons": [
+        {
+            "name": "Leopold Drechsel",
+            "normalized": "Leopold Drechsel",
+            "honorifics": [
+                "Besitzer"
+            ],
+            "mentions": [
+                {
+                    "start": 571,
+                    "end": 595
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Besitzer",
+            "normalized": "Besitzer",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 634,
+                    "end": 642
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ernst Kirsch",
+            "normalized": "Ernst Kirsch",
+            "honorifics": [
+                "Pächter"
+            ],
+            "mentions": [
+                {
+                    "start": 672,
+                    "end": 691
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Karl Keßler",
+            "normalized": "Karl Kessler",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 870,
+                    "end": 881
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Valentin Schusters Erben",
+            "normalized": "Valentin Schuster",
+            "honorifics": [
+                "Erben"
+            ],
+            "mentions": [
+                {
+                    "start": 1043,
+                    "end": 1063
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Wilhelm Matt",
+            "normalized": "Wilhelm Matt",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1079,
+                    "end": 1091
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Franz Josef Schuster",
+            "normalized": "Franz Josef Schuster",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1102,
+                    "end": 1122
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Adalbert Paul",
+            "normalized": "Adalbert Paul",
+            "honorifics": [
+                "Pächter"
+            ],
+            "mentions": [
+                {
+                    "start": 1231,
+                    "end": 1258
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Riezlern",
+            "normalized": "Riezlern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 106,
+                    "end": 113
+                },
+                {
+                    "start": 193,
+                    "end": 200
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Mittelberg",
+            "normalized": "Mittelberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 117,
+                    "end": 127
+                },
+                {
+                    "start": 165,
+                    "end": 175
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Hirschegg",
+            "normalized": "Hirschegg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 152,
+                    "end": 161
+                },
+                {
+                    "start": 586,
+                    "end": 595
+                },
+                {
+                    "start": 1396,
+                    "end": 1405
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Köpfle",
+            "normalized": "Köpfle",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 484,
+                    "end": 490
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Kuhgehrenspitze",
+            "normalized": "Kuhgehrenspitze",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 495,
+                    "end": 509
+                },
+                {
+                    "start": 804,
+                    "end": 818
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Hirschegg-Nebenwasser",
+            "normalized": "Hirschegg-Nebenwasser",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 535,
+                    "end": 554
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Hammerspitze",
+            "normalized": "Hammerspitze",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 901,
+                    "end": 914
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Innernebenwasser",
+            "normalized": "Innernebenwasser",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1010,
+                    "end": 1026
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ochsenhoferscharte",
+            "normalized": "Ochsenhoferscharte",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1165,
+                    "end": 1182
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Alpe Starzel",
+            "normalized": "Alpe Starzel",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1209,
+                    "end": 1221
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Walserschanz-Wald-Rottobel",
+            "normalized": "Walserschanz-Wald-Rottobel",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1297,
+                    "end": 1326
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Walserschanz-Wald",
+            "normalized": "Walserschanz-Wald",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1327,
+                    "end": 1344
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rottobel",
+            "normalized": "Rottobel",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1378,
+                    "end": 1386
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Kabellegung"
+        },
+        {
+            "denomination": null,
+            "eco": "Telefonnetz"
+        },
+        {
+            "denomination": null,
+            "eco": "Fernsprechteilnehmer"
+        },
+        {
+            "denomination": null,
+            "eco": "Postamt"
+        },
+        {
+            "denomination": null,
+            "eco": "Telefondienst"
+        },
+        {
+            "denomination": null,
+            "eco": "Fremdenverkehrsstatistik"
+        },
+        {
+            "denomination": null,
+            "eco": "Wintersaison"
+        },
+        {
+            "denomination": null,
+            "eco": "Nächtigung"
+        },
+        {
+            "denomination": null,
+            "eco": "Sommersaison"
+        },
+        {
+            "denomination": null,
+            "eco": "Nächtigungen"
+        },
+        {
+            "denomination": null,
+            "eco": "Mark"
+        },
+        {
+            "denomination": null,
+            "eco": "Inventar"
+        },
+        {
+            "denomination": null,
+            "eco": "Hauptsaison"
+        },
+        {
+            "denomination": null,
+            "eco": "Straßenbau"
+        },
+        {
+            "denomination": null,
+            "eco": "Baulos"
+        }
+    ]
+}

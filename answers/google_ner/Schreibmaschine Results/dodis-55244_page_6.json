@@ -1,0 +1,333 @@
+{
+    "persons": [
+        {
+            "name": "Verfasser",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 807,
+                    "end": 816
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Landwirte",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1762,
+                    "end": 1771
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Soldaten",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1310,
+                    "end": 1318
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Volkszählungsorganen",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1874,
+                    "end": 1895
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Entente",
+            "normalized": "Entente",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 21,
+                    "end": 28
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Oesterreich",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 34,
+                    "end": 45
+                },
+                {
+                    "start": 272,
+                    "end": 283
+                },
+                {
+                    "start": 649,
+                    "end": 660
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Deutsch-Oesterreich",
+            "normalized": "Deutschösterreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 70,
+                    "end": 89
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 105,
+                    "end": 112
+                },
+                {
+                    "start": 331,
+                    "end": 338
+                },
+                {
+                    "start": 444,
+                    "end": 451
+                },
+                {
+                    "start": 1039,
+                    "end": 1046
+                },
+                {
+                    "start": 2351,
+                    "end": 2358
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bayern",
+            "normalized": "Bayern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 121,
+                    "end": 127
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberger",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 178,
+                    "end": 190
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 510,
+                    "end": 520
+                },
+                {
+                    "start": 2225,
+                    "end": 2235
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "St. Gallen",
+            "normalized": "St. Gallen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 601,
+                    "end": 611
+                },
+                {
+                    "start": 700,
+                    "end": 710
+                },
+                {
+                    "start": 1022,
+                    "end": 1032
+                },
+                {
+                    "start": 1073,
+                    "end": 1083
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Tessin",
+            "normalized": "Tessin",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 629,
+                    "end": 635
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "italienischer",
+            "normalized": "Italien",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1391,
+                    "end": 1404
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "russischer",
+            "normalized": "Russland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1409,
+                    "end": 1419
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": "römisch-katholischen Konfession",
+            "eco": null
+        },
+        {
+            "denomination": null,
+            "eco": "wirtschaftliche"
+        },
+        {
+            "denomination": null,
+            "eco": "Wirtschaftsleben"
+        },
+        {
+            "denomination": null,
+            "eco": "Landwirtschaft"
+        },
+        {
+            "denomination": null,
+            "eco": "Wirtschaftszweige"
+        },
+        {
+            "denomination": null,
+            "eco": "statistischen Amtes"
+        },
+        {
+            "denomination": null,
+            "eco": "Stickerei"
+        },
+        {
+            "denomination": null,
+            "eco": "Heimbetrieb"
+        },
+        {
+            "denomination": null,
+            "eco": "Berufskategorie"
+        },
+        {
+            "denomination": null,
+            "eco": "Industrie"
+        },
+        {
+            "denomination": null,
+            "eco": "Gewerbe"
+        },
+        {
+            "denomination": null,
+            "eco": "Handel"
+        },
+        {
+            "denomination": null,
+            "eco": "Verkehr"
+        },
+        {
+            "denomination": null,
+            "eco": "Freie Berufe"
+        },
+        {
+            "denomination": null,
+            "eco": "Wälder"
+        },
+        {
+            "denomination": null,
+            "eco": "Jagden"
+        },
+        {
+            "denomination": null,
+            "eco": "Rassenviehzucht"
+        },
+        {
+            "denomination": null,
+            "eco": "landwirtschaftlichen"
+        }
+    ]
+}

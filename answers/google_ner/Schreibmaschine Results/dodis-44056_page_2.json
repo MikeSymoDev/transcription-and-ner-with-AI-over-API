@@ -1,0 +1,340 @@
+{
+    "persons": [
+        {
+            "name": "Miller",
+            "normalized": "Miller",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 89,
+                    "end": 95
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Decoppet",
+            "normalized": "Decoppet",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 97,
+                    "end": 105
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schulthess",
+            "normalized": "Schulthess",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 107,
+                    "end": 117
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Calonder",
+            "normalized": "Calonder",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 119,
+                    "end": 127
+                },
+                {
+                    "start": 295,
+                    "end": 303
+                },
+                {
+                    "start": 466,
+                    "end": 474
+                },
+                {
+                    "start": 1546,
+                    "end": 1554
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Haab",
+            "normalized": "Haab",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 129,
+                    "end": 133
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Motta",
+            "normalized": "Motta",
+            "honorifics": [
+                "M.",
+                "le conseiller fédéral"
+            ],
+            "mentions": [
+                {
+                    "start": 170,
+                    "end": 175
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ador",
+            "normalized": "Ador",
+            "honorifics": [
+                "M.",
+                "le président"
+            ],
+            "mentions": [
+                {
+                    "start": 207,
+                    "end": 211
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Steiger",
+            "normalized": "Steiger",
+            "honorifics": [
+                "MM.",
+                "le chancelier"
+            ],
+            "mentions": [
+                {
+                    "start": 244,
+                    "end": 251
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Contat",
+            "normalized": "Contat",
+            "honorifics": [
+                "le vice-chancelier"
+            ],
+            "mentions": [
+                {
+                    "start": 273,
+                    "end": 279
+                },
+                {
+                    "start": 367,
+                    "end": 373
+                },
+                {
+                    "start": 1629,
+                    "end": 1635
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Le secrétaire",
+            "normalized": "Sekretär",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 345,
+                    "end": 357
+                },
+                {
+                    "start": 1607,
+                    "end": 1619
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Durant",
+            "normalized": "Durant",
+            "honorifics": [
+                "M.",
+                "le Ministre"
+            ],
+            "mentions": [
+                {
+                    "start": 509,
+                    "end": 515
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Le chef du département politique",
+            "normalized": "Chef des politischen Departements",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 785,
+                    "end": 816
+                },
+                {
+                    "start": 1515,
+                    "end": 1546
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "le Ministre de Suisse en France",
+            "normalized": "Minister der Schweiz in Frankreich",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 835,
+                    "end": 865
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "le Ministre des affaires étrangères",
+            "normalized": "Minister für auswärtige Angelegenheiten",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 902,
+                    "end": 935
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Clinchant",
+            "normalized": "Clinchant",
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 1337,
+                    "end": 1346
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "chargé d'affaires de France",
+            "normalized": "Geschäftsträger Frankreichs",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1357,
+                    "end": 1384
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Suisse",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 27,
+                    "end": 33
+                },
+                {
+                    "start": 409,
+                    "end": 415
+                },
+                {
+                    "start": 848,
+                    "end": 854
+                },
+                {
+                    "start": 994,
+                    "end": 1001
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 284,
+                    "end": 294
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "France",
+            "normalized": "Frankreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 419,
+                    "end": 425
+                },
+                {
+                    "start": 858,
+                    "end": 864
+                },
+                {
+                    "start": 1378,
+                    "end": 1384
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Berne",
+            "normalized": "Bern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1391,
+                    "end": 1396
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Employés d'hôtels"
+        },
+        {
+            "denomination": null,
+            "eco": "personnel d'hôtels"
+        },
+        {
+            "denomination": null,
+            "eco": "employés"
+        },
+        {
+            "denomination": null,
+            "eco": "intérêts"
+        }
+    ]
+}

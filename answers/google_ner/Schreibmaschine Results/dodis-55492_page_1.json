@@ -1,0 +1,255 @@
+{
+    "persons": [
+        {
+            "name": "Headlam",
+            "normalized": "Headlam",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 5,
+                    "end": 12
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Sir Horace Rumbold",
+            "normalized": "Horace Rumbold",
+            "honorifics": [
+                "Sir"
+            ],
+            "mentions": [
+                {
+                    "start": 305,
+                    "end": 323
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Swiss President",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 339,
+                    "end": 354
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Ebert",
+            "normalized": "Friedrich Ebert",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 409,
+                    "end": 414
+                },
+                {
+                    "start": 622,
+                    "end": 627
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Wolff",
+            "normalized": "Theodor Wolff",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 569,
+                    "end": 574
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "President",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 595,
+                    "end": 604
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Lord Acton",
+            "normalized": "Richard Lyon-Dalberg-Acton",
+            "honorifics": [
+                "Lord"
+            ],
+            "mentions": [
+                {
+                    "start": 673,
+                    "end": 683
+                },
+                {
+                    "start": 862,
+                    "end": 872
+                },
+                {
+                    "start": 986,
+                    "end": 996
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Director of the Political Department",
+            "normalized": null,
+            "honorifics": [
+                "Director"
+            ],
+            "mentions": [
+                {
+                    "start": 709,
+                    "end": 743
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "German Representative",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 932,
+                    "end": 953
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Minister for Foreign Affairs",
+            "normalized": null,
+            "honorifics": [
+                "Minister"
+            ],
+            "mentions": [
+                {
+                    "start": 1007,
+                    "end": 1035
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Randall",
+            "normalized": "Randall",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1256,
+                    "end": 1263
+                }
+            ],
+            "confidence": 0.8
+        }
+    ],
+    "places": [
+        {
+            "name": "Switzerland",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": 46.8182,
+                "lon": 8.2275
+            },
+            "mentions": [
+                {
+                    "start": 19,
+                    "end": 30
+                },
+                {
+                    "start": 444,
+                    "end": 455
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Germany",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": 51.1657,
+                "lon": 10.4515
+            },
+            "mentions": [
+                {
+                    "start": 33,
+                    "end": 40
+                },
+                {
+                    "start": 1184,
+                    "end": 1191
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": 47.2472,
+                "lon": 9.8732
+            },
+            "mentions": [
+                {
+                    "start": 46,
+                    "end": 56
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Berne",
+            "normalized": "Bern",
+            "geo": {
+                "lat": 46.948,
+                "lon": 7.4474
+            },
+            "mentions": [
+                {
+                    "start": 103,
+                    "end": 108
+                },
+                {
+                    "start": 689,
+                    "end": 694
+                },
+                {
+                    "start": 957,
+                    "end": 962
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Weimar",
+            "normalized": "Weimar",
+            "geo": {
+                "lat": 50.9806,
+                "lon": 11.329
+            },
+            "mentions": [
+                {
+                    "start": 1199,
+                    "end": 1205
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

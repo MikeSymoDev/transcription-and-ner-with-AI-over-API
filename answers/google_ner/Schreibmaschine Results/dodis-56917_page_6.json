@@ -1,0 +1,147 @@
+{
+    "persons": [
+        {
+            "name": "Bediensteten",
+            "normalized": "Bediensteter",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 401,
+                    "end": 412
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bahnmeister",
+            "normalized": "Bahnmeister",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 605,
+                    "end": 616
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Oberbauarbeiter",
+            "normalized": "Oberbauarbeiter",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 618,
+                    "end": 633
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Ausgaben"
+        },
+        {
+            "denomination": null,
+            "eco": "Verwaltung"
+        },
+        {
+            "denomination": null,
+            "eco": "Gehälter"
+        },
+        {
+            "denomination": null,
+            "eco": "Instandhaltungskosten"
+        },
+        {
+            "denomination": null,
+            "eco": "Kosten"
+        },
+        {
+            "denomination": null,
+            "eco": "Steuern"
+        },
+        {
+            "denomination": null,
+            "eco": "Stempel"
+        },
+        {
+            "denomination": null,
+            "eco": "Gebühren"
+        },
+        {
+            "denomination": null,
+            "eco": "Wohlfahrtseinrichtungen"
+        },
+        {
+            "denomination": null,
+            "eco": "Krankenkassaanteile"
+        },
+        {
+            "denomination": null,
+            "eco": "Unfallversicherung"
+        },
+        {
+            "denomination": null,
+            "eco": "Zuschüsse"
+        },
+        {
+            "denomination": null,
+            "eco": "Pensionskassa"
+        },
+        {
+            "denomination": null,
+            "eco": "Sparfond"
+        },
+        {
+            "denomination": null,
+            "eco": "Haftpflichtversicherung"
+        },
+        {
+            "denomination": null,
+            "eco": "Feuerversicherung"
+        },
+        {
+            "denomination": null,
+            "eco": "Remunerationen"
+        },
+        {
+            "denomination": null,
+            "eco": "Reklame"
+        },
+        {
+            "denomination": null,
+            "eco": "Inserate"
+        },
+        {
+            "denomination": null,
+            "eco": "Beiträge"
+        },
+        {
+            "denomination": null,
+            "eco": "Löhne"
+        },
+        {
+            "denomination": null,
+            "eco": "Bahnerhaltung"
+        },
+        {
+            "denomination": null,
+            "eco": "Oberbauerhaltung"
+        },
+        {
+            "denomination": null,
+            "eco": "Unterbauerhaltung"
+        },
+        {
+            "denomination": null,
+            "eco": "Gebäudeerhaltung"
+        },
+        {
+            "denomination": null,
+            "eco": "Uebertrag"
+        }
+    ]
+}

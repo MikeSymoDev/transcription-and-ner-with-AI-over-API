@@ -1,0 +1,333 @@
+{
+    "persons": [
+        {
+            "name": "Motta",
+            "normalized": null,
+            "honorifics": [
+                "M.",
+                "conseiller fédéral",
+                "MM."
+            ],
+            "mentions": [
+                {
+                    "start": 279,
+                    "end": 284
+                },
+                {
+                    "start": 510,
+                    "end": 515
+                },
+                {
+                    "start": 658,
+                    "end": 663
+                },
+                {
+                    "start": 1215,
+                    "end": 1220
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Decoppet",
+            "normalized": null,
+            "honorifics": [
+                "MM."
+            ],
+            "mentions": [
+                {
+                    "start": 517,
+                    "end": 525
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schulthess",
+            "normalized": null,
+            "honorifics": [
+                "MM."
+            ],
+            "mentions": [
+                {
+                    "start": 527,
+                    "end": 536
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Calonder",
+            "normalized": null,
+            "honorifics": [
+                "MM."
+            ],
+            "mentions": [
+                {
+                    "start": 538,
+                    "end": 546
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Haab",
+            "normalized": null,
+            "honorifics": [
+                "MM."
+            ],
+            "mentions": [
+                {
+                    "start": 548,
+                    "end": 552
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Müller",
+            "normalized": null,
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 567,
+                    "end": 573
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ador",
+            "normalized": null,
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 588,
+                    "end": 592
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Steiger",
+            "normalized": null,
+            "honorifics": [
+                "MM."
+            ],
+            "mentions": [
+                {
+                    "start": 607,
+                    "end": 613
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Contat",
+            "normalized": null,
+            "honorifics": [
+                "MM."
+            ],
+            "mentions": [
+                {
+                    "start": 358,
+                    "end": 364
+                },
+                {
+                    "start": 618,
+                    "end": 624
+                },
+                {
+                    "start": 1354,
+                    "end": 1360
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Alliés",
+            "normalized": "Alliierte",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 44,
+                    "end": 50
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Conseil fédéral",
+            "normalized": "Bundesrat",
+            "honorifics": [
+                "Le",
+                "du",
+                "le"
+            ],
+            "mentions": [
+                {
+                    "start": 243,
+                    "end": 259
+                },
+                {
+                    "start": 693,
+                    "end": 709
+                },
+                {
+                    "start": 1130,
+                    "end": 1146
+                },
+                {
+                    "start": 1224,
+                    "end": 1240
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "soussigné",
+            "normalized": "Unterzeichneter",
+            "honorifics": [
+                "au"
+            ],
+            "mentions": [
+                {
+                    "start": 302,
+                    "end": 311
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "secrétaire",
+            "normalized": "Sekretär",
+            "honorifics": [
+                "Le"
+            ],
+            "mentions": [
+                {
+                    "start": 345,
+                    "end": 355
+                },
+                {
+                    "start": 1341,
+                    "end": 1351
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Paris",
+            "normalized": null,
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 28,
+                    "end": 33
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "l'Allemagne",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 66,
+                    "end": 76
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Gênes",
+            "normalized": "Genua",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 128,
+                    "end": 133
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": null,
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 643,
+                    "end": 652
+                },
+                {
+                    "start": 733,
+                    "end": 742
+                },
+                {
+                    "start": 862,
+                    "end": 871
+                },
+                {
+                    "start": 924,
+                    "end": 933
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Wurttemberg",
+            "normalized": "Württemberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 788,
+                    "end": 798
+                },
+                {
+                    "start": 1024,
+                    "end": 1034
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Suisse",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 964,
+                    "end": 970
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": []
+}

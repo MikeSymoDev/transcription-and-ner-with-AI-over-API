@@ -1,0 +1,165 @@
+{
+    "persons": [
+        {
+            "name": "Gesandtschafts-Sekretär",
+            "normalized": "Gesandtschaftssekretär",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 535,
+                    "end": 558
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Herr Cosmos Schindler",
+            "normalized": "Cosmos Schindler",
+            "honorifics": [
+                "Herr"
+            ],
+            "mentions": [
+                {
+                    "start": 878,
+                    "end": 899
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Jenny",
+            "normalized": "Jenny",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 905,
+                    "end": 910
+                }
+            ],
+            "confidence": 0.7
+        }
+    ],
+    "places": [
+        {
+            "name": "Deutsch-Tirol",
+            "normalized": "Deutschtirol",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1121,
+                    "end": 1134
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Kennelbach",
+            "normalized": "Kennelbach",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 922,
+                    "end": 932
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 686,
+                    "end": 693
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Tirol",
+            "normalized": "Tirol",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 42,
+                    "end": 47
+                },
+                {
+                    "start": 254,
+                    "end": 259
+                },
+                {
+                    "start": 292,
+                    "end": 297
+                },
+                {
+                    "start": 850,
+                    "end": 855
+                },
+                {
+                    "start": 937,
+                    "end": 942
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 23,
+                    "end": 33
+                },
+                {
+                    "start": 264,
+                    "end": 274
+                },
+                {
+                    "start": 747,
+                    "end": 757
+                },
+                {
+                    "start": 934,
+                    "end": 944
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Ersatz"
+        },
+        {
+            "denomination": null,
+            "eco": "Kosten"
+        },
+        {
+            "denomination": null,
+            "eco": "Minimum"
+        },
+        {
+            "denomination": null,
+            "eco": "Restitution"
+        }
+    ]
+}

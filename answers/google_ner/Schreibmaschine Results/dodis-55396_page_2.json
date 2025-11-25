@@ -1,0 +1,326 @@
+{
+    "persons": [
+        {
+            "name": "Gemeindevorsteher",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 51,
+                    "end": 67
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Felder",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 68,
+                    "end": 74
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Landeshauptmann",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 817,
+                    "end": 832
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Oberschützenmeister",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 844,
+                    "end": 863
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Josef Moosbrugger",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 868,
+                    "end": 885
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Kaisers",
+            "normalized": "Kaiser",
+            "honorifics": [
+                "Kaiser"
+            ],
+            "mentions": [
+                {
+                    "start": 1510,
+                    "end": 1517
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Franz Josef I.",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1518,
+                    "end": 1533
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Kaiser",
+            "normalized": "Kaiser",
+            "honorifics": [
+                "Kaiser"
+            ],
+            "mentions": [
+                {
+                    "start": 1561,
+                    "end": 1567
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Karl I.",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1568,
+                    "end": 1575
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Bregenz",
+            "normalized": "Bregenz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 5,
+                    "end": 12
+                },
+                {
+                    "start": 928,
+                    "end": 935
+                },
+                {
+                    "start": 1279,
+                    "end": 1286
+                },
+                {
+                    "start": 1351,
+                    "end": 1358
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Alpen",
+            "normalized": "Alpen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 213,
+                    "end": 218
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Riezlern",
+            "normalized": "Riezlern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 309,
+                    "end": 317
+                },
+                {
+                    "start": 889,
+                    "end": 897
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Baad",
+            "normalized": "Baad",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 371,
+                    "end": 375
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Starzeljoch",
+            "normalized": "Starzeljoch",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 392,
+                    "end": 404
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "BEZAU",
+            "normalized": "Bezau",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 424,
+                    "end": 429
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Mittelberg",
+            "normalized": "Mittelberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 516,
+                    "end": 526
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Kleinwalsertaler",
+            "normalized": "Kleinwalsertal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 788,
+                    "end": 804
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Walsertal",
+            "normalized": "Walsertal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1454,
+                    "end": 1463
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Tal",
+            "normalized": null,
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1924,
+                    "end": 1927
+                }
+            ],
+            "confidence": 0.8
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Mehlvorräte"
+        },
+        {
+            "denomination": null,
+            "eco": "Händlern"
+        },
+        {
+            "denomination": null,
+            "eco": "Meterzentner"
+        },
+        {
+            "denomination": null,
+            "eco": "Vorrat"
+        },
+        {
+            "denomination": null,
+            "eco": "Mehlenteignung"
+        },
+        {
+            "denomination": null,
+            "eco": "landwirtschaftlichen Arbeiten"
+        },
+        {
+            "denomination": null,
+            "eco": "Schafwoblablieferung"
+        },
+        {
+            "denomination": null,
+            "eco": "Petroliummangel"
+        },
+        {
+            "denomination": null,
+            "eco": "Beleuchtungsmaterial"
+        },
+        {
+            "denomination": null,
+            "eco": "Arbeiten"
+        }
+    ]
+}

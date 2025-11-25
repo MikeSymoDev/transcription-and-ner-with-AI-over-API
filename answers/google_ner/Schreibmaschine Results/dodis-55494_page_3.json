@@ -1,0 +1,43 @@
+{
+    "persons": [
+        {
+            "name": "Preisky",
+            "normalized": "Preisky",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1542,
+                    "end": 1549
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Landesrates",
+            "normalized": "Landesrat",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1098,
+                    "end": 1109
+                }
+            ],
+            "confidence": 0.9
+        }
+    ],
+    "places": [],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "staats-\nfinanziellen Auseinandersetzung"
+        },
+        {
+            "denomination": null,
+            "eco": "finanziellen Fragen"
+        },
+        {
+            "denomination": null,
+            "eco": "Schuldenübernahme"
+        }
+    ]
+}

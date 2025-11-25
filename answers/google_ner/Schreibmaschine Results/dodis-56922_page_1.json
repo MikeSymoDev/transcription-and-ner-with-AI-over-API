@@ -1,0 +1,135 @@
+{
+    "persons": [
+        {
+            "name": "Herrn Ständerat Brügger",
+            "normalized": "Brügger",
+            "honorifics": [
+                "Herr",
+                "Ständerat"
+            ],
+            "mentions": [
+                {
+                    "start": 312,
+                    "end": 334
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Camille Decoppet",
+            "normalized": "Camille Decoppet",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 613,
+                    "end": 629
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Der Departementssekretär",
+            "normalized": null,
+            "honorifics": [
+                "Departementssekretär"
+            ],
+            "mentions": [
+                {
+                    "start": 739,
+                    "end": 761
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Der Chef\ndes Generalstabes der Armee",
+            "normalized": null,
+            "honorifics": [
+                "Chef des Generalstabes der Armee"
+            ],
+            "mentions": [
+                {
+                    "start": 772,
+                    "end": 810
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Schweiz.",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 17,
+                    "end": 24
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bern",
+            "normalized": "Bern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 46,
+                    "end": 50
+                },
+                {
+                    "start": 699,
+                    "end": 703
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Taufers",
+            "normalized": "Taufers",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 228,
+                    "end": 235
+                },
+                {
+                    "start": 400,
+                    "end": 407
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Münstertal",
+            "normalized": "Münstertal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 421,
+                    "end": 431
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

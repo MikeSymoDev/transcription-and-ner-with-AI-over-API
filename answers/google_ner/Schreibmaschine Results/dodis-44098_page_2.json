@@ -1,0 +1,208 @@
+{
+    "persons": [],
+    "places": [
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 105,
+                    "end": 116
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "l’Est",
+            "normalized": "Ost",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 217,
+                    "end": 222
+                },
+                {
+                    "start": 804,
+                    "end": 809
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "l’Orient",
+            "normalized": "Orient",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 234,
+                    "end": 242
+                },
+                {
+                    "start": 331,
+                    "end": 339
+                },
+                {
+                    "start": 894,
+                    "end": 902
+                },
+                {
+                    "start": 1097,
+                    "end": 1105
+                },
+                {
+                    "start": 1391,
+                    "end": 1399
+                },
+                {
+                    "start": 1563,
+                    "end": 1571
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "l’Autriche-Hongrie",
+            "normalized": "Österreich-Ungarn",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 258,
+                    "end": 277
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vienne",
+            "normalized": "Wien",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 395,
+                    "end": 401
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Belgrade",
+            "normalized": "Belgrad",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 483,
+                    "end": 491
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "la Serbie",
+            "normalized": "Serbien",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 546,
+                    "end": 555
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "la Suisse",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 595,
+                    "end": 604
+                },
+                {
+                    "start": 1279,
+                    "end": 1288
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bucarest",
+            "normalized": "Bukarest",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1009,
+                    "end": 1017
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "l’Allemagne",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1353,
+                    "end": 1364
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "l’Ouest",
+            "normalized": "Westen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1500,
+                    "end": 1507
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "commerce"
+        },
+        {
+            "denomination": null,
+            "eco": "transit"
+        }
+    ]
+}

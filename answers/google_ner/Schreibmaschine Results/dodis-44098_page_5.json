@@ -1,0 +1,291 @@
+{
+    "persons": [
+        {
+            "name": "Megrot",
+            "normalized": "Megrot",
+            "honorifics": [
+                "général"
+            ],
+            "mentions": [
+                {
+                    "start": 832,
+                    "end": 838
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 28,
+                    "end": 38
+                },
+                {
+                    "start": 67,
+                    "end": 77
+                },
+                {
+                    "start": 399,
+                    "end": 409
+                },
+                {
+                    "start": 624,
+                    "end": 634
+                },
+                {
+                    "start": 1242,
+                    "end": 1252
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Autriche",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 101,
+                    "end": 109
+                },
+                {
+                    "start": 213,
+                    "end": 221
+                },
+                {
+                    "start": 552,
+                    "end": 560
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Allemagne",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 118,
+                    "end": 126
+                },
+                {
+                    "start": 229,
+                    "end": 237
+                },
+                {
+                    "start": 267,
+                    "end": 275
+                },
+                {
+                    "start": 568,
+                    "end": 576
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Tyrol",
+            "normalized": "Tirol",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 428,
+                    "end": 433
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "St. Gall",
+            "normalized": "St. Gallen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 458,
+                    "end": 466
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Arlberg",
+            "normalized": "Arlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 490,
+                    "end": 497
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rhin",
+            "normalized": "Rhein",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 534,
+                    "end": 538
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Italie",
+            "normalized": "Italien",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 767,
+                    "end": 773
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ajoie",
+            "normalized": "Ajoie",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 845,
+                    "end": 850
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Paris",
+            "normalized": "Paris",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 861,
+                    "end": 866
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Savoie",
+            "normalized": "Savoyen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 895,
+                    "end": 901
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Alpes",
+            "normalized": "Alpen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 916,
+                    "end": 923
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Tessin",
+            "normalized": "Tessin",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1015,
+                    "end": 1022
+                },
+                {
+                    "start": 1119,
+                    "end": 1126
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Poschiavo",
+            "normalized": "Poschiavo",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1029,
+                    "end": 1037
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Tyrol méridional",
+            "normalized": "Südtirol",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1133,
+                    "end": 1149
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

@@ -1,0 +1,304 @@
+{
+    "persons": [
+        {
+            "name": "Romald Brändle",
+            "normalized": "Romald Brändle",
+            "honorifics": [
+                "Gend.Kdt"
+            ],
+            "mentions": [
+                {
+                    "start": 9,
+                    "end": 23
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Hermann Sprenger",
+            "normalized": "Hermann Sprenger",
+            "honorifics": [
+                "Gendarm"
+            ],
+            "mentions": [
+                {
+                    "start": 34,
+                    "end": 49
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Gendarmeriepostens",
+            "normalized": "Gendarmerieposten",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 580,
+                    "end": 598
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Walburga Hilbrand",
+            "normalized": "Walburga Hilbrand",
+            "honorifics": [
+                "Postfuhrwerksbesitzerin"
+            ],
+            "mentions": [
+                {
+                    "start": 946,
+                    "end": 963
+                },
+                {
+                    "start": 1252,
+                    "end": 1267
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Sattelalpe",
+            "normalized": "Sattelalpe",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 85,
+                    "end": 95
+                },
+                {
+                    "start": 190,
+                    "end": 200
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bärenkopfmassiv",
+            "normalized": "Bärenkopfmassiv",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 152,
+                    "end": 168
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Böden",
+            "normalized": "Böden",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 210,
+                    "end": 215
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Baad",
+            "normalized": "Baad",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 220,
+                    "end": 224
+                },
+                {
+                    "start": 493,
+                    "end": 497
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Breitach",
+            "normalized": "Breitach",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 297,
+                    "end": 305
+                },
+                {
+                    "start": 395,
+                    "end": 403
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Berlin",
+            "normalized": "Berlin",
+            "geo": {
+                "lat": 52.52,
+                "lon": 13.405
+            },
+            "mentions": [
+                {
+                    "start": 707,
+                    "end": 713
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Mittelberg",
+            "normalized": "Mittelberg",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 791,
+                    "end": 801
+                },
+                {
+                    "start": 920,
+                    "end": 930
+                },
+                {
+                    "start": 1110,
+                    "end": 1120
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "österr.Hinterland",
+            "normalized": "Österreich",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 808,
+                    "end": 824
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "bayerisches Gebiet",
+            "normalized": "Bayern",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 831,
+                    "end": 848
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Walserschanz",
+            "normalized": "Walserschanz",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 1121,
+                    "end": 1134
+                },
+                {
+                    "start": 1175,
+                    "end": 1188
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Oberstdorf",
+            "normalized": "Oberstdorf",
+            "geo": {
+                "lat": 47.4116,
+                "lon": 10.2743
+            },
+            "mentions": [
+                {
+                    "start": 1160,
+                    "end": 1170
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Tal",
+            "normalized": "Tal",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 1394,
+                    "end": 1397
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "Zwerbach",
+            "normalized": "Zwerbach",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 1529,
+                    "end": 1537
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Hirschegg",
+            "normalized": "Hirschegg",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 1552,
+                    "end": 1560
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ahorn",
+            "normalized": "Ahorn",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 1561,
+                    "end": 1566
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "Vorarlberger",
+            "normalized": "Vorarlberg",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 1587,
+                    "end": 1598
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Riezlern",
+            "normalized": "Riezlern",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 1685,
+                    "end": 1693
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

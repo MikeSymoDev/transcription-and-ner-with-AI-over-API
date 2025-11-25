@@ -1,0 +1,276 @@
+{
+    "persons": [],
+    "places": [
+        {
+            "name": "Bâle",
+            "normalized": "Basel",
+            "geo": {
+                "lat": 47.5596,
+                "lon": 7.5886
+            },
+            "mentions": [
+                {
+                    "start": 69,
+                    "end": 73
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Buchs",
+            "normalized": "Buchs SG",
+            "geo": {
+                "lat": 47.1667,
+                "lon": 9.4794
+            },
+            "mentions": [
+                {
+                    "start": 74,
+                    "end": 79
+                },
+                {
+                    "start": 89,
+                    "end": 94
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "l'Allemagne",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": 51.5,
+                "lon": 10.5
+            },
+            "mentions": [
+                {
+                    "start": 109,
+                    "end": 119
+                },
+                {
+                    "start": 636,
+                    "end": 646
+                },
+                {
+                    "start": 736,
+                    "end": 746
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Suisse",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": 46.8182,
+                "lon": 8.2275
+            },
+            "mentions": [
+                {
+                    "start": 191,
+                    "end": 197
+                },
+                {
+                    "start": 351,
+                    "end": 357
+                },
+                {
+                    "start": 526,
+                    "end": 532
+                },
+                {
+                    "start": 1172,
+                    "end": 1178
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "l'Europe",
+            "normalized": "Europa",
+            "geo": {
+                "lat": 48.7,
+                "lon": 15.0
+            },
+            "mentions": [
+                {
+                    "start": 366,
+                    "end": 374
+                },
+                {
+                    "start": 898,
+                    "end": 904
+                },
+                {
+                    "start": 955,
+                    "end": 961
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Brenner",
+            "normalized": "Brennerpass",
+            "geo": {
+                "lat": 47.0,
+                "lon": 11.5333
+            },
+            "mentions": [
+                {
+                    "start": 395,
+                    "end": 402
+                },
+                {
+                    "start": 494,
+                    "end": 501
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "l'Italie",
+            "normalized": "Italien",
+            "geo": {
+                "lat": 41.8719,
+                "lon": 12.5674
+            },
+            "mentions": [
+                {
+                    "start": 444,
+                    "end": 452
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Willach",
+            "normalized": "Villach",
+            "geo": {
+                "lat": 46.6111,
+                "lon": 13.8475
+            },
+            "mentions": [
+                {
+                    "start": 502,
+                    "end": 509
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Belgrade",
+            "normalized": "Belgrad",
+            "geo": {
+                "lat": 44.7872,
+                "lon": 20.4573
+            },
+            "mentions": [
+                {
+                    "start": 536,
+                    "end": 544
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rhin",
+            "normalized": "Rhein",
+            "geo": {
+                "lat": 47.6,
+                "lon": 8.6
+            },
+            "mentions": [
+                {
+                    "start": 809,
+                    "end": 813
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Alpes",
+            "normalized": "Alpen",
+            "geo": {
+                "lat": 46.5,
+                "lon": 9.5
+            },
+            "mentions": [
+                {
+                    "start": 1060,
+                    "end": 1065
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": 47.25,
+                "lon": 9.9
+            },
+            "mentions": [
+                {
+                    "start": 1104,
+                    "end": 1114
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Tyrol",
+            "normalized": "Tirol",
+            "geo": {
+                "lat": 47.25,
+                "lon": 11.25
+            },
+            "mentions": [
+                {
+                    "start": 1137,
+                    "end": 1142
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "l'Autriche",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": 47.5162,
+                "lon": 14.5501
+            },
+            "mentions": [
+                {
+                    "start": 1149,
+                    "end": 1159
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Wurtem-",
+            "normalized": "Württemberg",
+            "geo": {
+                "lat": 48.68,
+                "lon": 9.05
+            },
+            "mentions": [
+                {
+                    "start": 1202,
+                    "end": 1209
+                }
+            ],
+            "confidence": 0.8
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "trafic international"
+        },
+        {
+            "denomination": null,
+            "eco": "trafic"
+        }
+    ]
+}

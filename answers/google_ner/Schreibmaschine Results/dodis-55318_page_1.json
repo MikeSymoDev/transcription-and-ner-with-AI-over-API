@@ -1,0 +1,294 @@
+{
+    "persons": [
+        {
+            "name": "Dr. W. Beck",
+            "normalized": "W. Beck",
+            "honorifics": [
+                "Dr."
+            ],
+            "mentions": [
+                {
+                    "start": 8,
+                    "end": 22
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Herrn Regierungsvorsitzenden",
+            "normalized": "Regierungsvorsitzender",
+            "honorifics": [
+                "Herr"
+            ],
+            "mentions": [
+                {
+                    "start": 194,
+                    "end": 220
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Herrn Nationalrat Grünenfelder",
+            "normalized": "Grünenfelder",
+            "honorifics": [
+                "Herr",
+                "Nationalrat"
+            ],
+            "mentions": [
+                {
+                    "start": 240,
+                    "end": 271
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Herr Bundespräsidenz Calonder",
+            "normalized": "Calonder",
+            "honorifics": [
+                "Herr",
+                "Bundespräsident"
+            ],
+            "mentions": [
+                {
+                    "start": 589,
+                    "end": 620
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Herrn Minister Lardi",
+            "normalized": "Lardi",
+            "honorifics": [
+                "Herr",
+                "Minister"
+            ],
+            "mentions": [
+                {
+                    "start": 686,
+                    "end": 705
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Präsident",
+            "normalized": "Präsident",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 990,
+                    "end": 999
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Minister",
+            "normalized": "Minister",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1004,
+                    "end": 1012
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bundespräsident",
+            "normalized": "Bundespräsident",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1089,
+                    "end": 1104
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorsteher des Justizdepartementes Müller",
+            "normalized": "Müller",
+            "honorifics": [
+                "Vorsteher des Justizdepartementes"
+            ],
+            "mentions": [
+                {
+                    "start": 1187,
+                    "end": 1240
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Decoppet",
+            "normalized": "Decoppet",
+            "honorifics": [
+                "Vorsteher des Militärdepartementes"
+            ],
+            "mentions": [
+                {
+                    "start": 1273,
+                    "end": 1279
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "französische Botschafter",
+            "normalized": "Botschafter",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1435,
+                    "end": 1459
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Landesverweser",
+            "normalized": "Landesverweser",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1729,
+                    "end": 1743
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Bern",
+            "normalized": "Bern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 145,
+                    "end": 149
+                },
+                {
+                    "start": 310,
+                    "end": 314
+                },
+                {
+                    "start": 467,
+                    "end": 471
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Flums",
+            "normalized": "Flums",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 284,
+                    "end": 289
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 828,
+                    "end": 838
+                },
+                {
+                    "start": 1376,
+                    "end": 1386
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Tirol",
+            "normalized": "Tirol",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1391,
+                    "end": 1396
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Nordtirols",
+            "normalized": "Nordtirol",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1552,
+                    "end": 1561
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1644,
+                    "end": 1650
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Liechtenstein",
+            "normalized": "Liechtenstein",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1679,
+                    "end": 1692
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Lebensmittelversorgung"
+        },
+        {
+            "denomination": null,
+            "eco": "Ausfuhr von Lebensmitteln"
+        }
+    ]
+}

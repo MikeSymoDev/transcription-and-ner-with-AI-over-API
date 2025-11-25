@@ -1,0 +1,137 @@
+{
+    "persons": [
+        {
+            "name": "M. le Conseiller fédéral Motta",
+            "normalized": "Giuseppe Motta",
+            "honorifics": [
+                "M.",
+                "Conseiller fédéral"
+            ],
+            "mentions": [
+                {
+                    "start": 196,
+                    "end": 227
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 80,
+                    "end": 90
+                },
+                {
+                    "start": 94,
+                    "end": 104
+                },
+                {
+                    "start": 346,
+                    "end": 356
+                },
+                {
+                    "start": 1230,
+                    "end": 1240
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Suisse italienne",
+            "normalized": "Italienische Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 123,
+                    "end": 139
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Thurgovie",
+            "normalized": "Thurgau",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 393,
+                    "end": 402
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Suisse romande",
+            "normalized": "Romandie",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 648,
+                    "end": 661
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Suisse",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 827,
+                    "end": 833
+                },
+                {
+                    "start": 1249,
+                    "end": 1255
+                },
+                {
+                    "start": 1384,
+                    "end": 1390
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "l'Orient",
+            "normalized": "Orient",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1416,
+                    "end": 1424
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "financier"
+        }
+    ]
+}

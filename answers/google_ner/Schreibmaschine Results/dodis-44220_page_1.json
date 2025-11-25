@@ -1,0 +1,213 @@
+{
+    "persons": [
+        {
+            "name": "Herr Bundesrat",
+            "normalized": null,
+            "honorifics": [
+                "Herr"
+            ],
+            "mentions": [
+                {
+                    "start": 162,
+                    "end": 176
+                },
+                {
+                    "start": 1618,
+                    "end": 1632
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Herr Staatssekretär Dr. Otto Bauer",
+            "normalized": "Otto Bauer",
+            "honorifics": [
+                "Herr",
+                "Staatssekretär",
+                "Dr."
+            ],
+            "mentions": [
+                {
+                    "start": 260,
+                    "end": 290
+                },
+                {
+                    "start": 310,
+                    "end": 315
+                },
+                {
+                    "start": 519,
+                    "end": 524
+                },
+                {
+                    "start": 969,
+                    "end": 974
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "C. S. Dourcart",
+            "normalized": "C. S. Dourcart",
+            "honorifics": [
+                "Gesandte"
+            ],
+            "mentions": [
+                {
+                    "start": 1682,
+                    "end": 1707
+                },
+                {
+                    "start": 1709,
+                    "end": 1722
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Wien",
+            "normalized": "Wien",
+            "geo": {
+                "lat": 48.2081743,
+                "lon": 16.3738189
+            },
+            "mentions": [
+                {
+                    "start": 35,
+                    "end": 39
+                },
+                {
+                    "start": 130,
+                    "end": 134
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlbergs",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": 47.2346741,
+                "lon": 9.7118182
+            },
+            "mentions": [
+                {
+                    "start": 80,
+                    "end": 90
+                },
+                {
+                    "start": 227,
+                    "end": 237
+                },
+                {
+                    "start": 366,
+                    "end": 377
+                },
+                {
+                    "start": 461,
+                    "end": 472
+                },
+                {
+                    "start": 497,
+                    "end": 508
+                },
+                {
+                    "start": 620,
+                    "end": 637
+                },
+                {
+                    "start": 988,
+                    "end": 998
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Deutsch-Oesterreichs",
+            "normalized": "Deutschösterreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 326,
+                    "end": 343
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": 46.818188,
+                "lon": 8.2275119
+            },
+            "mentions": [
+                {
+                    "start": 382,
+                    "end": 388
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Tirol",
+            "normalized": "Tirol",
+            "geo": {
+                "lat": 47.28014,
+                "lon": 11.23351
+            },
+            "mentions": [
+                {
+                    "start": 449,
+                    "end": 454
+                },
+                {
+                    "start": 486,
+                    "end": 492
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "St. Germain",
+            "normalized": "Saint-Germain",
+            "geo": {
+                "lat": 48.9009,
+                "lon": 2.0931
+            },
+            "mentions": [
+                {
+                    "start": 572,
+                    "end": 583
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bern",
+            "normalized": "Bern",
+            "geo": {
+                "lat": 46.94809,
+                "lon": 7.44744
+            },
+            "mentions": [
+                {
+                    "start": 1787,
+                    "end": 1791
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "finanzielle"
+        }
+    ]
+}

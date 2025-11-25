@@ -1,0 +1,226 @@
+{
+    "persons": [
+        {
+            "name": "Herr Ing. Henrich",
+            "normalized": "Heinrich",
+            "honorifics": [
+                "Oberforstkommissär"
+            ],
+            "mentions": [
+                {
+                    "start": 1761,
+                    "end": 1777
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Deutsch-Oesterreichs",
+            "normalized": "Deutschösterreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 501,
+                    "end": 521
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Basler",
+            "normalized": "Basel",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 684,
+                    "end": 690
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": 47.25,
+                "lon": 9.8
+            },
+            "mentions": [
+                {
+                    "start": 785,
+                    "end": 795
+                },
+                {
+                    "start": 947,
+                    "end": 957
+                },
+                {
+                    "start": 1195,
+                    "end": 1205
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": 46.8182,
+                "lon": 8.2275
+            },
+            "mentions": [
+                {
+                    "start": 981,
+                    "end": 987
+                },
+                {
+                    "start": 1056,
+                    "end": 1062
+                },
+                {
+                    "start": 1308,
+                    "end": 1314
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Schuldverpflichtung"
+        },
+        {
+            "denomination": null,
+            "eco": "Kredite"
+        },
+        {
+            "denomination": null,
+            "eco": "Kapital"
+        },
+        {
+            "denomination": null,
+            "eco": "Finanzen"
+        },
+        {
+            "denomination": null,
+            "eco": "Schuldendeckung"
+        },
+        {
+            "denomination": null,
+            "eco": "Tilgung"
+        },
+        {
+            "denomination": null,
+            "eco": "Verzinsung"
+        },
+        {
+            "denomination": null,
+            "eco": "Schulden"
+        },
+        {
+            "denomination": null,
+            "eco": "Kompensation"
+        },
+        {
+            "denomination": null,
+            "eco": "Forderungen"
+        },
+        {
+            "denomination": null,
+            "eco": "Invalidenversorgung"
+        },
+        {
+            "denomination": null,
+            "eco": "Schuld"
+        },
+        {
+            "denomination": null,
+            "eco": "Aktivum"
+        },
+        {
+            "denomination": null,
+            "eco": "Waldungen"
+        },
+        {
+            "denomination": null,
+            "eco": "Waldfläche"
+        },
+        {
+            "denomination": null,
+            "eco": "Holzmasse"
+        },
+        {
+            "denomination": null,
+            "eco": "Kronen"
+        },
+        {
+            "denomination": null,
+            "eco": "Bodenwert"
+        },
+        {
+            "denomination": null,
+            "eco": "Nationalgüter"
+        },
+        {
+            "denomination": null,
+            "eco": "Pfandrecht"
+        },
+        {
+            "denomination": null,
+            "eco": "Anleihen"
+        },
+        {
+            "denomination": null,
+            "eco": "Anlagen"
+        },
+        {
+            "denomination": null,
+            "eco": "Gegenwerte"
+        },
+        {
+            "denomination": null,
+            "eco": "Steuer- und Finanzhoheit"
+        },
+        {
+            "denomination": null,
+            "eco": "Franken"
+        },
+        {
+            "denomination": null,
+            "eco": "Zuschlag"
+        },
+        {
+            "denomination": null,
+            "eco": "Staatssteuern"
+        },
+        {
+            "denomination": null,
+            "eco": "Grundsteuer"
+        },
+        {
+            "denomination": null,
+            "eco": "Erwerbssteuer"
+        },
+        {
+            "denomination": null,
+            "eco": "Aktiengesellschaften"
+        },
+        {
+            "denomination": null,
+            "eco": "Hausier- und Wandersteuer"
+        },
+        {
+            "denomination": null,
+            "eco": "Rentensteuer"
+        }
+    ]
+}

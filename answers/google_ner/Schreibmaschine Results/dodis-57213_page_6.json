@@ -1,0 +1,159 @@
+{
+    "persons": [
+        {
+            "name": "Mitgliederbestand",
+            "normalized": "Mitglieder",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 569,
+                    "end": 585
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "Kt. Korrentschuldner",
+            "normalized": "Kontokorrentschuldner",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 835,
+                    "end": 854
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Inhabern",
+            "normalized": "Inhaber",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 932,
+                    "end": 940
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "Kt.Kt.Gläubiger",
+            "normalized": "Kontokorrentgläubiger",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1205,
+                    "end": 1220
+                }
+            ],
+            "confidence": 0.9
+        }
+    ],
+    "places": [],
+    "content": [
+        {
+            "denomination": "Pfarrkirchen",
+            "eco": null
+        },
+        {
+            "denomination": "Pfründen",
+            "eco": null
+        },
+        {
+            "denomination": null,
+            "eco": "Kriegsanleihe"
+        },
+        {
+            "denomination": null,
+            "eco": "Schulfonds"
+        },
+        {
+            "denomination": null,
+            "eco": "Armenfonds"
+        },
+        {
+            "denomination": null,
+            "eco": "Konkurrenzarmentanstaltsverm"
+        },
+        {
+            "denomination": null,
+            "eco": "Rheinwuhrkonkurrenzverm"
+        },
+        {
+            "denomination": null,
+            "eco": "Fonds"
+        },
+        {
+            "denomination": null,
+            "eco": "Vermögen"
+        },
+        {
+            "denomination": null,
+            "eco": "Glockenfonds"
+        },
+        {
+            "denomination": null,
+            "eco": "Gebäudewert"
+        },
+        {
+            "denomination": null,
+            "eco": "Spar- und Darlehenskassenvereine"
+        },
+        {
+            "denomination": null,
+            "eco": "Bilanzauszüge"
+        },
+        {
+            "denomination": null,
+            "eco": "Geschäftsanteile"
+        },
+        {
+            "denomination": null,
+            "eco": "Verband"
+        },
+        {
+            "denomination": null,
+            "eco": "Einlagen"
+        },
+        {
+            "denomination": null,
+            "eco": "Darlehen"
+        },
+        {
+            "denomination": null,
+            "eco": "Zinsen"
+        },
+        {
+            "denomination": null,
+            "eco": "Aktiven"
+        },
+        {
+            "denomination": null,
+            "eco": "Reservefonds"
+        },
+        {
+            "denomination": null,
+            "eco": "Spareinlagen"
+        },
+        {
+            "denomination": null,
+            "eco": "Reingewinn"
+        },
+        {
+            "denomination": null,
+            "eco": "Passiven"
+        },
+        {
+            "denomination": null,
+            "eco": "Schätzungen"
+        },
+        {
+            "denomination": null,
+            "eco": "Realitäten"
+        },
+        {
+            "denomination": null,
+            "eco": "Verhältnissen"
+        }
+    ]
+}

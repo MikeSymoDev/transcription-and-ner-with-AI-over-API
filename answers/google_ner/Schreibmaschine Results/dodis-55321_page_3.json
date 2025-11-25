@@ -1,0 +1,423 @@
+{
+    "persons": [
+        {
+            "name": "Schulthess",
+            "normalized": "Schulthess",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 283,
+                    "end": 293
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Hoffmann",
+            "normalized": "Hoffmann",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 294,
+                    "end": 302
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Wille",
+            "normalized": "Wille",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 303,
+                    "end": 308
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "welsche Schweiz",
+            "normalized": "Welsche Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 24,
+                    "end": 38
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 135,
+                    "end": 141
+                },
+                {
+                    "start": 371,
+                    "end": 377
+                },
+                {
+                    "start": 560,
+                    "end": 566
+                },
+                {
+                    "start": 894,
+                    "end": 900
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Elsaß",
+            "normalized": "Elsass",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 402,
+                    "end": 407
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Basler",
+            "normalized": "Basel",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 435,
+                    "end": 441
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Basel",
+            "normalized": "Basel",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 467,
+                    "end": 472
+                },
+                {
+                    "start": 535,
+                    "end": 540
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Brüssel",
+            "normalized": "Brüssel",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 504,
+                    "end": 511
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Luxemburg",
+            "normalized": "Luxemburg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 512,
+                    "end": 521
+                },
+                {
+                    "start": 672,
+                    "end": 681
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Metz",
+            "normalized": "Metz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 522,
+                    "end": 526
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "England",
+            "normalized": "England",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 541,
+                    "end": 548
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Frankreich",
+            "normalized": "Frankreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 551,
+                    "end": 561
+                },
+                {
+                    "start": 662,
+                    "end": 672
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Belfort",
+            "normalized": "Belfort",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 567,
+                    "end": 574
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Berner Jura",
+            "normalized": "Berner Jura",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 605,
+                    "end": 616
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Holland",
+            "normalized": "Niederlande",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 637,
+                    "end": 644
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Belgian",
+            "normalized": "Belgien",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 644,
+                    "end": 651
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Nord-Frankreich",
+            "normalized": "Nordfrankreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 652,
+                    "end": 666
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Elsass-Lothringen",
+            "normalized": "Elsass-Lothringen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 685,
+                    "end": 701
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Lötschberg",
+            "normalized": "Lötschberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 716,
+                    "end": 726
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Simplon",
+            "normalized": "Simplon",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 730,
+                    "end": 737
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "jurassischen Bezirkes",
+            "normalized": "Jura",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 770,
+                    "end": 789
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Berner Kanton",
+            "normalized": "Kanton Bern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 793,
+                    "end": 806
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Deutschland",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 932,
+                    "end": 943
+                },
+                {
+                    "start": 1000,
+                    "end": 1007
+                },
+                {
+                    "start": 1039,
+                    "end": 1046
+                },
+                {
+                    "start": 1133,
+                    "end": 1140
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "wirtschaftlichen Nutzen"
+        },
+        {
+            "denomination": null,
+            "eco": "Wiederbelebung"
+        },
+        {
+            "denomination": null,
+            "eco": "Weltverkehres"
+        },
+        {
+            "denomination": null,
+            "eco": "Waren"
+        },
+        {
+            "denomination": null,
+            "eco": "Materialien"
+        },
+        {
+            "denomination": null,
+            "eco": "Kohle"
+        },
+        {
+            "denomination": null,
+            "eco": "Kontrolle"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "persons": [
+        {
+            "name": "Der Vorsteher des politischen Departementes",
+            "normalized": null,
+            "honorifics": [
+                "Vorsteher"
+            ],
+            "mentions": [
+                {
+                    "start": 66,
+                    "end": 108
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Herrn Dr. Otto\nEnder",
+            "normalized": "Otto Ender",
+            "honorifics": [
+                "Herrn",
+                "Dr."
+            ],
+            "mentions": [
+                {
+                    "start": 112,
+                    "end": 132
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Landesrat",
+            "normalized": null,
+            "honorifics": [
+                "Landesrat"
+            ],
+            "mentions": [
+                {
+                    "start": 205,
+                    "end": 214
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 51,
+                    "end": 61
+                },
+                {
+                    "start": 150,
+                    "end": 160
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bregenz",
+            "normalized": "Bregenz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 164,
+                    "end": 171
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

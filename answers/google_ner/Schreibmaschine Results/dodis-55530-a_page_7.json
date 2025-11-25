@@ -1,0 +1,43 @@
+{
+    "persons": [
+        {
+            "name": "Landesrat",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 5,
+                    "end": 15
+                }
+            ],
+            "confidence": 0.9
+        }
+    ],
+    "places": [
+        {
+            "name": "Deutschösterreich",
+            "normalized": "Deutschösterreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 63,
+                    "end": 79
+                },
+                {
+                    "start": 272,
+                    "end": 288
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

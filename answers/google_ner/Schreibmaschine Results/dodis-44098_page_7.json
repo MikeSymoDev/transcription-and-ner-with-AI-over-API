@@ -1,0 +1,132 @@
+{
+    "persons": [],
+    "places": [
+        {
+            "name": "Suisse",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 9,
+                    "end": 15
+                },
+                {
+                    "start": 609,
+                    "end": 615
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Allemagne",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 97,
+                    "end": 106
+                },
+                {
+                    "start": 175,
+                    "end": 184
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Autriche allemande",
+            "normalized": "Deutschösterreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 337,
+                    "end": 354
+                },
+                {
+                    "start": 439,
+                    "end": 456
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 396,
+                    "end": 405
+                },
+                {
+                    "start": 1145,
+                    "end": 1154
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Cantons",
+            "normalized": "Kantone",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 692,
+                    "end": 699
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Suisse romande",
+            "normalized": "Romandie",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1042,
+                    "end": 1055
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Suisse allemande",
+            "normalized": "Deutschschweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1215,
+                    "end": 1229
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

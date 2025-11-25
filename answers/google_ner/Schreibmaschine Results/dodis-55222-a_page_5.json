@@ -1,0 +1,126 @@
+{
+    "persons": [],
+    "places": [
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 28,
+                    "end": 38
+                },
+                {
+                    "start": 290,
+                    "end": 300
+                },
+                {
+                    "start": 504,
+                    "end": 514
+                },
+                {
+                    "start": 1040,
+                    "end": 1050
+                },
+                {
+                    "start": 1818,
+                    "end": 1828
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Switzerland",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 147,
+                    "end": 158
+                },
+                {
+                    "start": 671,
+                    "end": 682
+                },
+                {
+                    "start": 938,
+                    "end": 949
+                },
+                {
+                    "start": 1120,
+                    "end": 1131
+                },
+                {
+                    "start": 1404,
+                    "end": 1415
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "St.Gall",
+            "normalized": "St. Gallen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 200,
+                    "end": 207
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Germany",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 359,
+                    "end": 366
+                },
+                {
+                    "start": 574,
+                    "end": 581
+                },
+                {
+                    "start": 1054,
+                    "end": 1061
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rhine",
+            "normalized": "Rhein",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 462,
+                    "end": 467
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Eisenbahnverkehr"
+        }
+    ]
+}

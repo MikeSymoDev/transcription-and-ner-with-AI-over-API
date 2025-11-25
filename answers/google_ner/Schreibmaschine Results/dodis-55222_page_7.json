@@ -1,0 +1,69 @@
+{
+    "persons": [],
+    "places": [
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 9,
+                    "end": 19
+                },
+                {
+                    "start": 120,
+                    "end": 130
+                },
+                {
+                    "start": 324,
+                    "end": 334
+                },
+                {
+                    "start": 400,
+                    "end": 410
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Switzerland",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 349,
+                    "end": 360
+                },
+                {
+                    "start": 420,
+                    "end": 431
+                },
+                {
+                    "start": 617,
+                    "end": 628
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "free traffic"
+        },
+        {
+            "denomination": null,
+            "eco": "financial difficulties"
+        },
+        {
+            "denomination": null,
+            "eco": "acquiring indebted provinces"
+        }
+    ]
+}

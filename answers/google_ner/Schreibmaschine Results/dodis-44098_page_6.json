@@ -1,0 +1,183 @@
+{
+    "persons": [
+        {
+            "name": "Dr. Ritter",
+            "normalized": "Ritter",
+            "honorifics": [
+                "Dr."
+            ],
+            "mentions": [
+                {
+                    "start": 1162,
+                    "end": 1172
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Pangermanistes",
+            "normalized": "Pangermanisten",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1219,
+                    "end": 1232
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "l'Italie",
+            "normalized": "Italien",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 22,
+                    "end": 29
+                },
+                {
+                    "start": 181,
+                    "end": 188
+                },
+                {
+                    "start": 288,
+                    "end": 295
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 93,
+                    "end": 103
+                },
+                {
+                    "start": 299,
+                    "end": 309
+                },
+                {
+                    "start": 651,
+                    "end": 661
+                },
+                {
+                    "start": 931,
+                    "end": 941
+                },
+                {
+                    "start": 1104,
+                    "end": 1114
+                },
+                {
+                    "start": 1259,
+                    "end": 1269
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Taufers",
+            "normalized": "Taufers",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 270,
+                    "end": 277
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "empire austro-hongrois",
+            "normalized": "Österreich-Ungarn",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 605,
+                    "end": 625
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "l'Allemagne",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 694,
+                    "end": 703
+                },
+                {
+                    "start": 780,
+                    "end": 789
+                },
+                {
+                    "start": 887,
+                    "end": 896
+                },
+                {
+                    "start": 955,
+                    "end": 964
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schaffhouse",
+            "normalized": "Schaffhausen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 855,
+                    "end": 866
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Souabe",
+            "normalized": "Schwaben",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1198,
+                    "end": 1204
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Markt"
+        }
+    ]
+}

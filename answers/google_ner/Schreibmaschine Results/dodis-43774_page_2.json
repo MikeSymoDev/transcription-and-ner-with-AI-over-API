@@ -1,0 +1,258 @@
+{
+    "persons": [],
+    "places": [
+        {
+            "name": "Tirol",
+            "normalized": "Tirol",
+            "geo": {
+                "lat": 47.25,
+                "lon": 11.25
+            },
+            "mentions": [
+                {
+                    "start": 29,
+                    "end": 34
+                },
+                {
+                    "start": 111,
+                    "end": 116
+                },
+                {
+                    "start": 600,
+                    "end": 605
+                },
+                {
+                    "start": 723,
+                    "end": 728
+                },
+                {
+                    "start": 855,
+                    "end": 860
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "französischen",
+            "normalized": "Frankreich",
+            "geo": {
+                "lat": 46.2276,
+                "lon": 2.2137
+            },
+            "mentions": [
+                {
+                    "start": 60,
+                    "end": 73
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": 46.8182,
+                "lon": 8.2275
+            },
+            "mentions": [
+                {
+                    "start": 91,
+                    "end": 98
+                },
+                {
+                    "start": 136,
+                    "end": 143
+                },
+                {
+                    "start": 713,
+                    "end": 720
+                },
+                {
+                    "start": 980,
+                    "end": 987
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": 47.25,
+                "lon": 9.8
+            },
+            "mentions": [
+                {
+                    "start": 119,
+                    "end": 129
+                },
+                {
+                    "start": 278,
+                    "end": 288
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Suisse",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": 46.8182,
+                "lon": 8.2275
+            },
+            "mentions": [
+                {
+                    "start": 190,
+                    "end": 196
+                },
+                {
+                    "start": 321,
+                    "end": 327
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "France",
+            "normalized": "Frankreich",
+            "geo": {
+                "lat": 46.2276,
+                "lon": 2.2137
+            },
+            "mentions": [
+                {
+                    "start": 220,
+                    "end": 226
+                },
+                {
+                    "start": 308,
+                    "end": 314
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Suisses",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": 46.8182,
+                "lon": 8.2275
+            },
+            "mentions": [
+                {
+                    "start": 257,
+                    "end": 264
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Tyrol",
+            "normalized": "Tirol",
+            "geo": {
+                "lat": 47.25,
+                "lon": 11.25
+            },
+            "mentions": [
+                {
+                    "start": 269,
+                    "end": 274
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Oesterreich",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": 47.5162,
+                "lon": 14.5501
+            },
+            "mentions": [
+                {
+                    "start": 967,
+                    "end": 978
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Abgabe"
+        },
+        {
+            "denomination": null,
+            "eco": "Ausfuhrbewilligungen"
+        },
+        {
+            "denomination": null,
+            "eco": "denrées"
+        },
+        {
+            "denomination": null,
+            "eco": "exportation"
+        },
+        {
+            "denomination": null,
+            "eco": "Hilfe"
+        },
+        {
+            "denomination": null,
+            "eco": "Hilfsaktion"
+        },
+        {
+            "denomination": null,
+            "eco": "Kontingent"
+        },
+        {
+            "denomination": null,
+            "eco": "Lebensmittel"
+        },
+        {
+            "denomination": null,
+            "eco": "Lebensmittelvorräte"
+        },
+        {
+            "denomination": null,
+            "eco": "Mehl"
+        },
+        {
+            "denomination": null,
+            "eco": "quantités livrées"
+        },
+        {
+            "denomination": null,
+            "eco": "ravitaillement"
+        },
+        {
+            "denomination": null,
+            "eco": "Reis"
+        },
+        {
+            "denomination": null,
+            "eco": "Restitution"
+        },
+        {
+            "denomination": null,
+            "eco": "réserves"
+        },
+        {
+            "denomination": null,
+            "eco": "Rückvergütung"
+        },
+        {
+            "denomination": null,
+            "eco": "Verpflegung"
+        },
+        {
+            "denomination": null,
+            "eco": "Versorgung"
+        },
+        {
+            "denomination": null,
+            "eco": "Waren"
+        }
+    ]
+}

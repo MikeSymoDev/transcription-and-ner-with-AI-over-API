@@ -1,0 +1,189 @@
+{
+    "persons": [],
+    "places": [
+        {
+            "name": "Vintschgau",
+            "normalized": "Vinschgau",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 9,
+                    "end": 19
+                },
+                {
+                    "start": 544,
+                    "end": 554
+                },
+                {
+                    "start": 657,
+                    "end": 667
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Tirolerfront",
+            "normalized": "Tirol",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 86,
+                    "end": 98
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Sta. Maria",
+            "normalized": "Santa Maria Val Müstair",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 101,
+                    "end": 111
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Minster",
+            "normalized": "Müstair",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 114,
+                    "end": 121
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Taufers",
+            "normalized": "Taufers",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 151,
+                    "end": 158
+                },
+                {
+                    "start": 496,
+                    "end": 503
+                },
+                {
+                    "start": 779,
+                    "end": 786
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweizergebiet",
+            "normalized": "Schweizer Gebiet",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 179,
+                    "end": 193
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Oesterreich",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 621,
+                    "end": 631
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Deutschland",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 635,
+                    "end": 646
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Münstertal",
+            "normalized": "Münstertal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 694,
+                    "end": 704
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Italien",
+            "normalized": "Italien",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 572,
+                    "end": 578
+                },
+                {
+                    "start": 688,
+                    "end": 694
+                },
+                {
+                    "start": 709,
+                    "end": 715
+                },
+                {
+                    "start": 769,
+                    "end": 775
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

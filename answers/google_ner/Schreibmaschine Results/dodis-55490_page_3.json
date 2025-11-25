@@ -1,0 +1,173 @@
+{
+    "persons": [
+        {
+            "name": "Regierungsrat",
+            "normalized": "Regierungsrat",
+            "honorifics": [
+                "Regierungsrat"
+            ],
+            "mentions": [
+                {
+                    "start": 353,
+                    "end": 366
+                },
+                {
+                    "start": 1381,
+                    "end": 1394
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bundesrates",
+            "normalized": "Bundesrat",
+            "honorifics": [
+                "Bundesrat"
+            ],
+            "mentions": [
+                {
+                    "start": 382,
+                    "end": 393
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Petenten",
+            "normalized": "Petent",
+            "honorifics": [
+                "Petent"
+            ],
+            "mentions": [
+                {
+                    "start": 508,
+                    "end": 516
+                },
+                {
+                    "start": 1251,
+                    "end": 1259
+                },
+                {
+                    "start": 1332,
+                    "end": 1340
+                },
+                {
+                    "start": 1478,
+                    "end": 1486
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "St.Gallen",
+            "normalized": "St. Gallen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 18,
+                    "end": 27
+                },
+                {
+                    "start": 473,
+                    "end": 482
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Unterrheintal",
+            "normalized": "Unterrheintal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 53,
+                    "end": 66
+                },
+                {
+                    "start": 460,
+                    "end": 473
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 71,
+                    "end": 78
+                },
+                {
+                    "start": 487,
+                    "end": 494
+                },
+                {
+                    "start": 637,
+                    "end": 644
+                },
+                {
+                    "start": 1461,
+                    "end": 1468
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rhein",
+            "normalized": "Rhein",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 427,
+                    "end": 432
+                },
+                {
+                    "start": 1163,
+                    "end": 1168
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rheindelta",
+            "normalized": "Rheindelta",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 446,
+                    "end": 456
+                },
+                {
+                    "start": 2229,
+                    "end": 2239
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Zollkontrolle"
+        }
+    ]
+}

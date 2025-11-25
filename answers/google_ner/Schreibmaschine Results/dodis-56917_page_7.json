@@ -1,0 +1,279 @@
+{
+    "persons": [
+        {
+            "name": "Kondukteure",
+            "normalized": "Kondukteure",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 579,
+                    "end": 590
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Güterkondukteure",
+            "normalized": "Güterkondukteure",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 604,
+                    "end": 619
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Wagenführer",
+            "normalized": "Wagenführer",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 790,
+                    "end": 801
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Werkstättenarbeiter",
+            "normalized": "Werkstättenarbeiter",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 947,
+                    "end": 964
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Uebertrag"
+        },
+        {
+            "denomination": null,
+            "eco": "Instandhaltung"
+        },
+        {
+            "denomination": null,
+            "eco": "Leitungen"
+        },
+        {
+            "denomination": null,
+            "eco": "Speise-"
+        },
+        {
+            "denomination": null,
+            "eco": "Telephon-"
+        },
+        {
+            "denomination": null,
+            "eco": "Schienenrückleitung"
+        },
+        {
+            "denomination": null,
+            "eco": "Erdungen"
+        },
+        {
+            "denomination": null,
+            "eco": "Signalleitungen"
+        },
+        {
+            "denomination": null,
+            "eco": "Haustelegraphen"
+        },
+        {
+            "denomination": null,
+            "eco": "Gehälter"
+        },
+        {
+            "denomination": null,
+            "eco": "Löhne"
+        },
+        {
+            "denomination": null,
+            "eco": "Materialien"
+        },
+        {
+            "denomination": null,
+            "eco": "Verschiedenes"
+        },
+        {
+            "denomination": null,
+            "eco": "Verkehrs-"
+        },
+        {
+            "denomination": null,
+            "eco": "kommerzieller Dienst"
+        },
+        {
+            "denomination": null,
+            "eco": "Zentralleitung"
+        },
+        {
+            "denomination": null,
+            "eco": "Gehaltsanteile"
+        },
+        {
+            "denomination": null,
+            "eco": "Drucksorten"
+        },
+        {
+            "denomination": null,
+            "eco": "Güterverkehr"
+        },
+        {
+            "denomination": null,
+            "eco": "Fahrdienst"
+        },
+        {
+            "denomination": null,
+            "eco": "Zugsfoerderung"
+        },
+        {
+            "denomination": null,
+            "eco": "Zugsfoerderungskosten"
+        },
+        {
+            "denomination": null,
+            "eco": "Revisionsdienst"
+        },
+        {
+            "denomination": null,
+            "eco": "Werkstättendienst"
+        },
+        {
+            "denomination": null,
+            "eco": "Verbrauchsmaterialien"
+        },
+        {
+            "denomination": null,
+            "eco": "Wagenantrieb"
+        },
+        {
+            "denomination": null,
+            "eco": "Bremsung"
+        },
+        {
+            "denomination": null,
+            "eco": "Stromabnehmer"
+        },
+        {
+            "denomination": null,
+            "eco": "Motoren"
+        },
+        {
+            "denomination": null,
+            "eco": "Kontroller"
+        },
+        {
+            "denomination": null,
+            "eco": "Zahnräder"
+        },
+        {
+            "denomination": null,
+            "eco": "Spindeln"
+        },
+        {
+            "denomination": null,
+            "eco": "Kurbeln"
+        },
+        {
+            "denomination": null,
+            "eco": "Klötze"
+        },
+        {
+            "denomination": null,
+            "eco": "Ketten"
+        },
+        {
+            "denomination": null,
+            "eco": "Signalbeleuchtung"
+        },
+        {
+            "denomination": null,
+            "eco": "Beheizung"
+        },
+        {
+            "denomination": null,
+            "eco": "optische Signale"
+        },
+        {
+            "denomination": null,
+            "eco": "Glühlampen"
+        },
+        {
+            "denomination": null,
+            "eco": "Wagenkasten"
+        },
+        {
+            "denomination": null,
+            "eco": "Adjustierung"
+        },
+        {
+            "denomination": null,
+            "eco": "akustische Signale"
+        },
+        {
+            "denomination": null,
+            "eco": "Fenster"
+        },
+        {
+            "denomination": null,
+            "eco": "Türen"
+        },
+        {
+            "denomination": null,
+            "eco": "Untergestelle"
+        },
+        {
+            "denomination": null,
+            "eco": "Laufräder"
+        },
+        {
+            "denomination": null,
+            "eco": "Achsen"
+        },
+        {
+            "denomination": null,
+            "eco": "Lager"
+        },
+        {
+            "denomination": null,
+            "eco": "Puffer"
+        },
+        {
+            "denomination": null,
+            "eco": "Schutzrahmen"
+        },
+        {
+            "denomination": null,
+            "eco": "Oele"
+        },
+        {
+            "denomination": null,
+            "eco": "Fette"
+        },
+        {
+            "denomination": null,
+            "eco": "Putzmaterial"
+        },
+        {
+            "denomination": null,
+            "eco": "Material"
+        },
+        {
+            "denomination": null,
+            "eco": "Kraft- und Arbeitsmaschinen"
+        },
+        {
+            "denomination": null,
+            "eco": "Werkstätte"
+        }
+    ]
+}

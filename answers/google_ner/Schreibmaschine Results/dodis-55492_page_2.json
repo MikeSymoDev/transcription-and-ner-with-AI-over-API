@@ -1,0 +1,363 @@
+{
+    "persons": [
+        {
+            "name": "Swiss Minister for Foreign Affairs",
+            "normalized": null,
+            "honorifics": [
+                "Minister"
+            ],
+            "mentions": [
+                {
+                    "start": 44,
+                    "end": 79
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Swiss industrialists",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 462,
+                    "end": 474
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "local experts",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1084,
+                    "end": 1097
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Switzerland",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": 46.8182,
+                "lon": 8.2275
+            },
+            "mentions": [
+                {
+                    "start": 40,
+                    "end": 51
+                },
+                {
+                    "start": 213,
+                    "end": 224
+                },
+                {
+                    "start": 912,
+                    "end": 923
+                },
+                {
+                    "start": 1137,
+                    "end": 1148
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": 47.2307,
+                "lon": 9.714
+            },
+            "mentions": [
+                {
+                    "start": 249,
+                    "end": 259
+                },
+                {
+                    "start": 519,
+                    "end": 529
+                },
+                {
+                    "start": 569,
+                    "end": 579
+                },
+                {
+                    "start": 809,
+                    "end": 819
+                },
+                {
+                    "start": 1118,
+                    "end": 1128
+                },
+                {
+                    "start": 1195,
+                    "end": 1205
+                },
+                {
+                    "start": 1269,
+                    "end": 1279
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Austrian Crown Territory",
+            "normalized": "Österreichisches Kronland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 286,
+                    "end": 308
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "St. Gall",
+            "normalized": "St. Gallen",
+            "geo": {
+                "lat": 47.4245,
+                "lon": 9.3767
+            },
+            "mentions": [
+                {
+                    "start": 478,
+                    "end": 486
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Austria",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": 47.5162,
+                "lon": 14.5501
+            },
+            "mentions": [
+                {
+                    "start": 617,
+                    "end": 624
+                },
+                {
+                    "start": 662,
+                    "end": 669
+                },
+                {
+                    "start": 894,
+                    "end": 901
+                },
+                {
+                    "start": 1168,
+                    "end": 1175
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Braganza",
+            "normalized": "Bregenz",
+            "geo": {
+                "lat": 47.5029,
+                "lon": 9.747
+            },
+            "mentions": [
+                {
+                    "start": 788,
+                    "end": 796
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "Vienna",
+            "normalized": "Wien",
+            "geo": {
+                "lat": 48.2082,
+                "lon": 16.3719
+            },
+            "mentions": [
+                {
+                    "start": 836,
+                    "end": 842
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Berne",
+            "normalized": "Bern",
+            "geo": {
+                "lat": 46.948,
+                "lon": 7.4474
+            },
+            "mentions": [
+                {
+                    "start": 844,
+                    "end": 849
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Munich",
+            "normalized": "München",
+            "geo": {
+                "lat": 48.1351,
+                "lon": 11.582
+            },
+            "mentions": [
+                {
+                    "start": 854,
+                    "end": 860
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bavaria",
+            "normalized": "Bayern",
+            "geo": {
+                "lat": 48.7904,
+                "lon": 11.4979
+            },
+            "mentions": [
+                {
+                    "start": 928,
+                    "end": 935
+                },
+                {
+                    "start": 1056,
+                    "end": 1063
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Paris",
+            "normalized": "Paris",
+            "geo": {
+                "lat": 48.8566,
+                "lon": 2.3522
+            },
+            "mentions": [
+                {
+                    "start": 1239,
+                    "end": 1244
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ulm",
+            "normalized": "Ulm",
+            "geo": {
+                "lat": 48.4011,
+                "lon": 9.9876
+            },
+            "mentions": [
+                {
+                    "start": 1308,
+                    "end": 1311
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Württemberg",
+            "normalized": "Württemberg",
+            "geo": {
+                "lat": 48.6909,
+                "lon": 9.0716
+            },
+            "mentions": [
+                {
+                    "start": 1332,
+                    "end": 1343
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Great Swabia",
+            "normalized": "Grossschwaben",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1361,
+                    "end": 1373
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Stuttgart",
+            "normalized": "Stuttgart",
+            "geo": {
+                "lat": 48.7758,
+                "lon": 9.1829
+            },
+            "mentions": [
+                {
+                    "start": 1490,
+                    "end": 1499
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "subsidised"
+        },
+        {
+            "denomination": null,
+            "eco": "industrialists"
+        },
+        {
+            "denomination": null,
+            "eco": "employment"
+        },
+        {
+            "denomination": null,
+            "eco": "industry"
+        },
+        {
+            "denomination": null,
+            "eco": "financial burdens"
+        },
+        {
+            "denomination": null,
+            "eco": "loan"
+        },
+        {
+            "denomination": null,
+            "eco": "francs"
+        },
+        {
+            "denomination": null,
+            "eco": "exchange"
+        },
+        {
+            "denomination": null,
+            "eco": "economic future"
+        },
+        {
+            "denomination": null,
+            "eco": "industries"
+        }
+    ]
+}

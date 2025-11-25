@@ -1,0 +1,37 @@
+{
+    "persons": [
+        {
+            "name": "Monsieur le Ministre",
+            "normalized": "Herr Minister",
+            "honorifics": [
+                "Monsieur"
+            ],
+            "mentions": [
+                {
+                    "start": 138,
+                    "end": 158
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Lardy",
+            "normalized": "Lardy",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 196,
+                    "end": 201
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

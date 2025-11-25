@@ -1,0 +1,178 @@
+{
+    "persons": [
+        {
+            "name": "Conseiller Fédéral",
+            "normalized": "Conseiller Fédéral",
+            "honorifics": [
+                "Monsieur le"
+            ],
+            "mentions": [
+                {
+                    "start": 309,
+                    "end": 324
+                },
+                {
+                    "start": 771,
+                    "end": 786
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Conseil fédéral",
+            "normalized": "Conseil fédéral",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 350,
+                    "end": 365
+                },
+                {
+                    "start": 694,
+                    "end": 709
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Brügger",
+            "normalized": "Brügger",
+            "honorifics": [
+                "M.",
+                "Conseiller aux Etats"
+            ],
+            "mentions": [
+                {
+                    "start": 656,
+                    "end": 663
+                },
+                {
+                    "start": 682,
+                    "end": 689
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Charles L.E. Gardy",
+            "normalized": "Charles Gardy",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 981,
+                    "end": 998
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Generalstabsabteilung",
+            "normalized": "Generalstabsabteilung",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 250,
+                    "end": 272
+                },
+                {
+                    "start": 1007,
+                    "end": 1029
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Glück",
+            "normalized": "Glück",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1045,
+                    "end": 1049
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Furl.",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 280,
+                    "end": 285
+                }
+            ],
+            "confidence": 0.5
+        }
+    ],
+    "places": [
+        {
+            "name": "Suisse",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 19,
+                    "end": 25
+                },
+                {
+                    "start": 938,
+                    "end": 944
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Taufers",
+            "normalized": "Taufers",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 202,
+                    "end": 209
+                },
+                {
+                    "start": 310,
+                    "end": 317
+                },
+                {
+                    "start": 622,
+                    "end": 629
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Berne",
+            "normalized": "Bern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1069,
+                    "end": 1074
+                },
+                {
+                    "start": 932,
+                    "end": 937
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

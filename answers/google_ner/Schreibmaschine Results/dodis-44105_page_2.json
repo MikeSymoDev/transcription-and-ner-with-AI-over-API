@@ -1,0 +1,202 @@
+{
+    "persons": [
+        {
+            "name": "Bundesrates",
+            "normalized": "Bundesrat",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1068,
+                    "end": 1079
+                },
+                {
+                    "start": 1362,
+                    "end": 1371
+                },
+                {
+                    "start": 1497,
+                    "end": 1506
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Deutsch-Oesterreich",
+            "normalized": "Deutsch-Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 42,
+                    "end": 61
+                },
+                {
+                    "start": 635,
+                    "end": 654
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 82,
+                    "end": 88
+                },
+                {
+                    "start": 106,
+                    "end": 112
+                },
+                {
+                    "start": 193,
+                    "end": 199
+                },
+                {
+                    "start": 254,
+                    "end": 260
+                },
+                {
+                    "start": 359,
+                    "end": 365
+                },
+                {
+                    "start": 444,
+                    "end": 450
+                },
+                {
+                    "start": 574,
+                    "end": 580
+                },
+                {
+                    "start": 712,
+                    "end": 718
+                },
+                {
+                    "start": 840,
+                    "end": 846
+                },
+                {
+                    "start": 1118,
+                    "end": 1124
+                },
+                {
+                    "start": 1640,
+                    "end": 1646
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 133,
+                    "end": 143
+                },
+                {
+                    "start": 173,
+                    "end": 184
+                },
+                {
+                    "start": 338,
+                    "end": 349
+                },
+                {
+                    "start": 558,
+                    "end": 568
+                },
+                {
+                    "start": 706,
+                    "end": 717
+                },
+                {
+                    "start": 1107,
+                    "end": 1118
+                },
+                {
+                    "start": 1699,
+                    "end": 1709
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Deutschland",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 150,
+                    "end": 161
+                },
+                {
+                    "start": 404,
+                    "end": 415
+                },
+                {
+                    "start": 593,
+                    "end": 604
+                },
+                {
+                    "start": 1713,
+                    "end": 1724
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bern",
+            "normalized": "Bern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1339,
+                    "end": 1343
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Grossdeutschland",
+            "normalized": "Großdeutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1727,
+                    "end": 1743
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

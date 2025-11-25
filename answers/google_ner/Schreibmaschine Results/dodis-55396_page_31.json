@@ -1,0 +1,315 @@
+{
+    "persons": [
+        {
+            "name": "Paula Elsässer",
+            "normalized": "Paula Elsässer",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 213,
+                    "end": 226
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Peter Wild",
+            "normalized": "Peter Wild",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 297,
+                    "end": 307
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Gebhard Hinteregger",
+            "normalized": "Gebhard Hinteregger",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 569,
+                    "end": 587
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ludwig Mimler",
+            "normalized": "Ludwig Mimler",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 757,
+                    "end": 770
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Leopold Drechsel",
+            "normalized": "Leopold Drechsel",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 928,
+                    "end": 943
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "J.W.Klauser",
+            "normalized": "J.W. Klauser",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 981,
+                    "end": 992
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Franz Olah",
+            "normalized": "Franz Olah",
+            "honorifics": [
+                "Innenminister"
+            ],
+            "mentions": [
+                {
+                    "start": 1269,
+                    "end": 1279
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Mini-stermit",
+            "normalized": "Minister",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1466,
+                    "end": 1479
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Ludwig Kessler",
+            "normalized": "Ludwig Kessler",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1640,
+                    "end": 1653
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Riezlern",
+            "normalized": "Riezlern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 231,
+                    "end": 239
+                },
+                {
+                    "start": 358,
+                    "end": 366
+                },
+                {
+                    "start": 1599,
+                    "end": 1607
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Hittisau",
+            "normalized": "Hittisau",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 308,
+                    "end": 316
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Mitteloerg-Bödmen-Baad",
+            "normalized": "Mittelberg-Bödmen-Baad",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 535,
+                    "end": 558
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Hirschegg",
+            "normalized": "Hirschegg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 900,
+                    "end": 908
+                },
+                {
+                    "start": 944,
+                    "end": 952
+                },
+                {
+                    "start": 1115,
+                    "end": 1123
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Mittelberg",
+            "normalized": "Mittelberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1045,
+                    "end": 1054
+                },
+                {
+                    "start": 1105,
+                    "end": 1114
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Walsertal",
+            "normalized": "Walsertal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1335,
+                    "end": 1344
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Hohenems",
+            "normalized": "Hohenems",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1494,
+                    "end": 1502
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Kunsthändler"
+        },
+        {
+            "denomination": null,
+            "eco": "Fremdenstatistik"
+        },
+        {
+            "denomination": null,
+            "eco": "Wintersaison"
+        },
+        {
+            "denomination": null,
+            "eco": "Nächtigung"
+        },
+        {
+            "denomination": null,
+            "eco": "Sommersaison"
+        },
+        {
+            "denomination": null,
+            "eco": "Straßenbau"
+        },
+        {
+            "denomination": null,
+            "eco": "Bauzeit"
+        },
+        {
+            "denomination": null,
+            "eco": "Ausbau"
+        },
+        {
+            "denomination": null,
+            "eco": "Baubeginn"
+        },
+        {
+            "denomination": null,
+            "eco": "Bautätigkeit"
+        },
+        {
+            "denomination": null,
+            "eco": "Fremdenverkehr"
+        },
+        {
+            "denomination": null,
+            "eco": "Geschäftshäuser"
+        },
+        {
+            "denomination": null,
+            "eco": "Kostenaufwand"
+        },
+        {
+            "denomination": null,
+            "eco": "Million Mark"
+        },
+        {
+            "denomination": null,
+            "eco": "Wasserversorgung"
+        },
+        {
+            "denomination": null,
+            "eco": "Zollausschlußgebiet"
+        },
+        {
+            "denomination": null,
+            "eco": "Hotel STERN"
+        },
+        {
+            "denomination": null,
+            "eco": "Betten"
+        }
+    ]
+}

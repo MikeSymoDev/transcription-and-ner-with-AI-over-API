@@ -1,0 +1,301 @@
+{
+    "persons": [
+        {
+            "name": "Poldy Hilbrand",
+            "normalized": null,
+            "honorifics": [
+                "Postillion"
+            ],
+            "mentions": [
+                {
+                    "start": 63,
+                    "end": 76
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Leo Lager",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 179,
+                    "end": 188
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Hans Steppe",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 193,
+                    "end": 204
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "N.Matt",
+            "normalized": null,
+            "honorifics": [
+                "Mädchen"
+            ],
+            "mentions": [
+                {
+                    "start": 392,
+                    "end": 398
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Max Matt",
+            "normalized": null,
+            "honorifics": [
+                "Pächter"
+            ],
+            "mentions": [
+                {
+                    "start": 476,
+                    "end": 484
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Skifahrer",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 884,
+                    "end": 893
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Wald",
+            "normalized": "Wald (Vorarlberg)",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 294,
+                    "end": 298
+                },
+                {
+                    "start": 456,
+                    "end": 460
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Riezlern",
+            "normalized": "Riezlern (Kleinwalsertal)",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 303,
+                    "end": 311
+                },
+                {
+                    "start": 426,
+                    "end": 434
+                },
+                {
+                    "start": 603,
+                    "end": 611
+                },
+                {
+                    "start": 926,
+                    "end": 934
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bayern",
+            "normalized": "Bayern (Deutschland)",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 554,
+                    "end": 560
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Walsertal",
+            "normalized": "Kleinwalsertal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 799,
+                    "end": 808
+                },
+                {
+                    "start": 1076,
+                    "end": 1093
+                },
+                {
+                    "start": 1269,
+                    "end": 1282
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Hochalppasses",
+            "normalized": "Hochalppass",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 867,
+                    "end": 880
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Warth",
+            "normalized": "Warth (Vorarlberg)",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 939,
+                    "end": 944
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Österreich",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1017,
+                    "end": 1027
+                },
+                {
+                    "start": 1113,
+                    "end": 1123
+                },
+                {
+                    "start": 1303,
+                    "end": 1313
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Deutschland",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1146,
+                    "end": 1159
+                },
+                {
+                    "start": 1319,
+                    "end": 1330
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Mittelberg",
+            "normalized": "Mittelberg (Kleinwalsertal)",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1194,
+                    "end": 1204
+                },
+                {
+                    "start": 1435,
+                    "end": 1445
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Fremdenverkehrsstatistik"
+        },
+        {
+            "denomination": null,
+            "eco": "Fremdenverkehr"
+        },
+        {
+            "denomination": null,
+            "eco": "Auslandsreiseverkehrssperre"
+        },
+        {
+            "denomination": null,
+            "eco": "Wirtschaftsgebiet"
+        },
+        {
+            "denomination": null,
+            "eco": "Zahlungsverkehrsschwierigkeiten"
+        },
+        {
+            "denomination": null,
+            "eco": "Devisenverordnung"
+        },
+        {
+            "denomination": null,
+            "eco": "Geldverkehr"
+        },
+        {
+            "denomination": null,
+            "eco": "Zollanschlussgemeinde"
+        },
+        {
+            "denomination": null,
+            "eco": "Devisenbewirtschaftung"
+        },
+        {
+            "denomination": null,
+            "eco": "wirtschaftliche Nachteile"
+        }
+    ]
+}

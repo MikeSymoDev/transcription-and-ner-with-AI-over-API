@@ -1,0 +1,61 @@
+{
+    "persons": [
+        {
+            "name": "H. Neukirch",
+            "normalized": "Neukirch",
+            "honorifics": [
+                "H."
+            ],
+            "mentions": [
+                {
+                    "start": 316,
+                    "end": 327
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Finanzen"
+        },
+        {
+            "denomination": null,
+            "eco": "Beiträge"
+        },
+        {
+            "denomination": null,
+            "eco": "Kasse"
+        },
+        {
+            "denomination": null,
+            "eco": "Arbeit"
+        },
+        {
+            "denomination": null,
+            "eco": "Geld"
+        },
+        {
+            "denomination": null,
+            "eco": "Bahnfahrten"
+        },
+        {
+            "denomination": null,
+            "eco": "Postauflagen"
+        },
+        {
+            "denomination": null,
+            "eco": "Zeitungen"
+        },
+        {
+            "denomination": null,
+            "eco": "Verkaufen"
+        },
+        {
+            "denomination": null,
+            "eco": "Sammeln"
+        }
+    ]
+}

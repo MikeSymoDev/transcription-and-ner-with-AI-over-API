@@ -1,0 +1,131 @@
+{
+    "persons": [
+        {
+            "name": "M. Gelpke",
+            "normalized": "Gelpke",
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 539,
+                    "end": 549
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "employé suisse",
+            "normalized": "Angestellter",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 774,
+                    "end": 788
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Jésuites",
+            "normalized": "Jesuiten",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1072,
+                    "end": 1080
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 220,
+                    "end": 230
+                },
+                {
+                    "start": 394,
+                    "end": 404
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Basler",
+            "normalized": "Basel",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 556,
+                    "end": 562
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlbergeoises",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 854,
+                    "end": 870
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": "Jésuites",
+            "eco": null
+        },
+        {
+            "denomination": null,
+            "eco": "dette"
+        },
+        {
+            "denomination": null,
+            "eco": "couronnes"
+        },
+        {
+            "denomination": null,
+            "eco": "budget"
+        },
+        {
+            "denomination": null,
+            "eco": "recettes"
+        },
+        {
+            "denomination": null,
+            "eco": "dépenses"
+        },
+        {
+            "denomination": null,
+            "eco": "chemins de fer"
+        },
+        {
+            "denomination": null,
+            "eco": "forces hydrauliques"
+        },
+        {
+            "denomination": null,
+            "eco": "système hydraulique"
+        }
+    ]
+}

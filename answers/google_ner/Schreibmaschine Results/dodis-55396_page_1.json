@@ -1,0 +1,398 @@
+{
+    "persons": [
+        {
+            "name": "K.K.Hoheit Erzherzog EUGEN",
+            "normalized": "Eugen von Österreich",
+            "honorifics": [
+                "K.K.Hoheit",
+                "Erzherzog"
+            ],
+            "mentions": [
+                {
+                    "start": 787,
+                    "end": 816
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Fridolina Sofie Gertraud",
+            "normalized": "Fridolina Sofie Gertraud Kessler",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1401,
+                    "end": 1429
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "Rupert Kessler",
+            "normalized": "Rupert Kessler",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1434,
+                    "end": 1448
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Albert Heim",
+            "normalized": "Albert Heim",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1453,
+                    "end": 1464
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Kronprinzen Wilhelm",
+            "normalized": "Wilhelm von Preußen",
+            "honorifics": [
+                "Kronprinzen"
+            ],
+            "mentions": [
+                {
+                    "start": 1591,
+                    "end": 1608
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Prinz ALFONS von Bayern",
+            "normalized": "Alfons von Bayern",
+            "honorifics": [
+                "Prinz"
+            ],
+            "mentions": [
+                {
+                    "start": 1714,
+                    "end": 1735
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Prinz Friedrich Leopold von Preußen",
+            "normalized": "Friedrich Leopold von Preußen",
+            "honorifics": [
+                "Prinz"
+            ],
+            "mentions": [
+                {
+                    "start": 1787,
+                    "end": 1820
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Arbeitern",
+            "normalized": "Arbeiter",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1898,
+                    "end": 1906
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "österr.Thronfolgers Ferdinand d Este",
+            "normalized": "Franz Ferdinand von Österreich-Este",
+            "honorifics": [
+                "Thronfolgers"
+            ],
+            "mentions": [
+                {
+                    "start": 1928,
+                    "end": 1963
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Herzogin Sofie",
+            "normalized": "Sophie Chotek von Chotkowa und Wognin",
+            "honorifics": [
+                "Herzogin"
+            ],
+            "mentions": [
+                {
+                    "start": 1978,
+                    "end": 1991
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Wachtmeister Johann Stampfl",
+            "normalized": "Johann Stampfl",
+            "honorifics": [
+                "Wachtmeister"
+            ],
+            "mentions": [
+                {
+                    "start": 2221,
+                    "end": 2248
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vizewachtmeister Johann Steixner",
+            "normalized": "Johann Steixner",
+            "honorifics": [
+                "Vizewachtmeister"
+            ],
+            "mentions": [
+                {
+                    "start": 2253,
+                    "end": 2284
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Geheimdevorsteher Franz Josef Felder",
+            "normalized": "Franz Josef Felder",
+            "honorifics": [
+                "Geheimdevorsteher"
+            ],
+            "mentions": [
+                {
+                    "start": 2288,
+                    "end": 2322
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Walsertal",
+            "normalized": "Walsertal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 340,
+                    "end": 349
+                },
+                {
+                    "start": 829,
+                    "end": 838
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Tura- und Starzelalpe",
+            "normalized": "Tura- und Starzelalpe",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 496,
+                    "end": 516
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Wildentobel",
+            "normalized": "Wildentobel",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 605,
+                    "end": 616
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Wannenalpe",
+            "normalized": "Wannenalpe",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 631,
+                    "end": 641
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schwarzwasseralpe",
+            "normalized": "Schwarzwasseralpe",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 731,
+                    "end": 748
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Kürenalpe",
+            "normalized": "Kürenalpe",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 752,
+                    "end": 761
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Heuberg",
+            "normalized": "Heuberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 917,
+                    "end": 924
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ahorn",
+            "normalized": "Ahorn",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 929,
+                    "end": 934
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Mittelberg",
+            "normalized": "Mittelberg (Vorarlberg)",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1630,
+                    "end": 1640
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Riezlern",
+            "normalized": "Riezlern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1840,
+                    "end": 1848
+                },
+                {
+                    "start": 2326,
+                    "end": 2334
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Walserschanz",
+            "normalized": "Walserschanz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1876,
+                    "end": 1888
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Serajewo",
+            "normalized": "Sarajevo",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1995,
+                    "end": 2003
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bosnien",
+            "normalized": "Bosnien und Herzegowina",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 2005,
+                    "end": 2012
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Handels- und Wandergewerbe"
+        },
+        {
+            "denomination": null,
+            "eco": "Gewerbegesetze"
+        },
+        {
+            "denomination": null,
+            "eco": "Kronen"
+        }
+    ]
+}

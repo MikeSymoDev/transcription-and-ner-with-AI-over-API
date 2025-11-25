@@ -1,0 +1,188 @@
+{
+    "persons": [
+        {
+            "name": "Herren",
+            "normalized": "Herren",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 227,
+                    "end": 233
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Kleinbauern",
+            "normalized": "Kleinbauern",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 955,
+                    "end": 966
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Unterrheintal",
+            "normalized": "Unterrheintal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 4,
+                    "end": 23
+                },
+                {
+                    "start": 970,
+                    "end": 983
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 307,
+                    "end": 313
+                },
+                {
+                    "start": 432,
+                    "end": 438
+                },
+                {
+                    "start": 466,
+                    "end": 472
+                },
+                {
+                    "start": 803,
+                    "end": 809
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rheindelta",
+            "normalized": "Rheindelta",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 387,
+                    "end": 397
+                },
+                {
+                    "start": 785,
+                    "end": 796
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rheines",
+            "normalized": "Rhein",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1499,
+                    "end": 1506
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Landwirtschaft"
+        },
+        {
+            "denomination": null,
+            "eco": "wirtschaftspolitisch"
+        },
+        {
+            "denomination": null,
+            "eco": "Konsumbedarf"
+        },
+        {
+            "denomination": null,
+            "eco": "Zoll-seuchen"
+        },
+        {
+            "denomination": null,
+            "eco": "Bewirtschaftung"
+        },
+        {
+            "denomination": null,
+            "eco": "Erträge"
+        },
+        {
+            "denomination": null,
+            "eco": "Bewirtschaftung"
+        },
+        {
+            "denomination": null,
+            "eco": "Landwirtschaft"
+        },
+        {
+            "denomination": null,
+            "eco": "Erwerbsgruppen"
+        },
+        {
+            "denomination": null,
+            "eco": "Industrie"
+        },
+        {
+            "denomination": null,
+            "eco": "Gewerbe"
+        },
+        {
+            "denomination": null,
+            "eco": "Arbeitskräfte"
+        },
+        {
+            "denomination": null,
+            "eco": "Handel"
+        },
+        {
+            "denomination": null,
+            "eco": "Konsumkraft"
+        },
+        {
+            "denomination": null,
+            "eco": "Milchverhältnisse"
+        },
+        {
+            "denomination": null,
+            "eco": "verkehrspolitische"
+        },
+        {
+            "denomination": null,
+            "eco": "Rheinschiffahrt"
+        },
+        {
+            "denomination": null,
+            "eco": "Rheinschiffahrt"
+        },
+        {
+            "denomination": null,
+            "eco": "Wirtschaftsfragen"
+        }
+    ]
+}

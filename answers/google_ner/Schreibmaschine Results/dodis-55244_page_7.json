@@ -1,0 +1,292 @@
+{
+    "persons": [
+        {
+            "name": "J. Turnheer",
+            "normalized": null,
+            "honorifics": [
+                "Herr",
+                "Landeskulturingenieur"
+            ],
+            "mentions": [
+                {
+                    "start": 359,
+                    "end": 369
+                },
+                {
+                    "start": 1109,
+                    "end": 1123
+                },
+                {
+                    "start": 1391,
+                    "end": 1398
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "J. Henrich",
+            "normalized": null,
+            "honorifics": [
+                "Herr",
+                "Ingenieur"
+            ],
+            "mentions": [
+                {
+                    "start": 1475,
+                    "end": 1494
+                },
+                {
+                    "start": 1969,
+                    "end": 1988
+                },
+                {
+                    "start": 2596,
+                    "end": 2615
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Egger",
+            "normalized": null,
+            "honorifics": [
+                "Forstmeister",
+                "Herr"
+            ],
+            "mentions": [
+                {
+                    "start": 2064,
+                    "end": 2085
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Oberforstkommissär",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1486,
+                    "end": 1502
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Land",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 14,
+                    "end": 19
+                },
+                {
+                    "start": 221,
+                    "end": 226
+                },
+                {
+                    "start": 699,
+                    "end": 704
+                },
+                {
+                    "start": 1618,
+                    "end": 1629
+                },
+                {
+                    "start": 2471,
+                    "end": 2476
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 392,
+                    "end": 401
+                },
+                {
+                    "start": 1358,
+                    "end": 1370
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bregenzer Wald",
+            "normalized": "Bregenzerwald",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 721,
+                    "end": 735
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rheintal",
+            "normalized": "Rheintal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1149,
+                    "end": 1157
+                },
+                {
+                    "start": 1256,
+                    "end": 1266
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Feldkirch",
+            "normalized": "Feldkirch",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 2090,
+                    "end": 2099
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Ackerland"
+        },
+        {
+            "denomination": null,
+            "eco": "Anbauflächen"
+        },
+        {
+            "denomination": null,
+            "eco": "Anbauziffern"
+        },
+        {
+            "denomination": null,
+            "eco": "Eigenbedarf"
+        },
+        {
+            "denomination": null,
+            "eco": "Eigenkonsum"
+        },
+        {
+            "denomination": null,
+            "eco": "Einahmequellen"
+        },
+        {
+            "denomination": null,
+            "eco": "Einschlag"
+        },
+        {
+            "denomination": null,
+            "eco": "Entwässerung"
+        },
+        {
+            "denomination": null,
+            "eco": "Export"
+        },
+        {
+            "denomination": null,
+            "eco": "Gerste"
+        },
+        {
+            "denomination": null,
+            "eco": "Getreideproduktion"
+        },
+        {
+            "denomination": null,
+            "eco": "Güterzusammenlegung"
+        },
+        {
+            "denomination": null,
+            "eco": "Haber"
+        },
+        {
+            "denomination": null,
+            "eco": "Holzsägerei"
+        },
+        {
+            "denomination": null,
+            "eco": "Kartoffeln"
+        },
+        {
+            "denomination": null,
+            "eco": "Mais"
+        },
+        {
+            "denomination": null,
+            "eco": "Meliorierung"
+        },
+        {
+            "denomination": null,
+            "eco": "Nationalreichtum"
+        },
+        {
+            "denomination": null,
+            "eco": "Nutzertrag"
+        },
+        {
+            "denomination": null,
+            "eco": "Nutzung"
+        },
+        {
+            "denomination": null,
+            "eco": "Roggen"
+        },
+        {
+            "denomination": null,
+            "eco": "Rossheboden"
+        },
+        {
+            "denomination": null,
+            "eco": "Spelz"
+        },
+        {
+            "denomination": null,
+            "eco": "Streuriet"
+        },
+        {
+            "denomination": null,
+            "eco": "Viehstand"
+        },
+        {
+            "denomination": null,
+            "eco": "Weizen"
+        },
+        {
+            "denomination": null,
+            "eco": "Wiesen"
+        },
+        {
+            "denomination": null,
+            "eco": "wirtschaftliche Erschliessung"
+        }
+    ]
+}

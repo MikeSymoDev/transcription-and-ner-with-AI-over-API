@@ -1,0 +1,147 @@
+{
+    "persons": [
+        {
+            "name": "Landammann",
+            "normalized": "Landammann",
+            "honorifics": [
+                "Herr"
+            ],
+            "mentions": [
+                {
+                    "start": 405,
+                    "end": 420
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Regierungsräte",
+            "normalized": "Regierungsräte",
+            "honorifics": [
+                "Herren"
+            ],
+            "mentions": [
+                {
+                    "start": 423,
+                    "end": 443
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorsitzende",
+            "normalized": "Vorsitzender",
+            "honorifics": [
+                "Der"
+            ],
+            "mentions": [
+                {
+                    "start": 938,
+                    "end": 953
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Protokollführer",
+            "normalized": "Protokollführer",
+            "honorifics": [
+                "Der"
+            ],
+            "mentions": [
+                {
+                    "start": 978,
+                    "end": 997
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "schweizerischen",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 78,
+                    "end": 92
+                },
+                {
+                    "start": 334,
+                    "end": 348
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rheindeltas",
+            "normalized": "Rheindelta",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 290,
+                    "end": 301
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Delta",
+            "normalized": "Rheindelta",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 373,
+                    "end": 378
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Unterrheintal",
+            "normalized": "Unterrheintal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 902,
+                    "end": 915
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rheineck",
+            "normalized": "Rheineck",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 999,
+                    "end": 1007
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "wirtschaftlich"
+        }
+    ]
+}

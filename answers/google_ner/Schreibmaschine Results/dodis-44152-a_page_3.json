@@ -1,0 +1,124 @@
+{
+    "persons": [
+        {
+            "name": "M. Burckhardt",
+            "normalized": "Burckhardt",
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 694,
+                    "end": 708
+                },
+                {
+                    "start": 1303,
+                    "end": 1317
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "M. Calonder",
+            "normalized": "Calonder",
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 1152,
+                    "end": 1163
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 224,
+                    "end": 234
+                },
+                {
+                    "start": 285,
+                    "end": 295
+                },
+                {
+                    "start": 787,
+                    "end": 797
+                },
+                {
+                    "start": 1040,
+                    "end": 1050
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vienne",
+            "normalized": "Wien",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 622,
+                    "end": 628
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Autriche",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 994,
+                    "end": 1002
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Allemagne",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1005,
+                    "end": 1014
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": "religieuse",
+            "eco": null
+        },
+        {
+            "denomination": null,
+            "eco": "privilèges"
+        },
+        {
+            "denomination": null,
+            "eco": "frais"
+        }
+    ]
+}

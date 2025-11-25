@@ -1,0 +1,99 @@
+{
+    "persons": [],
+    "places": [
+        {
+            "name": "Bern",
+            "normalized": "Bern",
+            "geo": {
+                "lat": 46.94792,
+                "lon": 7.44743
+            },
+            "mentions": [
+                {
+                    "start": 81,
+                    "end": 85
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": 47.23,
+                "lon": 9.87
+            },
+            "mentions": [
+                {
+                    "start": 198,
+                    "end": 208
+                },
+                {
+                    "start": 400,
+                    "end": 410
+                },
+                {
+                    "start": 462,
+                    "end": 472
+                },
+                {
+                    "start": 947,
+                    "end": 957
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": 46.818188,
+                "lon": 8.227512
+            },
+            "mentions": [
+                {
+                    "start": 219,
+                    "end": 225
+                },
+                {
+                    "start": 554,
+                    "end": 560
+                },
+                {
+                    "start": 597,
+                    "end": 603
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "romanischen Schweiz",
+            "normalized": "Romandie",
+            "geo": {
+                "lat": 46.7,
+                "lon": 6.6
+            },
+            "mentions": [
+                {
+                    "start": 1459,
+                    "end": 1476
+                }
+            ],
+            "confidence": 0.9
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Volkswirtschaft"
+        },
+        {
+            "denomination": null,
+            "eco": "économie"
+        },
+        {
+            "denomination": null,
+            "eco": "wirtschaftlichen"
+        }
+    ]
+}

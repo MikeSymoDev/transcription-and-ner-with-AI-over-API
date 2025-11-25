@@ -1,0 +1,189 @@
+{
+    "persons": [
+        {
+            "name": "Landrat",
+            "normalized": "Landrat",
+            "honorifics": [
+                "Landrat"
+            ],
+            "mentions": [
+                {
+                    "start": 229,
+                    "end": 236
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Gendarm Walter Mühlbacher",
+            "normalized": "Walter Mühlbacher",
+            "honorifics": [
+                "Gendarm"
+            ],
+            "mentions": [
+                {
+                    "start": 1121,
+                    "end": 1146
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Traubenwirt Ludwig Wüstner",
+            "normalized": "Ludwig Wüstner",
+            "honorifics": [
+                "Traubenwirt"
+            ],
+            "mentions": [
+                {
+                    "start": 1150,
+                    "end": 1177
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Hans Christian Wietersheim",
+            "normalized": "Hans Christian Wietersheim",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1241,
+                    "end": 1267
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Sonthofen",
+            "normalized": "Sonthofen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 240,
+                    "end": 249
+                },
+                {
+                    "start": 855,
+                    "end": 864
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Mittelberger",
+            "normalized": "Mittelberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 267,
+                    "end": 279
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Tal",
+            "normalized": "Tal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 384,
+                    "end": 387
+                },
+                {
+                    "start": 481,
+                    "end": 484
+                },
+                {
+                    "start": 706,
+                    "end": 709
+                },
+                {
+                    "start": 1056,
+                    "end": 1059
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Nebenwasser",
+            "normalized": "Nebenwasser",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1210,
+                    "end": 1220
+                },
+                {
+                    "start": 1269,
+                    "end": 1279
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Deutschlands",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1572,
+                    "end": 1583
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Reichsmark"
+        },
+        {
+            "denomination": null,
+            "eco": "Kapital"
+        },
+        {
+            "denomination": null,
+            "eco": "Mark"
+        },
+        {
+            "denomination": null,
+            "eco": "Gewerbebetrieben"
+        },
+        {
+            "denomination": null,
+            "eco": "Unterbetriebe"
+        },
+        {
+            "denomination": null,
+            "eco": "Wirtschaft"
+        },
+        {
+            "denomination": null,
+            "eco": "Geldentwertung"
+        },
+        {
+            "denomination": null,
+            "eco": "Währungsreform"
+        }
+    ]
+}

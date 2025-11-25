@@ -1,0 +1,158 @@
+{
+    "persons": [],
+    "places": [
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 67,
+                    "end": 77
+                },
+                {
+                    "start": 341,
+                    "end": 351
+                },
+                {
+                    "start": 1475,
+                    "end": 1485
+                },
+                {
+                    "start": 1607,
+                    "end": 1617
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bregenz",
+            "normalized": "Bregenz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 111,
+                    "end": 118
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Buchs",
+            "normalized": "Buchs",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 119,
+                    "end": 124
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 157,
+                    "end": 164
+                },
+                {
+                    "start": 247,
+                    "end": 254
+                },
+                {
+                    "start": 310,
+                    "end": 317
+                },
+                {
+                    "start": 494,
+                    "end": 501
+                },
+                {
+                    "start": 757,
+                    "end": 764
+                },
+                {
+                    "start": 1493,
+                    "end": 1500
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Deutschland",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 692,
+                    "end": 703
+                },
+                {
+                    "start": 853,
+                    "end": 864
+                },
+                {
+                    "start": 960,
+                    "end": 971
+                },
+                {
+                    "start": 1332,
+                    "end": 1343
+                },
+                {
+                    "start": 1544,
+                    "end": 1555
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "industriellen Unternehmungen"
+        },
+        {
+            "denomination": null,
+            "eco": "Industrie"
+        },
+        {
+            "denomination": null,
+            "eco": "Viehzucht"
+        },
+        {
+            "denomination": null,
+            "eco": "Molkerei"
+        },
+        {
+            "denomination": null,
+            "eco": "Getreidebau"
+        },
+        {
+            "denomination": null,
+            "eco": "wirtschaftlichen"
+        },
+        {
+            "denomination": null,
+            "eco": "Industriellenschaft"
+        }
+    ]
+}

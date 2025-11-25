@@ -1,0 +1,223 @@
+{
+    "persons": [],
+    "places": [
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 30,
+                    "end": 36
+                },
+                {
+                    "start": 164,
+                    "end": 170
+                },
+                {
+                    "start": 317,
+                    "end": 323
+                },
+                {
+                    "start": 418,
+                    "end": 424
+                },
+                {
+                    "start": 774,
+                    "end": 780
+                },
+                {
+                    "start": 920,
+                    "end": 926
+                },
+                {
+                    "start": 1043,
+                    "end": 1049
+                },
+                {
+                    "start": 1166,
+                    "end": 1172
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rhein",
+            "normalized": "Rhein",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 107,
+                    "end": 112
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bodensees",
+            "normalized": "Bodensee",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 128,
+                    "end": 137
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ragaz",
+            "normalized": "Ragaz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 150,
+                    "end": 155
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Graubünden",
+            "normalized": "Graubünden",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 175,
+                    "end": 185
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlbergs",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 300,
+                    "end": 310
+                },
+                {
+                    "start": 355,
+                    "end": 365
+                },
+                {
+                    "start": 395,
+                    "end": 406
+                },
+                {
+                    "start": 439,
+                    "end": 450
+                },
+                {
+                    "start": 501,
+                    "end": 511
+                },
+                {
+                    "start": 719,
+                    "end": 729
+                },
+                {
+                    "start": 758,
+                    "end": 769
+                },
+                {
+                    "start": 793,
+                    "end": 803
+                },
+                {
+                    "start": 864,
+                    "end": 874
+                },
+                {
+                    "start": 982,
+                    "end": 992
+                },
+                {
+                    "start": 1030,
+                    "end": 1040
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Deutschland",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 430,
+                    "end": 440
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "österreichisch-ungarischen Monarchie",
+            "normalized": "Österreich-Ungarn",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 546,
+                    "end": 577
+                },
+                {
+                    "start": 883,
+                    "end": 914
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "wirtschaftliche"
+        },
+        {
+            "denomination": null,
+            "eco": "Staatsschuld"
+        },
+        {
+            "denomination": null,
+            "eco": "Schuld"
+        },
+        {
+            "denomination": null,
+            "eco": "Summe"
+        },
+        {
+            "denomination": null,
+            "eco": "Schulden"
+        },
+        {
+            "denomination": null,
+            "eco": "Schuldenquote"
+        }
+    ]
+}

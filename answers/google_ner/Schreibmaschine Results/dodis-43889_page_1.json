@@ -1,0 +1,179 @@
+{
+    "persons": [
+        {
+            "name": "Monsieur de GOUMOENS",
+            "normalized": "GOUMOENS",
+            "honorifics": [
+                "Monsieur",
+                "de"
+            ],
+            "mentions": [
+                {
+                    "start": 402,
+                    "end": 419
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Directeur de l'Office Fédéral de l'Alimentation",
+            "normalized": null,
+            "honorifics": [
+                "Directeur"
+            ],
+            "mentions": [
+                {
+                    "start": 808,
+                    "end": 848
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "France",
+            "normalized": "Frankreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 31,
+                    "end": 37
+                },
+                {
+                    "start": 147,
+                    "end": 153
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Suisse",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 50,
+                    "end": 56
+                },
+                {
+                    "start": 554,
+                    "end": 560
+                },
+                {
+                    "start": 885,
+                    "end": 891
+                },
+                {
+                    "start": 1195,
+                    "end": 1201
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Tyrol",
+            "normalized": "Tirol",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 247,
+                    "end": 252
+                },
+                {
+                    "start": 618,
+                    "end": 623
+                },
+                {
+                    "start": 676,
+                    "end": 681
+                },
+                {
+                    "start": 914,
+                    "end": 919
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 730,
+                    "end": 740
+                },
+                {
+                    "start": 933,
+                    "end": 943
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Liechtenstein",
+            "normalized": "Liechtenstein",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 947,
+                    "end": 960
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "BERNE",
+            "normalized": "Bern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1203,
+                    "end": 1208
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "ravitaillement"
+        },
+        {
+            "denomination": null,
+            "eco": "ravitailler"
+        },
+        {
+            "denomination": null,
+            "eco": "rations"
+        },
+        {
+            "denomination": null,
+            "eco": "Office Fédéral de l'Alimentation"
+        },
+        {
+            "denomination": null,
+            "eco": "ravitailler"
+        }
+    ]
+}

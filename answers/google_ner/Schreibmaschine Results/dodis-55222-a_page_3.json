@@ -1,0 +1,258 @@
+{
+    "persons": [
+        {
+            "name": "the authorities",
+            "normalized": "die Behörden",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1056,
+                    "end": 1071
+                }
+            ],
+            "confidence": 0.9
+        }
+    ],
+    "places": [
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 31,
+                    "end": 41
+                },
+                {
+                    "start": 237,
+                    "end": 247
+                },
+                {
+                    "start": 283,
+                    "end": 293
+                },
+                {
+                    "start": 343,
+                    "end": 353
+                },
+                {
+                    "start": 522,
+                    "end": 532
+                },
+                {
+                    "start": 1075,
+                    "end": 1085
+                },
+                {
+                    "start": 1307,
+                    "end": 1317
+                },
+                {
+                    "start": 1891,
+                    "end": 1901
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "St.Gall",
+            "normalized": "St. Gallen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 129,
+                    "end": 152
+                },
+                {
+                    "start": 154,
+                    "end": 161
+                },
+                {
+                    "start": 214,
+                    "end": 237
+                },
+                {
+                    "start": 260,
+                    "end": 267
+                },
+                {
+                    "start": 484,
+                    "end": 497
+                },
+                {
+                    "start": 549,
+                    "end": 564
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rhine",
+            "normalized": "Rhein",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 298,
+                    "end": 303
+                },
+                {
+                    "start": 475,
+                    "end": 480
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rhine valley",
+            "normalized": "Rheintal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 192,
+                    "end": 210
+                },
+                {
+                    "start": 577,
+                    "end": 589
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Switzerland",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1100,
+                    "end": 1111
+                },
+                {
+                    "start": 1801,
+                    "end": 1812
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Austrian provinces",
+            "normalized": "Österreichische Provinzen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 410,
+                    "end": 428
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "German provinces",
+            "normalized": "Deutsche Provinzen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 433,
+                    "end": 449
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Austrian Empire",
+            "normalized": "Österreichisches Kaiserreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1279,
+                    "end": 1294
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Swiss side",
+            "normalized": "Schweizer Seite",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1762,
+                    "end": 1772
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Swiss Confederation",
+            "normalized": "Schweizerische Eidgenossenschaft",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1974,
+                    "end": 1993
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "agricultural"
+        },
+        {
+            "denomination": null,
+            "eco": "rich"
+        },
+        {
+            "denomination": null,
+            "eco": "industries"
+        },
+        {
+            "denomination": null,
+            "eco": "embroidery industry"
+        },
+        {
+            "denomination": null,
+            "eco": "industrial"
+        },
+        {
+            "denomination": null,
+            "eco": "food"
+        },
+        {
+            "denomination": null,
+            "eco": "supplies"
+        }
+    ]
+}

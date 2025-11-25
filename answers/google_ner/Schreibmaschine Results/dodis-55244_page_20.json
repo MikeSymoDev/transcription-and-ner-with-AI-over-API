@@ -1,0 +1,261 @@
+{
+    "persons": [
+        {
+            "name": "René Payot",
+            "normalized": "René Payot",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1344,
+                    "end": 1354
+                },
+                {
+                    "start": 1437,
+                    "end": 1442
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Verfasser",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1006,
+                    "end": 1014
+                }
+            ],
+            "confidence": 0.9
+        }
+    ],
+    "places": [
+        {
+            "name": "Wien",
+            "normalized": "Wien",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 344,
+                    "end": 348
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 303,
+                    "end": 315
+                },
+                {
+                    "start": 1279,
+                    "end": 1296
+                },
+                {
+                    "start": 1381,
+                    "end": 1391
+                },
+                {
+                    "start": 1699,
+                    "end": 1711
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1424,
+                    "end": 1430
+                },
+                {
+                    "start": 1797,
+                    "end": 1803
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Wertpapiere"
+        },
+        {
+            "denomination": null,
+            "eco": "Kronen"
+        },
+        {
+            "denomination": null,
+            "eco": "Bilanzinventar"
+        },
+        {
+            "denomination": null,
+            "eco": "Bankenlagen"
+        },
+        {
+            "denomination": null,
+            "eco": "Banken"
+        },
+        {
+            "denomination": null,
+            "eco": "Verzinsungskonti"
+        },
+        {
+            "denomination": null,
+            "eco": "Franken"
+        },
+        {
+            "denomination": null,
+            "eco": "Valutadifferenzen"
+        },
+        {
+            "denomination": null,
+            "eco": "Raiffeisenkassen"
+        },
+        {
+            "denomination": null,
+            "eco": "Verband"
+        },
+        {
+            "denomination": null,
+            "eco": "Institute"
+        },
+        {
+            "denomination": null,
+            "eco": "Liquidation"
+        },
+        {
+            "denomination": null,
+            "eco": "Liquidationsbilanz"
+        },
+        {
+            "denomination": null,
+            "eco": "Kronenaktiven"
+        },
+        {
+            "denomination": null,
+            "eco": "Gläubiger"
+        },
+        {
+            "denomination": null,
+            "eco": "Kronenaktive"
+        },
+        {
+            "denomination": null,
+            "eco": "Einlagen"
+        },
+        {
+            "denomination": null,
+            "eco": "Hypotheken"
+        },
+        {
+            "denomination": null,
+            "eco": "Darleihen"
+        },
+        {
+            "denomination": null,
+            "eco": "Wechsel"
+        },
+        {
+            "denomination": null,
+            "eco": "Frankenwerte"
+        },
+        {
+            "denomination": null,
+            "eco": "Kronenwert"
+        },
+        {
+            "denomination": null,
+            "eco": "Bankguthaben"
+        },
+        {
+            "denomination": null,
+            "eco": "Sparkassen"
+        },
+        {
+            "denomination": null,
+            "eco": "Gemeinden"
+        },
+        {
+            "denomination": null,
+            "eco": "Verbänden"
+        },
+        {
+            "denomination": null,
+            "eco": "Konversions- und Darlehenskasse"
+        },
+        {
+            "denomination": null,
+            "eco": "wirtschaftliche"
+        },
+        {
+            "denomination": null,
+            "eco": "Kreditwesen"
+        },
+        {
+            "denomination": null,
+            "eco": "Wirtschaftslebens"
+        },
+        {
+            "denomination": null,
+            "eco": "Valutarelationen"
+        },
+        {
+            "denomination": null,
+            "eco": "Valutaverhältnis"
+        },
+        {
+            "denomination": null,
+            "eco": "Krone"
+        },
+        {
+            "denomination": null,
+            "eco": "dette de paix"
+        },
+        {
+            "denomination": null,
+            "eco": "dette de guerre"
+        },
+        {
+            "denomination": null,
+            "eco": "devise"
+        },
+        {
+            "denomination": null,
+            "eco": "francs"
+        },
+        {
+            "denomination": null,
+            "eco": "Kursrelationen"
+        },
+        {
+            "denomination": null,
+            "eco": "Kriegslasten"
+        },
+        {
+            "denomination": null,
+            "eco": "Passiven"
+        },
+        {
+            "denomination": null,
+            "eco": "Valutaspekulation"
+        }
+    ]
+}

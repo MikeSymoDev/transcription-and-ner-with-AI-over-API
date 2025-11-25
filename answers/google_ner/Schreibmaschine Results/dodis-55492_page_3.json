@@ -1,0 +1,200 @@
+{
+    "persons": [
+        {
+            "name": "G.S.",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 236,
+                    "end": 239
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "Lord Acton",
+            "normalized": "John Dalberg-Acton",
+            "honorifics": [
+                "Lord"
+            ],
+            "mentions": [
+                {
+                    "start": 1205,
+                    "end": 1215
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Austria",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 381,
+                    "end": 388
+                },
+                {
+                    "start": 986,
+                    "end": 995
+                },
+                {
+                    "start": 811,
+                    "end": 819
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Bregenza",
+            "normalized": "Bregenz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 417,
+                    "end": 425
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Frankfurter",
+            "normalized": "Frankfurt",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 178,
+                    "end": 189
+                },
+                {
+                    "start": 1441,
+                    "end": 1452
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Germany",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1017,
+                    "end": 1024
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Switzerland",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 7,
+                    "end": 12
+                },
+                {
+                    "start": 298,
+                    "end": 309
+                },
+                {
+                    "start": 448,
+                    "end": 459
+                },
+                {
+                    "start": 646,
+                    "end": 657
+                },
+                {
+                    "start": 680,
+                    "end": 685
+                },
+                {
+                    "start": 701,
+                    "end": 712
+                },
+                {
+                    "start": 876,
+                    "end": 887
+                },
+                {
+                    "start": 1226,
+                    "end": 1231
+                },
+                {
+                    "start": 1341,
+                    "end": 1346
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 159,
+                    "end": 169
+                },
+                {
+                    "start": 288,
+                    "end": 298
+                },
+                {
+                    "start": 500,
+                    "end": 510
+                },
+                {
+                    "start": 732,
+                    "end": 744
+                },
+                {
+                    "start": 820,
+                    "end": 833
+                },
+                {
+                    "start": 1006,
+                    "end": 1016
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": "Catholics",
+            "eco": null
+        },
+        {
+            "denomination": "Protestant",
+            "eco": null
+        },
+        {
+            "denomination": null,
+            "eco": "National debt"
+        }
+    ]
+}

@@ -1,0 +1,339 @@
+{
+    "persons": [
+        {
+            "name": "Dr.Otto Ender",
+            "normalized": "Otto Ender",
+            "honorifics": [
+                "Dr.",
+                "Landeshauptmann"
+            ],
+            "mentions": [
+                {
+                    "start": 853,
+                    "end": 866
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Innitzer",
+            "normalized": "Innitzer",
+            "honorifics": [
+                "Bundesminister",
+                "Dr.",
+                "Minister",
+                "Prof."
+            ],
+            "mentions": [
+                {
+                    "start": 1046,
+                    "end": 1054
+                },
+                {
+                    "start": 1146,
+                    "end": 1162
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Dr.Schererr",
+            "normalized": "Schererr",
+            "honorifics": [
+                "Dr.",
+                "Sekt.Chef"
+            ],
+            "mentions": [
+                {
+                    "start": 1184,
+                    "end": 1195
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Dr.Redler",
+            "normalized": "Redler",
+            "honorifics": [
+                "Dr.",
+                "Landesstatthalter",
+                "Landeshauptmann"
+            ],
+            "mentions": [
+                {
+                    "start": 1210,
+                    "end": 1219
+                },
+                {
+                    "start": 1944,
+                    "end": 1953
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Henrich",
+            "normalized": "Heinrich",
+            "honorifics": [
+                "Hofrat"
+            ],
+            "mentions": [
+                {
+                    "start": 1229,
+                    "end": 1236
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Dr.Lardschneider",
+            "normalized": "Lardschneider",
+            "honorifics": [
+                "Dr.",
+                "Bezirkshauptmann"
+            ],
+            "mentions": [
+                {
+                    "start": 1248,
+                    "end": 1264
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ministerialrät",
+            "normalized": "Ministerialrat",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1197,
+                    "end": 1209
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Dr. Stützel",
+            "normalized": "Stützel",
+            "honorifics": [
+                "Dr.",
+                "Staatsminister für Inneres"
+            ],
+            "mentions": [
+                {
+                    "start": 1928,
+                    "end": 1938
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Hirschegg-Mittelberg",
+            "normalized": "Hirschegg-Mittelberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 94,
+                    "end": 113
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Mittelberg",
+            "normalized": "Mittelberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 228,
+                    "end": 238
+                },
+                {
+                    "start": 1373,
+                    "end": 1383
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Riezlern",
+            "normalized": "Riezlern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 341,
+                    "end": 349
+                },
+                {
+                    "start": 1272,
+                    "end": 1280
+                },
+                {
+                    "start": 1530,
+                    "end": 1538
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Hirschegg",
+            "normalized": "Hirschegg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 508,
+                    "end": 516
+                },
+                {
+                    "start": 1362,
+                    "end": 1370
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Walsertal",
+            "normalized": "Walsertal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 742,
+                    "end": 751
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberger",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 792,
+                    "end": 803
+                },
+                {
+                    "start": 1007,
+                    "end": 1018
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Melköde",
+            "normalized": "Melköde",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1445,
+                    "end": 1452
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bregenzerwald",
+            "normalized": "Bregenzerwald",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1481,
+                    "end": 1494
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bayern",
+            "normalized": "Bayern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1599,
+                    "end": 1605
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Obersdorf-Mitte",
+            "normalized": "Oberstdorf-Mitte",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1812,
+                    "end": 1828
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Augsburg",
+            "normalized": "Augsburg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1969,
+                    "end": 1977
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Innsbruck",
+            "normalized": "Innsbruck",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1982,
+                    "end": 1991
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "finanzielle"
+        }
+    ]
+}

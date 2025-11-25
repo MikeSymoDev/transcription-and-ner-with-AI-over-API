@@ -1,0 +1,65 @@
+{
+    "persons": [
+        {
+            "name": "Herr Bundespräsident Calonder",
+            "normalized": "Calonder, Felix Louis",
+            "honorifics": [
+                "Herr",
+                "Bundespräsident"
+            ],
+            "mentions": [
+                {
+                    "start": 546,
+                    "end": 574
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Tirol",
+            "normalized": "Tirol",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 251,
+                    "end": 256
+                },
+                {
+                    "start": 275,
+                    "end": 280
+                },
+                {
+                    "start": 772,
+                    "end": 777
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 669,
+                    "end": 679
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

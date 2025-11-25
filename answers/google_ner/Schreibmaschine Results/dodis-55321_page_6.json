@@ -1,0 +1,116 @@
+{
+    "persons": [
+        {
+            "name": "Majors Tanner",
+            "normalized": "Tanner",
+            "honorifics": [
+                "Major"
+            ],
+            "mentions": [
+                {
+                    "start": 330,
+                    "end": 343
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Schweizer Kanton",
+            "normalized": null,
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 26,
+                    "end": 42
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "Lausanne",
+            "normalized": "Lausanne",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 47,
+                    "end": 55
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Deutschösterreich",
+            "normalized": "Deutschösterreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 90,
+                    "end": 107
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Danubien",
+            "normalized": "Danubien",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 344,
+                    "end": 352
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Bregenz",
+            "normalized": "Bregenz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 468,
+                    "end": 475
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schwarzen Meere",
+            "normalized": "Schwarzes Meer",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 486,
+                    "end": 501
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "wirtschaftlichen"
+        }
+    ]
+}

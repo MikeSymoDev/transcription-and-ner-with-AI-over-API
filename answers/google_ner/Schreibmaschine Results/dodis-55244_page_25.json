@@ -1,0 +1,51 @@
+{
+    "persons": [],
+    "places": [
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 20,
+                    "end": 30
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweizerland",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 77,
+                    "end": 90
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Eidgenossenschaft",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 169,
+                    "end": 186
+                }
+            ],
+            "confidence": 0.9
+        }
+    ],
+    "content": []
+}

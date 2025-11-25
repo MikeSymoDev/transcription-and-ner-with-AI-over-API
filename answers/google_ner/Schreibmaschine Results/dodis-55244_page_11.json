@@ -1,0 +1,450 @@
+{
+    "persons": [
+        {
+            "name": "Gelpke",
+            "normalized": "Gelpke",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 985,
+                    "end": 991
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "J. Hallinger",
+            "normalized": "Hallinger, J.",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 2185,
+                    "end": 2197
+                },
+                {
+                    "start": 2353,
+                    "end": 2362
+                },
+                {
+                    "start": 2577,
+                    "end": 2586
+                },
+                {
+                    "start": 3045,
+                    "end": 3054
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Lustenau",
+            "normalized": "Lustenau",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 16,
+                    "end": 24
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Dornbirn",
+            "normalized": "Dornbirn",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 30,
+                    "end": 38
+                },
+                {
+                    "start": 1478,
+                    "end": 1486
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Arlbergbahn",
+            "normalized": "Arlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 128,
+                    "end": 139
+                },
+                {
+                    "start": 328,
+                    "end": 339
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "Bregenzer Waldbahn",
+            "normalized": "Bregenzerwald",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 218,
+                    "end": 235
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "Bregenzer Aach",
+            "normalized": "Bregenzer Ach",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 277,
+                    "end": 291
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bodensee",
+            "normalized": "Bodensee",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 439,
+                    "end": 448
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bregenz",
+            "normalized": "Bregenz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 541,
+                    "end": 548
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Basler",
+            "normalized": "Basel",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 999,
+                    "end": 1005
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Vorarlbergs",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1090,
+                    "end": 1101
+                },
+                {
+                    "start": 1386,
+                    "end": 1396
+                },
+                {
+                    "start": 1726,
+                    "end": 1736
+                },
+                {
+                    "start": 2231,
+                    "end": 2241
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1109,
+                    "end": 1115
+                },
+                {
+                    "start": 1658,
+                    "end": 1664
+                },
+                {
+                    "start": 1709,
+                    "end": 1715
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "österreichischen",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1161,
+                    "end": 1176
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Montafun",
+            "normalized": "Montafon",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1424,
+                    "end": 1432
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Brandnertal",
+            "normalized": "Brandnertal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1445,
+                    "end": 1456
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bregenzerwald",
+            "normalized": "Bregenzerwald",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1466,
+                    "end": 1478
+                },
+                {
+                    "start": 3008,
+                    "end": 3020
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bödele",
+            "normalized": "Bödele",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1493,
+                    "end": 1499
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Zürs",
+            "normalized": "Zürs",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1528,
+                    "end": 1532
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Walsertal",
+            "normalized": "Walsertal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1547,
+                    "end": 1556
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "St. Gallisch-Appenzellischen",
+            "normalized": "St. Gallen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 2650,
+                    "end": 2677
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "St. Gallisch-Appenzellischen",
+            "normalized": "Appenzell",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 2650,
+                    "end": 2677
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Bayerns",
+            "normalized": "Bayern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 2795,
+                    "end": 2802
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Deutschland",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 2883,
+                    "end": 2894
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Andelsbucher",
+            "normalized": "Andelsbuch",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 2989,
+                    "end": 3001
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Verkehrsgestaltung"
+        },
+        {
+            "denomination": null,
+            "eco": "Staatseisenbahnen"
+        },
+        {
+            "denomination": null,
+            "eco": "Elektrizitätsversorgung"
+        },
+        {
+            "denomination": null,
+            "eco": "Stromabgabe"
+        },
+        {
+            "denomination": null,
+            "eco": "Krafterzeugung"
+        },
+        {
+            "denomination": null,
+            "eco": "Versorgung"
+        },
+        {
+            "denomination": null,
+            "eco": "kriegswirtschaftliche"
+        },
+        {
+            "denomination": null,
+            "eco": "Stromabsatz"
+        },
+        {
+            "denomination": null,
+            "eco": "unwirtschaftlichen"
+        },
+        {
+            "denomination": null,
+            "eco": "Wasserkraftvergeudung"
+        },
+        {
+            "denomination": null,
+            "eco": "Kraftleistung"
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "persons": [
+        {
+            "name": "Verfasser",
+            "normalized": "Verfasser",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 105,
+                    "end": 114
+                },
+                {
+                    "start": 405,
+                    "end": 414
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Dr. Klebelsberg-Meusburger",
+            "normalized": "Klebelsberg-Meusburger",
+            "honorifics": [
+                "Dr."
+            ],
+            "mentions": [
+                {
+                    "start": 419,
+                    "end": 445
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Herr Landeshauptmann Dr. Ender",
+            "normalized": "Ender",
+            "honorifics": [
+                "Herr",
+                "Landeshauptmann",
+                "Dr."
+            ],
+            "mentions": [
+                {
+                    "start": 1916,
+                    "end": 1944
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Spullersee",
+            "normalized": "Spullersee",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 129,
+                    "end": 138
+                },
+                {
+                    "start": 494,
+                    "end": 503
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Formarinseeprojekt",
+            "normalized": "Formarinsee",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 202,
+                    "end": 220
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 537,
+                    "end": 547
+                },
+                {
+                    "start": 655,
+                    "end": 665
+                },
+                {
+                    "start": 1079,
+                    "end": 1091
+                },
+                {
+                    "start": 1152,
+                    "end": 1162
+                },
+                {
+                    "start": 1169,
+                    "end": 1182
+                },
+                {
+                    "start": 1521,
+                    "end": 1534
+                },
+                {
+                    "start": 1683,
+                    "end": 1693
+                },
+                {
+                    "start": 1735,
+                    "end": 1748
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Lechgebiet",
+            "normalized": "Lechgebiet",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 604,
+                    "end": 613
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bregenz",
+            "normalized": "Bregenz",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 675,
+                    "end": 682
+                },
+                {
+                    "start": 757,
+                    "end": 764
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Brand",
+            "normalized": "Brand",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 690,
+                    "end": 695
+                },
+                {
+                    "start": 796,
+                    "end": 801
+                },
+                {
+                    "start": 872,
+                    "end": 877
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Steuer"
+        },
+        {
+            "denomination": null,
+            "eco": "Schuldverhältnisse"
+        },
+        {
+            "denomination": null,
+            "eco": "Reinertrag"
+        },
+        {
+            "denomination": null,
+            "eco": "Mietzinse"
+        }
+    ]
+}

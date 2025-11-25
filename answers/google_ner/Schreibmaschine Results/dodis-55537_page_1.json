@@ -1,0 +1,192 @@
+{
+    "persons": [
+        {
+            "name": "Herr Bundespräsident!",
+            "normalized": "Bundespräsident",
+            "honorifics": [
+                "Herr"
+            ],
+            "mentions": [
+                {
+                    "start": 240,
+                    "end": 260
+                },
+                {
+                    "start": 601,
+                    "end": 620
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Herren Bundesräte!",
+            "normalized": "Bundesräte",
+            "honorifics": [
+                "Herren"
+            ],
+            "mentions": [
+                {
+                    "start": 276,
+                    "end": 294
+                },
+                {
+                    "start": 622,
+                    "end": 642
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Der Präsident:",
+            "normalized": "Präsident",
+            "honorifics": [
+                "Der"
+            ],
+            "mentions": [
+                {
+                    "start": 706,
+                    "end": 720
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Molgi.",
+            "normalized": "Molgi",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 721,
+                    "end": 727
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Der Kanzleidirektor:",
+            "normalized": "Kanzleidirektor",
+            "honorifics": [
+                "Der"
+            ],
+            "mentions": [
+                {
+                    "start": 742,
+                    "end": 762
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "f. Engel",
+            "normalized": "Engel",
+            "honorifics": [
+                "f."
+            ],
+            "mentions": [
+                {
+                    "start": 763,
+                    "end": 771
+                }
+            ],
+            "confidence": 0.9
+        }
+    ],
+    "places": [
+        {
+            "name": "Chur",
+            "normalized": "Chur",
+            "geo": {
+                "lat": 46.8522,
+                "lon": 9.5317
+            },
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 4
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Graubünden",
+            "normalized": "Graubünden",
+            "geo": {
+                "lat": 46.6833,
+                "lon": 9.6167
+            },
+            "mentions": [
+                {
+                    "start": 68,
+                    "end": 78
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bern.",
+            "normalized": "Bern",
+            "geo": {
+                "lat": 46.948,
+                "lon": 7.4474
+            },
+            "mentions": [
+                {
+                    "start": 136,
+                    "end": 141
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Münstertal",
+            "normalized": "Münstertal",
+            "geo": {
+                "lat": 46.6217,
+                "lon": 10.3953
+            },
+            "mentions": [
+                {
+                    "start": 317,
+                    "end": 327
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Taufers",
+            "normalized": "Taufers",
+            "geo": {
+                "lat": 46.8068,
+                "lon": 10.4208
+            },
+            "mentions": [
+                {
+                    "start": 367,
+                    "end": 374
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vinschgau",
+            "normalized": "Vinschgau",
+            "geo": {
+                "lat": 46.6833,
+                "lon": 10.5167
+            },
+            "mentions": [
+                {
+                    "start": 376,
+                    "end": 385
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

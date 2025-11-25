@@ -1,0 +1,290 @@
+{
+    "persons": [
+        {
+            "name": "M. Calonder",
+            "normalized": "Calonder",
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 574,
+                    "end": 585
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "M. Clémenceau",
+            "normalized": "Georges Clémenceau",
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 641,
+                    "end": 654
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ministres",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 494,
+                    "end": 503
+                }
+            ],
+            "confidence": 0.9
+        }
+    ],
+    "places": [
+        {
+            "name": "Suisse",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": 46.8182,
+                "lon": 8.2275
+            },
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 6
+                },
+                {
+                    "start": 785,
+                    "end": 791
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": 47.2476,
+                "lon": 9.8055
+            },
+            "mentions": [
+                {
+                    "start": 226,
+                    "end": 236
+                },
+                {
+                    "start": 295,
+                    "end": 305
+                },
+                {
+                    "start": 374,
+                    "end": 384
+                },
+                {
+                    "start": 792,
+                    "end": 802
+                },
+                {
+                    "start": 1307,
+                    "end": 1317
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Wurtemberg",
+            "normalized": "Württemberg",
+            "geo": {
+                "lat": 48.6616,
+                "lon": 9.3501
+            },
+            "mentions": [
+                {
+                    "start": 310,
+                    "end": 320
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Autriche",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": 47.5162,
+                "lon": 14.5501
+            },
+            "mentions": [
+                {
+                    "start": 457,
+                    "end": 465
+                },
+                {
+                    "start": 835,
+                    "end": 843
+                },
+                {
+                    "start": 987,
+                    "end": 995
+                },
+                {
+                    "start": 1083,
+                    "end": 1091
+                },
+                {
+                    "start": 1162,
+                    "end": 1170
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Allemagne",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": 51.1657,
+                "lon": 10.4515
+            },
+            "mentions": [
+                {
+                    "start": 469,
+                    "end": 478
+                },
+                {
+                    "start": 1000,
+                    "end": 1009
+                },
+                {
+                    "start": 1095,
+                    "end": 1104
+                },
+                {
+                    "start": 1253,
+                    "end": 1262
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Paris",
+            "normalized": "Paris",
+            "geo": {
+                "lat": 48.8566,
+                "lon": 2.3522
+            },
+            "mentions": [
+                {
+                    "start": 507,
+                    "end": 512
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Londres",
+            "normalized": "London",
+            "geo": {
+                "lat": 51.5074,
+                "lon": -0.1278
+            },
+            "mentions": [
+                {
+                    "start": 516,
+                    "end": 523
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Washington",
+            "normalized": "Washington, D.C.",
+            "geo": {
+                "lat": 38.9072,
+                "lon": -77.0369
+            },
+            "mentions": [
+                {
+                    "start": 527,
+                    "end": 537
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Etats-Unis",
+            "normalized": "Vereinigte Staaten",
+            "geo": {
+                "lat": 37.0902,
+                "lon": -95.7129
+            },
+            "mentions": [
+                {
+                    "start": 953,
+                    "end": 963
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "l'Angleterre",
+            "normalized": "England",
+            "geo": {
+                "lat": 52.3555,
+                "lon": -1.1743
+            },
+            "mentions": [
+                {
+                    "start": 969,
+                    "end": 980
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "France",
+            "normalized": "Frankreich",
+            "geo": {
+                "lat": 46.2276,
+                "lon": 2.2137
+            },
+            "mentions": [
+                {
+                    "start": 990,
+                    "end": 996
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "l'Italie",
+            "normalized": "Italien",
+            "geo": {
+                "lat": 41.8719,
+                "lon": 12.5674
+            },
+            "mentions": [
+                {
+                    "start": 1069,
+                    "end": 1077
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Tyrol",
+            "normalized": "Tirol",
+            "geo": {
+                "lat": 47.3333,
+                "lon": 11.25
+            },
+            "mentions": [
+                {
+                    "start": 1335,
+                    "end": 1340
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": []
+}

@@ -1,0 +1,160 @@
+{
+    "persons": [
+        {
+            "name": "Rappard",
+            "normalized": "Rappard",
+            "honorifics": [
+                "Professor"
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10
+                },
+                {
+                    "start": 187,
+                    "end": 194
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Professor",
+            "normalized": "Professor",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 238,
+                    "end": 247
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Lardy",
+            "normalized": "Lardy",
+            "honorifics": [
+                "Minister"
+            ],
+            "mentions": [
+                {
+                    "start": 334,
+                    "end": 339
+                },
+                {
+                    "start": 475,
+                    "end": 480
+                },
+                {
+                    "start": 533,
+                    "end": 538
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Bern",
+            "normalized": "Bern",
+            "geo": {
+                "lat": 46.94792,
+                "lon": 7.44747
+            },
+            "mentions": [
+                {
+                    "start": 41,
+                    "end": 45
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "PARIS",
+            "normalized": "Paris",
+            "geo": {
+                "lat": 48.856613,
+                "lon": 2.352222
+            },
+            "mentions": [
+                {
+                    "start": 200,
+                    "end": 205
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": 47.25,
+                "lon": 9.9
+            },
+            "mentions": [
+                {
+                    "start": 310,
+                    "end": 322
+                },
+                {
+                    "start": 495,
+                    "end": 507
+                },
+                {
+                    "start": 1368,
+                    "end": 1378
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": 46.818188,
+                "lon": 8.227512
+            },
+            "mentions": [
+                {
+                    "start": 617,
+                    "end": 624
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Deutsch-Oesterreich",
+            "normalized": "Deutschösterreich",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 689,
+                    "end": 708
+                },
+                {
+                    "start": 752,
+                    "end": 771
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Gross-Deutschland",
+            "normalized": "Großdeutschland",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 787,
+                    "end": 802
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

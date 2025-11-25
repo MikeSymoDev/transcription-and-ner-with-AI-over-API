@@ -1,0 +1,176 @@
+{
+    "persons": [
+        {
+            "name": "akert Douglas",
+            "normalized": "Akert Douglas",
+            "honorifics": [
+                "Mr"
+            ],
+            "mentions": [
+                {
+                    "start": 608,
+                    "end": 620
+                }
+            ],
+            "confidence": 0.7
+        },
+        {
+            "name": "aad.",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 835,
+                    "end": 839
+                }
+            ],
+            "confidence": 0.6
+        },
+        {
+            "name": "H. Crowe",
+            "normalized": "H. Crowe",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 851,
+                    "end": 859
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "OH Wedderburn-Maxwell.",
+            "normalized": "O. H. Wedderburn-Maxwell",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 903,
+                    "end": 924
+                }
+            ],
+            "confidence": 0.9
+        }
+    ],
+    "places": [
+        {
+            "name": "AUSTRIA-HUNGARY",
+            "normalized": "Österreich-Ungarn",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 11,
+                    "end": 27
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": 47.25,
+                "lon": 9.8
+            },
+            "mentions": [
+                {
+                    "start": 34,
+                    "end": 43
+                },
+                {
+                    "start": 84,
+                    "end": 95
+                },
+                {
+                    "start": 170,
+                    "end": 181
+                },
+                {
+                    "start": 495,
+                    "end": 506
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Switzerland",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": 46.8182,
+                "lon": 8.2275
+            },
+            "mentions": [
+                {
+                    "start": 117,
+                    "end": 128
+                },
+                {
+                    "start": 150,
+                    "end": 161
+                },
+                {
+                    "start": 343,
+                    "end": 354
+                },
+                {
+                    "start": 699,
+                    "end": 710
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Paris",
+            "normalized": "Paris",
+            "geo": {
+                "lat": 48.8566,
+                "lon": 2.3522
+            },
+            "mentions": [
+                {
+                    "start": 296,
+                    "end": 301
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Constantinople",
+            "normalized": "Istanbul",
+            "geo": {
+                "lat": 41.0082,
+                "lon": 28.9784
+            },
+            "mentions": [
+                {
+                    "start": 306,
+                    "end": 321
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Germany",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": 51.1657,
+                "lon": 10.4515
+            },
+            "mentions": [
+                {
+                    "start": 807,
+                    "end": 814
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "economic"
+        }
+    ]
+}

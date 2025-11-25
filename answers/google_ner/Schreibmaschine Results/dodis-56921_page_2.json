@@ -1,0 +1,326 @@
+{
+    "persons": [],
+    "places": [
+        {
+            "name": "Minstertal",
+            "normalized": "Münstertal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 9,
+                    "end": 19
+                },
+                {
+                    "start": 125,
+                    "end": 137
+                },
+                {
+                    "start": 186,
+                    "end": 193
+                },
+                {
+                    "start": 1417,
+                    "end": 1424
+                },
+                {
+                    "start": 1509,
+                    "end": 1520
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Scarltal",
+            "normalized": "Val S-charl",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 23,
+                    "end": 31
+                },
+                {
+                    "start": 665,
+                    "end": 674
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Lusai",
+            "normalized": "Lü",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 53,
+                    "end": 58
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Cierfs",
+            "normalized": "Tschierv",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 61,
+                    "end": 67
+                },
+                {
+                    "start": 425,
+                    "end": 433
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ofenberg-Passhöhe",
+            "normalized": "Ofenpass",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 79,
+                    "end": 98
+                },
+                {
+                    "start": 650,
+                    "end": 658
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Umbrail",
+            "normalized": "Umbrailpass",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 145,
+                    "end": 152
+                },
+                {
+                    "start": 960,
+                    "end": 973
+                },
+                {
+                    "start": 1307,
+                    "end": 1320
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Avignatal",
+            "normalized": "Val Vau",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 204,
+                    "end": 213
+                },
+                {
+                    "start": 511,
+                    "end": 520
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Cruschetta",
+            "normalized": "Cruschietta",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 216,
+                    "end": 226
+                },
+                {
+                    "start": 239,
+                    "end": 258
+                },
+                {
+                    "start": 457,
+                    "end": 476
+                },
+                {
+                    "start": 726,
+                    "end": 736
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "P.Sesvenna",
+            "normalized": "Piz Sesvenna",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 383,
+                    "end": 393
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "P.Murtèra",
+            "normalized": "Piz Murtera",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 396,
+                    "end": 406
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vintschgau",
+            "normalized": "Vinschgau",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 578,
+                    "end": 587
+                },
+                {
+                    "start": 1721,
+                    "end": 1730
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Italien",
+            "normalized": "Italien",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 607,
+                    "end": 613
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Unterengadin",
+            "normalized": "Unterengadin",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 747,
+                    "end": 759
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Taufers",
+            "normalized": "Taufers im Münstertal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 791,
+                    "end": 798
+                },
+                {
+                    "start": 1246,
+                    "end": 1253
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Urtiolaspitze",
+            "normalized": "Piz Urtiola",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 909,
+                    "end": 922
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Sta.Maria",
+            "normalized": "Santa Maria Val Müstair",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 924,
+                    "end": 933
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Reschenscheideck",
+            "normalized": "Reschenpass",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1733,
+                    "end": 1749
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

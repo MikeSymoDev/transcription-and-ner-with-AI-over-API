@@ -1,0 +1,184 @@
+{
+    "persons": [
+        {
+            "name": "Herr Direktor",
+            "normalized": null,
+            "honorifics": [
+                "Herr",
+                "Direktor"
+            ],
+            "mentions": [
+                {
+                    "start": 75,
+                    "end": 88
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Inspektor",
+            "normalized": null,
+            "honorifics": [
+                "Inspektor"
+            ],
+            "mentions": [
+                {
+                    "start": 418,
+                    "end": 427
+                },
+                {
+                    "start": 680,
+                    "end": 689
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorsteher des Militärdepartementes",
+            "normalized": null,
+            "honorifics": [
+                "Vorsteher"
+            ],
+            "mentions": [
+                {
+                    "start": 509,
+                    "end": 541
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Generalstabschef",
+            "normalized": null,
+            "honorifics": [
+                "Generalstabschef"
+            ],
+            "mentions": [
+                {
+                    "start": 569,
+                    "end": 584
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Major Kunz",
+            "normalized": "Kunz",
+            "honorifics": [
+                "Major"
+            ],
+            "mentions": [
+                {
+                    "start": 708,
+                    "end": 718
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": 46.8182,
+                "lon": 8.2275
+            },
+            "mentions": [
+                {
+                    "start": 57,
+                    "end": 63
+                },
+                {
+                    "start": 319,
+                    "end": 325
+                },
+                {
+                    "start": 479,
+                    "end": 485
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Liechtensteins",
+            "normalized": "Liechtenstein",
+            "geo": {
+                "lat": 47.166,
+                "lon": 9.555
+            },
+            "mentions": [
+                {
+                    "start": 243,
+                    "end": 257
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": 47.2307,
+                "lon": 9.947
+            },
+            "mentions": [
+                {
+                    "start": 300,
+                    "end": 310
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "kompensationsweise"
+        },
+        {
+            "denomination": null,
+            "eco": "Lebensmittellieferung"
+        },
+        {
+            "denomination": null,
+            "eco": "Verlust"
+        },
+        {
+            "denomination": null,
+            "eco": "Gewinn"
+        },
+        {
+            "denomination": null,
+            "eco": "Ernährungsamt"
+        },
+        {
+            "denomination": null,
+            "eco": "Versorgung"
+        },
+        {
+            "denomination": null,
+            "eco": "Kriegsmaterialverwaltung"
+        },
+        {
+            "denomination": null,
+            "eco": "Erwerbspreise"
+        },
+        {
+            "denomination": null,
+            "eco": "Preise"
+        },
+        {
+            "denomination": null,
+            "eco": "Totalkosten"
+        },
+        {
+            "denomination": null,
+            "eco": "Franken"
+        },
+        {
+            "denomination": null,
+            "eco": "Rappen"
+        }
+    ]
+}

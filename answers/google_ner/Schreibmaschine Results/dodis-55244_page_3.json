@@ -1,0 +1,83 @@
+{
+    "persons": [
+        {
+            "name": "Vorstand des Nordostschweizerischen Schiffahrtsverbandes",
+            "normalized": null,
+            "honorifics": [
+                "Vorstand"
+            ],
+            "mentions": [
+                {
+                    "start": 550,
+                    "end": 606
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Rhein",
+            "normalized": "Rhein",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 183,
+                    "end": 190
+                },
+                {
+                    "start": 433,
+                    "end": 438
+                },
+                {
+                    "start": 533,
+                    "end": 539
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bodensee",
+            "normalized": "Bodensee",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 201,
+                    "end": 209
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 296,
+                    "end": 306
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Donauinteressen"
+        },
+        {
+            "denomination": null,
+            "eco": "Bedürfnisse"
+        }
+    ]
+}

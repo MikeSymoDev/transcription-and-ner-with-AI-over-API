@@ -1,0 +1,208 @@
+{
+    "persons": [
+        {
+            "name": "Bäckermeister Otto Köberle",
+            "normalized": "Otto Köberle",
+            "honorifics": [
+                "Bäckermeister"
+            ],
+            "mentions": [
+                {
+                    "start": 165,
+                    "end": 191
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Frau Paula Fritz",
+            "normalized": "Paula Fritz",
+            "honorifics": [
+                "Frau"
+            ],
+            "mentions": [
+                {
+                    "start": 279,
+                    "end": 293
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Untermieter Dr.Erwin Schirmer",
+            "normalized": "Erwin Schirmer",
+            "honorifics": [
+                "Untermieter",
+                "Dr."
+            ],
+            "mentions": [
+                {
+                    "start": 315,
+                    "end": 342
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bundespräsident Franz Jonas",
+            "normalized": "Franz Jonas",
+            "honorifics": [
+                "Bundespräsident"
+            ],
+            "mentions": [
+                {
+                    "start": 869,
+                    "end": 896
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Kleinwalsertal",
+            "normalized": "Kleinwalsertal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 36,
+                    "end": 50
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Riezlern",
+            "normalized": "Riezlern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 144,
+                    "end": 152
+                },
+                {
+                    "start": 482,
+                    "end": 490
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Riezlern-Wald",
+            "normalized": "Riezlern-Wald",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 250,
+                    "end": 263
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Walserschanz",
+            "normalized": "Walserschanz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 452,
+                    "end": 464
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Wiesbaden",
+            "normalized": "Wiesbaden",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 803,
+                    "end": 812
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Walsertal",
+            "normalized": "Walsertal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 901,
+                    "end": 910
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Walmendingerhorn",
+            "normalized": "Walmendingerhorn",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 944,
+                    "end": 960
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Unterwestegg",
+            "normalized": "Unterwestegg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1060,
+                    "end": 1072
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Außerschwende",
+            "normalized": "Außerschwende",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1077,
+                    "end": 1090
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

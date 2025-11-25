@@ -1,0 +1,126 @@
+{
+    "persons": [
+        {
+            "name": "Gelpke",
+            "normalized": "Gelpke",
+            "honorifics": [
+                "Herr",
+                "Nationalrat",
+                "Wirtschafter"
+            ],
+            "mentions": [
+                {
+                    "start": 692,
+                    "end": 715
+                },
+                {
+                    "start": 832,
+                    "end": 851
+                },
+                {
+                    "start": 1144,
+                    "end": 1156
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schwendiener",
+            "normalized": "Schwendiener",
+            "honorifics": [
+                "Herr",
+                "Nationalrat"
+            ],
+            "mentions": [
+                {
+                    "start": 955,
+                    "end": 984
+                },
+                {
+                    "start": 1184,
+                    "end": 1202
+                },
+                {
+                    "start": 1238,
+                    "end": 1255
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bundesrat",
+            "normalized": "Bundesrat",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 337,
+                    "end": 346
+                },
+                {
+                    "start": 1335,
+                    "end": 1344
+                },
+                {
+                    "start": 1546,
+                    "end": 1555
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Verkehrspolitiker",
+            "normalized": "Verkehrspolitiker",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 809,
+                    "end": 826
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 279,
+                    "end": 289
+                },
+                {
+                    "start": 624,
+                    "end": 636
+                },
+                {
+                    "start": 757,
+                    "end": 772
+                },
+                {
+                    "start": 1019,
+                    "end": 1029
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "wirtschaftlichen"
+        },
+        {
+            "denomination": null,
+            "eco": "wirtschaftlicher"
+        },
+        {
+            "denomination": null,
+            "eco": "ökonomischer"
+        }
+    ]
+}

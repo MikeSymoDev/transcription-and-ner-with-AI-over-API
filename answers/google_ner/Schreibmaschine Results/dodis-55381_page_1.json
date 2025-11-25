@@ -1,0 +1,103 @@
+{
+    "persons": [
+        {
+            "name": "My Lord",
+            "normalized": null,
+            "honorifics": [
+                "Lord"
+            ],
+            "mentions": [
+                {
+                    "start": 16,
+                    "end": 24
+                },
+                {
+                    "start": 497,
+                    "end": 505
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Prince of Liechtenstein",
+            "normalized": null,
+            "honorifics": [
+                "Prince"
+            ],
+            "mentions": [
+                {
+                    "start": 165,
+                    "end": 186
+                },
+                {
+                    "start": 258,
+                    "end": 273
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "ACTON",
+            "normalized": "Acton",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 559,
+                    "end": 564
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Earl Curzon of Kedleston",
+            "normalized": "Curzon",
+            "honorifics": [
+                "Earl"
+            ],
+            "mentions": [
+                {
+                    "start": 571,
+                    "end": 595
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Liechtenstein",
+            "normalized": "Liechtenstein",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 110,
+                    "end": 123
+                },
+                {
+                    "start": 172,
+                    "end": 186
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Kedleston",
+            "normalized": "Kedleston",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 586,
+                    "end": 595
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": []
+}

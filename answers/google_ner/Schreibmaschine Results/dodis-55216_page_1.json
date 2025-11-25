@@ -1,0 +1,222 @@
+{
+    "persons": [
+        {
+            "name": "Landammann",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 44,
+                    "end": 55
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Regierungsrat",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 60,
+                    "end": 73
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "schweizerischen Bundesrat",
+            "normalized": "Schweizerischer Bundesrat",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 120,
+                    "end": 144
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bundespräsident!",
+            "normalized": "Bundespräsident",
+            "honorifics": [
+                "Herr"
+            ],
+            "mentions": [
+                {
+                    "start": 160,
+                    "end": 179
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bundesräte!",
+            "normalized": "Bundesräte",
+            "honorifics": [
+                "Herren"
+            ],
+            "mentions": [
+                {
+                    "start": 183,
+                    "end": 200
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "St. Gallen",
+            "normalized": "Kanton Sankt Gallen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 12,
+                    "end": 21
+                },
+                {
+                    "start": 98,
+                    "end": 114
+                },
+                {
+                    "start": 900,
+                    "end": 919
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bern",
+            "normalized": "Bern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 150,
+                    "end": 154
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "vorarlbergischen",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 237,
+                    "end": 251
+                },
+                {
+                    "start": 326,
+                    "end": 340
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Höchst",
+            "normalized": "Höchst",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 262,
+                    "end": 268
+                },
+                {
+                    "start": 405,
+                    "end": 411
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Gaissau",
+            "normalized": "Gaißau",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 270,
+                    "end": 277
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Fussach",
+            "normalized": "Fußach",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 282,
+                    "end": 288
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rhein",
+            "normalized": "Rhein",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 746,
+                    "end": 751
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rheindelta",
+            "normalized": "Rheindelta",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 849,
+                    "end": 858
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Unterrheintal",
+            "normalized": "Unterrheintal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 876,
+                    "end": 890
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": []
+}

@@ -1,0 +1,263 @@
+{
+    "persons": [
+        {
+            "name": "Gemeinderat",
+            "normalized": "Gemeinderat",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 82,
+                    "end": 92
+                },
+                {
+                    "start": 331,
+                    "end": 341
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Huber",
+            "normalized": "Huber",
+            "honorifics": [
+                "Advokat"
+            ],
+            "mentions": [
+                {
+                    "start": 360,
+                    "end": 365
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bourbon-Parma",
+            "normalized": null,
+            "honorifics": [
+                "Herzogin",
+                "von"
+            ],
+            "mentions": [
+                {
+                    "start": 600,
+                    "end": 622
+                },
+                {
+                    "start": 1025,
+                    "end": 1042
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Regierungsrat",
+            "normalized": "Regierungsrat",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 562,
+                    "end": 575
+                },
+                {
+                    "start": 1269,
+                    "end": 1282
+                },
+                {
+                    "start": 1339,
+                    "end": 1353
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorsitzende",
+            "normalized": "Vorsitzende",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1255,
+                    "end": 1266
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Thal",
+            "normalized": "Thal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 89,
+                    "end": 93
+                },
+                {
+                    "start": 342,
+                    "end": 346
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Unterrheintal",
+            "normalized": "Unterrheintal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 104,
+                    "end": 118
+                },
+                {
+                    "start": 308,
+                    "end": 322
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rorschach",
+            "normalized": "Rorschach",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 369,
+                    "end": 378
+                },
+                {
+                    "start": 686,
+                    "end": 695
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Wartegg",
+            "normalized": "Wartegg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 667,
+                    "end": 674
+                },
+                {
+                    "start": 1070,
+                    "end": 1077
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bern",
+            "normalized": "Bern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 868,
+                    "end": 872
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Parma",
+            "normalized": "Parma",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 617,
+                    "end": 622
+                },
+                {
+                    "start": 1037,
+                    "end": 1042
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "Rorschacherberg",
+            "normalized": "Rorschacherberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1007,
+                    "end": 1022
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Höchst",
+            "normalized": "Höchst",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1400,
+                    "end": 1406
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Gaißau",
+            "normalized": "Gaissau",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1408,
+                    "end": 1414
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Fußach",
+            "normalized": "Fussach",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1419,
+                    "end": 1425
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

@@ -1,0 +1,412 @@
+{
+    "persons": [
+        {
+            "name": "Ulrich Ilg",
+            "normalized": "Ulrich Ilg",
+            "honorifics": [
+                "hauptman n"
+            ],
+            "mentions": [
+                {
+                    "start": 413,
+                    "end": 422
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Johannes Schöch",
+            "normalized": "Johannes Schöch",
+            "honorifics": [
+                "Monsignore"
+            ],
+            "mentions": [
+                {
+                    "start": 440,
+                    "end": 450
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Maria Seelenmayer",
+            "normalized": "Maria Seelenmayer",
+            "honorifics": [
+                "Besitzer"
+            ],
+            "mentions": [
+                {
+                    "start": 520,
+                    "end": 537
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Georg Hefferle",
+            "normalized": "Georg Hefferle",
+            "honorifics": [
+                "Pächter"
+            ],
+            "mentions": [
+                {
+                    "start": 547,
+                    "end": 560
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bruno Heim",
+            "normalized": "Bruno Heim",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 767,
+                    "end": 776
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Peter Meusburger",
+            "normalized": "Peter Meusburger",
+            "honorifics": [
+                "Besitzer"
+            ],
+            "mentions": [
+                {
+                    "start": 816,
+                    "end": 831
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Dr.Müller-Graf",
+            "normalized": "Müller-Graf",
+            "honorifics": [
+                "Dr."
+            ],
+            "mentions": [
+                {
+                    "start": 1888,
+                    "end": 1901
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "deutscher Konsul",
+            "normalized": "Konsul",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1917,
+                    "end": 1930
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Riezlern",
+            "normalized": "Riezlern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 104,
+                    "end": 111
+                },
+                {
+                    "start": 497,
+                    "end": 504
+                },
+                {
+                    "start": 915,
+                    "end": 922
+                },
+                {
+                    "start": 1297,
+                    "end": 1305
+                },
+                {
+                    "start": 1530,
+                    "end": 1537
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Gundkopf",
+            "normalized": "Gundkopf",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 133,
+                    "end": 141
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Sterhrade",
+            "normalized": null,
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 202,
+                    "end": 211
+                }
+            ],
+            "confidence": 0.6
+        },
+        {
+            "name": "Westfalen",
+            "normalized": "Westfalen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 213,
+                    "end": 222
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Oberstdorf",
+            "normalized": "Oberstdorf",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 566,
+                    "end": 576
+                },
+                {
+                    "start": 672,
+                    "end": 682
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Mittelberg",
+            "normalized": "Mittelberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 780,
+                    "end": 789
+                },
+                {
+                    "start": 1642,
+                    "end": 1652
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Baad Bärgunterbach",
+            "normalized": "Baad (Bregenzerwald)",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1098,
+                    "end": 1116
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Heuberggrafplatte",
+            "normalized": "Heuberggrafplatte",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1163,
+                    "end": 1180
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Weiler Moos",
+            "normalized": "Moos",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1198,
+                    "end": 1208
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Alpenrose",
+            "normalized": null,
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1230,
+                    "end": 1239
+                }
+            ],
+            "confidence": 0.7
+        },
+        {
+            "name": "Walserschanz",
+            "normalized": "Walserschanz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1282,
+                    "end": 1293
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Buchenbach",
+            "normalized": "Buchenbach",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1374,
+                    "end": 1384
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Tokopfbei",
+            "normalized": "Torkopf",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1475,
+                    "end": 1484
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Heubergplatte",
+            "normalized": "Heubergplatte",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1599,
+                    "end": 1612
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schreckenmähdern",
+            "normalized": "Schreckenmähder",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1625,
+                    "end": 1640
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Öster=",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1925,
+                    "end": 1930
+                }
+            ],
+            "confidence": 0.9
+        }
+    ],
+    "content": [
+        {
+            "denomination": "Monsignore",
+            "eco": null
+        },
+        {
+            "denomination": null,
+            "eco": "Mark"
+        },
+        {
+            "denomination": null,
+            "eco": "Besitzer"
+        },
+        {
+            "denomination": null,
+            "eco": "Pächter"
+        },
+        {
+            "denomination": null,
+            "eco": "Verkehrsamt"
+        },
+        {
+            "denomination": null,
+            "eco": "Fremdenverkehrs"
+        },
+        {
+            "denomination": null,
+            "eco": "Baukosten"
+        },
+        {
+            "denomination": null,
+            "eco": "Baulos"
+        }
+    ]
+}

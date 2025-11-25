@@ -1,0 +1,137 @@
+{
+    "persons": [
+        {
+            "name": "Besitzer des Hotels",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 419,
+                    "end": 438
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Chronist Köberle",
+            "normalized": "Köberle",
+            "honorifics": [
+                "Chronist"
+            ],
+            "mentions": [
+                {
+                    "start": 1191,
+                    "end": 1207
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Bludenz",
+            "normalized": "Bludenz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 258,
+                    "end": 265
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Riezlern",
+            "normalized": "Riezlern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 325,
+                    "end": 333
+                },
+                {
+                    "start": 629,
+                    "end": 637
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Loch",
+            "normalized": null,
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 337,
+                    "end": 341
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Kleinwalsertal",
+            "normalized": "Kleinwalsertal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 543,
+                    "end": 557
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bödemen",
+            "normalized": "Bödemen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 735,
+                    "end": 742
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Baukosten"
+        },
+        {
+            "denomination": null,
+            "eco": "Mark"
+        },
+        {
+            "denomination": null,
+            "eco": "Geschäftsräumen"
+        },
+        {
+            "denomination": null,
+            "eco": "Fremdenstatistik"
+        },
+        {
+            "denomination": null,
+            "eco": "Kapazität der Fremdenbetten"
+        },
+        {
+            "denomination": null,
+            "eco": "Nächtigungsziffer"
+        }
+    ]
+}

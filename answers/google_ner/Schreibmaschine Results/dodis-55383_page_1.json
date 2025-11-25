@@ -1,0 +1,98 @@
+{
+    "persons": [],
+    "places": [
+        {
+            "name": "Wien",
+            "normalized": "Wien",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 32,
+                    "end": 36
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberger",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 42,
+                    "end": 54
+                },
+                {
+                    "start": 321,
+                    "end": 333
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 195,
+                    "end": 201
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "schweizerischen",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 390,
+                    "end": 405
+                },
+                {
+                    "start": 508,
+                    "end": 523
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlbergs",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 689,
+                    "end": 700
+                },
+                {
+                    "start": 902,
+                    "end": 913
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

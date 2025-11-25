@@ -1,0 +1,151 @@
+{
+    "persons": [
+        {
+            "name": "Dr. Ender",
+            "normalized": "Ender",
+            "honorifics": [
+                "Dr."
+            ],
+            "mentions": [
+                {
+                    "start": 786,
+                    "end": 796
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Head of the Vorarlberg Government",
+            "normalized": null,
+            "honorifics": [
+                "Head"
+            ],
+            "mentions": [
+                {
+                    "start": 801,
+                    "end": 834
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 17,
+                    "end": 27
+                },
+                {
+                    "start": 295,
+                    "end": 305
+                },
+                {
+                    "start": 704,
+                    "end": 714
+                },
+                {
+                    "start": 813,
+                    "end": 823
+                },
+                {
+                    "start": 1094,
+                    "end": 1104
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Switzerland",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 44,
+                    "end": 55
+                },
+                {
+                    "start": 648,
+                    "end": 659
+                },
+                {
+                    "start": 872,
+                    "end": 883
+                },
+                {
+                    "start": 1184,
+                    "end": 1195
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Austrian Empire",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 250,
+                    "end": 266
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Swiss Confederation",
+            "normalized": "Schweizerische Eidgenossenschaft",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 764,
+                    "end": 783
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bernese",
+            "normalized": "Bern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 980,
+                    "end": 987
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "food"
+        },
+        {
+            "denomination": null,
+            "eco": "supplies"
+        },
+        {
+            "denomination": null,
+            "eco": "interests"
+        }
+    ]
+}

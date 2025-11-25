@@ -1,0 +1,291 @@
+{
+    "persons": [
+        {
+            "name": "private Beamte",
+            "normalized": "Privatbeamte",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 743,
+                    "end": 758
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Erwerbssteuer"
+        },
+        {
+            "denomination": null,
+            "eco": "gewerbliche Betrieb"
+        },
+        {
+            "denomination": null,
+            "eco": "kontingentierte Erwerbssteuer"
+        },
+        {
+            "denomination": null,
+            "eco": "privaten Betriebe"
+        },
+        {
+            "denomination": null,
+            "eco": "Steuer"
+        },
+        {
+            "denomination": null,
+            "eco": "Reingewinne"
+        },
+        {
+            "denomination": null,
+            "eco": "juristischen Personen"
+        },
+        {
+            "denomination": null,
+            "eco": "Aktiengesellschaften"
+        },
+        {
+            "denomination": null,
+            "eco": "Gesellschaften mit beschränkter Haftung"
+        },
+        {
+            "denomination": null,
+            "eco": "Einkommenssteuer"
+        },
+        {
+            "denomination": null,
+            "eco": "Einkommen"
+        },
+        {
+            "denomination": null,
+            "eco": "progressiv"
+        },
+        {
+            "denomination": null,
+            "eco": "Rentensteuer"
+        },
+        {
+            "denomination": null,
+            "eco": "Zinserträgnisse"
+        },
+        {
+            "denomination": null,
+            "eco": "Sparkasseneinlagen"
+        },
+        {
+            "denomination": null,
+            "eco": "Wertschriften"
+        },
+        {
+            "denomination": null,
+            "eco": "Staatspapiere"
+        },
+        {
+            "denomination": null,
+            "eco": "rentensteuerfrei"
+        },
+        {
+            "denomination": null,
+            "eco": "Steuer"
+        },
+        {
+            "denomination": null,
+            "eco": "Spareinlagen"
+        },
+        {
+            "denomination": null,
+            "eco": "Banken"
+        },
+        {
+            "denomination": null,
+            "eco": "Besoldungssteuer"
+        },
+        {
+            "denomination": null,
+            "eco": "progressiv"
+        },
+        {
+            "denomination": null,
+            "eco": "Staatssteuern"
+        },
+        {
+            "denomination": null,
+            "eco": "Zuschläge"
+        },
+        {
+            "denomination": null,
+            "eco": "Staatssteuerbetrages"
+        },
+        {
+            "denomination": null,
+            "eco": "Grund-"
+        },
+        {
+            "denomination": null,
+            "eco": "Erwerbs-"
+        },
+        {
+            "denomination": null,
+            "eco": "Rentensteuer"
+        },
+        {
+            "denomination": null,
+            "eco": "Hauszinssteuer"
+        },
+        {
+            "denomination": null,
+            "eco": "Einkommensteuer"
+        },
+        {
+            "denomination": null,
+            "eco": "Landeszuschlägen"
+        },
+        {
+            "denomination": null,
+            "eco": "Gemeinden Zuschläge"
+        },
+        {
+            "denomination": null,
+            "eco": "Gemeindeincome"
+        },
+        {
+            "denomination": null,
+            "eco": "Grund-"
+        },
+        {
+            "denomination": null,
+            "eco": "Renten-"
+        },
+        {
+            "denomination": null,
+            "eco": "Erwerbsteuer"
+        },
+        {
+            "denomination": null,
+            "eco": "Staatssteuer"
+        },
+        {
+            "denomination": null,
+            "eco": "Vermögenssteuer"
+        },
+        {
+            "denomination": null,
+            "eco": "Vermögenssteuer"
+        },
+        {
+            "denomination": null,
+            "eco": "Indirekte Staatssteuern"
+        },
+        {
+            "denomination": null,
+            "eco": "tote Hand"
+        },
+        {
+            "denomination": null,
+            "eco": "Gebührenaequivalent"
+        },
+        {
+            "denomination": null,
+            "eco": "Petrol"
+        },
+        {
+            "denomination": null,
+            "eco": "Zucker"
+        },
+        {
+            "denomination": null,
+            "eco": "Wein"
+        },
+        {
+            "denomination": null,
+            "eco": "Bier"
+        },
+        {
+            "denomination": null,
+            "eco": "Schnaps"
+        },
+        {
+            "denomination": null,
+            "eco": "Luxusweinsteuern"
+        },
+        {
+            "denomination": null,
+            "eco": "Monopole"
+        },
+        {
+            "denomination": null,
+            "eco": "Tabak"
+        },
+        {
+            "denomination": null,
+            "eco": "Salz"
+        },
+        {
+            "denomination": null,
+            "eco": "Saccharin"
+        },
+        {
+            "denomination": null,
+            "eco": "Pulver"
+        },
+        {
+            "denomination": null,
+            "eco": "Verkehrssteuern"
+        },
+        {
+            "denomination": null,
+            "eco": "Fahrkarten"
+        },
+        {
+            "denomination": null,
+            "eco": "Frachtgebühren"
+        },
+        {
+            "denomination": null,
+            "eco": "Zölle"
+        },
+        {
+            "denomination": null,
+            "eco": "Staatssteuern"
+        },
+        {
+            "denomination": null,
+            "eco": "Rücküberweisungen"
+        },
+        {
+            "denomination": null,
+            "eco": "Reform"
+        },
+        {
+            "denomination": null,
+            "eco": "Modernisierung"
+        },
+        {
+            "denomination": null,
+            "eco": "Steuerprinzipien"
+        },
+        {
+            "denomination": null,
+            "eco": "Staatssteuern"
+        },
+        {
+            "denomination": null,
+            "eco": "Kriegssteuern"
+        },
+        {
+            "denomination": null,
+            "eco": "Kriegszuschlägen"
+        },
+        {
+            "denomination": null,
+            "eco": "Staatssteuern"
+        },
+        {
+            "denomination": null,
+            "eco": "Landes- und Gemeindezuschläge"
+        }
+    ]
+}

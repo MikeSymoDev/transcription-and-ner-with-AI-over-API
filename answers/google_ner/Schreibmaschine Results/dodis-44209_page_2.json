@@ -1,0 +1,121 @@
+{
+    "persons": [
+        {
+            "name": "Bundesrat",
+            "normalized": "Bundesrat",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 112,
+                    "end": 121
+                },
+                {
+                    "start": 727,
+                    "end": 736
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Regierung",
+            "normalized": "Regierung",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 589,
+                    "end": 597
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlbergervolkes",
+            "normalized": "Vorarlbergervolk",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 202,
+                    "end": 218
+                },
+                {
+                    "start": 793,
+                    "end": 809
+                },
+                {
+                    "start": 1111,
+                    "end": 1127
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Vorarlbergs",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 4,
+                    "end": 15
+                },
+                {
+                    "start": 602,
+                    "end": 612
+                },
+                {
+                    "start": 1060,
+                    "end": 1070
+                },
+                {
+                    "start": 1515,
+                    "end": 1526
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 81,
+                    "end": 87
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Deutsch-Oesterreichs",
+            "normalized": "Deutsch-Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 282,
+                    "end": 300
+                },
+                {
+                    "start": 497,
+                    "end": 515
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

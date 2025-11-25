@@ -1,0 +1,140 @@
+{
+    "persons": [
+        {
+            "name": "Herr Dr. Ferdinand Redler",
+            "normalized": "Ferdinand Redler",
+            "honorifics": [
+                "Herr",
+                "Dr."
+            ],
+            "mentions": [
+                {
+                    "start": 276,
+                    "end": 300
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Landesrat",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 405,
+                    "end": 414
+                },
+                {
+                    "start": 660,
+                    "end": 669
+                },
+                {
+                    "start": 900,
+                    "end": 911
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bundesrat",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 509,
+                    "end": 519
+                },
+                {
+                    "start": 710,
+                    "end": 719
+                },
+                {
+                    "start": 821,
+                    "end": 830
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Herrn Landeshauptmann Ender",
+            "normalized": "Ender",
+            "honorifics": [
+                "Herr",
+                "Landeshauptmann"
+            ],
+            "mentions": [
+                {
+                    "start": 1063,
+                    "end": 1090
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Landeshauptmann",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1230,
+                    "end": 1245
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Vorarlbergs",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": 47.25,
+                "lon": 9.75
+            },
+            "mentions": [
+                {
+                    "start": 394,
+                    "end": 405
+                },
+                {
+                    "start": 618,
+                    "end": 629
+                },
+                {
+                    "start": 765,
+                    "end": 776
+                },
+                {
+                    "start": 889,
+                    "end": 900
+                },
+                {
+                    "start": 1250,
+                    "end": 1261
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bern",
+            "normalized": "Bern",
+            "geo": {
+                "lat": 46.94809,
+                "lon": 7.44744
+            },
+            "mentions": [
+                {
+                    "start": 1195,
+                    "end": 1199
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

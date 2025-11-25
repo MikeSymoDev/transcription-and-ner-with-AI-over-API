@@ -1,0 +1,112 @@
+{
+    "persons": [
+        {
+            "name": "ministre",
+            "normalized": "Minister",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 49,
+                    "end": 58
+                },
+                {
+                    "start": 1022,
+                    "end": 1031
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Wm. E. Rappard",
+            "normalized": "William Emmanuel Rappard",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1284,
+                    "end": 1298
+                },
+                {
+                    "start": 1353,
+                    "end": 1360
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Valavran",
+            "normalized": "Valavran",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Genève",
+            "normalized": "Genf",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 15,
+                    "end": 21
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Suisse",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 332,
+                    "end": 338
+                },
+                {
+                    "start": 689,
+                    "end": 695
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1370,
+                    "end": 1380
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "économique"
+        },
+        {
+            "denomination": null,
+            "eco": "prospérité"
+        }
+    ]
+}

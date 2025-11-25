@@ -1,0 +1,462 @@
+{
+    "persons": [
+        {
+            "name": "Vetsch",
+            "normalized": "Vetsch",
+            "honorifics": [
+                "Dr.",
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 47,
+                    "end": 57
+                },
+                {
+                    "start": 92,
+                    "end": 102
+                },
+                {
+                    "start": 617,
+                    "end": 626
+                },
+                {
+                    "start": 1162,
+                    "end": 1171
+                },
+                {
+                    "start": 1484,
+                    "end": 1493
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Lardy",
+            "normalized": "Lardy",
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 207,
+                    "end": 215
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 250,
+                    "end": 260
+                },
+                {
+                    "start": 410,
+                    "end": 420
+                },
+                {
+                    "start": 690,
+                    "end": 700
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Autriche",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 264,
+                    "end": 274
+                },
+                {
+                    "start": 1585,
+                    "end": 1595
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Suisse",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 470,
+                    "end": 479
+                },
+                {
+                    "start": 656,
+                    "end": 665
+                },
+                {
+                    "start": 760,
+                    "end": 769
+                },
+                {
+                    "start": 844,
+                    "end": 853
+                },
+                {
+                    "start": 1404,
+                    "end": 1413
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Tyrol",
+            "normalized": "Tirol",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 483,
+                    "end": 488
+                },
+                {
+                    "start": 704,
+                    "end": 709
+                },
+                {
+                    "start": 725,
+                    "end": 730
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vienne",
+            "normalized": "Wien",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 506,
+                    "end": 512
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Allemagne",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 544,
+                    "end": 554
+                },
+                {
+                    "start": 1600,
+                    "end": 1610
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Carinthie",
+            "normalized": "Kärnten",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 750,
+                    "end": 759
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Royaume des Serbes, Croates et Slovènes",
+            "normalized": "Königreich der Serben, Kroaten und Slowenen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 798,
+                    "end": 834
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Paris",
+            "normalized": "Paris",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1205,
+                    "end": 1210
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bâle",
+            "normalized": "Basel",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1211,
+                    "end": 1215
+                },
+                {
+                    "start": 1381,
+                    "end": 1385
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Zurich",
+            "normalized": "Zürich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1216,
+                    "end": 1222
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Buchs",
+            "normalized": "Buchs",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1223,
+                    "end": 1228
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Feldkirch",
+            "normalized": "Feldkirch",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1229,
+                    "end": 1238
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Arlberg",
+            "normalized": "Arlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1239,
+                    "end": 1246
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Innsbruck",
+            "normalized": "Innsbruck",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1247,
+                    "end": 1257
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Brenner",
+            "normalized": "Brenner",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1258,
+                    "end": 1265
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Lienz",
+            "normalized": "Lienz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1266,
+                    "end": 1271
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Villach",
+            "normalized": "Villach",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1272,
+                    "end": 1279
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Leybach",
+            "normalized": "Ljubljana",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1280,
+                    "end": 1287
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Agram",
+            "normalized": "Zagreb",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1288,
+                    "end": 1293
+                },
+                {
+                    "start": 1388,
+                    "end": 1393
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Belgrade",
+            "normalized": "Belgrad",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1294,
+                    "end": 1302
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Sofia",
+            "normalized": "Sofia",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1303,
+                    "end": 1308
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Constantinople",
+            "normalized": "Istanbul",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1309,
+                    "end": 1323
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "wirtschaftlich"
+        },
+        {
+            "denomination": null,
+            "eco": "Zollverein"
+        },
+        {
+            "denomination": null,
+            "eco": "Zoll-"
+        },
+        {
+            "denomination": null,
+            "eco": "wirtschaftlich"
+        }
+    ]
+}

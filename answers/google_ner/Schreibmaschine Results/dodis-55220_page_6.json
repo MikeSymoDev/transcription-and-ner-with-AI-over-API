@@ -1,0 +1,55 @@
+{
+    "persons": [],
+    "places": [
+        {
+            "name": "Autriche",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 32,
+                    "end": 40
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 52,
+                    "end": 62
+                },
+                {
+                    "start": 117,
+                    "end": 127
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Wurtemberg",
+            "normalized": "Württemberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 83,
+                    "end": 93
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": []
+}

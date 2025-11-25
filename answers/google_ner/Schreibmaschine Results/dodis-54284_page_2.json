@@ -1,0 +1,89 @@
+{
+    "persons": [
+        {
+            "name": "Präsident",
+            "normalized": "Präsident",
+            "honorifics": [
+                "Herr"
+            ],
+            "mentions": [
+                {
+                    "start": 471,
+                    "end": 485
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Präsidentin",
+            "normalized": "Präsidentin",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 557,
+                    "end": 568
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "P.Chaponnière-Chaix",
+            "normalized": "Chaponnière-Chaix, P.",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 571,
+                    "end": 589
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Aktuarin",
+            "normalized": "Aktuarin",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 574,
+                    "end": 582
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "A. Du Pasquier",
+            "normalized": "Du Pasquier, A.",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 587,
+                    "end": 601
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Genf",
+            "normalized": "Genf",
+            "geo": {
+                "lat": 46.204391,
+                "lon": 6.143158
+            },
+            "mentions": [
+                {
+                    "start": 517,
+                    "end": 521
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

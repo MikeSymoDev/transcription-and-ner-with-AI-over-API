@@ -1,0 +1,108 @@
+{
+    "persons": [
+        {
+            "name": "Vertreter Vorarlbergs als Mitglied der d.ö. Friedensdelegation",
+            "normalized": "Vertreter Vorarlbergs (Friedensdelegation)",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1279,
+                    "end": 1328
+                },
+                {
+                    "start": 1329,
+                    "end": 1343
+                }
+            ],
+            "confidence": 0.95
+        },
+        {
+            "name": "bevollmächtigte Vertreter des Staates",
+            "normalized": "Bevollmächtigter Vertreter des Staates",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1404,
+                    "end": 1422
+                },
+                {
+                    "start": 1423,
+                    "end": 1440
+                }
+            ],
+            "confidence": 0.95
+        }
+    ],
+    "places": [
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": 47.25,
+                "lon": 9.8
+            },
+            "mentions": [
+                {
+                    "start": 127,
+                    "end": 137
+                }
+            ],
+            "confidence": 0.98
+        },
+        {
+            "name": "Vorarlbergs",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": 47.25,
+                "lon": 9.8
+            },
+            "mentions": [
+                {
+                    "start": 971,
+                    "end": 982
+                },
+                {
+                    "start": 1290,
+                    "end": 1301
+                }
+            ],
+            "confidence": 0.98
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": 46.8182,
+                "lon": 8.2275
+            },
+            "mentions": [
+                {
+                    "start": 997,
+                    "end": 1004
+                }
+            ],
+            "confidence": 0.98
+        },
+        {
+            "name": "St.Germain",
+            "normalized": "Saint-Germain-en-Laye",
+            "geo": {
+                "lat": 48.8986,
+                "lon": 2.0287
+            },
+            "mentions": [
+                {
+                    "start": 1349,
+                    "end": 1359
+                }
+            ],
+            "confidence": 0.95
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

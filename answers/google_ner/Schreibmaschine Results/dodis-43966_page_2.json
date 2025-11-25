@@ -1,0 +1,71 @@
+{
+    "persons": [],
+    "places": [
+        {
+            "name": "autrichiennes",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 88,
+                    "end": 101
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "suisses",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 385,
+                    "end": 392
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "France",
+            "normalized": "Frankreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 507,
+                    "end": 513
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Berne",
+            "normalized": "Bern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 680,
+                    "end": 685
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

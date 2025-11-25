@@ -1,0 +1,136 @@
+{
+    "persons": [
+        {
+            "name": "M. Burckhardt",
+            "normalized": "Burckhardt",
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 757,
+                    "end": 771
+                },
+                {
+                    "start": 1159,
+                    "end": 1173
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "attaché",
+            "normalized": "Attaché",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 714,
+                    "end": 721
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "M. Calonder",
+            "normalized": "Calonder",
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 1047,
+                    "end": 1058
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 343,
+                    "end": 353
+                },
+                {
+                    "start": 421,
+                    "end": 431
+                },
+                {
+                    "start": 817,
+                    "end": 827
+                },
+                {
+                    "start": 969,
+                    "end": 979
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vienne",
+            "normalized": "Wien",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 704,
+                    "end": 710
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Autriche",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 934,
+                    "end": 942
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Allemagne",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 946,
+                    "end": 955
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": "religieuse",
+            "eco": null
+        },
+        {
+            "denomination": null,
+            "eco": "fabricants"
+        },
+        {
+            "denomination": null,
+            "eco": "tabac et de poudre"
+        }
+    ]
+}

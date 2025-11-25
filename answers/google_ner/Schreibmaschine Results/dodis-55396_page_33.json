@@ -1,0 +1,279 @@
+{
+    "persons": [
+        {
+            "name": "Landeshauptmann",
+            "normalized": "Landeshauptmann",
+            "honorifics": [
+                "Landeshauptmann"
+            ],
+            "mentions": [
+                {
+                    "start": 937,
+                    "end": 952
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Dr.Herbert Kessler",
+            "normalized": "Herbert Kessler",
+            "honorifics": [
+                "Dr."
+            ],
+            "mentions": [
+                {
+                    "start": 953,
+                    "end": 971
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Landesbischof Wechner",
+            "normalized": "Wechner",
+            "honorifics": [
+                "Landesbischof"
+            ],
+            "mentions": [
+                {
+                    "start": 993,
+                    "end": 1013
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Dr.Josef KLAUS",
+            "normalized": "Josef Klaus",
+            "honorifics": [
+                "bundeskanzler",
+                "Dr."
+            ],
+            "mentions": [
+                {
+                    "start": 1297,
+                    "end": 1324
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Gendarmeriekommandant Emil Hofer",
+            "normalized": "Emil Hofer",
+            "honorifics": [
+                "Gendarmeriekommandant"
+            ],
+            "mentions": [
+                {
+                    "start": 1386,
+                    "end": 1417
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bundespräsident",
+            "normalized": "Bundespräsident",
+            "honorifics": [
+                "Bundespräsident"
+            ],
+            "mentions": [
+                {
+                    "start": 1428,
+                    "end": 1444
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Riezlern",
+            "normalized": "Riezlern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 53,
+                    "end": 61
+                },
+                {
+                    "start": 366,
+                    "end": 374
+                },
+                {
+                    "start": 684,
+                    "end": 692
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Hirschegg",
+            "normalized": "Hirschegg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 67,
+                    "end": 76
+                },
+                {
+                    "start": 144,
+                    "end": 153
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "KLIENWALSERTAL",
+            "normalized": "Kleinwalsertal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 230,
+                    "end": 244
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Feldkirch",
+            "normalized": "Feldkirch",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 320,
+                    "end": 329
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Mittelberg",
+            "normalized": "Mittelberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 379,
+                    "end": 389
+                },
+                {
+                    "start": 452,
+                    "end": 462
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bödmen",
+            "normalized": "Bödmen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 463,
+                    "end": 469
+                },
+                {
+                    "start": 751,
+                    "end": 757
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Baad",
+            "normalized": "Baad",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 470,
+                    "end": 474
+                },
+                {
+                    "start": 697,
+                    "end": 701
+                },
+                {
+                    "start": 762,
+                    "end": 766
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Walmendingerhorn",
+            "normalized": "Walmendingerhorn",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 796,
+                    "end": 812
+                },
+                {
+                    "start": 904,
+                    "end": 920
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Walsertal",
+            "normalized": "Walsertal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1362,
+                    "end": 1371
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Österreich",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1492,
+                    "end": 1502
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": "Landesbischof",
+            "eco": null
+        }
+    ]
+}

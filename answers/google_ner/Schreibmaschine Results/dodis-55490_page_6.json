@@ -1,0 +1,96 @@
+{
+    "persons": [
+        {
+            "name": "Petenten",
+            "normalized": "Petenten",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 366,
+                    "end": 374
+                },
+                {
+                    "start": 964,
+                    "end": 972
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Kanton St.Gallen",
+            "normalized": "Kanton St. Gallen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 452,
+                    "end": 468
+                },
+                {
+                    "start": 1094,
+                    "end": 1110
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Unterrheintal",
+            "normalized": "Bezirk Unterrheintal, Kanton St. Gallen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 487,
+                    "end": 500
+                },
+                {
+                    "start": 1121,
+                    "end": 1155
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Eidgenossenschaft",
+            "normalized": "Schweizerische Eidgenossenschaft",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1177,
+                    "end": 1194
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Fußacher",
+            "normalized": "Fußach",
+            "geo": {
+                "lat": 47.468333,
+                "lon": 9.610556
+            },
+            "mentions": [
+                {
+                    "start": 1419,
+                    "end": 1427
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "wirtschaftlichen"
+        }
+    ]
+}

@@ -1,0 +1,399 @@
+{
+    "persons": [
+        {
+            "name": "Mietautounternehmers",
+            "normalized": "Mietautounternehmer",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 299,
+                    "end": 319
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Eugen Schöch",
+            "normalized": "Eugen Schöch",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 320,
+                    "end": 331
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Liebespaar",
+            "normalized": "Liebespaar",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 363,
+                    "end": 373
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Skifahrer",
+            "normalized": "Skifahrer",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 734,
+                    "end": 743
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Soldaten",
+            "normalized": "Soldaten",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 792,
+                    "end": 800
+                },
+                {
+                    "start": 1888,
+                    "end": 1896
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "August Duffner",
+            "normalized": "August Duffner",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 946,
+                    "end": 960
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Max Ernst",
+            "normalized": "Max Ernst",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1128,
+                    "end": 1137
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Soldat",
+            "normalized": "Soldat",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1270,
+                    "end": 1276
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Sebastian Abler",
+            "normalized": "Sebastian Abler",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1288,
+                    "end": 1303
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bruno Schuster",
+            "normalized": "Bruno Schuster",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1452,
+                    "end": 1466
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Alfred Hilbrand",
+            "normalized": "Alfred Hilbrand",
+            "honorifics": [
+                "Kohlenhändler"
+            ],
+            "mentions": [
+                {
+                    "start": 1661,
+                    "end": 1675
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Mann",
+            "normalized": "Mann",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1938,
+                    "end": 1942
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Personen",
+            "normalized": "Personen",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 2017,
+                    "end": 2025
+                },
+                {
+                    "start": 2209,
+                    "end": 2217
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Wehrmacht",
+            "normalized": "Wehrmacht",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 2165,
+                    "end": 2174
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Evakuierte",
+            "normalized": "Evakuierte",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 2179,
+                    "end": 2189
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Kurgäste",
+            "normalized": "Kurgäste",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 2191,
+                    "end": 2199
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Tal",
+            "normalized": "Tal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 249,
+                    "end": 252
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Riezlern",
+            "normalized": "Riezlern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 336,
+                    "end": 344
+                },
+                {
+                    "start": 961,
+                    "end": 969
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Baad",
+            "normalized": "Baad",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 435,
+                    "end": 439
+                },
+                {
+                    "start": 561,
+                    "end": 565
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ochsenköpfe",
+            "normalized": "Ochsenköpfe",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 492,
+                    "end": 503
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Stieralpe",
+            "normalized": "Stieralpe",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 521,
+                    "end": 530
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bühlalpe",
+            "normalized": "Bühlalpe",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 596,
+                    "end": 604
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ochsenhoferschanrte",
+            "normalized": "Ochsenhoferschanze",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 609,
+                    "end": 628
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Höfle",
+            "normalized": "Höfle",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1088,
+                    "end": 1093
+                },
+                {
+                    "start": 1141,
+                    "end": 1146
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Oberstdorf",
+            "normalized": "Oberstdorf",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1382,
+                    "end": 1392
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Moos",
+            "normalized": "Moos",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1486,
+                    "end": 1490
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Mittelberg",
+            "normalized": "Mittelberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1494,
+                    "end": 1504
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Bevorschussung"
+        },
+        {
+            "denomination": null,
+            "eco": "Fremdenverkehr"
+        },
+        {
+            "denomination": null,
+            "eco": "Lebensmittelkarten"
+        }
+    ]
+}

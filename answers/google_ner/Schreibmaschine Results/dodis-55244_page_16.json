@@ -1,0 +1,240 @@
+{
+    "persons": [
+        {
+            "name": "Bankmann",
+            "normalized": "Bankmann",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 743,
+                    "end": 752
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Vorarlberger",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 46,
+                    "end": 58
+                },
+                {
+                    "start": 176,
+                    "end": 188
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": 47.25,
+                "lon": 9.9
+            },
+            "mentions": [
+                {
+                    "start": 410,
+                    "end": 420
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlbergerinnen",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 475,
+                    "end": 492
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": 46.8182,
+                "lon": 8.2275
+            },
+            "mentions": [
+                {
+                    "start": 627,
+                    "end": 634
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Donaumonarchie",
+            "normalized": "Österreich-Ungarn",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 899,
+                    "end": 913
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Kronländern",
+            "normalized": "Kronländer",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 954,
+                    "end": 965
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "Länder-",
+            "normalized": "Länder",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1037,
+                    "end": 1044
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "Deutsch-Oesterreichs",
+            "normalized": "Deutschösterreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1114,
+                    "end": 1134
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "wirtschaftlichen"
+        },
+        {
+            "denomination": null,
+            "eco": "Valutafrage"
+        },
+        {
+            "denomination": null,
+            "eco": "Schuldentilgung"
+        },
+        {
+            "denomination": null,
+            "eco": "Valutafragen"
+        },
+        {
+            "denomination": null,
+            "eco": "wirtschaftliche"
+        },
+        {
+            "denomination": null,
+            "eco": "Valuta"
+        },
+        {
+            "denomination": null,
+            "eco": "Kronenwährung"
+        },
+        {
+            "denomination": null,
+            "eco": "Kredites"
+        },
+        {
+            "denomination": null,
+            "eco": "Notenemission"
+        },
+        {
+            "denomination": null,
+            "eco": "Kriegsschulden"
+        },
+        {
+            "denomination": null,
+            "eco": "Notenumlauf"
+        },
+        {
+            "denomination": null,
+            "eco": "Kronenvaluta"
+        },
+        {
+            "denomination": null,
+            "eco": "Valutaänderung"
+        },
+        {
+            "denomination": null,
+            "eco": "Geldbeziehungen"
+        },
+        {
+            "denomination": null,
+            "eco": "Kreditbeziehungen"
+        },
+        {
+            "denomination": null,
+            "eco": "Geldbesiehungen"
+        },
+        {
+            "denomination": null,
+            "eco": "Währungsgeld"
+        },
+        {
+            "denomination": null,
+            "eco": "Preismesser"
+        },
+        {
+            "denomination": null,
+            "eco": "Geldumlauf"
+        },
+        {
+            "denomination": null,
+            "eco": "Entwertung"
+        },
+        {
+            "denomination": null,
+            "eco": "Niederschlag"
+        },
+        {
+            "denomination": null,
+            "eco": "Steigerung der Preise"
+        },
+        {
+            "denomination": null,
+            "eco": "Produkte"
+        },
+        {
+            "denomination": null,
+            "eco": "teuerung"
+        }
+    ]
+}

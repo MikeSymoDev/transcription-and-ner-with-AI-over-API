@@ -1,0 +1,175 @@
+{
+    "persons": [
+        {
+            "name": "Dutasta",
+            "normalized": "Dutasta",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 108,
+                    "end": 115
+                },
+                {
+                    "start": 452,
+                    "end": 459
+                },
+                {
+                    "start": 513,
+                    "end": 520
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ender",
+            "normalized": "Ender",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 482,
+                    "end": 487
+                },
+                {
+                    "start": 762,
+                    "end": 767
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Délégués",
+            "normalized": "Delegierte",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 590,
+                    "end": 598
+                },
+                {
+                    "start": 649,
+                    "end": 657
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Allizé",
+            "normalized": "Allizé",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 669,
+                    "end": 675
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Renner",
+            "normalized": "Renner",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 808,
+                    "end": 814
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": 47.25,
+                "lon": 9.8
+            },
+            "mentions": [
+                {
+                    "start": 130,
+                    "end": 139
+                },
+                {
+                    "start": 537,
+                    "end": 546
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Suisse",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": 46.8182,
+                "lon": 8.2275
+            },
+            "mentions": [
+                {
+                    "start": 224,
+                    "end": 230
+                },
+                {
+                    "start": 632,
+                    "end": 638
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "France",
+            "normalized": "Frankreich",
+            "geo": {
+                "lat": 46.2276,
+                "lon": 2.2137
+            },
+            "mentions": [
+                {
+                    "start": 185,
+                    "end": 191
+                },
+                {
+                    "start": 708,
+                    "end": 714
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Autriche",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": 47.5162,
+                "lon": 14.5501
+            },
+            "mentions": [
+                {
+                    "start": 505,
+                    "end": 512
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Paris",
+            "normalized": "Paris",
+            "geo": {
+                "lat": 48.8566,
+                "lon": 2.3522
+            },
+            "mentions": [
+                {
+                    "start": 568,
+                    "end": 573
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

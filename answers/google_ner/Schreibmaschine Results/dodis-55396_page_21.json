@@ -1,0 +1,344 @@
+{
+    "persons": [
+        {
+            "name": "Riedmann",
+            "normalized": "Riedmann",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1229,
+                    "end": 1237
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Dr.Gruber",
+            "normalized": "Gruber",
+            "honorifics": [
+                "Dr."
+            ],
+            "mentions": [
+                {
+                    "start": 1378,
+                    "end": 1387
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ulrich Ilg",
+            "normalized": "Ulrich Ilg",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1415,
+                    "end": 1425
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Sternbach",
+            "normalized": "Sternbach",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1438,
+                    "end": 1447
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Dr.Seeberger",
+            "normalized": "Seeberger",
+            "honorifics": [
+                "Dr."
+            ],
+            "mentions": [
+                {
+                    "start": 1464,
+                    "end": 1476
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schick",
+            "normalized": "Schick",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1578,
+                    "end": 1584
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Karl Leopold Fritz",
+            "normalized": "Karl Leopold Fritz",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1684,
+                    "end": 1703
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Mittelberg",
+            "normalized": "Mittelberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 139,
+                    "end": 149
+                },
+                {
+                    "start": 627,
+                    "end": 637
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Wildental",
+            "normalized": "Wildental",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 177,
+                    "end": 186
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Riezlern",
+            "normalized": "Riezlern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 545,
+                    "end": 553
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Hirschegg",
+            "normalized": "Hirschegg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 586,
+                    "end": 595
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Oberstdorfer",
+            "normalized": "Oberstdorf",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 785,
+                    "end": 797
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Kleine Walsertal",
+            "normalized": "Kleines Walsertal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 859,
+                    "end": 874
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Walserschanze",
+            "normalized": "Walserschanze",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 911,
+                    "end": 924
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Unterwestegg",
+            "normalized": "Unterwestegg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 938,
+                    "end": 950
+                },
+                {
+                    "start": 1241,
+                    "end": 1253
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Wakserschanz",
+            "normalized": "Walserschanze",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1133,
+                    "end": 1145
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Jungholz",
+            "normalized": "Jungholz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1483,
+                    "end": 1491
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Baad",
+            "normalized": "Baad",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1541,
+                    "end": 1545
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Gruben",
+            "normalized": "Gruben",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1707,
+                    "end": 1713
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Wintersaison"
+        },
+        {
+            "denomination": null,
+            "eco": "Sommersaison"
+        },
+        {
+            "denomination": null,
+            "eco": "Sommersaison"
+        },
+        {
+            "denomination": null,
+            "eco": "Wintersaison"
+        },
+        {
+            "denomination": null,
+            "eco": "Verkehrsstockung"
+        },
+        {
+            "denomination": null,
+            "eco": "Einbahnverkehr"
+        },
+        {
+            "denomination": null,
+            "eco": "Kraftfahrzeugverkehr"
+        },
+        {
+            "denomination": null,
+            "eco": "Verkehrsstockung"
+        },
+        {
+            "denomination": null,
+            "eco": "Einbahnverkehr"
+        },
+        {
+            "denomination": null,
+            "eco": "Baumaterialien"
+        },
+        {
+            "denomination": null,
+            "eco": "Schaden"
+        },
+        {
+            "denomination": null,
+            "eco": "Mar"
+        },
+        {
+            "denomination": null,
+            "eco": "Schaden"
+        },
+        {
+            "denomination": null,
+            "eco": "Mark"
+        },
+        {
+            "denomination": null,
+            "eco": "Mk"
+        }
+    ]
+}

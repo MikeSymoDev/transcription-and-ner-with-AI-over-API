@@ -1,0 +1,172 @@
+{
+    "persons": [
+        {
+            "name": "My Lord",
+            "normalized": null,
+            "honorifics": [
+                "Lord"
+            ],
+            "mentions": [
+                {
+                    "start": 10,
+                    "end": 17
+                },
+                {
+                    "start": 801,
+                    "end": 808
+                },
+                {
+                    "start": 814,
+                    "end": 827
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "the President",
+            "normalized": "der Präsident",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 469,
+                    "end": 482
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "HORACE RUMBOLD",
+            "normalized": "Horace Rumbold",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 905,
+                    "end": 919
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "The Earl Curzon of Kedleston, K.G.",
+            "normalized": "George Nathaniel Curzon, 1. Earl Curzon of Kedleston",
+            "honorifics": [
+                "Earl",
+                "K.G."
+            ],
+            "mentions": [
+                {
+                    "start": 925,
+                    "end": 959
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 210,
+                    "end": 220
+                },
+                {
+                    "start": 528,
+                    "end": 538
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Swiss Confederation",
+            "normalized": "Schweizerische Eidgenossenschaft",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 267,
+                    "end": 286
+                },
+                {
+                    "start": 443,
+                    "end": 456
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Romand",
+            "normalized": "Romandie",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 292,
+                    "end": 298
+                },
+                {
+                    "start": 429,
+                    "end": 435
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Switzerland",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 378,
+                    "end": 389
+                },
+                {
+                    "start": 550,
+                    "end": 561
+                },
+                {
+                    "start": 653,
+                    "end": 664
+                },
+                {
+                    "start": 598,
+                    "end": 603
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Italian",
+            "normalized": "Italien",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 590,
+                    "end": 597
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

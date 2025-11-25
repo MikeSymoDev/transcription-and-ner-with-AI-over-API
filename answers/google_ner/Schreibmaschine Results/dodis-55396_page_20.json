@@ -1,0 +1,242 @@
+{
+    "persons": [
+        {
+            "name": "Gebhard Kessler",
+            "normalized": "Gebhard Kessler",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 573,
+                    "end": 587
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Soldat",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 724,
+                    "end": 730
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Beamten",
+            "normalized": "Beamter",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1282,
+                    "end": 1289
+                },
+                {
+                    "start": 1475,
+                    "end": 1482
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Spengler Franz Rumpf",
+            "normalized": "Franz Rumpf",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1827,
+                    "end": 1847
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Fuchshofer",
+            "normalized": "Fuchshofer",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1968,
+                    "end": 1978
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Deutschlands",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "Schwende",
+            "normalized": "Schwende",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 512,
+                    "end": 519
+                },
+                {
+                    "start": 1891,
+                    "end": 1898
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Straußberg",
+            "normalized": "Straußberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 591,
+                    "end": 601
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Gatterbach",
+            "normalized": "Gatterbach",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 605,
+                    "end": 614
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Walsertal",
+            "normalized": "Walsertal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 780,
+                    "end": 789
+                },
+                {
+                    "start": 1109,
+                    "end": 1123
+                },
+                {
+                    "start": 1293,
+                    "end": 1302
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Melköde",
+            "normalized": "Melköde",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1419,
+                    "end": 1426
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schwarzwassertal",
+            "normalized": "Schwarzwassertal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1541,
+                    "end": 1557
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "England",
+            "normalized": "England",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1618,
+                    "end": 1625
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "Riezlern",
+            "normalized": "Riezlern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1743,
+                    "end": 1751
+                },
+                {
+                    "start": 1818,
+                    "end": 1826
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Hirschegg",
+            "normalized": "Hirschegg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1989,
+                    "end": 1997
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Wirtschaft"
+        }
+    ]
+}

@@ -1,0 +1,288 @@
+{
+    "persons": [
+        {
+            "name": "Motta",
+            "normalized": "Motta",
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 74,
+                    "end": 79
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Müller",
+            "normalized": "Müller",
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 81,
+                    "end": 87
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Decoppet",
+            "normalized": "Decoppet",
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 89,
+                    "end": 97
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schulthess",
+            "normalized": "Schulthess",
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 99,
+                    "end": 109
+                },
+                {
+                    "start": 879,
+                    "end": 889
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Haab",
+            "normalized": "Haab",
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 111,
+                    "end": 115
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Calonder",
+            "normalized": "Calonder",
+            "honorifics": [
+                "M.",
+                "conseiller fédéral"
+            ],
+            "mentions": [
+                {
+                    "start": 128,
+                    "end": 136
+                },
+                {
+                    "start": 226,
+                    "end": 234
+                },
+                {
+                    "start": 300,
+                    "end": 308
+                },
+                {
+                    "start": 433,
+                    "end": 441
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ador",
+            "normalized": "Ador",
+            "honorifics": [
+                "M.",
+                "président"
+            ],
+            "mentions": [
+                {
+                    "start": 151,
+                    "end": 155
+                },
+                {
+                    "start": 198,
+                    "end": 202
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Steiger",
+            "normalized": "Steiger",
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 171,
+                    "end": 178
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Contat",
+            "normalized": "Contat",
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 182,
+                    "end": 188
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Gelpke",
+            "normalized": "Gelpke",
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 944,
+                    "end": 950
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 204,
+                    "end": 214
+                },
+                {
+                    "start": 407,
+                    "end": 417
+                },
+                {
+                    "start": 468,
+                    "end": 478
+                },
+                {
+                    "start": 509,
+                    "end": 519
+                },
+                {
+                    "start": 569,
+                    "end": 579
+                },
+                {
+                    "start": 622,
+                    "end": 632
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "St. Gall",
+            "normalized": "St. Gallen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 366,
+                    "end": 374
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Suisse",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 418,
+                    "end": 424
+                },
+                {
+                    "start": 742,
+                    "end": 748
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Confédération",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 489,
+                    "end": 502
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Paris",
+            "normalized": "Paris",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 554,
+                    "end": 559
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Berne",
+            "normalized": "Bern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 646,
+                    "end": 651
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

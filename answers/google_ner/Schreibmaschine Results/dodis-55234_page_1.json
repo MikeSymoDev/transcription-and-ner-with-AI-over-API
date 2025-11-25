@@ -1,0 +1,111 @@
+{
+    "persons": [
+        {
+            "name": "Mr. Lardy",
+            "normalized": "Lardy",
+            "honorifics": [
+                "Mr."
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Herrn Bundesrat Calonder",
+            "normalized": "Calonder",
+            "honorifics": [
+                "Herrn",
+                "Bundesrat"
+            ],
+            "mentions": [
+                {
+                    "start": 102,
+                    "end": 128
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bundesrat",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 218,
+                    "end": 227
+                },
+                {
+                    "start": 366,
+                    "end": 375
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Gouverneur",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 483,
+                    "end": 493
+                }
+            ],
+            "confidence": 0.9
+        }
+    ],
+    "places": [
+        {
+            "name": "Paris",
+            "normalized": "Paris",
+            "geo": {
+                "lat": 48.8566,
+                "lon": 2.3522
+            },
+            "mentions": [
+                {
+                    "start": 20,
+                    "end": 25
+                },
+                {
+                    "start": 515,
+                    "end": 520
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": 47.2833,
+                "lon": 9.9
+            },
+            "mentions": [
+                {
+                    "start": 182,
+                    "end": 192
+                },
+                {
+                    "start": 321,
+                    "end": 332
+                },
+                {
+                    "start": 497,
+                    "end": 508
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

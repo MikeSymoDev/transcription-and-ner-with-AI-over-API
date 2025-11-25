@@ -1,0 +1,298 @@
+{
+    "persons": [
+        {
+            "name": "Armengenössigen",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1391,
+                    "end": 1404
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Kriegsinvaliden",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1466,
+                    "end": 1480
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Grenzgebietes",
+            "normalized": "Grenzgebiet",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 29,
+                    "end": 41
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rheintal",
+            "normalized": "Rheintal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 126,
+                    "end": 134
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "schweizerische",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 112,
+                    "end": 125
+                },
+                {
+                    "start": 622,
+                    "end": 635
+                },
+                {
+                    "start": 792,
+                    "end": 807
+                },
+                {
+                    "start": 1005,
+                    "end": 1020
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Fussach",
+            "normalized": "Fussach",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 283,
+                    "end": 289
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rheins",
+            "normalized": "Rhein",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 347,
+                    "end": 353
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Fussacher Durchstich",
+            "normalized": null,
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 355,
+                    "end": 375
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Höchst",
+            "normalized": "Höchst",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 420,
+                    "end": 426
+                },
+                {
+                    "start": 1431,
+                    "end": 1437
+                },
+                {
+                    "start": 1780,
+                    "end": 1786
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "vorarlbergische",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 481,
+                    "end": 495
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Hard",
+            "normalized": "Hard",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 504,
+                    "end": 508
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rheindelta",
+            "normalized": "Rheindelta",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 512,
+                    "end": 522
+                },
+                {
+                    "start": 829,
+                    "end": 839
+                },
+                {
+                    "start": 956,
+                    "end": 966
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Unterrheintal",
+            "normalized": "Unterrheintal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 645,
+                    "end": 659
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Thal",
+            "normalized": "Thal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 808,
+                    "end": 812
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rheineck",
+            "normalized": "Rheineck",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 815,
+                    "end": 823
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "St.Margrethen",
+            "normalized": "Sankt Margrethen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 828,
+                    "end": 841
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": "katholisch",
+            "eco": null
+        },
+        {
+            "denomination": null,
+            "eco": "Landwirtschaft"
+        },
+        {
+            "denomination": null,
+            "eco": "Stickerei-Industrie"
+        },
+        {
+            "denomination": null,
+            "eco": "Gewerbe"
+        },
+        {
+            "denomination": null,
+            "eco": "wirtschaftlich"
+        },
+        {
+            "denomination": null,
+            "eco": "Vermögens-"
+        },
+        {
+            "denomination": null,
+            "eco": "Steuerkraft"
+        }
+    ]
+}

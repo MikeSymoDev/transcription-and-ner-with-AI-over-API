@@ -1,0 +1,68 @@
+{
+    "persons": [
+        {
+            "name": "Vorsteher des eidgenössi-\nschen politischen Departementes",
+            "normalized": null,
+            "honorifics": [
+                "Vorsteher"
+            ],
+            "mentions": [
+                {
+                    "start": 74,
+                    "end": 132
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Bundesrat",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 327,
+                    "end": 336
+                }
+            ],
+            "confidence": 0.9
+        }
+    ],
+    "places": [
+        {
+            "name": "Vorarlberger",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 253,
+                    "end": 265
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 302,
+                    "end": 309
+                }
+            ],
+            "confidence": 0.9
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

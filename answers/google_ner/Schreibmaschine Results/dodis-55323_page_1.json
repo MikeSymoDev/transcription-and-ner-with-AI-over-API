@@ -1,0 +1,283 @@
+{
+    "persons": [
+        {
+            "name": "Regierungsrat",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 13,
+                    "end": 26
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Gemeinderäte",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 47,
+                    "end": 59
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Herren",
+            "normalized": null,
+            "honorifics": [
+                "Hochgeachte te"
+            ],
+            "mentions": [
+                {
+                    "start": 139,
+                    "end": 145
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Landwirten",
+            "normalized": "Landwirte",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 943,
+                    "end": 953
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorstande",
+            "normalized": "Vorstand",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 978,
+                    "end": 987
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Behörden",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1699,
+                    "end": 1707
+                },
+                {
+                    "start": 1827,
+                    "end": 1835
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "St.Gallen",
+            "normalized": "St. Gallen",
+            "geo": {
+                "lat": 47.4245,
+                "lon": 9.3767
+            },
+            "mentions": [
+                {
+                    "start": 35,
+                    "end": 43
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Thel",
+            "normalized": "Thal",
+            "geo": {
+                "lat": 47.4722,
+                "lon": 9.5303
+            },
+            "mentions": [
+                {
+                    "start": 63,
+                    "end": 67
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Rheineck",
+            "normalized": null,
+            "geo": {
+                "lat": 47.4583,
+                "lon": 9.5936
+            },
+            "mentions": [
+                {
+                    "start": 69,
+                    "end": 77
+                },
+                {
+                    "start": 822,
+                    "end": 830
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "St.Margrethen",
+            "normalized": "St. Margrethen",
+            "geo": {
+                "lat": 47.4439,
+                "lon": 9.6389
+            },
+            "mentions": [
+                {
+                    "start": 79,
+                    "end": 92
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Unterrheintal",
+            "normalized": null,
+            "geo": {
+                "lat": 47.4,
+                "lon": 9.55
+            },
+            "mentions": [
+                {
+                    "start": 108,
+                    "end": 121
+                },
+                {
+                    "start": 799,
+                    "end": 812
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "vorarlbergischen",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": 47.25,
+                "lon": 9.9
+            },
+            "mentions": [
+                {
+                    "start": 191,
+                    "end": 207
+                },
+                {
+                    "start": 1608,
+                    "end": 1624
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Gaissau",
+            "normalized": null,
+            "geo": {
+                "lat": 47.4789,
+                "lon": 9.6642
+            },
+            "mentions": [
+                {
+                    "start": 219,
+                    "end": 226
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Fussach",
+            "normalized": "Fußach",
+            "geo": {
+                "lat": 47.4917,
+                "lon": 9.65
+            },
+            "mentions": [
+                {
+                    "start": 228,
+                    "end": 235
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Höchst",
+            "normalized": null,
+            "geo": {
+                "lat": 47.4833,
+                "lon": 9.65
+            },
+            "mentions": [
+                {
+                    "start": 240,
+                    "end": 246
+                },
+                {
+                    "start": 298,
+                    "end": 304
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": null,
+            "geo": {
+                "lat": 46.8182,
+                "lon": 8.2275
+            },
+            "mentions": [
+                {
+                    "start": 265,
+                    "end": 272
+                },
+                {
+                    "start": 659,
+                    "end": 666
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rheines",
+            "normalized": "Rhein",
+            "geo": {
+                "lat": 47.55,
+                "lon": 7.58
+            },
+            "mentions": [
+                {
+                    "start": 462,
+                    "end": 469
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "landwirtschaftlicher"
+        },
+        {
+            "denomination": null,
+            "eco": "Landwirtschaftliche"
+        },
+        {
+            "denomination": null,
+            "eco": "Landw."
+        }
+    ]
+}

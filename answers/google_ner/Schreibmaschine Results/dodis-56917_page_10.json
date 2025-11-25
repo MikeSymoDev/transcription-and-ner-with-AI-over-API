@@ -1,0 +1,106 @@
+{
+    "persons": [],
+    "places": [],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Statistik"
+        },
+        {
+            "denomination": null,
+            "eco": "Betriebs-Daten"
+        },
+        {
+            "denomination": null,
+            "eco": "Betriebs-Einnahmen"
+        },
+        {
+            "denomination": null,
+            "eco": "Personenverkehr"
+        },
+        {
+            "denomination": null,
+            "eco": "Güter- und Gepäckverkehr"
+        },
+        {
+            "denomination": null,
+            "eco": "Einnahmen"
+        },
+        {
+            "denomination": null,
+            "eco": "Wagenkilometer"
+        },
+        {
+            "denomination": null,
+            "eco": "Betriebs-Ausgaben"
+        },
+        {
+            "denomination": null,
+            "eco": "Verwaltung"
+        },
+        {
+            "denomination": null,
+            "eco": "Bahnaufsicht"
+        },
+        {
+            "denomination": null,
+            "eco": "Bahnerhaltung"
+        },
+        {
+            "denomination": null,
+            "eco": "elektr. Leitungen"
+        },
+        {
+            "denomination": null,
+            "eco": "Verkehrs- u. kommerz. Dienst"
+        },
+        {
+            "denomination": null,
+            "eco": "Zugsförderung"
+        },
+        {
+            "denomination": null,
+            "eco": "Werkstätten-Dienst"
+        },
+        {
+            "denomination": null,
+            "eco": "Umformstat. Maschinendienst"
+        },
+        {
+            "denomination": null,
+            "eco": "Stromverbrauch"
+        },
+        {
+            "denomination": null,
+            "eco": "Personal-Ausrüstung"
+        },
+        {
+            "denomination": null,
+            "eco": "Werkzeuge und Utensilien"
+        },
+        {
+            "denomination": null,
+            "eco": "Besondere Ausgaben"
+        },
+        {
+            "denomination": null,
+            "eco": "Betriebsüberschuß"
+        },
+        {
+            "denomination": null,
+            "eco": "Personenbeförderung"
+        },
+        {
+            "denomination": null,
+            "eco": "Güterbeförderung"
+        },
+        {
+            "denomination": null,
+            "eco": "Geleistete Wagenkilometer"
+        },
+        {
+            "denomination": null,
+            "eco": "Betriebszahl"
+        }
+    ]
+}

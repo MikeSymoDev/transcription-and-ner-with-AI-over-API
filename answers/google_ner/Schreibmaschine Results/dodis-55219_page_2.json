@@ -1,0 +1,219 @@
+{
+    "persons": [],
+    "places": [
+        {
+            "name": "Oesterreich-Ungarn",
+            "normalized": "Österreich-Ungarn",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 9,
+                    "end": 25
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 36,
+                    "end": 42
+                },
+                {
+                    "start": 47,
+                    "end": 53
+                },
+                {
+                    "start": 105,
+                    "end": 111
+                },
+                {
+                    "start": 490,
+                    "end": 496
+                },
+                {
+                    "start": 906,
+                    "end": 912
+                },
+                {
+                    "start": 1374,
+                    "end": 1380
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "St.Gallen",
+            "normalized": "St. Gallen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 121,
+                    "end": 130
+                },
+                {
+                    "start": 1442,
+                    "end": 1451
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Fussacher",
+            "normalized": "Fussach",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 237,
+                    "end": 246
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Oesterreichs",
+            "normalized": "Österreich-Ungarn",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 427,
+                    "end": 439
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Brugg",
+            "normalized": "Brugg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 589,
+                    "end": 594
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Fussach",
+            "normalized": "Fussach",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 604,
+                    "end": 610
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rheinlauf",
+            "normalized": "Rhein",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 810,
+                    "end": 819
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rheindeltas",
+            "normalized": "Rheindelta",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 929,
+                    "end": 940
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rheintalischen",
+            "normalized": "Rheintal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 976,
+                    "end": 989
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rhein",
+            "normalized": "Rhein",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1251,
+                    "end": 1256
+                },
+                {
+                    "start": 1321,
+                    "end": 1326
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rheintaler",
+            "normalized": "Rheintal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1269,
+                    "end": 1279
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

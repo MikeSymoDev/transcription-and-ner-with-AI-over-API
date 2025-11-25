@@ -1,0 +1,88 @@
+{
+    "persons": [
+        {
+            "name": "Dr. Emil Walder-Heene",
+            "normalized": "Emil Walder-Heene",
+            "honorifics": [
+                "Dr.",
+                "Direktor"
+            ],
+            "mentions": [
+                {
+                    "start": 165,
+                    "end": 186
+                },
+                {
+                    "start": 187,
+                    "end": 195
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "VORARLBERG",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 4,
+                    "end": 14
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz.",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 92,
+                    "end": 100
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "St. Gallen",
+            "normalized": "Sankt Gallen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 229,
+                    "end": 239
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "wirtschaftliche"
+        },
+        {
+            "denomination": null,
+            "eco": "Wirtschaftsleben"
+        },
+        {
+            "denomination": null,
+            "eco": "Valutafrage"
+        },
+        {
+            "denomination": null,
+            "eco": "Schuldentilgung"
+        }
+    ]
+}

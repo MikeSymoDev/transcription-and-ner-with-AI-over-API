@@ -1,0 +1,214 @@
+{
+    "persons": [
+        {
+            "name": "Bundesrat Calonier",
+            "normalized": "Calonier",
+            "honorifics": [
+                "Bundesrat"
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 19
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Gelpke",
+            "normalized": "Gelpke",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 36,
+                    "end": 42
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Herrn Präsidenten",
+            "normalized": "Präsident",
+            "honorifics": [
+                "Herrn",
+                "Präsidenten"
+            ],
+            "mentions": [
+                {
+                    "start": 92,
+                    "end": 108
+                },
+                {
+                    "start": 204,
+                    "end": 220
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Herrn Interpellanten",
+            "normalized": "Interpellant",
+            "honorifics": [
+                "Herrn",
+                "Interpellanten"
+            ],
+            "mentions": [
+                {
+                    "start": 117,
+                    "end": 131
+                },
+                {
+                    "start": 234,
+                    "end": 253
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bundesrat",
+            "normalized": "Bundesrat",
+            "honorifics": [
+                "Bundesrat"
+            ],
+            "mentions": [
+                {
+                    "start": 308,
+                    "end": 317
+                },
+                {
+                    "start": 444,
+                    "end": 453
+                },
+                {
+                    "start": 586,
+                    "end": 595
+                },
+                {
+                    "start": 678,
+                    "end": 687
+                },
+                {
+                    "start": 866,
+                    "end": 876
+                },
+                {
+                    "start": 1046,
+                    "end": 1056
+                },
+                {
+                    "start": 1162,
+                    "end": 1171
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorsteher des Politischen Departementes",
+            "normalized": "Vorsteher des Politischen Departements",
+            "honorifics": [
+                "Vorsteher"
+            ],
+            "mentions": [
+                {
+                    "start": 612,
+                    "end": 648
+                },
+                {
+                    "start": 757,
+                    "end": 794
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Herrn Landeshauptmann Ender",
+            "normalized": "Ender",
+            "honorifics": [
+                "Herrn",
+                "Landeshauptmann"
+            ],
+            "mentions": [
+                {
+                    "start": 902,
+                    "end": 931
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Regierung",
+            "normalized": "Regierung",
+            "honorifics": [
+                "Regierung"
+            ],
+            "mentions": [
+                {
+                    "start": 1217,
+                    "end": 1226
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 49,
+                    "end": 59
+                },
+                {
+                    "start": 890,
+                    "end": 900
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bern",
+            "normalized": "Bern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 546,
+                    "end": 550
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1004,
+                    "end": 1017
+                },
+                {
+                    "start": 1133,
+                    "end": 1139
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

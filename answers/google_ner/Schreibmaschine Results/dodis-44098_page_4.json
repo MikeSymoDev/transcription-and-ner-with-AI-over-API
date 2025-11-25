@@ -1,0 +1,134 @@
+{
+    "persons": [
+        {
+            "name": "Département Politique",
+            "normalized": "Departement Politik",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 10,
+                    "end": 30
+                },
+                {
+                    "start": 1456,
+                    "end": 1476
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "berg",
+            "normalized": "Bern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 4
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 233,
+                    "end": 243
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Saint-Gall",
+            "normalized": "St. Gallen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 288,
+                    "end": 298
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "l'Allemagne",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 411,
+                    "end": 421
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "La Suisse",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 552,
+                    "end": 559
+                },
+                {
+                    "start": 668,
+                    "end": 675
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "la Confédération",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1378,
+                    "end": 1391
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "l'Economie Publique"
+        },
+        {
+            "denomination": null,
+            "eco": "brodeurs"
+        },
+        {
+            "denomination": null,
+            "eco": "trafic de perfectionnement"
+        },
+        {
+            "denomination": null,
+            "eco": "industriels saxons"
+        }
+    ]
+}

@@ -1,0 +1,339 @@
+{
+    "persons": [
+        {
+            "name": "Beamtenschaft",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 444,
+                    "end": 457
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Gendarmerie",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 579,
+                    "end": 590
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Alppersonal",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 986,
+                    "end": 997
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Feuerwehr",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1032,
+                    "end": 1041
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Mannschaft",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1098,
+                    "end": 1108
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "Nationalsozialisten",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1281,
+                    "end": 1300
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Reichsregierung",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1416,
+                    "end": 1431
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "S.S.Abteilung",
+            "normalized": "SS-Abteilung",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1608,
+                    "end": 1621
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Sturm-Staffel",
+            "normalized": "Sturmstaffel",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1628,
+                    "end": 1641
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Straßenpassanten",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1646,
+                    "end": 1662
+                }
+            ],
+            "confidence": 0.9
+        }
+    ],
+    "places": [
+        {
+            "name": "München",
+            "normalized": "München",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 782,
+                    "end": 789
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Obergemstal",
+            "normalized": "Obergemstal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 841,
+                    "end": 852
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Obergemstel",
+            "normalized": "Obergemstal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 880,
+                    "end": 891
+                },
+                {
+                    "start": 1152,
+                    "end": 1163
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Riezlern",
+            "normalized": "Riezlern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1042,
+                    "end": 1050
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bayern",
+            "normalized": "Bayern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1239,
+                    "end": 1245
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Deutschlland",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1304,
+                    "end": 1317
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Walsertal",
+            "normalized": "Walsertal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1349,
+                    "end": 1358
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Österrei:",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1515,
+                    "end": 1524
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Walserschanz",
+            "normalized": "Walserschanz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1594,
+                    "end": 1607
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Finanzverwaltung"
+        },
+        {
+            "denomination": null,
+            "eco": "Schilling"
+        },
+        {
+            "denomination": null,
+            "eco": "Zahlungsverkehr"
+        },
+        {
+            "denomination": null,
+            "eco": "Pfennig"
+        },
+        {
+            "denomination": null,
+            "eco": "Zahlungsmittel"
+        },
+        {
+            "denomination": null,
+            "eco": "Kursverluste"
+        },
+        {
+            "denomination": null,
+            "eco": "Bezügen"
+        },
+        {
+            "denomination": null,
+            "eco": "Unterhalt"
+        },
+        {
+            "denomination": null,
+            "eco": "Gehälter"
+        },
+        {
+            "denomination": null,
+            "eco": "Währung"
+        },
+        {
+            "denomination": null,
+            "eco": "Personalgebühren"
+        },
+        {
+            "denomination": null,
+            "eco": "Postscheckamtes"
+        },
+        {
+            "denomination": null,
+            "eco": "Wertbriefes"
+        },
+        {
+            "denomination": null,
+            "eco": "Wirtschaftsgebiet"
+        },
+        {
+            "denomination": null,
+            "eco": "Ausreiseverkehrs"
+        },
+        {
+            "denomination": null,
+            "eco": "Fremdenverkehr"
+        },
+        {
+            "denomination": null,
+            "eco": "Zollanschlußvertrag"
+        },
+        {
+            "denomination": null,
+            "eco": "ZollgrenzenVerhandlungen"
+        }
+    ]
+}

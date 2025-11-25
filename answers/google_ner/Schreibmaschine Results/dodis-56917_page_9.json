@@ -1,0 +1,59 @@
+{
+    "persons": [
+        {
+            "name": "Bediensteten",
+            "normalized": "Bedienstete",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 353,
+                    "end": 365
+                },
+                {
+                    "start": 443,
+                    "end": 455
+                },
+                {
+                    "start": 725,
+                    "end": 737
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Güterdepot-Inhaber",
+            "normalized": "Güterdepot-Inhaber",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 692,
+                    "end": 710
+                }
+            ],
+            "confidence": 0.9
+        }
+    ],
+    "places": [
+        {
+            "name": "Dornbirn",
+            "normalized": "Dornbirn",
+            "geo": {
+                "lat": 47.38,
+                "lon": 9.74
+            },
+            "mentions": [
+                {
+                    "start": 308,
+                    "end": 316
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Bilanz"
+        }
+    ]
+}

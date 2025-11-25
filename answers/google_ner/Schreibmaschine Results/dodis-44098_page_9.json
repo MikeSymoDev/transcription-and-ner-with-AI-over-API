@@ -1,0 +1,23 @@
+{
+    "persons": [
+        {
+            "name": "Calendes.",
+            "normalized": "Calendes",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 269,
+                    "end": 278
+                }
+            ],
+            "confidence": 0.8
+        }
+    ],
+    "places": [],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "finances"
+        }
+    ]
+}

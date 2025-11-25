@@ -1,0 +1,130 @@
+{
+    "persons": [
+        {
+            "name": "F. Riedmann",
+            "normalized": null,
+            "honorifics": [
+                "Herrn",
+                "Lehrer"
+            ],
+            "mentions": [
+                {
+                    "start": 7,
+                    "end": 31
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Jos. Felder",
+            "normalized": "Josef Felder",
+            "honorifics": [
+                "Fr.",
+                "m.p.",
+                "Gemeindevorsteher"
+            ],
+            "mentions": [
+                {
+                    "start": 671,
+                    "end": 691
+                },
+                {
+                    "start": 692,
+                    "end": 709
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Lustenau",
+            "normalized": "Lustenau",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 33,
+                    "end": 41
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 80,
+                    "end": 86
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Sonthofen",
+            "normalized": "Sonthofen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 272,
+                    "end": 281
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Mittelberg",
+            "normalized": "Mittelberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 647,
+                    "end": 657
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 659,
+                    "end": 669
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Zollanschluss"
+        },
+        {
+            "denomination": null,
+            "eco": "Lebensmittelversorgung"
+        },
+        {
+            "denomination": null,
+            "eco": "Lebensmittellieferung"
+        }
+    ]
+}

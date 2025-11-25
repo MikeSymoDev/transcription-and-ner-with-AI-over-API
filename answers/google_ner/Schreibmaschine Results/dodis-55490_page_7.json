@@ -1,0 +1,201 @@
+{
+    "persons": [],
+    "places": [
+        {
+            "name": "st.gallischer",
+            "normalized": "St. Gallen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 17,
+                    "end": 29
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "vorarlbergischen",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 71,
+                    "end": 87
+                },
+                {
+                    "start": 328,
+                    "end": 344
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "ostschweizerischen",
+            "normalized": "Ostschweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 191,
+                    "end": 209
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Höchst",
+            "normalized": "Höchst",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 246,
+                    "end": 252
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Gailau",
+            "normalized": "Gaißau",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 257,
+                    "end": 263
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rheindeltas",
+            "normalized": "Rheindelta",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 406,
+                    "end": 417
+                },
+                {
+                    "start": 1056,
+                    "end": 1067
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rheinbettes",
+            "normalized": "Rhein",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 478,
+                    "end": 489
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Fußacher",
+            "normalized": "Fußach",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 801,
+                    "end": 809
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rheinregulierung",
+            "normalized": "Rhein",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 862,
+                    "end": 878
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "schweizerischer",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 948,
+                    "end": 963
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "landwirtschaftliches"
+        },
+        {
+            "denomination": null,
+            "eco": "Bewirtschaftung"
+        },
+        {
+            "denomination": null,
+            "eco": "Landesindustrie"
+        },
+        {
+            "denomination": null,
+            "eco": "Stickerei"
+        },
+        {
+            "denomination": null,
+            "eco": "wirtschaftlichen"
+        },
+        {
+            "denomination": null,
+            "eco": "landwirtschaftlichem"
+        },
+        {
+            "denomination": null,
+            "eco": "wirtschaftlichen"
+        },
+        {
+            "denomination": null,
+            "eco": "finanzielle"
+        },
+        {
+            "denomination": null,
+            "eco": "wirtschaftlichen"
+        }
+    ]
+}

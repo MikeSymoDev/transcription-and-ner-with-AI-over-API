@@ -1,0 +1,168 @@
+{
+    "persons": [
+        {
+            "name": "Bundesrat",
+            "normalized": "Bundesrat",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 128,
+                    "end": 138
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Direktion des Ernährungsamtes",
+            "normalized": "Direktion des Ernährungsamtes",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 182,
+                    "end": 211
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "französischen Botschaft",
+            "normalized": "Französische Botschaft",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 274,
+                    "end": 296
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "politischen Departement",
+            "normalized": "Politisches Departement",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 476,
+                    "end": 498
+                },
+                {
+                    "start": 725,
+                    "end": 747
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ernährungsamt",
+            "normalized": "Ernährungsamt",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 760,
+                    "end": 773
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Tirol",
+            "normalized": "Tirol",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 49,
+                    "end": 54
+                },
+                {
+                    "start": 544,
+                    "end": 549
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ententestaaten",
+            "normalized": "Entente-Staaten",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 361,
+                    "end": 375
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Entente",
+            "normalized": "Entente",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 599,
+                    "end": 606
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 632,
+                    "end": 638
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Verpflegung"
+        },
+        {
+            "denomination": null,
+            "eco": "Abgabe"
+        },
+        {
+            "denomination": null,
+            "eco": "Mehl"
+        },
+        {
+            "denomination": null,
+            "eco": "Reis"
+        },
+        {
+            "denomination": null,
+            "eco": "Waren"
+        },
+        {
+            "denomination": null,
+            "eco": "Lebensmittel"
+        },
+        {
+            "denomination": null,
+            "eco": "Kohlen-"
+        },
+        {
+            "denomination": null,
+            "eco": "Brennmaterial"
+        }
+    ]
+}

@@ -1,0 +1,348 @@
+{
+    "persons": [
+        {
+            "name": "REXX Reuff",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1015,
+                    "end": 1025
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Albrecht Moosbrugger",
+            "normalized": "Albrecht Moosbrugger",
+            "honorifics": [
+                "Frächter"
+            ],
+            "mentions": [
+                {
+                    "start": 1238,
+                    "end": 1258
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Mirring",
+            "normalized": "Mirring",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1785,
+                    "end": 1792
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "Zollaufsehers",
+            "normalized": "Zollaufseher",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1912,
+                    "end": 1926
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Lukas Schuster Stütze",
+            "normalized": "Lukas Schuster",
+            "honorifics": [
+                "Besitzer"
+            ],
+            "mentions": [
+                {
+                    "start": 1997,
+                    "end": 2018
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Edmund Jörgvon Vermurrung",
+            "normalized": "Edmund Jörg von Vermurrung",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 2392,
+                    "end": 2415
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Leidtobel",
+            "normalized": "Leidtobel",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 18,
+                    "end": 26
+                },
+                {
+                    "start": 95,
+                    "end": 103
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Hirschege",
+            "normalized": "Hirschegg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 104,
+                    "end": 112
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Mühlebach",
+            "normalized": "Mühlebach",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 145,
+                    "end": 154
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Mittelberg-Tobel",
+            "normalized": "Mittelberg-Tobel",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 178,
+                    "end": 194
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schwand",
+            "normalized": "Schwand",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 298,
+                    "end": 304
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Gemstelboden",
+            "normalized": "Gemstelboden",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 320,
+                    "end": 332
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Alpe Wanne",
+            "normalized": "Alpe Wanne",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 399,
+                    "end": 409
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ochsenhoferalpe",
+            "normalized": "Ochsenhoferalpe",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 467,
+                    "end": 482
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Walsetal",
+            "normalized": "Walsetal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 699,
+                    "end": 707
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "HÖberhirschegg",
+            "normalized": "Höberhirschegg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1030,
+                    "end": 1044
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Mittelberg",
+            "normalized": "Mittelberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1198,
+                    "end": 1208
+                },
+                {
+                    "start": 1974,
+                    "end": 1984
+                },
+                {
+                    "start": 2614,
+                    "end": 2624
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Riezlern",
+            "normalized": "Riezlern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1464,
+                    "end": 1472
+                },
+                {
+                    "start": 2149,
+                    "end": 2157
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schmidtobel",
+            "normalized": "Schmidtobel",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1522,
+                    "end": 1533
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "ZUGTIEFE",
+            "normalized": "Zugtiefe",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1948,
+                    "end": 1956
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Zwerbach",
+            "normalized": "Zwerbach",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 2079,
+                    "end": 2087
+                },
+                {
+                    "start": 2228,
+                    "end": 2236
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Zwerenalpe",
+            "normalized": "Zwerenalpe",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 2125,
+                    "end": 2135
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

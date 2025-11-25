@@ -1,0 +1,374 @@
+{
+    "persons": [
+        {
+            "name": "S-S-Leute",
+            "normalized": "SS-Leute",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 21,
+                    "end": 30
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "österr.Trainagearbeiter",
+            "normalized": "österreichische Trainagearbeiter",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 366,
+                    "end": 389
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Nationalsozialisten",
+            "normalized": "Nationalsozialisten",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 415,
+                    "end": 434
+                },
+                {
+                    "start": 629,
+                    "end": 648
+                },
+                {
+                    "start": 743,
+                    "end": 762
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schwarzgesinnten",
+            "normalized": "Schwarzgesinnte",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 822,
+                    "end": 838
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Walser",
+            "normalized": "Walser",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1047,
+                    "end": 1053
+                },
+                {
+                    "start": 1109,
+                    "end": 1115
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Obmann Lukas Schuster",
+            "normalized": "Lukas Schuster",
+            "honorifics": [
+                "Obmann"
+            ],
+            "mentions": [
+                {
+                    "start": 1060,
+                    "end": 1082
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Dr.Engelbert DOLLFUß",
+            "normalized": "Engelbert Dollfuß",
+            "honorifics": [
+                "Dr."
+            ],
+            "mentions": [
+                {
+                    "start": 1269,
+                    "end": 1290
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ing.Josef Gerstmair von Kempten",
+            "normalized": "Josef Gerstmair",
+            "honorifics": [
+                "Ing."
+            ],
+            "mentions": [
+                {
+                    "start": 1404,
+                    "end": 1435
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Brüder Gedeon Heim",
+            "normalized": "Gedeon Heim",
+            "honorifics": [
+                "Brüder"
+            ],
+            "mentions": [
+                {
+                    "start": 1509,
+                    "end": 1528
+                }
+            ],
+            "confidence": 0.8
+        }
+    ],
+    "places": [
+        {
+            "name": "Walsertal",
+            "normalized": "Walsertal",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 182,
+                    "end": 191
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Riezlern",
+            "normalized": "Riezlern",
+            "geo": {
+                "lat": 47.383333,
+                "lon": 10.2
+            },
+            "mentions": [
+                {
+                    "start": 309,
+                    "end": 317
+                },
+                {
+                    "start": 795,
+                    "end": 803
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Buchenbachertobels",
+            "normalized": "Buchenbachertobel",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 578,
+                    "end": 596
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "Schrattenwang",
+            "normalized": "Schrattenwang",
+            "geo": {
+                "lat": 47.3688,
+                "lon": 10.088
+            },
+            "mentions": [
+                {
+                    "start": 692,
+                    "end": 704
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Deutschland",
+            "normalized": "Deutschland",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 709,
+                    "end": 720
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Hirschegg",
+            "normalized": "Hirschegg",
+            "geo": {
+                "lat": 47.383333,
+                "lon": 10.15
+            },
+            "mentions": [
+                {
+                    "start": 808,
+                    "end": 816
+                },
+                {
+                    "start": 1083,
+                    "end": 1091
+                },
+                {
+                    "start": 1358,
+                    "end": 1366
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Kl.Walsertal",
+            "normalized": "Kleinwalsertal",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 1010,
+                    "end": 1022
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Gemsteljosh",
+            "normalized": "Gemsteljoch",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 1139,
+                    "end": 1151
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Warth",
+            "normalized": "Warth",
+            "geo": {
+                "lat": 47.25,
+                "lon": 10.15
+            },
+            "mentions": [
+                {
+                    "start": 1159,
+                    "end": 1164
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Lech",
+            "normalized": "Lech",
+            "geo": {
+                "lat": 47.166667,
+                "lon": 10.133333
+            },
+            "mentions": [
+                {
+                    "start": 1188,
+                    "end": 1192
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Klösterle",
+            "normalized": "Klösterle",
+            "geo": {
+                "lat": 47.15,
+                "lon": 9.983333
+            },
+            "mentions": [
+                {
+                    "start": 1193,
+                    "end": 1202
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bludenz",
+            "normalized": "Bludenz",
+            "geo": {
+                "lat": 47.156944,
+                "lon": 9.824722
+            },
+            "mentions": [
+                {
+                    "start": 1203,
+                    "end": 1210
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Feldkirch",
+            "normalized": "Feldkirch",
+            "geo": {
+                "lat": 47.236111,
+                "lon": 9.596944
+            },
+            "mentions": [
+                {
+                    "start": 1215,
+                    "end": 1224
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Wiener",
+            "normalized": "Wien",
+            "geo": {
+                "lat": 48.2081743,
+                "lon": 16.3738189
+            },
+            "mentions": [
+                {
+                    "start": 1319,
+                    "end": 1325
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Kempten",
+            "normalized": "Kempten",
+            "geo": {
+                "lat": 47.728889,
+                "lon": 10.313889
+            },
+            "mentions": [
+                {
+                    "start": 1428,
+                    "end": 1435
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bödemen",
+            "normalized": "Bödmen",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 1532,
+                    "end": 1539
+                }
+            ],
+            "confidence": 0.9
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

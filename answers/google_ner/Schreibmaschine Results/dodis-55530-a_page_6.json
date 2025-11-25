@@ -1,0 +1,146 @@
+{
+    "persons": [
+        {
+            "name": "d.ö. Staatsregierung",
+            "normalized": "Österreichische Staatsregierung",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 4,
+                    "end": 22
+                },
+                {
+                    "start": 398,
+                    "end": 416
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberger Landesrat",
+            "normalized": "Vorarlberger Landesrat",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 34,
+                    "end": 43
+                },
+                {
+                    "start": 101,
+                    "end": 111
+                },
+                {
+                    "start": 373,
+                    "end": 394
+                },
+                {
+                    "start": 508,
+                    "end": 517
+                },
+                {
+                    "start": 691,
+                    "end": 700
+                },
+                {
+                    "start": 798,
+                    "end": 807
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Landtag",
+            "normalized": "Vorarlberger Landtag",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 651,
+                    "end": 658
+                },
+                {
+                    "start": 679,
+                    "end": 686
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "schweizerische Bundesregierung",
+            "normalized": "Schweizerische Bundesregierung",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 566,
+                    "end": 589
+                },
+                {
+                    "start": 766,
+                    "end": 789
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "d.ö. Staatskanzlei",
+            "normalized": "Österreichische Staatskanzlei",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 737,
+                    "end": 755
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "provisorischen Landesversammlung",
+            "normalized": "Provisorische Landesversammlung Vorarlberg",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 859,
+                    "end": 887
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Vorarlbergs",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 306,
+                    "end": 316
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "schweizerischen Eidgenossenschaft",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 323,
+                    "end": 350
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "finanziellen Fragen, Staatsschulden"
+        }
+    ]
+}

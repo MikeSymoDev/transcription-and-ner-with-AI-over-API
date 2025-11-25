@@ -1,0 +1,94 @@
+{
+    "persons": [
+        {
+            "name": "Verwaltungsrates",
+            "normalized": "Verwaltungsrat",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 27,
+                    "end": 42
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Höfle",
+            "normalized": "Höfle",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 140,
+                    "end": 145
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Kaiser",
+            "normalized": "Kaiser",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 148,
+                    "end": 154
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Dornbirn",
+            "normalized": "Dornbirn",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 59,
+                    "end": 67
+                },
+                {
+                    "start": 115,
+                    "end": 123
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Lustenau",
+            "normalized": "Lustenau",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 68,
+                    "end": 76
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Geschäfts-Bericht"
+        },
+        {
+            "denomination": null,
+            "eco": "Elektr. Bahn Dornbirn-Lustenau A.-G."
+        },
+        {
+            "denomination": null,
+            "eco": "Geschäftsjahr"
+        },
+        {
+            "denomination": null,
+            "eco": "Buchdruckerei"
+        }
+    ]
+}

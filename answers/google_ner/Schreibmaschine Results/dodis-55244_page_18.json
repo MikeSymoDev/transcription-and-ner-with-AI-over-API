@@ -1,0 +1,358 @@
+{
+    "persons": [],
+    "places": [
+        {
+            "name": "Au",
+            "normalized": "Au (Vorarlberg)",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1312,
+                    "end": 1314
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bregenz",
+            "normalized": "Bregenz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 264,
+                    "end": 270
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bregenzer Wald",
+            "normalized": "Bregenzerwald",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1337,
+                    "end": 1350
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Egg",
+            "normalized": "Egg (Vorarlberg)",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 303,
+                    "end": 306
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Hundwil",
+            "normalized": "Hundwil",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 288,
+                    "end": 295
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Oesterreich",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 903,
+                    "end": 912
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Romanshorn",
+            "normalized": "Romanshorn",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 247,
+                    "end": 257
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 885,
+                    "end": 890
+                },
+                {
+                    "start": 1168,
+                    "end": 1173
+                },
+                {
+                    "start": 1444,
+                    "end": 1449
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 491,
+                    "end": 501
+                },
+                {
+                    "start": 1034,
+                    "end": 1044
+                },
+                {
+                    "start": 1301,
+                    "end": 1311
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Ackerland"
+        },
+        {
+            "denomination": null,
+            "eco": "Aktium"
+        },
+        {
+            "denomination": null,
+            "eco": "Amortisation"
+        },
+        {
+            "denomination": null,
+            "eco": "Auswechslung"
+        },
+        {
+            "denomination": null,
+            "eco": "Aussteuer"
+        },
+        {
+            "denomination": null,
+            "eco": "Bahnnbillet"
+        },
+        {
+            "denomination": null,
+            "eco": "Bargeld"
+        },
+        {
+            "denomination": null,
+            "eco": "Besitzes"
+        },
+        {
+            "denomination": null,
+            "eco": "Brennholz"
+        },
+        {
+            "denomination": null,
+            "eco": "Darlehenskasse"
+        },
+        {
+            "denomination": null,
+            "eco": "Elektrizität Kraft"
+        },
+        {
+            "denomination": null,
+            "eco": "Elektrizität Licht"
+        },
+        {
+            "denomination": null,
+            "eco": "Frankenpreis"
+        },
+        {
+            "denomination": null,
+            "eco": "Gas"
+        },
+        {
+            "denomination": null,
+            "eco": "Garantieleistung"
+        },
+        {
+            "denomination": null,
+            "eco": "Gelder"
+        },
+        {
+            "denomination": null,
+            "eco": "Hausbrandkohle"
+        },
+        {
+            "denomination": null,
+            "eco": "Juchart"
+        },
+        {
+            "denomination": null,
+            "eco": "K. D. K."
+        },
+        {
+            "denomination": null,
+            "eco": "Kantonalbank"
+        },
+        {
+            "denomination": null,
+            "eco": "Kronennoten"
+        },
+        {
+            "denomination": null,
+            "eco": "Kronenpreis"
+        },
+        {
+            "denomination": null,
+            "eco": "Landesschulden"
+        },
+        {
+            "denomination": null,
+            "eco": "Legitimation"
+        },
+        {
+            "denomination": null,
+            "eco": "Nationalbank"
+        },
+        {
+            "denomination": null,
+            "eco": "Noten"
+        },
+        {
+            "denomination": null,
+            "eco": "Notenreserve"
+        },
+        {
+            "denomination": null,
+            "eco": "Notenthesaurierung"
+        },
+        {
+            "denomination": null,
+            "eco": "Notenvorschuss"
+        },
+        {
+            "denomination": null,
+            "eco": "Preiszu-stellung"
+        },
+        {
+            "denomination": null,
+            "eco": "Preise"
+        },
+        {
+            "denomination": null,
+            "eco": "Produktions-"
+        },
+        {
+            "denomination": null,
+            "eco": "Qualität"
+        },
+        {
+            "denomination": null,
+            "eco": "Schuldentilgungsamt"
+        },
+        {
+            "denomination": null,
+            "eco": "Schnittwaren"
+        },
+        {
+            "denomination": null,
+            "eco": "Schweizerischen Nationalbank"
+        },
+        {
+            "denomination": null,
+            "eco": "Spekulationen"
+        },
+        {
+            "denomination": null,
+            "eco": "Staatsbank"
+        },
+        {
+            "denomination": null,
+            "eco": "Teuerung"
+        },
+        {
+            "denomination": null,
+            "eco": "Torf"
+        },
+        {
+            "denomination": null,
+            "eco": "Verlust"
+        },
+        {
+            "denomination": null,
+            "eco": "Verhältnissen"
+        },
+        {
+            "denomination": null,
+            "eco": "Versions- und Darlehenskasse"
+        },
+        {
+            "denomination": null,
+            "eco": "Vertrauens"
+        },
+        {
+            "denomination": null,
+            "eco": "Verzugszinsen"
+        },
+        {
+            "denomination": null,
+            "eco": "Zimmerwohnung"
+        },
+        {
+            "denomination": null,
+            "eco": "Zweiganstalt"
+        },
+        {
+            "denomination": null,
+            "eco": "amortisierendes Aktium"
+        },
+        {
+            "denomination": null,
+            "eco": "landw. genutzten Boden"
+        },
+        {
+            "denomination": null,
+            "eco": "österreichischen Noten"
+        }
+    ]
+}

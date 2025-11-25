@@ -1,0 +1,380 @@
+{
+    "persons": [
+        {
+            "name": "Besitzer",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 252,
+                    "end": 260
+                },
+                {
+                    "start": 579,
+                    "end": 587
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Pächter",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 296,
+                    "end": 303
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Albrecht Müller",
+            "normalized": "Albrecht Müller",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 588,
+                    "end": 603
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Mieter",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 710,
+                    "end": 716
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Johann Johnes",
+            "normalized": "Johann Johnes",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 743,
+                    "end": 756
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Waldele",
+            "normalized": "Waldele",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 39,
+                    "end": 46
+                },
+                {
+                    "start": 218,
+                    "end": 225
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ludwigsburg",
+            "normalized": "Ludwigsburg",
+            "geo": {
+                "lat": 48.8955,
+                "lon": 9.1917
+            },
+            "mentions": [
+                {
+                    "start": 182,
+                    "end": 193
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bregenz",
+            "normalized": "Bregenz",
+            "geo": {
+                "lat": 47.5029,
+                "lon": 9.7471
+            },
+            "mentions": [
+                {
+                    "start": 366,
+                    "end": 373
+                },
+                {
+                    "start": 472,
+                    "end": 479
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Mittelerb",
+            "normalized": "Mittelerb",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 449,
+                    "end": 458
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ach",
+            "normalized": "Ach",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 460,
+                    "end": 463
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Krumbach",
+            "normalized": "Krumbach",
+            "geo": {
+                "lat": 47.4561,
+                "lon": 9.9701
+            },
+            "mentions": [
+                {
+                    "start": 464,
+                    "end": 472
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Doren",
+            "normalized": "Doren",
+            "geo": {
+                "lat": 47.4828,
+                "lon": 9.9312
+            },
+            "mentions": [
+                {
+                    "start": 473,
+                    "end": 478
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Riezlern-Wald",
+            "normalized": "Riezlern-Wald",
+            "geo": {
+                "lat": 47.3601,
+                "lon": 10.1585
+            },
+            "mentions": [
+                {
+                    "start": 530,
+                    "end": 543
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Walserschanz",
+            "normalized": "Walserschanz",
+            "geo": {
+                "lat": 47.3397,
+                "lon": 10.1472
+            },
+            "mentions": [
+                {
+                    "start": 1195,
+                    "end": 1207
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Unterwewtegg",
+            "normalized": "Unterwestegg",
+            "geo": {
+                "lat": 47.3821,
+                "lon": 10.1656
+            },
+            "mentions": [
+                {
+                    "start": 1212,
+                    "end": 1225
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Tal",
+            "normalized": "Kleinwalsertal",
+            "geo": {
+                "lat": 47.3486,
+                "lon": 10.175
+            },
+            "mentions": [
+                {
+                    "start": 1534,
+                    "end": 1537
+                },
+                {
+                    "start": 1588,
+                    "end": 1591
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Riezlern",
+            "normalized": "Riezlern",
+            "geo": {
+                "lat": 47.3601,
+                "lon": 10.1585
+            },
+            "mentions": [
+                {
+                    "start": 2139,
+                    "end": 2147
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Hirschegg",
+            "normalized": "Hirschegg",
+            "geo": {
+                "lat": 47.3392,
+                "lon": 10.1873
+            },
+            "mentions": [
+                {
+                    "start": 2199,
+                    "end": 2208
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Mittelberg",
+            "normalized": "Mittelberg",
+            "geo": {
+                "lat": 47.3435,
+                "lon": 10.2078
+            },
+            "mentions": [
+                {
+                    "start": 2253,
+                    "end": 2263
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Baad",
+            "normalized": "Baad",
+            "geo": {
+                "lat": 47.3175,
+                "lon": 10.2319
+            },
+            "mentions": [
+                {
+                    "start": 2346,
+                    "end": 2350
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Durabach",
+            "normalized": "Durabach",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 2362,
+                    "end": 2370
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Mark"
+        },
+        {
+            "denomination": null,
+            "eco": "Schaden"
+        },
+        {
+            "denomination": null,
+            "eco": "Kraftpostlinien-Eröffnung"
+        },
+        {
+            "denomination": null,
+            "eco": "Postdirektion"
+        },
+        {
+            "denomination": null,
+            "eco": "Kraftpost"
+        },
+        {
+            "denomination": null,
+            "eco": "Verkehrsverhältnisse"
+        },
+        {
+            "denomination": null,
+            "eco": "Verkehrsstockungen"
+        },
+        {
+            "denomination": null,
+            "eco": "Fremdenverkehr"
+        },
+        {
+            "denomination": null,
+            "eco": "Bautätigkeit"
+        },
+        {
+            "denomination": null,
+            "eco": "Wohnhäuser"
+        },
+        {
+            "denomination": null,
+            "eco": "Gäste"
+        },
+        {
+            "denomination": null,
+            "eco": "Nächtigungen"
+        },
+        {
+            "denomination": null,
+            "eco": "Wintersaison"
+        },
+        {
+            "denomination": null,
+            "eco": "Sommersaison"
+        }
+    ]
+}

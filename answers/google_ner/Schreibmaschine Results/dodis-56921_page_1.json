@@ -1,0 +1,355 @@
+{
+    "persons": [
+        {
+            "name": "Herr Ständerat Brügger",
+            "normalized": "Brügger",
+            "honorifics": [
+                "Herr",
+                "Ständerat"
+            ],
+            "mentions": [
+                {
+                    "start": 220,
+                    "end": 240
+                },
+                {
+                    "start": 457,
+                    "end": 464
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweizerische Truppen",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1106,
+                    "end": 1128
+                },
+                {
+                    "start": 1324,
+                    "end": 1347
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Bern",
+            "normalized": "Bern",
+            "geo": {
+                "lat": 46.94809,
+                "lon": 7.44744
+            },
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 4
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Taufers",
+            "normalized": "Taufers im Münstertal",
+            "geo": {
+                "lat": 46.666667,
+                "lon": 10.45
+            },
+            "mentions": [
+                {
+                    "start": 106,
+                    "end": 113
+                },
+                {
+                    "start": 498,
+                    "end": 505
+                },
+                {
+                    "start": 548,
+                    "end": 555
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Tirol",
+            "normalized": "Tirol",
+            "geo": {
+                "lat": 47.25,
+                "lon": 11.0
+            },
+            "mentions": [
+                {
+                    "start": 521,
+                    "end": 526
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Piz Chavalatsch",
+            "normalized": "Piz Chavalatsch",
+            "geo": {
+                "lat": 46.6027,
+                "lon": 10.4284
+            },
+            "mentions": [
+                {
+                    "start": 559,
+                    "end": 574
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Plaschweller",
+            "normalized": "Plaschweller",
+            "geo": {
+                "lat": 46.6091,
+                "lon": 10.4048
+            },
+            "mentions": [
+                {
+                    "start": 601,
+                    "end": 613
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Abazzasbach",
+            "normalized": "Abazzasbach",
+            "geo": {
+                "lat": 46.611,
+                "lon": 10.405
+            },
+            "mentions": [
+                {
+                    "start": 662,
+                    "end": 673
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Reinbachtal",
+            "normalized": "Reinbachtal",
+            "geo": {
+                "lat": 46.61,
+                "lon": 10.38
+            },
+            "mentions": [
+                {
+                    "start": 678,
+                    "end": 689
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Runder Kopf",
+            "normalized": "Runder Kopf",
+            "geo": {
+                "lat": 46.621,
+                "lon": 10.372
+            },
+            "mentions": [
+                {
+                    "start": 733,
+                    "end": 744
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Tellakopf",
+            "normalized": "Tellakopf",
+            "geo": {
+                "lat": 46.621,
+                "lon": 10.372
+            },
+            "mentions": [
+                {
+                    "start": 753,
+                    "end": 762
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Arundatals",
+            "normalized": "Arundatal",
+            "geo": {
+                "lat": 46.61,
+                "lon": 10.35
+            },
+            "mentions": [
+                {
+                    "start": 826,
+                    "end": 836
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Arundakopf",
+            "normalized": "Arundakopf",
+            "geo": {
+                "lat": 46.602,
+                "lon": 10.345
+            },
+            "mentions": [
+                {
+                    "start": 841,
+                    "end": 852
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "P.Sesvenna",
+            "normalized": "Piz Sesvenna",
+            "geo": {
+                "lat": 46.6853,
+                "lon": 10.4632
+            },
+            "mentions": [
+                {
+                    "start": 882,
+                    "end": 891
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Gruschetta",
+            "normalized": "Furcia da Braia",
+            "geo": {
+                "lat": 46.628,
+                "lon": 10.322
+            },
+            "mentions": [
+                {
+                    "start": 1079,
+                    "end": 1090
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "Münstererertal",
+            "normalized": "Münstertal",
+            "geo": {
+                "lat": 46.65,
+                "lon": 10.4
+            },
+            "mentions": [
+                {
+                    "start": 1133,
+                    "end": 1146
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Ofenbergstrasse",
+            "normalized": "Ofenpassstrasse",
+            "geo": {
+                "lat": 46.666,
+                "lon": 10.27
+            },
+            "mentions": [
+                {
+                    "start": 1184,
+                    "end": 1199
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Minstertal",
+            "normalized": "Münstertal",
+            "geo": {
+                "lat": 46.65,
+                "lon": 10.4
+            },
+            "mentions": [
+                {
+                    "start": 1352,
+                    "end": 1362
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Unterengadin",
+            "normalized": "Unterengadin",
+            "geo": {
+                "lat": 46.78,
+                "lon": 10.25
+            },
+            "mentions": [
+                {
+                    "start": 1378,
+                    "end": 1390
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Scarpodis",
+            "normalized": null,
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1403,
+                    "end": 1411
+                }
+            ],
+            "confidence": 0.5
+        },
+        {
+            "name": "Clemgiaschlucht",
+            "normalized": "Clemgiaschlucht",
+            "geo": {
+                "lat": 46.791,
+                "lon": 10.252
+            },
+            "mentions": [
+                {
+                    "start": 1421,
+                    "end": 1436
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schuls",
+            "normalized": "Scuol",
+            "geo": {
+                "lat": 46.793,
+                "lon": 10.276
+            },
+            "mentions": [
+                {
+                    "start": 1442,
+                    "end": 1447
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

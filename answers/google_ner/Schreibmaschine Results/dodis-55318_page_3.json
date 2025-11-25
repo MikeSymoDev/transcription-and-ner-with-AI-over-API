@@ -1,0 +1,224 @@
+{
+    "persons": [
+        {
+            "name": "Bundesrat Decoppet",
+            "normalized": "Decoppet",
+            "honorifics": [
+                "Bundesrat"
+            ],
+            "mentions": [
+                {
+                    "start": 178,
+                    "end": 196
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Mitglieder des Bundesrates",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 328,
+                    "end": 352
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "Generalstabschef von Sprecher",
+            "normalized": "Sprecher",
+            "honorifics": [
+                "Generalstabschef",
+                "von"
+            ],
+            "mentions": [
+                {
+                    "start": 427,
+                    "end": 454
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "der deutsche Kaiser",
+            "normalized": null,
+            "honorifics": [
+                "Kaiser"
+            ],
+            "mentions": [
+                {
+                    "start": 571,
+                    "end": 589
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bundespräsident",
+            "normalized": null,
+            "honorifics": [
+                "Bundespräsident"
+            ],
+            "mentions": [
+                {
+                    "start": 643,
+                    "end": 658
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Herrn Minister Lardi",
+            "normalized": "Lardi",
+            "honorifics": [
+                "Herrn",
+                "Minister"
+            ],
+            "mentions": [
+                {
+                    "start": 663,
+                    "end": 682
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Herrn Ernährungsdirektor von Goumoëns",
+            "normalized": "Goumoëns",
+            "honorifics": [
+                "Herrn",
+                "Ernährungsdirektor",
+                "von"
+            ],
+            "mentions": [
+                {
+                    "start": 743,
+                    "end": 780
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "französischen Botschafters",
+            "normalized": null,
+            "honorifics": [
+                "Botschafter"
+            ],
+            "mentions": [
+                {
+                    "start": 917,
+                    "end": 943
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Vorarlbergs",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 17,
+                    "end": 28
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Tirols",
+            "normalized": "Tirol",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 33,
+                    "end": 39
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 875,
+                    "end": 882
+                },
+                {
+                    "start": 1500,
+                    "end": 1507
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Liechtenstein",
+            "normalized": "Liechtenstein",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1018,
+                    "end": 1031
+                },
+                {
+                    "start": 1547,
+                    "end": 1560
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1037,
+                    "end": 1047
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Tirol",
+            "normalized": "Tirol",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1052,
+                    "end": 1057
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "mittelversorgung, Lebensmittellieferung, Rationierung"
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "persons": [
+        {
+            "name": "ein Vertreter Vorarlbergs",
+            "normalized": null,
+            "honorifics": [
+                "Vertreter"
+            ],
+            "mentions": [
+                {
+                    "start": 41,
+                    "end": 63
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Staatskanzler Dr. Renner",
+            "normalized": "Karl Renner",
+            "honorifics": [
+                "Staatskanzler",
+                "Dr."
+            ],
+            "mentions": [
+                {
+                    "start": 352,
+                    "end": 377
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "unseres Vertreters",
+            "normalized": null,
+            "honorifics": [
+                "Vertreters"
+            ],
+            "mentions": [
+                {
+                    "start": 387,
+                    "end": 402
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Landeshauptmann Dr. Ender",
+            "normalized": "Otto Ender",
+            "honorifics": [
+                "Landeshauptmann",
+                "Dr."
+            ],
+            "mentions": [
+                {
+                    "start": 403,
+                    "end": 428
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 54,
+                    "end": 63
+                },
+                {
+                    "start": 947,
+                    "end": 957
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "St. Germania",
+            "normalized": "Saint-Germain-en-Laye",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 139,
+                    "end": 150
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 172,
+                    "end": 178
+                },
+                {
+                    "start": 531,
+                    "end": 537
+                },
+                {
+                    "start": 952,
+                    "end": 958
+                },
+                {
+                    "start": 1121,
+                    "end": 1127
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Deutschösterreich",
+            "normalized": "Deutschösterreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 512,
+                    "end": 528
+                },
+                {
+                    "start": 1083,
+                    "end": 1099
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

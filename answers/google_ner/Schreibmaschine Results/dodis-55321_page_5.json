@@ -1,0 +1,252 @@
+{
+    "persons": [
+        {
+            "name": "Emissär von Fiume als Delegierter einer unbekannten Fraktion",
+            "normalized": "Emissär von Fiume als Delegierter einer unbekannten Fraktion",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 451,
+                    "end": 516
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Kaiser",
+            "normalized": "Kaiser",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1438,
+                    "end": 1444
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Italien",
+            "normalized": "Italien",
+            "geo": {
+                "lat": 41.87194,
+                "lon": 12.56738
+            },
+            "mentions": [
+                {
+                    "start": 85,
+                    "end": 91
+                },
+                {
+                    "start": 600,
+                    "end": 606
+                },
+                {
+                    "start": 636,
+                    "end": 642
+                },
+                {
+                    "start": 655,
+                    "end": 661
+                },
+                {
+                    "start": 670,
+                    "end": 676
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Jugoslawen",
+            "normalized": "Jugoslawien",
+            "geo": {
+                "lat": 44.0,
+                "lon": 18.0
+            },
+            "mentions": [
+                {
+                    "start": 100,
+                    "end": 110
+                },
+                {
+                    "start": 300,
+                    "end": 319
+                },
+                {
+                    "start": 582,
+                    "end": 592
+                },
+                {
+                    "start": 701,
+                    "end": 720
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Triest",
+            "normalized": "Triest",
+            "geo": {
+                "lat": 45.64952,
+                "lon": 13.77743
+            },
+            "mentions": [
+                {
+                    "start": 189,
+                    "end": 195
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Zara",
+            "normalized": "Zadar",
+            "geo": {
+                "lat": 44.11973,
+                "lon": 15.24222
+            },
+            "mentions": [
+                {
+                    "start": 272,
+                    "end": 276
+                },
+                {
+                    "start": 596,
+                    "end": 600
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Fiume",
+            "normalized": "Rijeka",
+            "geo": {
+                "lat": 45.32719,
+                "lon": 14.44219
+            },
+            "mentions": [
+                {
+                    "start": 326,
+                    "end": 331
+                },
+                {
+                    "start": 461,
+                    "end": 466
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rom",
+            "normalized": "Rom",
+            "geo": {
+                "lat": 41.90278,
+                "lon": 12.49639
+            },
+            "mentions": [
+                {
+                    "start": 520,
+                    "end": 523
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "istrische Halbinsel",
+            "normalized": "Istrische Halbinsel",
+            "geo": {
+                "lat": 45.15,
+                "lon": 13.9
+            },
+            "mentions": [
+                {
+                    "start": 620,
+                    "end": 639
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "kroatisch-dalmatischen Küste",
+            "normalized": "Kroatisch-dalmatinische Küste",
+            "geo": {
+                "lat": 43.5,
+                "lon": 16.0
+            },
+            "mentions": [
+                {
+                    "start": 649,
+                    "end": 677
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Deutschösterreichs",
+            "normalized": "Deutschösterreich",
+            "geo": {
+                "lat": 48.20817,
+                "lon": 16.37381
+            },
+            "mentions": [
+                {
+                    "start": 944,
+                    "end": 960
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Deutsche Reich",
+            "normalized": "Deutsches Reich",
+            "geo": {
+                "lat": 51.0,
+                "lon": 10.0
+            },
+            "mentions": [
+                {
+                    "start": 970,
+                    "end": 984
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Genève",
+            "normalized": "Genf",
+            "geo": {
+                "lat": 46.20439,
+                "lon": 6.14316
+            },
+            "mentions": [
+                {
+                    "start": 1024,
+                    "end": 1030
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "deutschösterreichischen Staat",
+            "normalized": "Deutschösterreichischer Staat",
+            "geo": {
+                "lat": 48.20817,
+                "lon": 16.37381
+            },
+            "mentions": [
+                {
+                    "start": 1073,
+                    "end": 1102
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

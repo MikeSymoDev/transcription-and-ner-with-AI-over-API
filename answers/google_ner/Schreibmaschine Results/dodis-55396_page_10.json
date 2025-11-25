@@ -1,0 +1,249 @@
+{
+    "persons": [
+        {
+            "name": "Joachim Max Keßler",
+            "normalized": "Joachim Max Keßler",
+            "honorifics": [
+                "Bürgermeister"
+            ],
+            "mentions": [
+                {
+                    "start": 866,
+                    "end": 899
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Hermann Künzel",
+            "normalized": "Hermann Künzel",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 914,
+                    "end": 928
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Hans Vogt",
+            "normalized": "Hans Vogt",
+            "honorifics": [
+                "Schriftsteller"
+            ],
+            "mentions": [
+                {
+                    "start": 932,
+                    "end": 958
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Tauschitz",
+            "normalized": "Tauschitz",
+            "honorifics": [
+                "Gesandten",
+                "Minister"
+            ],
+            "mentions": [
+                {
+                    "start": 997,
+                    "end": 1027
+                },
+                {
+                    "start": 1113,
+                    "end": 1142
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Walserschanz",
+            "normalized": "Walserschanz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 58,
+                    "end": 70
+                },
+                {
+                    "start": 586,
+                    "end": 598
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Mittelberg",
+            "normalized": "Mittelberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 134,
+                    "end": 144
+                },
+                {
+                    "start": 752,
+                    "end": 760
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Riezlern",
+            "normalized": "Riezlern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 244,
+                    "end": 252
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Österreich",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 384,
+                    "end": 394
+                },
+                {
+                    "start": 477,
+                    "end": 487
+                },
+                {
+                    "start": 1332,
+                    "end": 1342
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Deutschland",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 461,
+                    "end": 472
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Kleine Walsertal",
+            "normalized": "Kleinwalsertal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 532,
+                    "end": 549
+                },
+                {
+                    "start": 655,
+                    "end": 667
+                },
+                {
+                    "start": 1085,
+                    "end": 1089
+                },
+                {
+                    "start": 1205,
+                    "end": 1214
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Berlin",
+            "normalized": "Berlin",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 966,
+                    "end": 972
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberger",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1550,
+                    "end": 1562
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Hirschegg",
+            "normalized": "Hirschegg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1656,
+                    "end": 1665
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Böhmen",
+            "normalized": "Böhmen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1679,
+                    "end": 1685
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

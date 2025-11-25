@@ -1,0 +1,113 @@
+{
+    "persons": [
+        {
+            "name": "Dr. Emil Walder-Heene",
+            "normalized": "Emil Walder-Heene",
+            "honorifics": [
+                "Dr."
+            ],
+            "mentions": [
+                {
+                    "start": 241,
+                    "end": 263
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Rhein-Bodensee",
+            "normalized": "Rhein-Bodensee",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 41,
+                    "end": 55
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 83,
+                    "end": 93
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 171,
+                    "end": 178
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schaffhauser",
+            "normalized": "Schaffhausen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 277,
+                    "end": 289
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "St.Gallen",
+            "normalized": "Sankt Gallen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 303,
+                    "end": 312
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "wirtschaftliche"
+        },
+        {
+            "denomination": null,
+            "eco": "Wirtschaftsleben"
+        },
+        {
+            "denomination": null,
+            "eco": "Valutafrage"
+        },
+        {
+            "denomination": null,
+            "eco": "Schuldentilgung"
+        }
+    ]
+}

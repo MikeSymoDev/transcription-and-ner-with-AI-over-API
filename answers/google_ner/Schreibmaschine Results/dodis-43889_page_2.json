@@ -1,0 +1,151 @@
+{
+    "persons": [
+        {
+            "name": "M. de GOUMOENS",
+            "normalized": "de Goumoëns",
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 147,
+                    "end": 161
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "L'Ambassade",
+            "normalized": "Botschaft",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 602,
+                    "end": 613
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Gouvernement",
+            "normalized": "Regierung",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 686,
+                    "end": 698
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Département Politique",
+            "normalized": "Politisches Departement",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 733,
+                    "end": 754
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Suisse",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": 46.8182,
+                "lon": 8.2275
+            },
+            "mentions": [
+                {
+                    "start": 69,
+                    "end": 75
+                },
+                {
+                    "start": 172,
+                    "end": 178
+                },
+                {
+                    "start": 268,
+                    "end": 274
+                },
+                {
+                    "start": 512,
+                    "end": 518
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vienne",
+            "normalized": "Wien",
+            "geo": {
+                "lat": 48.2082,
+                "lon": 16.3738
+            },
+            "mentions": [
+                {
+                    "start": 139,
+                    "end": 145
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "France",
+            "normalized": "Frankreich",
+            "geo": {
+                "lat": 46.2276,
+                "lon": 2.2137
+            },
+            "mentions": [
+                {
+                    "start": 367,
+                    "end": 373
+                },
+                {
+                    "start": 617,
+                    "end": 623
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "denrées"
+        },
+        {
+            "denomination": null,
+            "eco": "achats"
+        },
+        {
+            "denomination": null,
+            "eco": "transporter"
+        },
+        {
+            "denomination": null,
+            "eco": "transport"
+        },
+        {
+            "denomination": null,
+            "eco": "matériel de transport"
+        },
+        {
+            "denomination": null,
+            "eco": "capacité"
+        },
+        {
+            "denomination": null,
+            "eco": "tonnes"
+        },
+        {
+            "denomination": null,
+            "eco": "ravitaillement"
+        }
+    ]
+}

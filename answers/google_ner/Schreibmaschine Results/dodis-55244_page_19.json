@@ -1,0 +1,782 @@
+{
+    "persons": [
+        {
+            "name": "Schuldner",
+            "normalized": "Schuldner",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1055,
+                    "end": 1063
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Gläubiger",
+            "normalized": "Gläubiger",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1068,
+                    "end": 1076
+                },
+                {
+                    "start": 2642,
+                    "end": 2650
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Berichterstatter",
+            "normalized": "Berichterstatter",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 701,
+                    "end": 716
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Landes",
+            "normalized": "Land",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 18,
+                    "end": 23
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 222,
+                    "end": 228
+                },
+                {
+                    "start": 795,
+                    "end": 802
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberger",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 523,
+                    "end": 534
+                },
+                {
+                    "start": 628,
+                    "end": 640
+                },
+                {
+                    "start": 898,
+                    "end": 913
+                },
+                {
+                    "start": 1709,
+                    "end": 1721
+                },
+                {
+                    "start": 2772,
+                    "end": 2785
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 720,
+                    "end": 731
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Distrikten",
+            "normalized": "Distrikte",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 784,
+                    "end": 793
+                }
+            ],
+            "confidence": 0.9
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Geld-",
+            "mentions": [
+                {
+                    "start": 4,
+                    "end": 8
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Kreditbedürfnissen",
+            "mentions": [
+                {
+                    "start": 12,
+                    "end": 25
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Bedarf",
+            "mentions": [
+                {
+                    "start": 41,
+                    "end": 46
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Importbedarfs",
+            "mentions": [
+                {
+                    "start": 76,
+                    "end": 88
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Lebensmitteln",
+            "mentions": [
+                {
+                    "start": 91,
+                    "end": 103
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Unterhaltsartikeln",
+            "mentions": [
+                {
+                    "start": 105,
+                    "end": 122
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Rohstoffen",
+            "mentions": [
+                {
+                    "start": 127,
+                    "end": 136
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "K. D. K.",
+            "mentions": [
+                {
+                    "start": 139,
+                    "end": 144
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "denomination": null,
+            "eco": "Geschäfte",
+            "mentions": [
+                {
+                    "start": 144,
+                    "end": 153
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Konversionsverlust",
+            "mentions": [
+                {
+                    "start": 184,
+                    "end": 203
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Opfer",
+            "mentions": [
+                {
+                    "start": 257,
+                    "end": 262
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Gewinn",
+            "mentions": [
+                {
+                    "start": 286,
+                    "end": 292
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Geschäftsresultate",
+            "mentions": [
+                {
+                    "start": 314,
+                    "end": 330
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Bund",
+            "mentions": [
+                {
+                    "start": 349,
+                    "end": 353
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Kantone",
+            "mentions": [
+                {
+                    "start": 358,
+                    "end": 365
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Valutaänderung",
+            "mentions": [
+                {
+                    "start": 385,
+                    "end": 400
+                },
+                {
+                    "start": 434,
+                    "end": 449
+                },
+                {
+                    "start": 1111,
+                    "end": 1126
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Kreditbeziehung",
+            "mentions": [
+                {
+                    "start": 404,
+                    "end": 418
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Geldbelohnung",
+            "mentions": [
+                {
+                    "start": 453,
+                    "end": 467
+                },
+                {
+                    "start": 844,
+                    "end": 858
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "kriegsbeeinflussten",
+            "mentions": [
+                {
+                    "start": 507,
+                    "end": 522
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Volkswirtschaft",
+            "mentions": [
+                {
+                    "start": 535,
+                    "end": 550
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Kreditbeziehungen",
+            "mentions": [
+                {
+                    "start": 549,
+                    "end": 563
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Verschuldung",
+            "mentions": [
+                {
+                    "start": 617,
+                    "end": 630
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Kredit-",
+            "mentions": [
+                {
+                    "start": 672,
+                    "end": 678
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Verschuldungsverhältnisse",
+            "mentions": [
+                {
+                    "start": 680,
+                    "end": 699
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Umwandlungsverhältnis",
+            "mentions": [
+                {
+                    "start": 817,
+                    "end": 839
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Schuldverhältnisse",
+            "mentions": [
+                {
+                    "start": 900,
+                    "end": 917
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Schuldkredite",
+            "mentions": [
+                {
+                    "start": 947,
+                    "end": 959
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Jahresraten",
+            "mentions": [
+                {
+                    "start": 987,
+                    "end": 998
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Uebliche",
+            "mentions": [
+                {
+                    "start": 1014,
+                    "end": 1021
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Schuldbeziehungen",
+            "mentions": [
+                {
+                    "start": 1025,
+                    "end": 1041
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Reduktion",
+            "mentions": [
+                {
+                    "start": 1082,
+                    "end": 1091
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Frankenwährung",
+            "mentions": [
+                {
+                    "start": 1092,
+                    "end": 1107
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Kroneneinheit",
+            "mentions": [
+                {
+                    "start": 1159,
+                    "end": 1172
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Valutaregulierung",
+            "mentions": [
+                {
+                    "start": 1199,
+                    "end": 1216
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Banken",
+            "mentions": [
+                {
+                    "start": 1224,
+                    "end": 1230
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Sparkassen",
+            "mentions": [
+                {
+                    "start": 1232,
+                    "end": 1242
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Raiffeisenkassen",
+            "mentions": [
+                {
+                    "start": 1247,
+                    "end": 1261
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Passiven",
+            "mentions": [
+                {
+                    "start": 1279,
+                    "end": 1287
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Kroneneinlagen",
+            "mentions": [
+                {
+                    "start": 1308,
+                    "end": 1322
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Klienten",
+            "mentions": [
+                {
+                    "start": 1327,
+                    "end": 1334
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Büchlein",
+            "mentions": [
+                {
+                    "start": 1367,
+                    "end": 1375
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Checkkonti",
+            "mentions": [
+                {
+                    "start": 1380,
+                    "end": 1389
+                },
+                {
+                    "start": 2521,
+                    "end": 2529
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Aktiven",
+            "mentions": [
+                {
+                    "start": 1421,
+                    "end": 1428
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Bilanz",
+            "mentions": [
+                {
+                    "start": 1675,
+                    "end": 1681
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Sparkassa",
+            "mentions": [
+                {
+                    "start": 1713,
+                    "end": 1721
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Posten",
+            "mentions": [
+                {
+                    "start": 1746,
+                    "end": 1752
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Aktiva",
+            "mentions": [
+                {
+                    "start": 1762,
+                    "end": 1768
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Kassa",
+            "mentions": [
+                {
+                    "start": 1779,
+                    "end": 1784
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Hypotheken",
+            "mentions": [
+                {
+                    "start": 1819,
+                    "end": 1829
+                },
+                {
+                    "start": 2724,
+                    "end": 2734
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Gemeindedarlehen",
+            "mentions": [
+                {
+                    "start": 1867,
+                    "end": 1883
+                },
+                {
+                    "start": 2736,
+                    "end": 2752
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Wechsel",
+            "mentions": [
+                {
+                    "start": 1921,
+                    "end": 1927
+                },
+                {
+                    "start": 2757,
+                    "end": 2763
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Wertpapiere",
+            "mentions": [
+                {
+                    "start": 1965,
+                    "end": 1976
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Bankanlagen",
+            "mentions": [
+                {
+                    "start": 2014,
+                    "end": 2024
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Passiva",
+            "mentions": [
+                {
+                    "start": 2486,
+                    "end": 2493
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Spareinleger",
+            "mentions": [
+                {
+                    "start": 2506,
+                    "end": 2517
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Bilanzierung",
+            "mentions": [
+                {
+                    "start": 2603,
+                    "end": 2613
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Hauptbilanz-posten",
+            "mentions": [
+                {
+                    "start": 2618,
+                    "end": 2638
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Institutes",
+            "mentions": [
+                {
+                    "start": 2659,
+                    "end": 2668
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Bank",
+            "mentions": [
+                {
+                    "start": 2680,
+                    "end": 2684
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Barschaft",
+            "mentions": [
+                {
+                    "start": 2690,
+                    "end": 2699
+                }
+            ]
+        },
+        {
+            "denomination": null,
+            "eco": "Schuld-",
+            "mentions": [
+                {
+                    "start": 2779,
+                    "end": 2785
+                }
+            ]
+        }
+    ]
+}

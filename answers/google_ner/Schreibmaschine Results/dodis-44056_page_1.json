@@ -1,0 +1,309 @@
+{
+    "persons": [
+        {
+            "name": "Motta",
+            "normalized": "Motta",
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 80,
+                    "end": 85
+                },
+                {
+                    "start": 951,
+                    "end": 959
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Miller",
+            "normalized": "Miller",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 87,
+                    "end": 93
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Decoppet",
+            "normalized": "Decoppet",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 95,
+                    "end": 102
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schulthess",
+            "normalized": "Schulthess",
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 104,
+                    "end": 113
+                },
+                {
+                    "start": 1248,
+                    "end": 1260
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Calonder",
+            "normalized": "Calonder",
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 115,
+                    "end": 122
+                },
+                {
+                    "start": 353,
+                    "end": 365
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Haab",
+            "normalized": "Haab",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 124,
+                    "end": 128
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ador",
+            "normalized": "Ador",
+            "honorifics": [
+                "M.",
+                "le président"
+            ],
+            "mentions": [
+                {
+                    "start": 150,
+                    "end": 169
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Steiger",
+            "normalized": "Steiger",
+            "honorifics": [
+                "MM.",
+                "le chancelier"
+            ],
+            "mentions": [
+                {
+                    "start": 186,
+                    "end": 210
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Contat",
+            "normalized": "Contat",
+            "honorifics": [
+                "le vice-chancelier"
+            ],
+            "mentions": [
+                {
+                    "start": 215,
+                    "end": 235
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Goumoëns",
+            "normalized": "Goumoëns",
+            "honorifics": [
+                "M.",
+                "v."
+            ],
+            "mentions": [
+                {
+                    "start": 247,
+                    "end": 261
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 279,
+                    "end": 289
+                },
+                {
+                    "start": 463,
+                    "end": 473
+                },
+                {
+                    "start": 608,
+                    "end": 618
+                },
+                {
+                    "start": 727,
+                    "end": 737
+                },
+                {
+                    "start": 991,
+                    "end": 1001
+                },
+                {
+                    "start": 1042,
+                    "end": 1052
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Autriche allemande",
+            "normalized": "Deutschösterreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 547,
+                    "end": 564
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Allemagne",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 568,
+                    "end": 577
+                },
+                {
+                    "start": 679,
+                    "end": 688
+                },
+                {
+                    "start": 868,
+                    "end": 877
+                },
+                {
+                    "start": 939,
+                    "end": 948
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Suisse",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 651,
+                    "end": 657
+                },
+                {
+                    "start": 748,
+                    "end": 754
+                },
+                {
+                    "start": 809,
+                    "end": 815
+                },
+                {
+                    "start": 1125,
+                    "end": 1131
+                },
+                {
+                    "start": 1238,
+                    "end": 1244
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bâle",
+            "normalized": "Basel",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 899,
+                    "end": 903
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Stelvio",
+            "normalized": "Stilfser Joch",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 907,
+                    "end": 913
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "Rhin",
+            "normalized": "Rheinland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 945,
+                    "end": 949
+                }
+            ],
+            "confidence": 0.8
+        }
+    ],
+    "content": []
+}

@@ -1,0 +1,145 @@
+{
+    "persons": [
+        {
+            "name": "Bundesrat",
+            "normalized": "Schweizerischer Bundesrat",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 161,
+                    "end": 170
+                },
+                {
+                    "start": 337,
+                    "end": 352
+                },
+                {
+                    "start": 432,
+                    "end": 447
+                },
+                {
+                    "start": 864,
+                    "end": 879
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "M. Calonder",
+            "normalized": "Calonder",
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 382,
+                    "end": 393
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "M. le Conseiller fédéral Schulthess",
+            "normalized": "Schulthess",
+            "honorifics": [
+                "M.",
+                "Conseiller fédéral"
+            ],
+            "mentions": [
+                {
+                    "start": 1309,
+                    "end": 1344
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "SUISSE",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 20,
+                    "end": 26
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Berne",
+            "normalized": "Bern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 133,
+                    "end": 138
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 196,
+                    "end": 206
+                },
+                {
+                    "start": 367,
+                    "end": 377
+                },
+                {
+                    "start": 499,
+                    "end": 509
+                },
+                {
+                    "start": 651,
+                    "end": 661
+                },
+                {
+                    "start": 812,
+                    "end": 822
+                },
+                {
+                    "start": 1184,
+                    "end": 1194
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Paris",
+            "normalized": "Paris",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 785,
+                    "end": 790
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

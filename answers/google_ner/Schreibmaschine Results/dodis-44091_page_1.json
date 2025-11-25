@@ -1,0 +1,218 @@
+{
+    "persons": [
+        {
+            "name": "Motta",
+            "normalized": "Motta",
+            "honorifics": [
+                "MM.",
+                "les conseillers fédéraux"
+            ],
+            "mentions": [
+                {
+                    "start": 76,
+                    "end": 81
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Müller",
+            "normalized": "Müller",
+            "honorifics": [
+                "MM.",
+                "les conseillers fédéraux"
+            ],
+            "mentions": [
+                {
+                    "start": 83,
+                    "end": 89
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Decoppet",
+            "normalized": "Decoppet",
+            "honorifics": [
+                "MM.",
+                "les conseillers fédéraux"
+            ],
+            "mentions": [
+                {
+                    "start": 91,
+                    "end": 99
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Calonder",
+            "normalized": "Calonder",
+            "honorifics": [
+                "MM.",
+                "les conseillers fédéraux",
+                "M.",
+                "le conseiller fédéral"
+            ],
+            "mentions": [
+                {
+                    "start": 109,
+                    "end": 117
+                },
+                {
+                    "start": 955,
+                    "end": 963
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Haab",
+            "normalized": "Haab",
+            "honorifics": [
+                "MM.",
+                "les conseillers fédéraux"
+            ],
+            "mentions": [
+                {
+                    "start": 119,
+                    "end": 123
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schulthess",
+            "normalized": "Schulthess",
+            "honorifics": [
+                "M.",
+                "le conseiller fédéral"
+            ],
+            "mentions": [
+                {
+                    "start": 153,
+                    "end": 163
+                },
+                {
+                    "start": 1229,
+                    "end": 1239
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ador",
+            "normalized": "Ador",
+            "honorifics": [
+                "M.",
+                "le président"
+            ],
+            "mentions": [
+                {
+                    "start": 191,
+                    "end": 195
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Steiger",
+            "normalized": "Steiger",
+            "honorifics": [
+                "MM.",
+                "le chancelier"
+            ],
+            "mentions": [
+                {
+                    "start": 226,
+                    "end": 233
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Contat",
+            "normalized": "Contat",
+            "honorifics": [
+                "MM.",
+                "le vice-chancelier",
+                "(sig.)"
+            ],
+            "mentions": [
+                {
+                    "start": 250,
+                    "end": 256
+                },
+                {
+                    "start": 1045,
+                    "end": 1051
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Käppeli",
+            "normalized": null,
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 282,
+                    "end": 289
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 318,
+                    "end": 328
+                },
+                {
+                    "start": 395,
+                    "end": 405
+                },
+                {
+                    "start": 715,
+                    "end": 725
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Suisse",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 477,
+                    "end": 483
+                },
+                {
+                    "start": 606,
+                    "end": 612
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

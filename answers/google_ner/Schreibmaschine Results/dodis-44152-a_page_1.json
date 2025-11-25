@@ -1,0 +1,94 @@
+{
+    "persons": [
+        {
+            "name": "Monsieur le Ministre",
+            "normalized": null,
+            "honorifics": [
+                "Monsieur",
+                "Ministre"
+            ],
+            "mentions": [
+                {
+                    "start": 74,
+                    "end": 94
+                }
+            ],
+            "confidence": 0.8
+        },
+        {
+            "name": "Monsieur Bouroart",
+            "normalized": "Bouroart",
+            "honorifics": [
+                "Monsieur"
+            ],
+            "mentions": [
+                {
+                    "start": 893,
+                    "end": 909
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Berne",
+            "normalized": "Bern",
+            "geo": {
+                "lat": 46.94809,
+                "lon": 7.44744
+            },
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 5
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": 47.2407,
+                "lon": 9.9472
+            },
+            "mentions": [
+                {
+                    "start": 50,
+                    "end": 60
+                },
+                {
+                    "start": 226,
+                    "end": 236
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "VIENNE",
+            "normalized": "Wien",
+            "geo": {
+                "lat": 48.208174,
+                "lon": 16.373819
+            },
+            "mentions": [
+                {
+                    "start": 947,
+                    "end": 953
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Finances"
+        },
+        {
+            "denomination": null,
+            "eco": "financière"
+        }
+    ]
+}

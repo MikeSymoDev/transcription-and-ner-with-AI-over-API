@@ -1,0 +1,198 @@
+{
+    "persons": [
+        {
+            "name": "Müller",
+            "normalized": "Müller",
+            "honorifics": [
+                "HerrnBundesrat",
+                "Vorsteher des Justizdepartementes"
+            ],
+            "mentions": [
+                {
+                    "start": 624,
+                    "end": 645
+                },
+                {
+                    "start": 647,
+                    "end": 677
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Botschafter",
+            "normalized": "Französischer Botschafter",
+            "honorifics": [
+                "französischen"
+            ],
+            "mentions": [
+                {
+                    "start": 1546,
+                    "end": 1573
+                }
+            ],
+            "confidence": 0.9
+        }
+    ],
+    "places": [
+        {
+            "name": "Österreich",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 4,
+                    "end": 11
+                },
+                {
+                    "start": 216,
+                    "end": 235
+                },
+                {
+                    "start": 1237,
+                    "end": 1248
+                },
+                {
+                    "start": 1361,
+                    "end": 1368
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Liechtenstein",
+            "normalized": "Liechtenstein",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 187,
+                    "end": 200
+                },
+                {
+                    "start": 320,
+                    "end": 334
+                },
+                {
+                    "start": 367,
+                    "end": 381
+                },
+                {
+                    "start": 730,
+                    "end": 745
+                },
+                {
+                    "start": 871,
+                    "end": 886
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 409,
+                    "end": 419
+                },
+                {
+                    "start": 492,
+                    "end": 502
+                },
+                {
+                    "start": 753,
+                    "end": 763
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 372,
+                    "end": 379
+                },
+                {
+                    "start": 1257,
+                    "end": 1264
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Tirol",
+            "normalized": "Tirol",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1090,
+                    "end": 1095
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Chiasso",
+            "normalized": "Chiasso",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1271,
+                    "end": 1278
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Innsbruck",
+            "normalized": "Innsbruck",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1395,
+                    "end": 1404
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Verkauf"
+        },
+        {
+            "denomination": null,
+            "eco": "Leihe"
+        },
+        {
+            "denomination": null,
+            "eco": "Eisenbahn"
+        }
+    ]
+}

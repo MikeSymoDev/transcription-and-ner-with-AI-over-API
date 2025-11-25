@@ -1,0 +1,265 @@
+{
+    "persons": [
+        {
+            "name": "Nationalrat Gelpke",
+            "normalized": "Gelpke",
+            "honorifics": [
+                "Nationalrat"
+            ],
+            "mentions": [
+                {
+                    "start": 361,
+                    "end": 378
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Fachmann",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 622,
+                    "end": 630
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Herr Dr. Walder",
+            "normalized": "Walder",
+            "honorifics": [
+                "Herr",
+                "Dr."
+            ],
+            "mentions": [
+                {
+                    "start": 709,
+                    "end": 724
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Kontrahenten",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1056,
+                    "end": 1068
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Staatsbehörden",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1137,
+                    "end": 1151
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Unterzeichneten",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1696,
+                    "end": 1711
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweizer",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 2043,
+                    "end": 2052
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "st. gallischer",
+            "normalized": "Sankt Gallen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 194,
+                    "end": 207
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 535,
+                    "end": 546
+                },
+                {
+                    "start": 782,
+                    "end": 788
+                },
+                {
+                    "start": 1184,
+                    "end": 1194
+                },
+                {
+                    "start": 1342,
+                    "end": 1352
+                },
+                {
+                    "start": 1400,
+                    "end": 1417
+                },
+                {
+                    "start": 2115,
+                    "end": 2125
+                },
+                {
+                    "start": 2503,
+                    "end": 2513
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schaffhausen",
+            "normalized": "Schaffhausen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 743,
+                    "end": 755
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1381,
+                    "end": 1387
+                },
+                {
+                    "start": 1827,
+                    "end": 1833
+                },
+                {
+                    "start": 2056,
+                    "end": 2062
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rheinebene",
+            "normalized": "Rheinebene",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1500,
+                    "end": 1510
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Alpen",
+            "normalized": "Alpen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1520,
+                    "end": 1525
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Oesterreichs",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1969,
+                    "end": 1981
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rheines",
+            "normalized": "Rhein",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1762,
+                    "end": 1768
+                },
+                {
+                    "start": 2420,
+                    "end": 2426
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "wirtschaftlichen"
+        },
+        {
+            "denomination": null,
+            "eco": "finanziellen"
+        },
+        {
+            "denomination": null,
+            "eco": "Valutareform"
+        }
+    ]
+}

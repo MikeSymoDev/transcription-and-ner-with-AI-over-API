@@ -1,0 +1,46 @@
+{
+    "persons": [
+        {
+            "name": "Regierung",
+            "normalized": "Regierung",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "g Red",
+            "normalized": "Red",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 104,
+                    "end": 109
+                }
+            ],
+            "confidence": 0.7
+        }
+    ],
+    "places": [
+        {
+            "name": "Liechtenstein",
+            "normalized": "Liechtenstein",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 26,
+                    "end": 39
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": []
+}

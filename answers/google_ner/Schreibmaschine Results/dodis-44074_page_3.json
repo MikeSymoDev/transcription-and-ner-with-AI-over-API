@@ -1,0 +1,78 @@
+{
+    "persons": [
+        {
+            "name": "Bundesrat",
+            "normalized": "Bundesrat",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 429,
+                    "end": 438
+                },
+                {
+                    "start": 597,
+                    "end": 604
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 398,
+                    "end": 408
+                },
+                {
+                    "start": 826,
+                    "end": 836
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 459,
+                    "end": 466
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Wirtschaft"
+        },
+        {
+            "denomination": null,
+            "eco": "Finanzen"
+        },
+        {
+            "denomination": null,
+            "eco": "Volkswirtschaft"
+        },
+        {
+            "denomination": null,
+            "eco": "Valuta"
+        },
+        {
+            "denomination": null,
+            "eco": "Kronenkurs"
+        }
+    ]
+}

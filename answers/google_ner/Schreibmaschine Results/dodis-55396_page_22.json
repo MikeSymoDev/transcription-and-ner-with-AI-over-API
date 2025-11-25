@@ -1,0 +1,291 @@
+{
+    "persons": [
+        {
+            "name": "Bruder Claus",
+            "normalized": "Niklaus von Flüe",
+            "honorifics": [
+                "Bruder"
+            ],
+            "mentions": [
+                {
+                    "start": 742,
+                    "end": 754
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Friseur Linder",
+            "normalized": "Linder",
+            "honorifics": [
+                "Friseur"
+            ],
+            "mentions": [
+                {
+                    "start": 765,
+                    "end": 779
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Herbert Wortner",
+            "normalized": "Herbert Wortner",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 519,
+                    "end": 534
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Hörmann",
+            "normalized": "Hörmann",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 694,
+                    "end": 701
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Walter Riedmann",
+            "normalized": "Walter Riedmann",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 629,
+                    "end": 644
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Bayern",
+            "normalized": "Bayern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 304,
+                    "end": 310
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Deutschland",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 350,
+                    "end": 361
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Deutschlands",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 114,
+                    "end": 127
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Hirschegg",
+            "normalized": "Hirschegg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 330,
+                    "end": 339
+                },
+                {
+                    "start": 676,
+                    "end": 685
+                },
+                {
+                    "start": 848,
+                    "end": 857
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Jungholz",
+            "normalized": "Jungholz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 154,
+                    "end": 163
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Mittelberg",
+            "normalized": "Mittelberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 167,
+                    "end": 178
+                },
+                {
+                    "start": 338,
+                    "end": 349
+                },
+                {
+                    "start": 647,
+                    "end": 658
+                },
+                {
+                    "start": 785,
+                    "end": 796
+                },
+                {
+                    "start": 859,
+                    "end": 870
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Österreich",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 288,
+                    "end": 299
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Riezlern",
+            "normalized": "Riezlern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 494,
+                    "end": 502
+                },
+                {
+                    "start": 546,
+                    "end": 554
+                },
+                {
+                    "start": 611,
+                    "end": 619
+                },
+                {
+                    "start": 713,
+                    "end": 721
+                },
+                {
+                    "start": 797,
+                    "end": 805
+                },
+                {
+                    "start": 835,
+                    "end": 843
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Walserschanz",
+            "normalized": "Walserschanz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 226,
+                    "end": 239
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Bauwerkstätte"
+        },
+        {
+            "denomination": null,
+            "eco": "E.-Werk"
+        },
+        {
+            "denomination": null,
+            "eco": "Fremdenverkehr"
+        },
+        {
+            "denomination": null,
+            "eco": "Geschäftshaus"
+        },
+        {
+            "denomination": "Kapelle",
+            "eco": null
+        },
+        {
+            "denomination": "Kirchenglocken",
+            "eco": null
+        },
+        {
+            "denomination": null,
+            "eco": "Kraftpostverkehr"
+        },
+        {
+            "denomination": null,
+            "eco": "Mark"
+        },
+        {
+            "denomination": null,
+            "eco": "Postverwaltung"
+        },
+        {
+            "denomination": null,
+            "eco": "Zahlungsverkehr"
+        }
+    ]
+}

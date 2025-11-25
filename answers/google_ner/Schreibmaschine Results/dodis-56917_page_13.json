@@ -1,0 +1,22 @@
+{
+    "persons": [],
+    "places": [],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Betriebs-Überschuss"
+        },
+        {
+            "denomination": null,
+            "eco": "Betriebs-Einnahmen"
+        },
+        {
+            "denomination": null,
+            "eco": "Ausgaben"
+        },
+        {
+            "denomination": null,
+            "eco": "Überschuss"
+        }
+    ]
+}

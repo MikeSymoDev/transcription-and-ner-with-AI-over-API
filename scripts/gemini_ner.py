@@ -17,7 +17,7 @@ total_out_tokens = 0
 input_cost_per_mio_in_dollars = 2.5
 output_cost_per_mio_in_dollars = 10
 
-input_directory = "../pdf_data_ner/test"
+input_directory = "../pdf_data_ner/schreibmaschine"
 output_directory = "../answers/google_ner"
 
 # Gemini API setup

@@ -1,0 +1,296 @@
+{
+    "persons": [
+        {
+            "name": "Contesse",
+            "normalized": "Contesse, Jean",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 2559,
+                    "end": 2567
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Gelpke",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 2225,
+                    "end": 2231
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Le secrétaire",
+            "normalized": null,
+            "honorifics": [
+                "Le secrétaire"
+            ],
+            "mentions": [
+                {
+                    "start": 2539,
+                    "end": 2551
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "M. le conseiller fédéral Calonder",
+            "normalized": "Calonder, Felix",
+            "honorifics": [
+                "M.",
+                "le conseiller fédéral"
+            ],
+            "mentions": [
+                {
+                    "start": 2486,
+                    "end": 2516
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "M. le président",
+            "normalized": null,
+            "honorifics": [
+                "M.",
+                "le président"
+            ],
+            "mentions": [
+                {
+                    "start": 2147,
+                    "end": 2160
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "M. le président Ador",
+            "normalized": "Ador, Gustave",
+            "honorifics": [
+                "M.",
+                "le président"
+            ],
+            "mentions": [
+                {
+                    "start": 2451,
+                    "end": 2469
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "M. le\nprésident de la Confédération",
+            "normalized": null,
+            "honorifics": [
+                "M.",
+                "le président de la Confédération"
+            ],
+            "mentions": [
+                {
+                    "start": 1957,
+                    "end": 1987
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Berne",
+            "normalized": "Bern",
+            "geo": {
+                "lat": 46.948,
+                "lon": 7.4474
+            },
+            "mentions": [
+                {
+                    "start": 1928,
+                    "end": 1933
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Paris",
+            "normalized": "Paris",
+            "geo": {
+                "lat": 48.8566,
+                "lon": 2.3522
+            },
+            "mentions": [
+                {
+                    "start": 570,
+                    "end": 575
+                },
+                {
+                    "start": 1780,
+                    "end": 1785
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "St.Gall",
+            "normalized": "St. Gallen",
+            "geo": {
+                "lat": 47.4244,
+                "lon": 9.3768
+            },
+            "mentions": [
+                {
+                    "start": 379,
+                    "end": 387
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Suisse",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": 46.8182,
+                "lon": 8.2275
+            },
+            "mentions": [
+                {
+                    "start": 94,
+                    "end": 100
+                },
+                {
+                    "start": 319,
+                    "end": 325
+                },
+                {
+                    "start": 363,
+                    "end": 369
+                },
+                {
+                    "start": 441,
+                    "end": 447
+                },
+                {
+                    "start": 655,
+                    "end": 661
+                },
+                {
+                    "start": 1090,
+                    "end": 1096
+                },
+                {
+                    "start": 1526,
+                    "end": 1532
+                },
+                {
+                    "start": 1675,
+                    "end": 1681
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Tessin",
+            "normalized": "Tessin",
+            "geo": {
+                "lat": 46.2285,
+                "lon": 8.7891
+            },
+            "mentions": [
+                {
+                    "start": 533,
+                    "end": 539
+                },
+                {
+                    "start": 707,
+                    "end": 713
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": 47.25,
+                "lon": 9.8
+            },
+            "mentions": [
+                {
+                    "start": 78,
+                    "end": 88
+                },
+                {
+                    "start": 407,
+                    "end": 417
+                },
+                {
+                    "start": 606,
+                    "end": 616
+                },
+                {
+                    "start": 763,
+                    "end": 773
+                },
+                {
+                    "start": 851,
+                    "end": 861
+                },
+                {
+                    "start": 910,
+                    "end": 920
+                },
+                {
+                    "start": 997,
+                    "end": 1007
+                },
+                {
+                    "start": 1113,
+                    "end": 1123
+                },
+                {
+                    "start": 1205,
+                    "end": 1215
+                },
+                {
+                    "start": 1319,
+                    "end": 1329
+                },
+                {
+                    "start": 1447,
+                    "end": 1457
+                },
+                {
+                    "start": 1599,
+                    "end": 1609
+                },
+                {
+                    "start": 1735,
+                    "end": 1745
+                },
+                {
+                    "start": 1904,
+                    "end": 1914
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": "Katholisch",
+            "eco": null
+        },
+        {
+            "denomination": null,
+            "eco": "finanziell"
+        },
+        {
+            "denomination": null,
+            "eco": "wirtschaftlich"
+        }
+    ]
+}

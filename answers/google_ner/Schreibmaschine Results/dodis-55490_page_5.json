@@ -1,0 +1,193 @@
+{
+    "persons": [
+        {
+            "name": "Vorsitzenden",
+            "normalized": "Vorsitzender",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1056,
+                    "end": 1067
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Höchst",
+            "normalized": "Höchst",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 128,
+                    "end": 134
+                },
+                {
+                    "start": 305,
+                    "end": 311
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Gaißau",
+            "normalized": "Gaißau",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 136,
+                    "end": 142
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Fußach",
+            "normalized": "Fußach",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 147,
+                    "end": 153
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rheinecker",
+            "normalized": "Rheineck",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 381,
+                    "end": 391
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rhein",
+            "normalized": "Rhein",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 622,
+                    "end": 627
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rheindelta",
+            "normalized": "Rheindelta",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 692,
+                    "end": 702
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "st.gallischen",
+            "normalized": "Sankt Gallen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 709,
+                    "end": 722
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Unterrheintal",
+            "normalized": "Unterrheintal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 729,
+                    "end": 742
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "St.Gallen",
+            "normalized": "Sankt Gallen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 768,
+                    "end": 777
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1307,
+                    "end": 1314
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweizerlandes",
+            "normalized": "Schweizerland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1500,
+                    "end": 1515
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "wirtschaftlich"
+        }
+    ]
+}

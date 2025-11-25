@@ -1,0 +1,131 @@
+{
+    "persons": [
+        {
+            "name": "Obmann",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 691,
+                    "end": 697
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schriftführer",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 717,
+                    "end": 730
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "VORARLBERG",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 31,
+                    "end": 41
+                },
+                {
+                    "start": 463,
+                    "end": 474
+                },
+                {
+                    "start": 680,
+                    "end": 690
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "FELDKIRCH",
+            "normalized": "Feldkirch",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 120,
+                    "end": 129
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "DORNBIRN",
+            "normalized": "Dornbirn",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 143,
+                    "end": 151
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "St. Gallen",
+            "normalized": "Sankt Gallen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 194,
+                    "end": 204
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 494,
+                    "end": 500
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "INDUSTRIELLEN"
+        },
+        {
+            "denomination": null,
+            "eco": "INDUSTRIE"
+        },
+        {
+            "denomination": null,
+            "eco": "Industriellen"
+        },
+        {
+            "denomination": null,
+            "eco": "Verbandsleitung"
+        }
+    ]
+}

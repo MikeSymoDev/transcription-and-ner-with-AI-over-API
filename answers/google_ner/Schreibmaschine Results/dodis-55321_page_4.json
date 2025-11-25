@@ -1,0 +1,56 @@
+{
+    "persons": [],
+    "places": [
+        {
+            "name": "Schweizer",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 104,
+                    "end": 113
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Oesterreich - Ungarn",
+            "normalized": "Österreich-Ungarn",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 222,
+                    "end": 242
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Donaureiches",
+            "normalized": "Donaureich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 263,
+                    "end": 275
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Liquidierung"
+        }
+    ]
+}

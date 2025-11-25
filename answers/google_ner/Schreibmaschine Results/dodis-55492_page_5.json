@@ -1,0 +1,123 @@
+{
+    "persons": [
+        {
+            "name": "Writer",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 17,
+                    "end": 23
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Mr. Saunders",
+            "normalized": "Saunders",
+            "honorifics": [
+                "Mr."
+            ],
+            "mentions": [
+                {
+                    "start": 25,
+                    "end": 37
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Mr. Headlam\nMorley",
+            "normalized": "Headlam Morley",
+            "honorifics": [
+                "Mr."
+            ],
+            "mentions": [
+                {
+                    "start": 46,
+                    "end": 61
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Mr. Randall",
+            "normalized": "Randall",
+            "honorifics": [
+                "Mr."
+            ],
+            "mentions": [
+                {
+                    "start": 189,
+                    "end": 200
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 130,
+                    "end": 140
+                },
+                {
+                    "start": 471,
+                    "end": 481
+                },
+                {
+                    "start": 671,
+                    "end": 681
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Switzerland",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 494,
+                    "end": 505
+                },
+                {
+                    "start": 695,
+                    "end": 706
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Wurtemburg",
+            "normalized": "Württemberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 710,
+                    "end": 720
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

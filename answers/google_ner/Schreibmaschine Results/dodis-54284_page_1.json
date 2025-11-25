@@ -1,0 +1,116 @@
+{
+    "persons": [
+        {
+            "name": "Herr Präsident",
+            "normalized": "Präsident",
+            "honorifics": [
+                "Herr"
+            ],
+            "mentions": [
+                {
+                    "start": 44,
+                    "end": 58
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Herrn Scherrer-Füllemann",
+            "normalized": "Scherrer-Füllemann",
+            "honorifics": [
+                "Herrn"
+            ],
+            "mentions": [
+                {
+                    "start": 422,
+                    "end": 444
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Herren Greulich",
+            "normalized": "Greulich",
+            "honorifics": [
+                "Herren"
+            ],
+            "mentions": [
+                {
+                    "start": 486,
+                    "end": 502
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Göttisheim",
+            "normalized": "Göttisheim",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 507,
+                    "end": 517
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vertreter",
+            "normalized": "Vertreter",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 3079,
+                    "end": 3088
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 2439,
+                    "end": 2446
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rütli",
+            "normalized": "Rütli",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 2470,
+                    "end": 2475
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Volkswohlfahrt"
+        },
+        {
+            "denomination": null,
+            "eco": "Berufsinteressen"
+        },
+        {
+            "denomination": null,
+            "eco": "Fabrikgesetz"
+        }
+    ]
+}

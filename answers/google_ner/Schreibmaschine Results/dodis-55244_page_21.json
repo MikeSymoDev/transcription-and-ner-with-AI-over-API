@@ -1,0 +1,285 @@
+{
+    "persons": [
+        {
+            "name": "Staatsmänner",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 2187,
+                    "end": 2199
+                }
+            ],
+            "confidence": 0.9
+        }
+    ],
+    "places": [
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 12,
+                    "end": 19
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 28,
+                    "end": 38
+                },
+                {
+                    "start": 622,
+                    "end": 632
+                },
+                {
+                    "start": 1056,
+                    "end": 1066
+                },
+                {
+                    "start": 1421,
+                    "end": 1431
+                },
+                {
+                    "start": 1827,
+                    "end": 1837
+                },
+                {
+                    "start": 1963,
+                    "end": 1973
+                },
+                {
+                    "start": 2204,
+                    "end": 2214
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Oesterreich-Ungarn",
+            "normalized": "Österreich-Ungarn",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 158,
+                    "end": 176
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "österr.-ungar.",
+            "normalized": "Österreich-Ungarn",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 917,
+                    "end": 931
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Oesterreich",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 187,
+                    "end": 198
+                },
+                {
+                    "start": 249,
+                    "end": 260
+                },
+                {
+                    "start": 403,
+                    "end": 414
+                },
+                {
+                    "start": 571,
+                    "end": 582
+                },
+                {
+                    "start": 1729,
+                    "end": 1740
+                },
+                {
+                    "start": 1782,
+                    "end": 1793
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Basler",
+            "normalized": "Basel",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 718,
+                    "end": 724
+                }
+            ],
+            "confidence": 0.95
+        },
+        {
+            "name": "Deutschland",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1693,
+                    "end": 1704
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Aufnahmsverhandlungen"
+        },
+        {
+            "denomination": null,
+            "eco": "Bank"
+        },
+        {
+            "denomination": null,
+            "eco": "Bankerott"
+        },
+        {
+            "denomination": null,
+            "eco": "Berechnungen"
+        },
+        {
+            "denomination": null,
+            "eco": "Bevölkerung"
+        },
+        {
+            "denomination": null,
+            "eco": "Finanzausgleich"
+        },
+        {
+            "denomination": null,
+            "eco": "Finanzlage"
+        },
+        {
+            "denomination": null,
+            "eco": "Frankenbetrag"
+        },
+        {
+            "denomination": null,
+            "eco": "Geldinstituten"
+        },
+        {
+            "denomination": null,
+            "eco": "Gesamtschuld"
+        },
+        {
+            "denomination": null,
+            "eco": "Hypothese"
+        },
+        {
+            "denomination": null,
+            "eco": "Kriegsanleihen"
+        },
+        {
+            "denomination": null,
+            "eco": "Kriegsentschädigung"
+        },
+        {
+            "denomination": null,
+            "eco": "Kriegsschulden"
+        },
+        {
+            "denomination": null,
+            "eco": "Kronenkurs"
+        },
+        {
+            "denomination": null,
+            "eco": "Markschulden"
+        },
+        {
+            "denomination": null,
+            "eco": "Nettoschuldsumme"
+        },
+        {
+            "denomination": null,
+            "eco": "Schuldentilgung"
+        },
+        {
+            "denomination": null,
+            "eco": "Schuldenknechtschaft"
+        },
+        {
+            "denomination": null,
+            "eco": "Steuerleistung"
+        },
+        {
+            "denomination": null,
+            "eco": "Steuerquote"
+        },
+        {
+            "denomination": null,
+            "eco": "Verbindlichkeiten"
+        },
+        {
+            "denomination": null,
+            "eco": "Vermögens-abgabe"
+        },
+        {
+            "denomination": null,
+            "eco": "Vorkriegsschulden"
+        },
+        {
+            "denomination": null,
+            "eco": "Vorschüsse"
+        },
+        {
+            "denomination": null,
+            "eco": "Währungen"
+        },
+        {
+            "denomination": null,
+            "eco": "finanziellem Lichte"
+        },
+        {
+            "denomination": null,
+            "eco": "finanziellen Forderungen"
+        },
+        {
+            "denomination": null,
+            "eco": "finanzielles Siechtum"
+        }
+    ]
+}

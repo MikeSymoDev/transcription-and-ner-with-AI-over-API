@@ -1,0 +1,69 @@
+{
+    "persons": [
+        {
+            "name": "Ernährungsamt",
+            "normalized": "Ernährungsamt",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14
+                },
+                {
+                    "start": 58,
+                    "end": 73
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Direktion",
+            "normalized": "Direktion",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 45,
+                    "end": 54
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bundespräsidenten",
+            "normalized": "Bundespräsident",
+            "honorifics": [
+                "Herrn"
+            ],
+            "mentions": [
+                {
+                    "start": 149,
+                    "end": 169
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Tirol",
+            "normalized": "Tirol",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 36,
+                    "end": 41
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Versorgung"
+        }
+    ]
+}

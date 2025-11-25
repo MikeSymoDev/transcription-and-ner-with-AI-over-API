@@ -1,0 +1,315 @@
+{
+    "persons": [
+        {
+            "name": "Dr.Bock",
+            "normalized": "Bock",
+            "honorifics": [
+                "Dr."
+            ],
+            "mentions": [
+                {
+                    "start": 279,
+                    "end": 286
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Gendarm Binger",
+            "normalized": "Binger",
+            "honorifics": [
+                "Gendarm"
+            ],
+            "mentions": [
+                {
+                    "start": 928,
+                    "end": 941
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Madonna",
+            "normalized": "Madonna",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1883,
+                    "end": 1890
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Jesukind",
+            "normalized": "Jesuskind",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1895,
+                    "end": 1903
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Heilige Georg",
+            "normalized": "Heiliger Georg",
+            "honorifics": [
+                "Heilige"
+            ],
+            "mentions": [
+                {
+                    "start": 1910,
+                    "end": 1923
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Kleinen Walsertal",
+            "normalized": "Kleinwalsertal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 303,
+                    "end": 319
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Baad",
+            "normalized": "Baad",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 359,
+                    "end": 363
+                },
+                {
+                    "start": 1273,
+                    "end": 1277
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Riezlern",
+            "normalized": "Riezlern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 445,
+                    "end": 453
+                },
+                {
+                    "start": 767,
+                    "end": 775
+                },
+                {
+                    "start": 866,
+                    "end": 874
+                },
+                {
+                    "start": 1778,
+                    "end": 1786
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Mittelberg",
+            "normalized": "Mittelberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 347,
+                    "end": 354
+                },
+                {
+                    "start": 458,
+                    "end": 468
+                },
+                {
+                    "start": 1443,
+                    "end": 1453
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schoppernau",
+            "normalized": "Schoppernau",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 889,
+                    "end": 899
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bezau",
+            "normalized": "Bezau",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 961,
+                    "end": 966
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorderboden",
+            "normalized": "Vorderboden",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1192,
+                    "end": 1203
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schwarzwassertal",
+            "normalized": "Schwarzwassertal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1364,
+                    "end": 1379
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Unterwestegg",
+            "normalized": "Unterwestegg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1697,
+                    "end": 1709
+                },
+                {
+                    "start": 1757,
+                    "end": 1768
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Zürich",
+            "normalized": "Zürich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1980,
+                    "end": 1986
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Luzern",
+            "normalized": "Luzern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1992,
+                    "end": 1998
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Bautätigkeit"
+        },
+        {
+            "denomination": null,
+            "eco": "Fremdenverkehr"
+        },
+        {
+            "denomination": null,
+            "eco": "Neubauten"
+        },
+        {
+            "denomination": null,
+            "eco": "Umbauten"
+        },
+        {
+            "denomination": null,
+            "eco": "Beherbergungsmöglichkeiten"
+        },
+        {
+            "denomination": null,
+            "eco": "Bettenzahl"
+        },
+        {
+            "denomination": null,
+            "eco": "Matratzenlager"
+        },
+        {
+            "denomination": null,
+            "eco": "Bauvorhabens"
+        },
+        {
+            "denomination": null,
+            "eco": "Verbreiterung"
+        },
+        {
+            "denomination": null,
+            "eco": "Fremdenverkehrs-Bilanz"
+        },
+        {
+            "denomination": null,
+            "eco": "Wohn- und Geschäftshäuser"
+        },
+        {
+            "denomination": null,
+            "eco": "Nmbauten"
+        }
+    ]
+}

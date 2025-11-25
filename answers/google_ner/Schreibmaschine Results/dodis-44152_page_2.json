@@ -1,0 +1,100 @@
+{
+    "persons": [
+        {
+            "name": "M. Gelpke",
+            "normalized": "Gelpke",
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 612,
+                    "end": 621
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "employé suisse",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 822,
+                    "end": 836
+                }
+            ],
+            "confidence": 0.9
+        }
+    ],
+    "places": [
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 298,
+                    "end": 308
+                },
+                {
+                    "start": 444,
+                    "end": 454
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "l'Autriche",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 349,
+                    "end": 359
+                },
+                {
+                    "start": 986,
+                    "end": 996
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "dette"
+        },
+        {
+            "denomination": null,
+            "eco": "couronnes"
+        },
+        {
+            "denomination": null,
+            "eco": "budget"
+        },
+        {
+            "denomination": null,
+            "eco": "recettes"
+        },
+        {
+            "denomination": null,
+            "eco": "dépenses"
+        },
+        {
+            "denomination": "religieuse",
+            "eco": null
+        },
+        {
+            "denomination": "Jésuites",
+            "eco": null
+        }
+    ]
+}

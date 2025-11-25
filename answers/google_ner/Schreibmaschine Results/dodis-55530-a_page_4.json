@@ -1,0 +1,148 @@
+{
+    "persons": [
+        {
+            "name": "Staatsregierung",
+            "normalized": "Staatsregierung",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 534,
+                    "end": 547
+                },
+                {
+                    "start": 827,
+                    "end": 840
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Landesrat",
+            "normalized": "Landesrat",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 560,
+                    "end": 569
+                },
+                {
+                    "start": 604,
+                    "end": 613
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Staatsämter",
+            "normalized": "Staatsämter",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 924,
+                    "end": 934
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "schweizerische Bundesregierung",
+            "normalized": "Schweizerische Bundesregierung",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1064,
+                    "end": 1095
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "schweizerischen Bundesrat",
+            "normalized": "Schweizerischer Bundesrat",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1454,
+                    "end": 1478
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 31,
+                    "end": 37
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 104,
+                    "end": 114
+                },
+                {
+                    "start": 1001,
+                    "end": 1011
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Eidgenossenschaft",
+            "normalized": "Eidgenossenschaft",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 263,
+                    "end": 279
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Tirol",
+            "normalized": "Tirol",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1029,
+                    "end": 1034
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Schulden"
+        },
+        {
+            "denomination": null,
+            "eco": "Staatsschulden"
+        }
+    ]
+}

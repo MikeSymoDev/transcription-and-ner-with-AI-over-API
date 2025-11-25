@@ -1,0 +1,44 @@
+{
+    "persons": [],
+    "places": [
+        {
+            "name": "Vorarlbergs",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 106,
+                    "end": 117
+                },
+                {
+                    "start": 715,
+                    "end": 727
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 132,
+                    "end": 139
+                },
+                {
+                    "start": 237,
+                    "end": 244
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": []
+}

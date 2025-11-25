@@ -1,0 +1,167 @@
+{
+    "persons": [
+        {
+            "name": "DUNANT",
+            "normalized": "Dunant",
+            "honorifics": [
+                "Minister"
+            ],
+            "mentions": [
+                {
+                    "start": 34,
+                    "end": 40
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Delegierte",
+            "normalized": null,
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 952,
+                    "end": 962
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Paris",
+            "normalized": "Paris",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 43,
+                    "end": 48
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Süd-Deutschland",
+            "normalized": "Süddeutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 119,
+                    "end": 134
+                },
+                {
+                    "start": 330,
+                    "end": 344
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Wien",
+            "normalized": "Wien",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 189,
+                    "end": 193
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Tirol",
+            "normalized": "Tirol",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 211,
+                    "end": 216
+                },
+                {
+                    "start": 977,
+                    "end": 983
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 221,
+                    "end": 231
+                },
+                {
+                    "start": 988,
+                    "end": 999
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Deutschland",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 297,
+                    "end": 308
+                },
+                {
+                    "start": 506,
+                    "end": 518
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Singen",
+            "normalized": "Singen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 695,
+                    "end": 701
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Fabriken"
+        },
+        {
+            "denomination": null,
+            "eco": "Vorräte"
+        },
+        {
+            "denomination": null,
+            "eco": "Zahlungsmitteln"
+        }
+    ]
+}

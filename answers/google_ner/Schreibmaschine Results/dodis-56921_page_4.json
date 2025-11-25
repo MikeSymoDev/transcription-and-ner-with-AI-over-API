@@ -1,0 +1,54 @@
+{
+    "persons": [
+        {
+            "name": "Chef des Generalstabes der Armee",
+            "normalized": "Chef des Generalstabes der Armee",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 165,
+                    "end": 197
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Münstertal",
+            "normalized": "Münstertal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 38,
+                    "end": 48
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Taufers",
+            "normalized": "Taufers",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 135,
+                    "end": 142
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

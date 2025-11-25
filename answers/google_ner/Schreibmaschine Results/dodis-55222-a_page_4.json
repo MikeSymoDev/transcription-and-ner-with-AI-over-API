@@ -1,0 +1,238 @@
+{
+    "persons": [
+        {
+            "name": "Dr.Ender",
+            "normalized": "Ender",
+            "honorifics": [
+                "Dr."
+            ],
+            "mentions": [
+                {
+                    "start": 9,
+                    "end": 17
+                },
+                {
+                    "start": 809,
+                    "end": 817
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Dr.Ritter",
+            "normalized": "Ritter",
+            "honorifics": [
+                "Dr."
+            ],
+            "mentions": [
+                {
+                    "start": 512,
+                    "end": 521
+                },
+                {
+                    "start": 1303,
+                    "end": 1312
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 36,
+                    "end": 46
+                },
+                {
+                    "start": 364,
+                    "end": 374
+                },
+                {
+                    "start": 539,
+                    "end": 549
+                },
+                {
+                    "start": 706,
+                    "end": 716
+                },
+                {
+                    "start": 994,
+                    "end": 1004
+                },
+                {
+                    "start": 1406,
+                    "end": 1416
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Switzerland",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 85,
+                    "end": 96
+                },
+                {
+                    "start": 433,
+                    "end": 444
+                },
+                {
+                    "start": 593,
+                    "end": 604
+                },
+                {
+                    "start": 1358,
+                    "end": 1369
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Berne",
+            "normalized": "Bern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 226,
+                    "end": 231
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Germany",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 611,
+                    "end": 618
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "St.Gall",
+            "normalized": "St. Gallen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 669,
+                    "end": 676
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Tyrolese",
+            "normalized": "Tirol",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 727,
+                    "end": 734
+                },
+                {
+                    "start": 955,
+                    "end": 962
+                },
+                {
+                    "start": 1047,
+                    "end": 1054
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Austrians",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1064,
+                    "end": 1073
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Bavaria",
+            "normalized": "Bayern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1109,
+                    "end": 1116
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Süd-Germany",
+            "normalized": "Süddeutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1167,
+                    "end": 1178
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Wurttemberg",
+            "normalized": "Württemberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1481,
+                    "end": 1491
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "industry"
+        }
+    ]
+}

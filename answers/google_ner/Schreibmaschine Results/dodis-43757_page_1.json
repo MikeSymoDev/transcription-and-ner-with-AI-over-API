@@ -1,0 +1,235 @@
+{
+    "persons": [
+        {
+            "name": "Wilson",
+            "normalized": "Woodrow Wilson",
+            "honorifics": [
+                "Herr",
+                "Präsident"
+            ],
+            "mentions": [
+                {
+                    "start": 1334,
+                    "end": 1340
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Gesandten",
+            "normalized": null,
+            "honorifics": [
+                "Gesandten"
+            ],
+            "mentions": [
+                {
+                    "start": 1374,
+                    "end": 1383
+                },
+                {
+                    "start": 1711,
+                    "end": 1720
+                }
+            ],
+            "confidence": 0.9
+        }
+    ],
+    "places": [
+        {
+            "name": "Basel-Stadt",
+            "normalized": "Basel-Stadt",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 126,
+                    "end": 137
+                },
+                {
+                    "start": 392,
+                    "end": 403
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rhein",
+            "normalized": "Rhein",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 205,
+                    "end": 210
+                },
+                {
+                    "start": 236,
+                    "end": 241
+                },
+                {
+                    "start": 345,
+                    "end": 350
+                },
+                {
+                    "start": 593,
+                    "end": 602
+                },
+                {
+                    "start": 1010,
+                    "end": 1015
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Belgien",
+            "normalized": "Belgien",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 261,
+                    "end": 268
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vereinigte Staaten von Amerika",
+            "normalized": "Vereinigte Staaten von Amerika",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 270,
+                    "end": 299
+                },
+                {
+                    "start": 1546,
+                    "end": 1565
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "England",
+            "normalized": "England",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 301,
+                    "end": 308
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Frankreich",
+            "normalized": "Frankreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 324,
+                    "end": 334
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Washington",
+            "normalized": "Washington, D.C.",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1387,
+                    "end": 1397
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1026,
+                    "end": 1033
+                },
+                {
+                    "start": 1626,
+                    "end": 1633
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Niederländischen Regierung",
+            "normalized": "Niederlande",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1725,
+                    "end": 1748
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Deutsche Regierung",
+            "normalized": "Deutschland",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1782,
+                    "end": 1799
+                }
+            ],
+            "confidence": 0.9
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Rheinsohifffahrt"
+        },
+        {
+            "denomination": null,
+            "eco": "Rheinschifffahrt"
+        },
+        {
+            "denomination": null,
+            "eco": "Schifffahrt"
+        },
+        {
+            "denomination": null,
+            "eco": "Rheinschifffahrt"
+        }
+    ]
+}

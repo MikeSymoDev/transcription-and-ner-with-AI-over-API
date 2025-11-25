@@ -1,0 +1,157 @@
+{
+    "persons": [
+        {
+            "name": "Conseil Fédéral",
+            "normalized": "Bundesrat",
+            "honorifics": [
+                "Conseil"
+            ],
+            "mentions": [
+                {
+                    "start": 66,
+                    "end": 79
+                },
+                {
+                    "start": 472,
+                    "end": 485
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Le Ministre de la Confédération",
+            "normalized": "Minister der Eidgenossenschaft",
+            "honorifics": [
+                "Ministre"
+            ],
+            "mentions": [
+                {
+                    "start": 204,
+                    "end": 233
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Gouvernement suisse",
+            "normalized": "Schweizer Regierung",
+            "honorifics": [
+                "Gouvernement"
+            ],
+            "mentions": [
+                {
+                    "start": 748,
+                    "end": 766
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Conseil de la Société des Nations",
+            "normalized": "Völkerbundsrat",
+            "honorifics": [
+                "Conseil"
+            ],
+            "mentions": [
+                {
+                    "start": 1380,
+                    "end": 1412
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Monsieur le Conseiller Fédéral",
+            "normalized": "Herr Bundesrat",
+            "honorifics": [
+                "Monsieur",
+                "Conseiller"
+            ],
+            "mentions": [
+                {
+                    "start": 1445,
+                    "end": 1476
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Suisse",
+            "normalized": "Schweiz",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 193,
+                    "end": 199
+                },
+                {
+                    "start": 664,
+                    "end": 670
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Paris",
+            "normalized": "Paris",
+            "geo": {
+                "lat": 48.8566,
+                "lon": 2.3522
+            },
+            "mentions": [
+                {
+                    "start": 237,
+                    "end": 242
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": 47.25,
+                "lon": 9.9
+            },
+            "mentions": [
+                {
+                    "start": 540,
+                    "end": 550
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Allemagne",
+            "normalized": "Deutschland",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 1168,
+                    "end": 1178
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Autriche",
+            "normalized": "Österreich",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 1260,
+                    "end": 1269
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

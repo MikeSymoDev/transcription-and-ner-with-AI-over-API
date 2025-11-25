@@ -1,0 +1,437 @@
+{
+    "persons": [],
+    "places": [
+        {
+            "name": "Dornbirner",
+            "normalized": "Dornbirn",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 182,
+                    "end": 191
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Bregenz",
+            "normalized": "Bregenz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 272,
+                    "end": 278
+                },
+                {
+                    "start": 622,
+                    "end": 628
+                },
+                {
+                    "start": 1391,
+                    "end": 1397
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Egg",
+            "normalized": "Egg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 352,
+                    "end": 355
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Feldkirch",
+            "normalized": "Feldkirch",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 418,
+                    "end": 427
+                },
+                {
+                    "start": 913,
+                    "end": 922
+                },
+                {
+                    "start": 1421,
+                    "end": 1430
+                },
+                {
+                    "start": 1729,
+                    "end": 1738
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Bludenz",
+            "normalized": "Bludenz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 506,
+                    "end": 513
+                },
+                {
+                    "start": 1547,
+                    "end": 1554
+                },
+                {
+                    "start": 1604,
+                    "end": 1611
+                },
+                {
+                    "start": 1716,
+                    "end": 1723
+                },
+                {
+                    "start": 2167,
+                    "end": 2174
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Österreich",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1058,
+                    "end": 1067
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "St. Gallen",
+            "normalized": "Sankt Gallen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1184,
+                    "end": 1193
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Arlberg",
+            "normalized": "Arlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1378,
+                    "end": 1388
+                },
+                {
+                    "start": 1445,
+                    "end": 1452
+                },
+                {
+                    "start": 2217,
+                    "end": 2227
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Buchs",
+            "normalized": "Buchs",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1405,
+                    "end": 1410
+                },
+                {
+                    "start": 1739,
+                    "end": 1744
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Innsbruck",
+            "normalized": "Innsbruck",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1536,
+                    "end": 1546
+                },
+                {
+                    "start": 2276,
+                    "end": 2285
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1594,
+                    "end": 1603
+                },
+                {
+                    "start": 1678,
+                    "end": 1690
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Langen",
+            "normalized": "Langen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1610,
+                    "end": 1616
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Lindau",
+            "normalized": "Lindau",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1709,
+                    "end": 1715
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Lauterach",
+            "normalized": "Lauterach",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1746,
+                    "end": 1755
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "St. Margrethen",
+            "normalized": "Sankt Margrethen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1756,
+                    "end": 1769
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Bregenzer Wald",
+            "normalized": "Bregenzer Wald",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 2049,
+                    "end": 2062
+                },
+                {
+                    "start": 2080,
+                    "end": 2092
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Bezau",
+            "normalized": "Bezau",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 2097,
+                    "end": 2102
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Schruns",
+            "normalized": "Schruns",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 2180,
+                    "end": 2187
+                }
+            ],
+            "confidence": 0.9
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Bankguthaben"
+        },
+        {
+            "denomination": null,
+            "eco": "Wertpapiere"
+        },
+        {
+            "denomination": null,
+            "eco": "Hypotheken"
+        },
+        {
+            "denomination": null,
+            "eco": "Kriegsanleihe"
+        },
+        {
+            "denomination": null,
+            "eco": "Sparkasse"
+        },
+        {
+            "denomination": null,
+            "eco": "Kreditwesen"
+        },
+        {
+            "denomination": null,
+            "eco": "Jahresbericht"
+        },
+        {
+            "denomination": null,
+            "eco": "Einlagen"
+        },
+        {
+            "denomination": null,
+            "eco": "Guthaben"
+        },
+        {
+            "denomination": null,
+            "eco": "Genossenschaften"
+        },
+        {
+            "denomination": null,
+            "eco": "Darlehen"
+        },
+        {
+            "denomination": null,
+            "eco": "Volkswohlstand"
+        },
+        {
+            "denomination": null,
+            "eco": "Verkehrswesen"
+        },
+        {
+            "denomination": null,
+            "eco": "Fremdenverkehr"
+        },
+        {
+            "denomination": null,
+            "eco": "Eisenbahnlinien"
+        },
+        {
+            "denomination": null,
+            "eco": "Staatsbahn"
+        },
+        {
+            "denomination": null,
+            "eco": "Anlagekapital"
+        },
+        {
+            "denomination": null,
+            "eco": "Staatsschuldverschreibungen"
+        },
+        {
+            "denomination": null,
+            "eco": "Prioritäten"
+        },
+        {
+            "denomination": null,
+            "eco": "Garantie"
+        },
+        {
+            "denomination": null,
+            "eco": "Betriebsdefizitvorschüsse"
+        },
+        {
+            "denomination": null,
+            "eco": "Waldbahn"
+        },
+        {
+            "denomination": null,
+            "eco": "Strassenbahnen"
+        },
+        {
+            "denomination": null,
+            "eco": "Betriebes"
+        },
+        {
+            "denomination": null,
+            "eco": "Direktion"
+        }
+    ]
+}

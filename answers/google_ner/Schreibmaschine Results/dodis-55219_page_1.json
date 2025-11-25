@@ -1,0 +1,218 @@
+{
+    "persons": [
+        {
+            "name": "Herr Oberbauinspektor",
+            "normalized": "Oberbauinspektor",
+            "honorifics": [
+                "Herr"
+            ],
+            "mentions": [
+                {
+                    "start": 216,
+                    "end": 236
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "schweizerischen Rheinbauleiters",
+            "normalized": "Rheinbauleiter",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 569,
+                    "end": 599
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "österr. Kommissionsmitglieder",
+            "normalized": "österreichische Kommissionsmitglieder",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 809,
+                    "end": 837
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "St.Gallen",
+            "normalized": "St. Gallen",
+            "geo": {
+                "lat": 47.42391,
+                "lon": 9.37583
+            },
+            "mentions": [
+                {
+                    "start": 44,
+                    "end": 53
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Zürich",
+            "normalized": "Zürich",
+            "geo": {
+                "lat": 47.3769,
+                "lon": 8.5417
+            },
+            "mentions": [
+                {
+                    "start": 72,
+                    "end": 78
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bern",
+            "normalized": "Bern",
+            "geo": {
+                "lat": 46.94792,
+                "lon": 7.44747
+            },
+            "mentions": [
+                {
+                    "start": 169,
+                    "end": 173
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rheindeltas",
+            "normalized": "Rheindelta",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 298,
+                    "end": 309
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Fussach",
+            "normalized": "Fußach",
+            "geo": {
+                "lat": 47.49472,
+                "lon": 9.64583
+            },
+            "mentions": [
+                {
+                    "start": 326,
+                    "end": 333
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Höchst",
+            "normalized": "Höchst",
+            "geo": {
+                "lat": 47.49944,
+                "lon": 9.66444
+            },
+            "mentions": [
+                {
+                    "start": 335,
+                    "end": 341
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Gaissau",
+            "normalized": "Gaißau",
+            "geo": {
+                "lat": 47.50278,
+                "lon": 9.68694
+            },
+            "mentions": [
+                {
+                    "start": 346,
+                    "end": 353
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "schweizerischen Eidgenossenschaft",
+            "normalized": "Schweizerische Eidgenossenschaft",
+            "geo": null,
+            "mentions": [
+                {
+                    "start": 372,
+                    "end": 401
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rhein",
+            "normalized": "Rhein",
+            "geo": {
+                "lat": 47.5513,
+                "lon": 9.5851
+            },
+            "mentions": [
+                {
+                    "start": 432,
+                    "end": 438
+                },
+                {
+                    "start": 469,
+                    "end": 477
+                },
+                {
+                    "start": 1083,
+                    "end": 1090
+                },
+                {
+                    "start": 1129,
+                    "end": 1138
+                },
+                {
+                    "start": 1150,
+                    "end": 1158
+                },
+                {
+                    "start": 1297,
+                    "end": 1304
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": 46.8182,
+                "lon": 8.2275
+            },
+            "mentions": [
+                {
+                    "start": 1032,
+                    "end": 1039
+                },
+                {
+                    "start": 1098,
+                    "end": 1105
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "finanziellen Konsequenzen"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "persons": [
+        {
+            "name": "Bundesrat",
+            "normalized": "Bundesrat",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1271,
+                    "end": 1282
+                },
+                {
+                    "start": 1354,
+                    "end": 1363
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Vorarlberger",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 400,
+                    "end": 411
+                },
+                {
+                    "start": 552,
+                    "end": 563
+                },
+                {
+                    "start": 1056,
+                    "end": 1067
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 808,
+                    "end": 821
+                },
+                {
+                    "start": 859,
+                    "end": 866
+                },
+                {
+                    "start": 1022,
+                    "end": 1029
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "wirtschaftlich"
+        }
+    ]
+}

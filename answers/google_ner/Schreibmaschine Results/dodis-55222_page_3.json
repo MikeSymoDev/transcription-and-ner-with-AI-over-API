@@ -1,0 +1,247 @@
+{
+    "persons": [],
+    "places": [
+        {
+            "name": "Yougo-Slav countries",
+            "normalized": "Jugoslawische Länder",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 112,
+                    "end": 130
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Turkish countries",
+            "normalized": "Türkische Länder",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 136,
+                    "end": 153
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Switzerland",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 203,
+                    "end": 214
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Europe",
+            "normalized": "Europa",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 256,
+                    "end": 262
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "East",
+            "normalized": "Osten",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 327,
+                    "end": 331
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "West",
+            "normalized": "Westen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 336,
+                    "end": 340
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 440,
+                    "end": 450
+                },
+                {
+                    "start": 831,
+                    "end": 841
+                },
+                {
+                    "start": 913,
+                    "end": 923
+                },
+                {
+                    "start": 1001,
+                    "end": 1011
+                },
+                {
+                    "start": 1239,
+                    "end": 1249
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "St. Gall",
+            "normalized": "St. Gallen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 611,
+                    "end": 619
+                },
+                {
+                    "start": 621,
+                    "end": 629
+                },
+                {
+                    "start": 789,
+                    "end": 797
+                },
+                {
+                    "start": 888,
+                    "end": 896
+                },
+                {
+                    "start": 1184,
+                    "end": 1190
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Upper Rhine valley",
+            "normalized": "Oberrheintal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 700,
+                    "end": 719
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rhine",
+            "normalized": "Rhein",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 928,
+                    "end": 933
+                },
+                {
+                    "start": 1166,
+                    "end": 1171
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "St. Gall region",
+            "normalized": "St. Gallen Region",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1301,
+                    "end": 1316
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rhine valley",
+            "normalized": "Rheintal",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1337,
+                    "end": 1348
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "exploited"
+        },
+        {
+            "denomination": null,
+            "eco": "traffic route"
+        },
+        {
+            "denomination": null,
+            "eco": "agricultural"
+        },
+        {
+            "denomination": null,
+            "eco": "industries"
+        },
+        {
+            "denomination": null,
+            "eco": "embroidery industry"
+        },
+        {
+            "denomination": null,
+            "eco": "industrial"
+        }
+    ]
+}

@@ -1,0 +1,205 @@
+{
+    "persons": [
+        {
+            "name": "Monsieur le Conseiller Fédéral",
+            "normalized": null,
+            "honorifics": [
+                "Monsieur",
+                "Conseiller Fédéral"
+            ],
+            "mentions": [
+                {
+                    "start": 48,
+                    "end": 77
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "M. Dutasta",
+            "normalized": "Dutasta",
+            "honorifics": [
+                "M."
+            ],
+            "mentions": [
+                {
+                    "start": 322,
+                    "end": 332
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "M. Henri White",
+            "normalized": "Henri White",
+            "honorifics": [
+                "M.",
+                "Délégué américain"
+            ],
+            "mentions": [
+                {
+                    "start": 346,
+                    "end": 360
+                },
+                {
+                    "start": 362,
+                    "end": 381
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ambassadeur de France",
+            "normalized": null,
+            "honorifics": [
+                "Ambassadeur"
+            ],
+            "mentions": [
+                {
+                    "start": 604,
+                    "end": 624
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Délégués",
+            "normalized": null,
+            "honorifics": [
+                "Délégués"
+            ],
+            "mentions": [
+                {
+                    "start": 753,
+                    "end": 761
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Paris",
+            "normalized": "Paris",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 10,
+                    "end": 15
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 101,
+                    "end": 111
+                },
+                {
+                    "start": 727,
+                    "end": 737
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Autriche",
+            "normalized": "Österreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 434,
+                    "end": 442
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "France",
+            "normalized": "Frankreich",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 620,
+                    "end": 626
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Berne",
+            "normalized": "Bern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 630,
+                    "end": 635
+                },
+                {
+                    "start": 978,
+                    "end": 983
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Suisse",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 699,
+                    "end": 705
+                },
+                {
+                    "start": 900,
+                    "end": 906
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Saint-Germain-en-Laye",
+            "normalized": "Saint-Germain-en-Laye",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 878,
+                    "end": 897
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": null
+        }
+    ]
+}

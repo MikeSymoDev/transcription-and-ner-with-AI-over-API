@@ -1,0 +1,31 @@
+{
+    "persons": [
+        {
+            "name": "Verwaltungsratsmitgliedern",
+            "normalized": "Verwaltungsratsmitglied",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 457,
+                    "end": 483
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Betriebsjahr"
+        },
+        {
+            "denomination": null,
+            "eco": "Jahresrechnung"
+        },
+        {
+            "denomination": null,
+            "eco": "Gewinnverteilung"
+        }
+    ]
+}

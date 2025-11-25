@@ -1,0 +1,149 @@
+{
+    "persons": [],
+    "places": [
+        {
+            "name": "Schweiz",
+            "normalized": "Schweiz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 4,
+                    "end": 10
+                },
+                {
+                    "start": 93,
+                    "end": 99
+                },
+                {
+                    "start": 109,
+                    "end": 116
+                },
+                {
+                    "start": 192,
+                    "end": 198
+                },
+                {
+                    "start": 232,
+                    "end": 239
+                },
+                {
+                    "start": 283,
+                    "end": 289
+                },
+                {
+                    "start": 396,
+                    "end": 402
+                },
+                {
+                    "start": 507,
+                    "end": 513
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Mitteleuropas",
+            "normalized": "Mitteleuropa",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 60,
+                    "end": 73
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Vorarlberg",
+            "normalized": "Vorarlberg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 134,
+                    "end": 144
+                },
+                {
+                    "start": 335,
+                    "end": 350
+                },
+                {
+                    "start": 433,
+                    "end": 445
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Berner",
+            "normalized": "Bern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 159,
+                    "end": 165
+                }
+            ],
+            "confidence": 0.9
+        },
+        {
+            "name": "St. Gallen",
+            "normalized": "St. Gallen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 370,
+                    "end": 380
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Elsass-Lothringens",
+            "normalized": "Elsass-Lothringen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 604,
+                    "end": 621
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": "klerikale",
+            "eco": null
+        },
+        {
+            "denomination": null,
+            "eco": "Industrie"
+        },
+        {
+            "denomination": null,
+            "eco": "Stickereiindustrie"
+        },
+        {
+            "denomination": null,
+            "eco": "wirtschaftlichen"
+        }
+    ]
+}

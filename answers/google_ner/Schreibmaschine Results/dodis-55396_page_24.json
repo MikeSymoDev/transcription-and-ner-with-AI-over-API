@@ -1,0 +1,245 @@
+{
+    "persons": [
+        {
+            "name": "Bergwacht",
+            "normalized": "Bergwacht",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 937,
+                    "end": 946
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Bertl Tauser",
+            "normalized": "Bertl Tauser",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 229,
+                    "end": 241
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Gendarmen",
+            "normalized": "Gendarmen",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 905,
+                    "end": 914
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Hans Kirchhoff",
+            "normalized": "Hans Kirchhoff",
+            "honorifics": [
+                "Architekt"
+            ],
+            "mentions": [
+                {
+                    "start": 1715,
+                    "end": 1729
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Polizei",
+            "normalized": "Polizei",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 873,
+                    "end": 880
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Rübenach",
+            "normalized": "Rübenach",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 1222,
+                    "end": 1230
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Tauser",
+            "normalized": "Familie Tauser",
+            "honorifics": [],
+            "mentions": [
+                {
+                    "start": 320,
+                    "end": 326
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "places": [
+        {
+            "name": "Frankfurt",
+            "normalized": "Frankfurt",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 378,
+                    "end": 387
+                },
+                {
+                    "start": 1236,
+                    "end": 1245
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Hirschegg",
+            "normalized": "Hirschegg",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1644,
+                    "end": 1653
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Ifenplateau",
+            "normalized": "Ifenplateau",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 96,
+                    "end": 107
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Melköde",
+            "normalized": "Melköde",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 45,
+                    "end": 52
+                },
+                {
+                    "start": 134,
+                    "end": 141
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Riezlern",
+            "normalized": "Riezlern",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1124,
+                    "end": 1132
+                },
+                {
+                    "start": 1247,
+                    "end": 1255
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Roten Loches",
+            "normalized": "Rotes Loch",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 70,
+                    "end": 81
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Sonthofen",
+            "normalized": "Sonthofen",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1180,
+                    "end": 1189
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Spittal/Kärnten",
+            "normalized": "Spittal an der Drau, Kärnten",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1504,
+                    "end": 1519
+                }
+            ],
+            "confidence": 1.0
+        },
+        {
+            "name": "Walserschanz",
+            "normalized": "Walserschanz",
+            "geo": {
+                "lat": null,
+                "lon": null
+            },
+            "mentions": [
+                {
+                    "start": 1463,
+                    "end": 1475
+                }
+            ],
+            "confidence": 1.0
+        }
+    ],
+    "content": [
+        {
+            "denomination": null,
+            "eco": "Lohnschwierigkeiten"
+        }
+    ]
+}
