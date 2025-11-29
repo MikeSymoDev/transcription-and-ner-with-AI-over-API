@@ -1,10 +1,14 @@
-# Crash Course: Practical Basics of AI over API      
+# Practical Basics of AI over API: Transcribe and NER of DODIS Documents    
 [![python](https://img.shields.io/badge/Python-3.10-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![python](https://img.shields.io/badge/Python-3.11-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![DOI](https://zenodo.org/badge/868417297.svg)](https://doi.org/10.5281/zenodo.13900246)
 
-This repository contains the code for the Crash Course: Practical Basics of AI over API.
-More information about our courses can be found on the [RISE website](https://www.rise.unibas.ch/).
+This repository is a fork of the RISE Crash Course: Practical Basics of AI over API. It contains the 
+code for transcribtion, NER and all the documents and results from Gemini.
+
+More information about [RISE](https://www.rise.unibas.ch/).
+
+DODIS "Vorarlberger Frage": https://beta.dodis.ch/T1351
 
 ## 1.) Get started
 
@@ -104,10 +108,3 @@ If you have any questions or need help and are affiliated with the University of
 ## License
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-
-## Expanding the example
-
-The example in this repository is a simple demonstration of how to use AI over API. You can expand the example by
-adding more API requests, creating a complete pipeline, or using different APIs. You can also create your own
-API requests and integrate them into the example. The possibilities are endless. Have fun coding and please create pull 
-requests to share your expanded example with the community.
